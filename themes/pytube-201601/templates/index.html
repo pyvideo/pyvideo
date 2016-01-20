@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block head %}
+  {{ super() }}
+  <link href="/theme/css/index.css" rel="stylesheet">
+{% endblock %}
+
+{% block content %}
+
+    <div class="row two-col-snippets">
+      <div class="col-lg-6">
+        <h3>Latest Categories</h3>
+      </div>
+
+      <div class="col-lg-6">
+        <h3>Latest Talks</h3>
+      </div>
+    </div>
+
+    <div class="row two-col-snippets">
+      <div class="col-lg-6">
+        {% for cat, null in categories %}
+          <h4><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></h4>
+        {% endfor %}
+      </div>
+
+      <div class="col-lg-6">
+        {% for article in articles_page.object_list %}
+          <h4 class="entry-title">
+            <a href="{{ SITEURL }}/{{ article.url }}"
+               rel="bookmark"
+               title="Permalink to {{ article.title|striptags }}">
+               {{ article.title }}
+            </a>
+          </h4>
+
+          <footer class="post-info">
+            <time class="published" 
+                  datetime="{{ article.date.isoformat() }}"> 
+              {{ article.locale_date }}
+            </time>
+            <address class="vcard author">
+              By
+              {% for author in article.authors %}
+                <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+              {% endfor %}
+            </address>
+          </footer>
+        {% endfor %}
+      </div>
+    </div>
+
+{% endblock content %}
+

@@ -1,0 +1,22 @@
+.two-col-snippets {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+/* Supporting  content */
+.two-col-snippets {
+  margin: 40px 0;
+}
+.two-col-snippets p + h4 {
+  margin-top: 28px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .two-col-snippets {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+

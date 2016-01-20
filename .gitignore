@@ -57,3 +57,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Pelican
+*.pid
+output/
+
+# Vim
+*.swp
+
