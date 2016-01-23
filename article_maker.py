@@ -3,10 +3,24 @@ import glob
 import json
 from multiprocessing import Pool
 import os
+import re
 
 
 DATA_DIR = 'data'
 DATETIME_FORMAT = '%Y-%m-%d %H:%M'
+
+
+DATETIME_FORMATS_BY_RE_PATTERN = {
+    r'^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$': '%Y-%m-%d %H:%M:%S',
+    r'^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$': '%Y-%m-%dT%H:%M:%S',
+    r'^\d{4}-\d{2}-\d{2} \d{2}:\d{2}$': '%Y-%m-%d %H:%M',
+}
+DATETIME_FORMATS_BY_RE_PATTERN = {
+    re.compile(key): value for key, value in
+    DATETIME_FORMATS_BY_RE_PATTERN.items()
+}
+
+DATETIME_WITH_MICRO_PATTERN = re.compile(r'^(.*)\.\d+$')
 
 
 class ArticleMaker:
@@ -90,10 +104,12 @@ class ArticleMaker:
         if not date:
             date = self.data.get('added', '').strip()
 
+        date = self.coerce_datetime(date)
+
         if not date:
             raise ValueError('date must be defined')
 
-        return self.coerce_datetime(date)
+        return date
 
     def get_modified_string(self):
         modified = self.data.get('updated', '').strip()
@@ -106,14 +122,23 @@ class ArticleMaker:
         """
         Return a string in DATETIME_FORMAT given datetime_string
         """
-        # TODO
+        # strip microseconds from all datetimes
+        match = DATETIME_WITH_MICRO_PATTERN.match(datetime_string)
+        if match:
+            datetime_string = match.group(1)
 
-        return datetime.utcnow().strftime(DATETIME_FORMAT)
+        for pattern, format_ in DATETIME_FORMATS_BY_RE_PATTERN.items():
+            if pattern.match(datetime_string):
+                dt = datetime.strptime(datetime_string, format_)
+                return dt.strftime(DATETIME_FORMAT)
+
+        raise ValueError('date pattern not recognized to datetime')
 
     def build_body(self):
         # video (determine best media src)
         # Title
         # description
+        pass
 
     def build_side_panel(self):
         # category
@@ -126,6 +151,7 @@ class ArticleMaker:
         # Meta data - THIS JSON FIle
         # Copyright
         # tags
+        pass
 
     def write_output(self):
         # acquire write lock
@@ -134,8 +160,9 @@ class ArticleMaker:
 
         # acquire write lock
         # write file
-        print(self.output)
+        #print(self.output)
         # release write lock
+        pass
 
 
 def process_json_file(file_path):
@@ -147,7 +174,7 @@ def process_json_file(file_path):
 def run_article_maker_pool(proc_count):
     pattern = '{}/**/*.json'.format(DATA_DIR)
     json_file_paths = glob.iglob(pattern, recursive=True)
-    json_file_paths = [list(json_file_paths)[1000]]
+    #json_file_paths = [list(json_file_paths)[1000]]
 
     with Pool(proc_count) as p:
         p.map(process_json_file, json_file_paths)
