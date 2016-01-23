@@ -1,9 +1,10 @@
 from datetime import datetime
 import glob
 import json
-from multiprocessing import Pool
+from multiprocessing import Pool, Lock
 import os
 import re
+import shutil
 
 
 DATA_DIR = 'data'
@@ -27,8 +28,9 @@ class ArticleMaker:
     """
     Take a JSON file and make an rST file out of the data it contains.
     """
-    def __init__(self, json_file_path):
+    def __init__(self, json_file_path, lock):
         self.input = json_file_path
+        self.lock = lock
         self.subdirectory = ''
         self.data = {}
         self.output = ''
@@ -160,24 +162,33 @@ class ArticleMaker:
 
         # acquire write lock
         # write file
-        #print(self.output)
+        print(self.output)
         # release write lock
         pass
 
 
-def process_json_file(file_path):
-    print(file_path)
-    maker = ArticleMaker(file_path)
+def process_json_file(file_path, lock):
+    maker = ArticleMaker(file_path, lock)
     maker.make()
 
 
 def run_article_maker_pool(proc_count):
+    # clear content dir of most content
+    contents = set(os.listdir('content'))
+    contents_to_delete = contents - set(('pages',))
+    for content_dir in contents_to_delete:
+        shutil.rmtree(os.sep.join(('content', content_dir)))
+
     pattern = '{}/**/*.json'.format(DATA_DIR)
     json_file_paths = glob.iglob(pattern, recursive=True)
     #json_file_paths = [list(json_file_paths)[1000]]
 
+    lock = Lock()
+
+    arg_generator = ((path, lock) for path in json_file_paths)
+
     with Pool(proc_count) as p:
-        p.map(process_json_file, json_file_paths)
+        p.map(process_json_file, arg_generator)
 
 
 def main():
