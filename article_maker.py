@@ -6,6 +6,8 @@ import os
 import re
 import shutil
 
+from slugify import slugify
+
 
 DATA_DIR = 'data'
 DATETIME_FORMAT = '%Y-%m-%d %H:%M'
@@ -56,6 +58,8 @@ class ArticleMaker:
         dirs = self.input.split(os.sep)
         # assume subdirectory is second dir in path
         self.subdirectory = dirs[1]
+        if not self.subdirectory:
+            raise ValueError('subdirectory not found')
 
     def build_header(self):
         # build title line
@@ -87,7 +91,7 @@ class ArticleMaker:
 
         authors = self.data.get('speakers')
         authors = map(lambda x: x.strip(), authors)
-        authors_line = ':authors: {}'.format(' ,'.join(authors))
+        authors_line = ':authors: {}'.format(', '.join(authors))
 
         lines = (
             title_lines,
@@ -156,20 +160,31 @@ class ArticleMaker:
         pass
 
     def write_output(self):
-        # acquire write lock
         # make category dir if neccessary
-        # release write lock
+        sub_dir_path = os.path.join('content', self.subdirectory)
 
-        # acquire write lock
-        # write file
-        print(self.output)
-        # release write lock
-        pass
+        self.lock.acquire()
+        if not os.path.exists(sub_dir_path):
+            os.mkdir(sub_dir_path)
+        self.lock.release()
+
+        name = slugify(self.data.get('title').strip()) + '.rst'
+        path = os.path.join(sub_dir_path, name)
+        self.lock.acquire()
+        with open(path, 'w') as fp:
+            fp.write(self.output)
+        self.lock.release()
 
 
-def process_json_file(file_path, lock):
+def process_json_file(file_path):
     maker = ArticleMaker(file_path, lock)
     maker.make()
+
+
+def set_lock(lock_instance):
+    """Add lock to worker globals"""
+    global lock
+    lock = lock_instance
 
 
 def run_article_maker_pool(proc_count):
@@ -177,18 +192,14 @@ def run_article_maker_pool(proc_count):
     contents = set(os.listdir('content'))
     contents_to_delete = contents - set(('pages',))
     for content_dir in contents_to_delete:
-        shutil.rmtree(os.sep.join(('content', content_dir)))
+        shutil.rmtree(os.path.join('content', content_dir))
 
     pattern = '{}/**/*.json'.format(DATA_DIR)
     json_file_paths = glob.iglob(pattern, recursive=True)
     #json_file_paths = [list(json_file_paths)[1000]]
 
-    lock = Lock()
-
-    arg_generator = ((path, lock) for path in json_file_paths)
-
-    with Pool(proc_count) as p:
-        p.map(process_json_file, arg_generator)
+    with Pool(proc_count, initializer=set_lock, initargs=(Lock(),)) as p:
+        p.map(process_json_file, json_file_paths)
 
 
 def main():
