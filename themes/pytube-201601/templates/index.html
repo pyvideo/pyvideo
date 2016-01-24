@@ -6,25 +6,14 @@
 {% endblock %}
 
 {% block content %}
-
     <div class="row two-col-snippets">
-      <div class="col-lg-6">
-        <h3>Latest Categories</h3>
-      </div>
-
-      <div class="col-lg-6">
+      <div class="col-lg-12">
         <h3>Latest Talks</h3>
       </div>
     </div>
 
     <div class="row two-col-snippets">
-      <div class="col-lg-6">
-        {% for cat, null in categories %}
-          <h4><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></h4>
-        {% endfor %}
-      </div>
-
-      <div class="col-lg-6">
+      <div class="col-lg-12">
         {% for article in articles_page.object_list %}
           <h4 class="entry-title">
             <a href="{{ SITEURL }}/{{ article.url }}"

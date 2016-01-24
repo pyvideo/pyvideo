@@ -1,7 +1,18 @@
-{% extends "index.html" %}
+{% extends "base.html" %}
 
-{% block title %}{{ SITENAME }} - Articles by {{ author }}{% endblock %}
-{% block content_title %}
-<h2>Articles by {{ author }}</h2>
+{% block subtitle %} &middot; {{ author }}{% endblock %}
+
+{% block content %}
+    <h2>Author: {{ author }}</h2>
+
+    <div class="row">
+      <div class="col-lg-12">
+        <ul>
+        {% for article in articles %}
+          <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
 {% endblock %}
 

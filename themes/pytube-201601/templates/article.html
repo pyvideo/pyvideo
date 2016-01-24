@@ -8,8 +8,9 @@
   {% for tag in article.tags %}
     <meta name="tags" content="{{tag}}" />
   {% endfor %}
-
 {% endblock %}
+
+{% block subtitle %} &middot; {{ article.title }}{% endblock %}
 
 {% block content %}
 <section id="content" class="body">
@@ -24,11 +25,11 @@
     <time class="published" datetime="{{ article.date.isoformat() }}">
       {{ article.locale_date }}
     </time>
-	{% if article.modified %}
+    {% if article.modified %}
     <time class="modified" datetime="{{ article.modified.isoformat() }}">
       {{ article.locale_modified }}
     </time>
-	{% endif %}
+    {% endif %}
     {% if article.authors %}
     <address class="vcard author">
       By {% for author in article.authors %}
