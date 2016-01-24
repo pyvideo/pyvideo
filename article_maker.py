@@ -6,13 +6,11 @@ import os
 import re
 import shutil
 
-from slugify import slugify
+from pelican.utils import slugify
 
 
 DATA_DIR = 'data'
 DATETIME_FORMAT = '%Y-%m-%d %H:%M'
-
-
 DATETIME_FORMATS_BY_RE_PATTERN = {
     r'^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$': '%Y-%m-%d %H:%M:%S',
     r'^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$': '%Y-%m-%dT%H:%M:%S',
@@ -22,8 +20,8 @@ DATETIME_FORMATS_BY_RE_PATTERN = {
     re.compile(key): value for key, value in
     DATETIME_FORMATS_BY_RE_PATTERN.items()
 }
-
 DATETIME_WITH_MICRO_PATTERN = re.compile(r'^(.*)\.\d+$')
+OPTION_INDENT = ' ' * 4
 
 
 class ArticleMaker:
@@ -45,6 +43,7 @@ class ArticleMaker:
         self.read_input()
         self.build_header()
         self.build_body()
+        self.build_details()
         self.write_output()
 
     def read_input(self):
@@ -64,13 +63,16 @@ class ArticleMaker:
     def build_header(self):
         # build title line
         title = self.data.get('title').strip()
-        title_lines = title + '\n' + '#' * len(title) + '\n'
+        title = title.replace('*', '\*')
+        title_lines = title + '\n'
+        title_lines += '#' * len(bytes(title.encode())) + '\n'
 
         # These lines are optional
         modified_line = tags_line = slug_line = None
 
         # build meta data section
         date_string = self.get_date_string()
+        self.date_string = date_string
         date_line = ':date: {}'.format(date_string)
 
         modified_string = self.get_modified_string()
@@ -78,20 +80,35 @@ class ArticleMaker:
             modified_line = ':modified: {}'.format(modified_string)
 
         tags = self.data.get('tags')
+        self.tags = tags
         if tags:
+            # strip tags of whitespace
             tags = map(lambda x: x.strip(), tags)
-            tags_line = ':tags: {}'.format(', '.join(tags))
+            # strip out dots in tags
+            tags = map(lambda x: x.replace('.', ''), tags)
+            # ignore empty tags
+            tags = filter(lambda x: bool(x), tags)
+            tags = self.quote_text_list(tags)
+            if tags:
+                tags_line = ':tags: {}'.format(', '.join(tags))
 
-        category = self.data.get('category').strip()
+        category = self.data.get('category', '').strip()
+        self.category = category
+        if not category:
+            raise ValueError('Each article requires a category')
         category_line = ':category: {}'.format(category)
 
+        # Remove slug
         slug = self.data.get('slug', '').strip()
         if slug:
             slug_line = ':slug: {}'.format(slug)
 
         authors = self.data.get('speakers')
         authors = map(lambda x: x.strip(), authors)
-        authors_line = ':authors: {}'.format(', '.join(authors))
+        author = filter(lambda x: bool(x), authors)
+        authors = self.quote_text_list(authors)
+        authors_string = ', '.join(authors) or 'Unknown'
+        authors_line = ':authors: {}'.format(authors_string)
 
         lines = (
             title_lines,
@@ -99,11 +116,17 @@ class ArticleMaker:
             modified_line,
             tags_line,
             category_line,
-            slug_line,
             authors_line,
         )
 
         self.output += '\n'.join(line for line in lines if line is not None)
+        self.output += '\n'
+
+    def quote_text_list(self, text_list):
+        for text in text_list:
+            if '.' in text:
+                text = '"' + text + '"'
+            yield text
 
     def get_date_string(self):
         date = self.data.get('date', '').strip()
@@ -140,24 +163,62 @@ class ArticleMaker:
 
         raise ValueError('date pattern not recognized to datetime')
 
-    def build_body(self):
-        # video (determine best media src)
-        # Title
-        # description
-        pass
+    @property
+    def media_url(self):
+        return 'http://'
 
-    def build_side_panel(self):
-        # category
-        # speakers
-        # Language
-        # Recorded (Datetime)
-        # Last updated (Datetime)
-        # Video Origin (whaever was picked for media above)
-        # Download ???
-        # Meta data - THIS JSON FIle
-        # Copyright
-        # tags
-        pass
+    @property
+    def media_thubmnail_url(self):
+        return 'http://'
+
+    def build_body(self):
+        image_block = '.. image:: {}\n'
+        image_block += OPTION_INDENT + ':width: 600px\n'
+        image_block += OPTION_INDENT + ':target: {}\n'
+        image_block += OPTION_INDENT + ':alt: {}'
+        image_block = image_block.format(
+            self.media_thubmnail_url,
+            self.media_url,
+            self.data.get('title', '').strip()
+        )
+
+        description = self.data.get('description').strip()
+        description = 'Description\n-----------\n\n' + description + '\n'
+
+        self.output += '\n' + image_block + '\n\n' + description
+
+    def build_details(self):
+        header_line = '\nDetails\n-------\n'
+
+        category_line = 'Category: {}'.format(self.category)
+
+        language_line = None
+        language = self.data.get('language') or ''
+        language = language.strip()
+        if language:
+            language_line = 'Language: {}'.format(language) 
+
+        media_url_line = 'Direct Link: {}'.format(self.media_url)
+
+        copyright_line = None
+        copyright = self.data.get('copyright', '').strip()
+        if copyright:
+            copyright_line = 'Copyright: {}'.format(copyright)
+
+        tags_line = 'Tags: {}'.format(', '.join(self.tags))
+
+        details = (
+            header_line,
+            category_line,
+            language_line,
+            media_url_line,
+            copyright_line,
+            tags_line,
+        )
+
+        details = '\n- '.join(d for d in details if d)
+
+        self.output += details + '\n\n'
 
     def write_output(self):
         # make category dir if neccessary
@@ -187,23 +248,30 @@ def set_lock(lock_instance):
     lock = lock_instance
 
 
-def run_article_maker_pool(proc_count):
+def run_article_maker_pool():
     # clear content dir of most content
     contents = set(os.listdir('content'))
     contents_to_delete = contents - set(('pages',))
     for content_dir in contents_to_delete:
         shutil.rmtree(os.path.join('content', content_dir))
+    if os.path.exists('output'):
+        shutil.rmtree('output')
 
     pattern = '{}/**/*.json'.format(DATA_DIR)
     json_file_paths = glob.iglob(pattern, recursive=True)
     #json_file_paths = [list(json_file_paths)[1000]]
 
-    with Pool(proc_count, initializer=set_lock, initargs=(Lock(),)) as p:
+    with Pool(initializer=set_lock, initargs=(Lock(),)) as p:
         p.map(process_json_file, json_file_paths)
 
 
 def main():
-    run_article_maker_pool(5)
+    pool = True
+    if pool:
+        run_article_maker_pool()
+    else:
+        set_lock(Lock())
+        process_json_file('data/pycon-apac-2014/a-jesse-jiryu-davis---python-performance-profiling-the-guts-and-the-glory.json')
 
 
 if __name__ == '__main__':
