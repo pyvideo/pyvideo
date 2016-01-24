@@ -30,6 +30,15 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
+# Hack to avoid this issue: https://github.com/getpelican/pelican/issues/1137
+TAG_URL = 'tag/{slug}/'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
+TAGS_URL = 'tags/'
+TAGS_SAVE_AS = 'tags/index.html'
+# End hack to avoid issue #1137
+
+ARTICLE_URL = '{category}/{slug}.html'
+ARTICLE_SAVE_AS = '{category}/{slug}.html'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
