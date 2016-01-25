@@ -6,6 +6,9 @@ import os
 import re
 import shutil
 
+from pelican import DEFAULT_CONFIG_NAME
+from pelican.readers import RstReader
+from pelican.settings import read_settings
 from pelican.utils import slugify
 
 
@@ -21,7 +24,12 @@ DATETIME_FORMATS_BY_RE_PATTERN = {
     DATETIME_FORMATS_BY_RE_PATTERN.items()
 }
 DATETIME_WITH_MICRO_PATTERN = re.compile(r'^(.*)\.\d+$')
+DEFAULT_SETTINGS = read_settings(DEFAULT_CONFIG_NAME)
 OPTION_INDENT = ' ' * 4
+
+
+class RstValidationError(Exception):
+    pass
 
 
 class ArticleMaker:
@@ -235,6 +243,11 @@ class ArticleMaker:
         with open(path, 'w') as fp:
             fp.write(self.output)
         self.lock.release()
+        # Validate rST
+        content, metadata = RstReader(DEFAULT_SETTINGS).read(path)
+        if all(map(lambda x: x in content, ('system-message', 'docutils'))):
+            msg_template = 'Unable to parse rST document generated from: {}'
+            raise RstValidationError(msg_template.format(self.input))
 
 
 def process_json_file(file_path):
@@ -271,7 +284,7 @@ def main():
         run_article_maker_pool()
     else:
         set_lock(Lock())
-        process_json_file('data/pycon-apac-2014/a-jesse-jiryu-davis---python-performance-profiling-the-guts-and-the-glory.json')
+        process_json_file('data/kiwi-pycon-2014/alan-mcculloch---tardis-an-interpreter-for-command-line-parallel-execution.json')
 
 
 if __name__ == '__main__':
