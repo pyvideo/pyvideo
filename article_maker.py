@@ -247,8 +247,13 @@ class ArticleMaker:
         # Validate rST
         content, metadata = RstReader(DEFAULT_SETTINGS).read(path)
         if all(map(lambda x: x in content, ('system-message', 'docutils'))):
-            msg_template = 'Unable to parse rST document generated from: {}'
-            raise RstValidationError(msg_template.format(self.input))
+            start = content.find('<p class="system-message')
+            end = content.find('</p>', start)
+            snippet = content[start:end]
+            msg_template = 'Unable to parse rST document generated from: {}\n'
+            msg_template += '{}'
+            msg = msg_template.format(self.input, snippet)
+            raise RstValidationError(msg)
 
 
 def process_json_file(file_path):
