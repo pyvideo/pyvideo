@@ -1,3 +1,4 @@
+import argparse
 from datetime import datetime
 import glob
 import json
@@ -247,7 +248,7 @@ class ArticleMaker:
         content, metadata = RstReader(DEFAULT_SETTINGS).read(path)
         if all(map(lambda x: x in content, ('system-message', 'docutils'))):
             msg_template = 'Unable to parse rST document generated from: {}'
-            raise RstValidationError(msg_template.format(self.input))
+            #raise RstValidationError(msg_template.format(self.input))
 
 
 def process_json_file(file_path):
@@ -261,7 +262,7 @@ def set_lock(lock_instance):
     lock = lock_instance
 
 
-def run_article_maker_pool():
+def run_article_maker_pool(process_count=None):
     # clear content dir of most content
     contents = set(os.listdir('content'))
     contents_to_delete = contents - set(('pages',))
@@ -274,17 +275,44 @@ def run_article_maker_pool():
     json_file_paths = glob.iglob(pattern, recursive=True)
     #json_file_paths = [list(json_file_paths)[1000]]
 
-    with Pool(initializer=set_lock, initargs=(Lock(),)) as p:
+    pool_kwargs = {
+        'processes': process_count,
+        'initializer': set_lock,
+        'initargs': (Lock(),),
+    }
+
+    with Pool(**pool_kwargs) as p:
         p.map(process_json_file, json_file_paths)
 
 
+def parse_arguments():
+    parser = argparse.ArgumentParser(
+        description=(
+            "A tool for converting JSON data in to Pelican ready rST files"
+        ),
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter
+    )
+
+    parser.add_argument('-f', '--file',
+                        help='File to run article maker on',
+                        default=None)
+
+    parser.add_argument('-p', '--process-count',
+                        dest='process_count',
+                        help='Number of processes',
+                        default=None)
+
+    return parser.parse_args()
+
+
 def main():
-    pool = True
-    if pool:
-        run_article_maker_pool()
-    else:
+    args = parse_arguments()
+
+    if args.file:
         set_lock(Lock())
-        process_json_file('data/kiwi-pycon-2014/alan-mcculloch---tardis-an-interpreter-for-command-line-parallel-execution.json')
+        process_json_file(args.file)
+    else:
+        run_article_maker_pool(args.process_count)
 
 
 if __name__ == '__main__':
