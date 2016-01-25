@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/Cbkcr3ofBmk/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/Cbkcr3ofBmk\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-10-18T16:10:53.170", "whiteboard": "needs editing", "video_flv_length": null, "title": "Python on the move: The state of mobile Python", "duration": null, "description": "Over the last 5-10 years, the \"desktop/server\" split that dominated computing in the 80s, 90s and early 2000s has been joined by a third player - mobile devices such as phones and tablets.\r\n\r\nSo, what is the story for running Python on these devices? Although there hasn't been much to say in the past, the good news is that over the last year, there's been some signficant changes in the landscape, and Python on Mobile is now teetering on the brink of being a genuine reality.\r\n\r\nIn this talk, Russell Keith-Magee will survey the current state of using Python on mobile devices, the work that is currently being done, areas where more work is requried, and the prospects for the future.\n\n", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-04", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=Cbkcr3ofBmk", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-18T16:10:53.170", "id": 3958, "related_urls": [], "slug": "python-on-the-move-the-state-of-mobile-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Russell Keith-Magee"]}
+{
+    "added": "2015-10-18T16:10:53.170",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Over the last 5-10 years, the \"desktop/server\" split that dominated computing in the 80s, 90s and early 2000s has been joined by a third player - mobile devices such as phones and tablets.\r\n\r\nSo, what is the story for running Python on these devices? Although there hasn't been much to say in the past, the good news is that over the last year, there's been some signficant changes in the landscape, and Python on Mobile is now teetering on the brink of being a genuine reality.\r\n\r\nIn this talk, Russell Keith-Magee will survey the current state of using Python on mobile devices, the work that is currently being done, areas where more work is requried, and the prospects for the future.\n\n",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/Cbkcr3ofBmk\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 3958,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-04",
+    "related_urls": [],
+    "slug": "python-on-the-move-the-state-of-mobile-python",
+    "source_url": "https://www.youtube.com/watch?v=Cbkcr3ofBmk",
+    "speakers": [
+        "Russell Keith-Magee"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/Cbkcr3ofBmk/hqdefault.jpg",
+    "title": "Python on the move: The state of mobile Python",
+    "updated": "2015-10-18T16:10:53.170",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

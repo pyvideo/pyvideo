@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/o47Nndkwffc/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/o47Nndkwffc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/o47Nndkwffc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-08-06T18:53:19.000", "whiteboard": "", "video_flv_length": null, "title": "Conda: a cross-platform package manager for any binary distribution", "duration": null, "description": "Conda is an open source package manager, which can be used to manage binary packages and virtual environments on any platform. It is the package manager of the Anaconda Python distribution, although it can be used independently of Anaconda. We will look at how conda solves many of the problems that have plagued Python packaging in the past, followed by a demonstration of its features.\r\n    We will look at the issues that have plagued packaging in the Python ecosystem in the past, and discuss how Conda solves these problems. We will show how to use conda to manage multiple environments. Finally, we will look at how to build your own conda packages.", "state": 1, "category": "PyData Berlin 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://video.ep14.c3voc.de/20275.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-27", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=o47Nndkwffc", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-06T19:21:08.955", "id": 3057, "related_urls": [], "slug": "conda-a-cross-platform-package-manager-for-any-b-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Ilan Schnell"]}
+{
+    "added": "2014-08-06T18:53:19.000",
+    "category": "PyData Berlin 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "Conda is an open source package manager, which can be used to manage binary packages and virtual environments on any platform. It is the package manager of the Anaconda Python distribution, although it can be used independently of Anaconda. We will look at how conda solves many of the problems that have plagued Python packaging in the past, followed by a demonstration of its features.\r\n    We will look at the issues that have plagued packaging in the Python ecosystem in the past, and discuss how Conda solves these problems. We will show how to use conda to manage multiple environments. Finally, we will look at how to build your own conda packages.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/o47Nndkwffc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/o47Nndkwffc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3057,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-27",
+    "related_urls": [],
+    "slug": "conda-a-cross-platform-package-manager-for-any-b-0",
+    "source_url": "http://www.youtube.com/watch?v=o47Nndkwffc",
+    "speakers": [
+        "Ilan Schnell"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/o47Nndkwffc/hqdefault.jpg",
+    "title": "Conda: a cross-platform package manager for any binary distribution",
+    "updated": "2014-08-06T19:21:08.955",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://video.ep14.c3voc.de/20275.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

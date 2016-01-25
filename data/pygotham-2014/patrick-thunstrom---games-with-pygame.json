@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/23hNhKjCYUs/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/23hNhKjCYUs' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2014-10-26T18:22:32.992", "whiteboard": "", "video_flv_length": null, "title": "Games with Pygame", "duration": null, "description": "Follow through three example game projects to learn the most helpful elements of the PyGame library.", "state": 1, "category": "PyGotham 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-09-17", "copyright_text": "youtube", "source_url": "https://www.youtube.com/watch?v=23hNhKjCYUs", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-10-26T18:22:32.992", "id": 3282, "related_urls": [], "slug": "games-with-pygame", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Patrick Thunstrom"]}
+{
+    "added": "2014-10-26T18:22:32.992",
+    "category": "PyGotham 2014",
+    "copyright_text": "youtube",
+    "description": "Follow through three example game projects to learn the most helpful elements of the PyGame library.",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/23hNhKjCYUs' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3282,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-09-17",
+    "related_urls": [],
+    "slug": "games-with-pygame",
+    "source_url": "https://www.youtube.com/watch?v=23hNhKjCYUs",
+    "speakers": [
+        "Patrick Thunstrom"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/23hNhKjCYUs/hqdefault.jpg",
+    "title": "Games with Pygame",
+    "updated": "2014-10-26T18:22:32.992",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

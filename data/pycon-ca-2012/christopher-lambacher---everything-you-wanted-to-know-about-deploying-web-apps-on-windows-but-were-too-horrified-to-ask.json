@@ -1,1 +1,42 @@
-{"tags": [], "thumbnail_url": "http://i3.ytimg.com/vi/rFH_KtFYz4U/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/rFH_KtFYz4U?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/rFH_KtFYz4U?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-16T10:53:03", "whiteboard": "", "video_flv_length": null, "title": "Everything you wanted to know about deploying web apps on Windows but were too horrified to ask", "duration": null, "description": "", "state": 1, "category": "PyCon CA 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://archive.org/download/nextdayvideo/pyconca%252Fpyconca2012%252FEverything_you_wanted_to_know_about_deploying_web_apps_on_Windows_but_were_too_horrified_to_ask.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-11-10", "copyright_text": "", "source_url": "http://www.youtube.com/watch?v=rFH_KtFYz4U", "video_webm_url": "", "summary": "Conventional wisdom says that no one deploys web applications on Windows. I\nship Python backed web sites on Windows that are cumulatively visited by 1 in\n50 Canadians every month. This talk will cover my experience with deploying\nPython based web applications on Windows, why you might want to do this and\nand the horrors in store for you if you choose to sacrifice your sanity and\ndive in.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.846", "id": 1611, "related_urls": [{"url": "http://whatschrisdoing.com/blog/talks/pyconca2012/", "description": ""}], "slug": "everything-you-wanted-to-know-about-deploying-web", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Christopher Lambacher"]}
+{
+    "added": "2012-11-16T10:53:03",
+    "category": "PyCon CA 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/rFH_KtFYz4U?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/rFH_KtFYz4U?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1611,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-11-10",
+    "related_urls": [
+        {
+            "description": "",
+            "url": "http://whatschrisdoing.com/blog/talks/pyconca2012/"
+        }
+    ],
+    "slug": "everything-you-wanted-to-know-about-deploying-web",
+    "source_url": "http://www.youtube.com/watch?v=rFH_KtFYz4U",
+    "speakers": [
+        "Christopher Lambacher"
+    ],
+    "state": 1,
+    "summary": "Conventional wisdom says that no one deploys web applications on Windows. I\nship Python backed web sites on Windows that are cumulatively visited by 1 in\n50 Canadians every month. This talk will cover my experience with deploying\nPython based web applications on Windows, why you might want to do this and\nand the horrors in store for you if you choose to sacrifice your sanity and\ndive in.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i3.ytimg.com/vi/rFH_KtFYz4U/hqdefault.jpg",
+    "title": "Everything you wanted to know about deploying web apps on Windows but were too horrified to ask",
+    "updated": "2014-04-08T20:28:26.846",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://archive.org/download/nextdayvideo/pyconca%252Fpyconca2012%252FEverything_you_wanted_to_know_about_deploying_web_apps_on_Windows_but_were_too_horrified_to_ask.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

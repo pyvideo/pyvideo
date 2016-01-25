@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/lNqtyi3sM-k/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/lNqtyi3sM-k' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:12.966", "whiteboard": "needs editing", "video_flv_length": null, "title": "Keynote  - Gabriella Coleman", "duration": null, "description": "", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-16", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=lNqtyi3sM-k", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2015-04-16T16:46:17.659", "id": 3493, "related_urls": [], "slug": "keynote-gabriella-coleman", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Gabriella Coleman"]}
+{
+    "added": "2015-04-16T14:22:12.966",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/lNqtyi3sM-k' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3493,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-16",
+    "related_urls": [],
+    "slug": "keynote-gabriella-coleman",
+    "source_url": "https://www.youtube.com/watch?v=lNqtyi3sM-k",
+    "speakers": [
+        "Gabriella Coleman"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/lNqtyi3sM-k/hqdefault.jpg",
+    "title": "Keynote  - Gabriella Coleman",
+    "updated": "2015-04-16T16:46:17.659",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing"
+}

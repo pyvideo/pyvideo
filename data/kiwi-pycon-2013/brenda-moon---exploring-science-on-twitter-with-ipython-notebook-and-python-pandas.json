@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/FzCk747yjCU/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/FzCk747yjCU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/FzCk747yjCU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-10-19T19:58:53", "whiteboard": "", "video_flv_length": null, "title": "Exploring Science on Twitter with IPython Notebook and Python Pandas", "duration": null, "description": "@ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 1\r\n\r\n**Audience level**\r\n\r\nIntermediate\r\n\r\n**Abstract**\r\n\r\nI'm studying Science Communication and looking at how people use the word science on Twitter as a way of understanding what they might mean when they say 'science'. My initial dataset is 13.5 million tweets I collected during 2011. Since the start of 2012 I've been using Python for my data analysis.\r\n\r\nI'll demonstrate how I've been using IPython notebook [1] with the Pandas [2] data analysis library to work with large data tables and time series data. The IPython notebook is a great tool for research, allowing notes about research to be kept interleaved with the python code. The ability to quickly see results and plot them using Matplotlib [3] encourages interactive exploration of the data.\r\n\r\n[1] http://ipython.org/notebook.html\r\n[2] http://pandas.pydata.org/\r\n[3] http://matplotlib.org/\r\n\r\n**Slides**\r\n\r\nhttps://speakerdeck.com/nzpug/brenda-moon-exploring-science-on-twitter-with-ipython-notebook-and-python-pandas", "state": 1, "category": "Kiwi PyCon 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-09-16", "copyright_text": "", "source_url": "http://www.youtube.com/watch?v=FzCk747yjCU", "video_webm_url": "", "summary": "Exploring discussions of 'science' on Twitter by analysing 13.5 million tweets from 2011. I'll demonstrate how I've been using IPython notebook with the Pandas data analysis library to work with large data tables and time series data. You will see the strength of IPython Notebook for research in allowing you to keep notes interleaved with python code.\r\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.072", "id": 2443, "related_urls": [], "slug": "exploring-science-on-twitter-with-ipython-noteboo-", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Brenda Moon"]}
+{
+    "added": "2013-10-19T19:58:53",
+    "category": "Kiwi PyCon 2013",
+    "copyright_text": "",
+    "description": "@ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 1\r\n\r\n**Audience level**\r\n\r\nIntermediate\r\n\r\n**Abstract**\r\n\r\nI'm studying Science Communication and looking at how people use the word science on Twitter as a way of understanding what they might mean when they say 'science'. My initial dataset is 13.5 million tweets I collected during 2011. Since the start of 2012 I've been using Python for my data analysis.\r\n\r\nI'll demonstrate how I've been using IPython notebook [1] with the Pandas [2] data analysis library to work with large data tables and time series data. The IPython notebook is a great tool for research, allowing notes about research to be kept interleaved with the python code. The ability to quickly see results and plot them using Matplotlib [3] encourages interactive exploration of the data.\r\n\r\n[1] http://ipython.org/notebook.html\r\n[2] http://pandas.pydata.org/\r\n[3] http://matplotlib.org/\r\n\r\n**Slides**\r\n\r\nhttps://speakerdeck.com/nzpug/brenda-moon-exploring-science-on-twitter-with-ipython-notebook-and-python-pandas",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/FzCk747yjCU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/FzCk747yjCU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2443,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-09-16",
+    "related_urls": [],
+    "slug": "exploring-science-on-twitter-with-ipython-noteboo-",
+    "source_url": "http://www.youtube.com/watch?v=FzCk747yjCU",
+    "speakers": [
+        "Brenda Moon"
+    ],
+    "state": 1,
+    "summary": "Exploring discussions of 'science' on Twitter by analysing 13.5 million tweets from 2011. I'll demonstrate how I've been using IPython notebook with the Pandas data analysis library to work with large data tables and time series data. You will see the strength of IPython Notebook for research in allowing you to keep notes interleaved with python code.\r\n",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/FzCk747yjCU/hqdefault.jpg",
+    "title": "Exploring Science on Twitter with IPython Notebook and Python Pandas",
+    "updated": "2014-04-08T20:28:26.072",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

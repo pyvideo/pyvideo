@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://img.youtube.com/vi/2gha47uSk5c/hqdefault.jpg", "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/2gha47uSk5c&amp;hl=en&amp;fs=1\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/2gha47uSk5c&amp;hl=en&amp;fs=1\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", "added": "2012-03-13T16:15:17", "whiteboard": "", "video_flv_length": null, "title": "What's new and interesting in standard library", "duration": null, "description": "", "state": 1, "category": "PyCon US 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-03-11", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=2gha47uSk5c", "video_webm_url": null, "summary": "This talk distills some intereting stuff from What's new document from 2.7,\n3.2 and upcoming 3.3 release. Look out for those new arguments to your\nfavorite methods, functions add the wow! factor to your code. Heard of\n@lru_cache?\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.425", "id": 718, "related_urls": [], "slug": "whats-new-and-interesting-in-standard-library", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Senthil Kumaran"]}
+{
+    "added": "2012-03-13T16:15:17",
+    "category": "PyCon US 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/2gha47uSk5c&amp;hl=en&amp;fs=1\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/2gha47uSk5c&amp;hl=en&amp;fs=1\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>",
+    "id": 718,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-03-11",
+    "related_urls": [],
+    "slug": "whats-new-and-interesting-in-standard-library",
+    "source_url": "https://www.youtube.com/watch?v=2gha47uSk5c",
+    "speakers": [
+        "Senthil Kumaran"
+    ],
+    "state": 1,
+    "summary": "This talk distills some intereting stuff from What's new document from 2.7,\n3.2 and upcoming 3.3 release. Look out for those new arguments to your\nfavorite methods, functions add the wow! factor to your code. Heard of\n@lru_cache?\n\n",
+    "tags": [],
+    "thumbnail_url": "http://img.youtube.com/vi/2gha47uSk5c/hqdefault.jpg",
+    "title": "What's new and interesting in standard library",
+    "updated": "2014-04-08T20:28:27.425",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

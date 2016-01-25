@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/xzsbHMHYI5c/hqdefault.jpg", "embed": "", "added": "2015-09-14T05:43:25.847", "whiteboard": "", "video_flv_length": null, "title": "Database migrations using alembic", "duration": 1531, "description": "Managing database schema changes can be a challenging process. From the schema change itself to keeping test (and user!) data in sync with the schema across multiple development branches can be a headache. Alembic is paracetamol for this change management headache. Alembic is a companion package to sqlalchemy for creating database schema migrations. This talk will introduce alembic, demonstrate how it is used to generate schema deltas and migrate database schemas. The talk will discuss manually adding data migration to a schema migration script and describe how using alembic has changed our development process. Some familiarity with databases and sqlalchemy will be assumed.", "state": 1, "category": "Kiwi PyCon 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-09-06", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/xzsbHMHYI5c", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-09-16T04:32:37.689", "id": 3856, "related_urls": [], "slug": "database-migrations-using-alembic", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Tim Mitchell"]}
+{
+    "added": "2015-09-14T05:43:25.847",
+    "category": "Kiwi PyCon 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "Managing database schema changes can be a challenging process. From the schema change itself to keeping test (and user!) data in sync with the schema across multiple development branches can be a headache. Alembic is paracetamol for this change management headache. Alembic is a companion package to sqlalchemy for creating database schema migrations. This talk will introduce alembic, demonstrate how it is used to generate schema deltas and migrate database schemas. The talk will discuss manually adding data migration to a schema migration script and describe how using alembic has changed our development process. Some familiarity with databases and sqlalchemy will be assumed.",
+    "duration": 1531,
+    "embed": "",
+    "id": 3856,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-09-06",
+    "related_urls": [],
+    "slug": "database-migrations-using-alembic",
+    "source_url": "http://youtu.be/xzsbHMHYI5c",
+    "speakers": [
+        "Tim Mitchell"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/xzsbHMHYI5c/hqdefault.jpg",
+    "title": "Database migrations using alembic",
+    "updated": "2015-09-16T04:32:37.689",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

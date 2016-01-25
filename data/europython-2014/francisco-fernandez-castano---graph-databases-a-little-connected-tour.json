@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/IZVPsuWODpg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/IZVPsuWODpg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/IZVPsuWODpg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:29.923", "whiteboard": "", "video_flv_length": null, "title": "Graph Databases, a little connected tour", "duration": null, "description": "There are many kinds of NoSQL databases like, document databases, key-value, column databases and graph databases.\r\nIn some scenarios is more convenient to store our data as a graph, because we want to extract and study information relative to these connections. In this scenario, graph databases are the ideal, they are designed and implemented to deal with connected information in a efficient way.\r\nIn this talk I'll explain why NoSQL is necessary in some contexts as an alternative to traditional relational databases. How graph databases allow developers model their domains in a natural way without translating these domain models to an relational model with some artificial data like foreign keys and why is more efficient a graph database than a relational one or even a document database in a high connected environment. Then I'll explain specific characteristics of Neo4J as well as how to use Cypher the neo4j query language through python.", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-23", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=IZVPsuWODpg", "video_webm_url": "", "summary": "There are many kinds of NoSQL databases like, document databases, key-value, column databases and graph databases.\r\nIn some scenarios is more convenient to store our data as a graph, because we want to extract and study information relative to these connections. In this scenario, graph databases are the ideal, they are designed and implemented to deal with connected information in a efficient way.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-01T07:48:24.345", "id": 2991, "related_urls": [], "slug": "graph-databases-a-little-connected-tour", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Francisco Fern\u00e1ndez Casta\u00f1o"]}
+{
+    "added": "2014-07-31T00:46:29.923",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "There are many kinds of NoSQL databases like, document databases, key-value, column databases and graph databases.\r\nIn some scenarios is more convenient to store our data as a graph, because we want to extract and study information relative to these connections. In this scenario, graph databases are the ideal, they are designed and implemented to deal with connected information in a efficient way.\r\nIn this talk I'll explain why NoSQL is necessary in some contexts as an alternative to traditional relational databases. How graph databases allow developers model their domains in a natural way without translating these domain models to an relational model with some artificial data like foreign keys and why is more efficient a graph database than a relational one or even a document database in a high connected environment. Then I'll explain specific characteristics of Neo4J as well as how to use Cypher the neo4j query language through python.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/IZVPsuWODpg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/IZVPsuWODpg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2991,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-23",
+    "related_urls": [],
+    "slug": "graph-databases-a-little-connected-tour",
+    "source_url": "http://www.youtube.com/watch?v=IZVPsuWODpg",
+    "speakers": [
+        "Francisco Fern\u00e1ndez Casta\u00f1o"
+    ],
+    "state": 1,
+    "summary": "There are many kinds of NoSQL databases like, document databases, key-value, column databases and graph databases.\r\nIn some scenarios is more convenient to store our data as a graph, because we want to extract and study information relative to these connections. In this scenario, graph databases are the ideal, they are designed and implemented to deal with connected information in a efficient way.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/IZVPsuWODpg/hqdefault.jpg",
+    "title": "Graph Databases, a little connected tour",
+    "updated": "2014-08-01T07:48:24.345",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

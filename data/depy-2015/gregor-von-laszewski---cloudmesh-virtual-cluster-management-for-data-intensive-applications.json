@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/UKY3scPIMd8/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/UKY3scPIMd8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/UKY3scPIMd8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2015-05-27T13:53:16.620", "whiteboard": "", "video_flv_length": null, "title": "Cloudmesh Virtual Cluster Management for Data Intensive Applications", "duration": 1763, "description": "Cloudmesh is an important component to deliver a software-defined system  encompassing virtualized and bare-metal infrastructure, networks, application, systems and platform software  with a unifying goal of providing Cloud Testbeds as a Service (CTaaS). Cloudmesh federates a number of resources from academia and industry. This includes existing FutureSystems, Amazon Web Services, Azure, HP Cloud, Karlsruhe using various technologies. An high level architectural image is provided at {http://cloudmesh.github.io/introduction_to_cloud_computing/_images/cloudmesh-arch-2013.png", "state": 1, "category": "DePy 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/depy-2015/3539_Cloudmesh_Virtual_Cluster_Management_for_Data_Inte.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-29", "copyright_text": "", "source_url": "http://youtu.be/PCIqLdeKqaQ", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-11T03:03:37.197", "id": 3539, "related_urls": [], "slug": "cloudmesh-virtual-cluster-management-for-data-int", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Gregor von Laszewski"]}
+{
+    "added": "2015-05-27T13:53:16.620",
+    "category": "DePy 2015",
+    "copyright_text": "",
+    "description": "Cloudmesh is an important component to deliver a software-defined system  encompassing virtualized and bare-metal infrastructure, networks, application, systems and platform software  with a unifying goal of providing Cloud Testbeds as a Service (CTaaS). Cloudmesh federates a number of resources from academia and industry. This includes existing FutureSystems, Amazon Web Services, Azure, HP Cloud, Karlsruhe using various technologies. An high level architectural image is provided at {http://cloudmesh.github.io/introduction_to_cloud_computing/_images/cloudmesh-arch-2013.png",
+    "duration": 1763,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/UKY3scPIMd8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/UKY3scPIMd8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3539,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-05-29",
+    "related_urls": [],
+    "slug": "cloudmesh-virtual-cluster-management-for-data-int",
+    "source_url": "http://youtu.be/PCIqLdeKqaQ",
+    "speakers": [
+        "Gregor von Laszewski"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/UKY3scPIMd8/hqdefault.jpg",
+    "title": "Cloudmesh Virtual Cluster Management for Data Intensive Applications",
+    "updated": "2015-06-11T03:03:37.197",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/depy-2015/3539_Cloudmesh_Virtual_Cluster_Management_for_Data_Inte.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

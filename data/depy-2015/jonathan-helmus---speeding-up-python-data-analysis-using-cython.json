@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/UKY3scPIMd8/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/UKY3scPIMd8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/UKY3scPIMd8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2015-05-27T13:53:15.509", "whiteboard": "", "video_flv_length": null, "title": "Speeding Up Python Data Analysis Using Cython", "duration": 2303, "description": "Python is an ideal language for developing software for the analysis of scientific data.  Although packages such as NumPy, SciPy, and pandas can offer execution speeds similar to those possible using statically typed, compiled languages, oftentimes Python code is too slow for the task at hand.  Cython is a static compiler for Python which, with the addition of a few type declarations, allows Python code to execute at significantly faster speeds.  This talk will detail how to use Cython to optimize the run time of Python code for analysis of scientific data with examples taken from the development of algorithms in the Python ARM Radar Toolkit (Py-ART), an open source library for working with weather radar data in Python.", "state": 1, "category": "DePy 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/depy-2015/3538_Speeding_Up_Python_Data_Analysis_Using_Cython.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-29", "copyright_text": "", "source_url": "http://youtu.be/5CXI-i3VQpc", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2015-05-30T15:42:24.968", "id": 3538, "related_urls": [], "slug": "speeding-up-python-data-analysis-using-cython", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Jonathan Helmus"]}
+{
+    "added": "2015-05-27T13:53:15.509",
+    "category": "DePy 2015",
+    "copyright_text": "",
+    "description": "Python is an ideal language for developing software for the analysis of scientific data.  Although packages such as NumPy, SciPy, and pandas can offer execution speeds similar to those possible using statically typed, compiled languages, oftentimes Python code is too slow for the task at hand.  Cython is a static compiler for Python which, with the addition of a few type declarations, allows Python code to execute at significantly faster speeds.  This talk will detail how to use Cython to optimize the run time of Python code for analysis of scientific data with examples taken from the development of algorithms in the Python ARM Radar Toolkit (Py-ART), an open source library for working with weather radar data in Python.",
+    "duration": 2303,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/UKY3scPIMd8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/UKY3scPIMd8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3538,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-05-29",
+    "related_urls": [],
+    "slug": "speeding-up-python-data-analysis-using-cython",
+    "source_url": "http://youtu.be/5CXI-i3VQpc",
+    "speakers": [
+        "Jonathan Helmus"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/UKY3scPIMd8/hqdefault.jpg",
+    "title": "Speeding Up Python Data Analysis Using Cython",
+    "updated": "2015-05-30T15:42:24.968",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/depy-2015/3538_Speeding_Up_Python_Data_Analysis_Using_Cython.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

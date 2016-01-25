@@ -1,1 +1,44 @@
-{"tags": ["casestudy", "freshbooks", "pylons", "pyohio", "pyohio2011", "sqlalchemy"], "thumbnail_url": "http://a.images.blip.tv/Pyohio-EvolvingAnInternalWebService941.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyOhio 2011: Evolving an internal web service", "duration": null, "description": "Evolving an internal web service\n\nPresented by Taavi Burns\n\nOver the past few years, FreshBooks' core business logic has been moving into\na Python web-service backend using Pylons and SQLAlchemy. Come hear why we did\nit, and stories of its architecture, testing methods, deployment, and\nmonitoring.\n\n", "state": 1, "category": "PyOhio 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/537_pyohio-2011-evolving-an-internal-web-service.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution 2.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 235539719, "updated": "2014-04-08T20:28:25.858", "id": 537, "related_urls": [], "slug": "pyohio-2011--evolving-an-internal-web-service", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Taavi Burns"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyOhio 2011",
+    "copyright_text": "Creative Commons Attribution 2.0",
+    "description": "Evolving an internal web service\n\nPresented by Taavi Burns\n\nOver the past few years, FreshBooks' core business logic has been moving into\na Python web-service backend using Pylons and SQLAlchemy. Come hear why we did\nit, and stories of its architecture, testing methods, deployment, and\nmonitoring.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 537,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyohio-2011--evolving-an-internal-web-service",
+    "source_url": "",
+    "speakers": [
+        "Taavi Burns"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "casestudy",
+        "freshbooks",
+        "pylons",
+        "pyohio",
+        "pyohio2011",
+        "sqlalchemy"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pyohio-EvolvingAnInternalWebService941.png",
+    "title": "PyOhio 2011: Evolving an internal web service",
+    "updated": "2014-04-08T20:28:25.858",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/537_pyohio-2011-evolving-an-internal-web-service.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 235539719,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

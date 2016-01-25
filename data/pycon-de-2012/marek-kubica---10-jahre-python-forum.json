@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i4.ytimg.com/vi/cB7yPf8Iw9w/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/cB7yPf8Iw9w?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/cB7yPf8Iw9w?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-06T19:54:58", "whiteboard": "", "video_flv_length": null, "title": "10 Jahre Python-Forum", "duration": null, "description": "", "state": 1, "category": "PyCon DE 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_10_Jahre_PythonForum.mp4?Signature=wZH0Xg8Qgp%2FGPRm5Gwof4ylmkms%3D&Expires=1352218394&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-10-30", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=cB7yPf8Iw9w", "video_webm_url": "", "summary": "2012 wurde das deutsche Python-Forum nun 10 Jahre alt. Zeit das Forum den\nLeuten vorzustellen, die das Forum noch nicht kennen oder eine Abneigung zu\nWebforen haben. 10 Jahre, das ist genug Zeit um in dessen Geschichte\nzur\u00fcckzublicken wie es zum Forum kam und wie es sich entwickelt hat, was es so\nf\u00fcr Phasen gab und wie sich die Python-Community in dieser Zeit ge\u00e4ndert hat.\n\nEbenfalls kann man die Entwicklung anhand einiger Statistiken verdeutlichen\nund vielleicht daraus Trends f\u00fcr die Verbreitung von Python in Deutschland\nableiten.\n\nEin wichtiger Punkt ist nat\u00fcrlich die Community, welche Regeln im Forum gelten\nund warum wir finden dass sie funktionieren. Dabei muss man verstehen wie die\nCommunity \"tickt\" und wie der Job eines Moderators ausschaut. Die ein oder\nandere lustige Geschichte findet sich im Vortrag sicher auch, von den Foren-\nMemes, \u00fcber Flamewars bishin zum gemeinschaflichen Codegolfen. Und wer\nInteresse hat, kann einfach so im Forum auf [python-forum.de](http://www\n.python-forum.de/) mitlesen oder sich anmelden und mitposten.\n\nDer Vortragende ist nun seit einigen Jahren Mitglied im Foren-Team und sowohl\nim Forum als auch auf der Newsgroup/Mailingliste und hat schon eine ganze\nReihe Trends gesehen und Threads gelesen.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.928", "id": 1491, "related_urls": [], "slug": "10-jahre-python-forum", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "German", "video_ogv_download_only": false, "speakers": ["Marek Kubica"]}
+{
+    "added": "2012-11-06T19:54:58",
+    "category": "PyCon DE 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/cB7yPf8Iw9w?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/cB7yPf8Iw9w?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1491,
+    "language": "German",
+    "quality_notes": "",
+    "recorded": "2012-10-30",
+    "related_urls": [],
+    "slug": "10-jahre-python-forum",
+    "source_url": "https://www.youtube.com/watch?v=cB7yPf8Iw9w",
+    "speakers": [
+        "Marek Kubica"
+    ],
+    "state": 1,
+    "summary": "2012 wurde das deutsche Python-Forum nun 10 Jahre alt. Zeit das Forum den\nLeuten vorzustellen, die das Forum noch nicht kennen oder eine Abneigung zu\nWebforen haben. 10 Jahre, das ist genug Zeit um in dessen Geschichte\nzur\u00fcckzublicken wie es zum Forum kam und wie es sich entwickelt hat, was es so\nf\u00fcr Phasen gab und wie sich die Python-Community in dieser Zeit ge\u00e4ndert hat.\n\nEbenfalls kann man die Entwicklung anhand einiger Statistiken verdeutlichen\nund vielleicht daraus Trends f\u00fcr die Verbreitung von Python in Deutschland\nableiten.\n\nEin wichtiger Punkt ist nat\u00fcrlich die Community, welche Regeln im Forum gelten\nund warum wir finden dass sie funktionieren. Dabei muss man verstehen wie die\nCommunity \"tickt\" und wie der Job eines Moderators ausschaut. Die ein oder\nandere lustige Geschichte findet sich im Vortrag sicher auch, von den Foren-\nMemes, \u00fcber Flamewars bishin zum gemeinschaflichen Codegolfen. Und wer\nInteresse hat, kann einfach so im Forum auf [python-forum.de](http://www\n.python-forum.de/) mitlesen oder sich anmelden und mitposten.\n\nDer Vortragende ist nun seit einigen Jahren Mitglied im Foren-Team und sowohl\nim Forum als auch auf der Newsgroup/Mailingliste und hat schon eine ganze\nReihe Trends gesehen und Threads gelesen.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i4.ytimg.com/vi/cB7yPf8Iw9w/hqdefault.jpg",
+    "title": "10 Jahre Python-Forum",
+    "updated": "2014-04-08T20:28:26.928",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_10_Jahre_PythonForum.mp4?Signature=wZH0Xg8Qgp%2FGPRm5Gwof4ylmkms%3D&Expires=1352218394&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

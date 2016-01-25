@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/-0P5EvYI0Rk/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/-0P5EvYI0Rk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/-0P5EvYI0Rk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-09-09T20:35:30", "whiteboard": "", "video_flv_length": null, "title": "Set it, and forget it! Auto Scale on Rackspace", "duration": 40, "description": "", "state": 1, "category": "ChiPy", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvchipy/Set_it_and_forget_it_Auto_Scal.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-09-12", "copyright_text": "CC BY", "source_url": "https://www.youtube.com/watch?v=-0P5EvYI0Rk", "video_webm_url": null, "summary": "Rackspace is rolling out a new service to allow your cloud to scale on its own, called Auto Scale. Built on Monitoring, Auto Scale allows you to grow or shrink your fleet of resources as demand changes.\r\n\r\npyrax, a Python package for working with OpenStack-based clouds like Rackspace's, just released Auto Scale and Monitoring support with version 1.5.0.\r\n\r\nI'll show how you can use pyrax to deploy servers and automatically add or remove them based on their usage.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.108", "id": 2356, "related_urls": [], "slug": "set-it-and-forget-it-auto-scale-on-rackspace", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Brian Curtin"]}
+{
+    "added": "2013-09-09T20:35:30",
+    "category": "ChiPy",
+    "copyright_text": "CC BY",
+    "description": "",
+    "duration": 40,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/-0P5EvYI0Rk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/-0P5EvYI0Rk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2356,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-09-12",
+    "related_urls": [],
+    "slug": "set-it-and-forget-it-auto-scale-on-rackspace",
+    "source_url": "https://www.youtube.com/watch?v=-0P5EvYI0Rk",
+    "speakers": [
+        "Brian Curtin"
+    ],
+    "state": 1,
+    "summary": "Rackspace is rolling out a new service to allow your cloud to scale on its own, called Auto Scale. Built on Monitoring, Auto Scale allows you to grow or shrink your fleet of resources as demand changes.\r\n\r\npyrax, a Python package for working with OpenStack-based clouds like Rackspace's, just released Auto Scale and Monitoring support with version 1.5.0.\r\n\r\nI'll show how you can use pyrax to deploy servers and automatically add or remove them based on their usage.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/-0P5EvYI0Rk/hqdefault.jpg",
+    "title": "Set it, and forget it! Auto Scale on Rackspace",
+    "updated": "2014-04-08T20:28:26.108",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvchipy/Set_it_and_forget_it_Auto_Scal.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

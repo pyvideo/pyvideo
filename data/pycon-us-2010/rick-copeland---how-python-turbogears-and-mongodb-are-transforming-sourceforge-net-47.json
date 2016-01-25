@@ -1,1 +1,43 @@
-{"tags": ["jinja", "mongodb", "pycon", "pycon2010", "turbogears"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010HowPythonTurboGearsAndMongoDBAreTransformingSou564-509.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "How Python, TurboGears, and MongoDB are Transforming SourceForge.net (#47)", "duration": null, "description": "How Python, TurboGears, and MongoDB are transforming SourceForge.net\n\n  \nPresented by Rick Copeland\n\n  \nIn mid-2009, SourceForge embarked on a quest to modernize our websites,\nstarting with the download (consumer) flow on SourceForge.net. A small team\nwas tasked the rewrite, converting a site originally implemented in PHP with\nPython. Using a customized TurboGears as a core component, the rewrite was\ncompleted and the new site deployed in under 2 months. This talk tells the\nstory of that rewrite and explains our new technology stack, which includes\nTurboGears, MongoDB, and Jinja templates.\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/271_how-python-turbogears-and-mongodb-are-transforming-sourceforge-net-47.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/271_how-python-turbogears-and-mongodb-are-transforming-sourceforge-net-47.ogv", "video_ogv_length": 126931888, "updated": "2014-04-08T20:28:28.125", "id": 271, "related_urls": [], "slug": "pycon-2010--how-python--turbogears--and-mongodb-a", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Rick Copeland"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "How Python, TurboGears, and MongoDB are transforming SourceForge.net\n\n  \nPresented by Rick Copeland\n\n  \nIn mid-2009, SourceForge embarked on a quest to modernize our websites,\nstarting with the download (consumer) flow on SourceForge.net. A small team\nwas tasked the rewrite, converting a site originally implemented in PHP with\nPython. Using a customized TurboGears as a core component, the rewrite was\ncompleted and the new site deployed in under 2 months. This talk tells the\nstory of that rewrite and explains our new technology stack, which includes\nTurboGears, MongoDB, and Jinja templates.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 271,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--how-python--turbogears--and-mongodb-a",
+    "source_url": "",
+    "speakers": [
+        "Rick Copeland"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "jinja",
+        "mongodb",
+        "pycon",
+        "pycon2010",
+        "turbogears"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010HowPythonTurboGearsAndMongoDBAreTransformingSou564-509.jpg",
+    "title": "How Python, TurboGears, and MongoDB are Transforming SourceForge.net (#47)",
+    "updated": "2014-04-08T20:28:28.125",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/271_how-python-turbogears-and-mongodb-are-transforming-sourceforge-net-47.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 126931888,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/271_how-python-turbogears-and-mongodb-are-transforming-sourceforge-net-47.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

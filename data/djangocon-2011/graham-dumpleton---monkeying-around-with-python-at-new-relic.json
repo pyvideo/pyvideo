@@ -1,1 +1,46 @@
-{"tags": ["djangocon", "djangocon2011", "exceptions", "memcache", "monitoring", "performance", "requests", "transactions"], "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-MonkeyingAroundWithPythonAtNewRelic328-388.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Monkeying Around with Python at New Relic", "duration": null, "description": "Monkeying around with Python at New Relic\n\nPresented by Graham Dumpleton\n\nThis session will cover the challenges of creating a production application\nperformance monitoring system for Python. It includes an overview of the\narchitecture of the system, as well as how it hooks into Django and captures\ndetails about web transactions, database transactions, memcache requests,\nexceptions and much more.\n\n", "state": 1, "category": "DjangoCon 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/104_monkeying-around-with-python-at-new-relic.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 77718029, "updated": "2014-04-08T20:28:25.588", "id": 104, "related_urls": [], "slug": "djangocon-2011--monkeying-around-with-python-at-n", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Graham Dumpleton"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "DjangoCon 2011",
+    "copyright_text": "",
+    "description": "Monkeying around with Python at New Relic\n\nPresented by Graham Dumpleton\n\nThis session will cover the challenges of creating a production application\nperformance monitoring system for Python. It includes an overview of the\narchitecture of the system, as well as how it hooks into Django and captures\ndetails about web transactions, database transactions, memcache requests,\nexceptions and much more.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 104,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "djangocon-2011--monkeying-around-with-python-at-n",
+    "source_url": "",
+    "speakers": [
+        "Graham Dumpleton"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "djangocon",
+        "djangocon2011",
+        "exceptions",
+        "memcache",
+        "monitoring",
+        "performance",
+        "requests",
+        "transactions"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-MonkeyingAroundWithPythonAtNewRelic328-388.jpg",
+    "title": "Monkeying Around with Python at New Relic",
+    "updated": "2014-04-08T20:28:25.588",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/104_monkeying-around-with-python-at-new-relic.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 77718029,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

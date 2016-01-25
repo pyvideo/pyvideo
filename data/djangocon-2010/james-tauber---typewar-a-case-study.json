@@ -1,1 +1,41 @@
-{"tags": ["casestudy", "djangocon", "djangocon2010"], "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-TypewarACaseStudy770-135.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Typewar: A Case Study", "duration": null, "description": "Typewar: A Case Study\n\nPresented by James Tauber\n\nTypewar is a popular font-guessing game built with Django and Pinax. This talk\nwill cover everything from game mechanics and statistics to development of an\nAPI for an iPhone client and from how we promoted and launched the site to the\nperformance challenges we faced.\n\nAbstract\n\nTypewar was developed as a side project at Eldarion and went from concept to\nlaunch in a matter of weeks. The first day saw 5,000 visitors and since then,\nover 50,000 people have attempted to \"guess the typeface\" more than 5 million\ntimes.\n\nThe talk will cover:\n\n  * how we went from concept to design mockup to prototype \n  * game mechanics such as: \n    * points \n    * levels \n    * badges \n    * streaks \n    * leader boards \n    * stats (with lots of bayesian goodness) \n  * generation of glyphs with PIL \n  * mitigation against cheaters \n  * twitter integration \n  * migrating unauthenticated user data over on sign up / log in \n  * activity streams \n  * performance challenges \n  * database optimizations \n  * queuing of asynchronous tasks \n  * development of an API for use in an iPhone client \n  * deployment \n  * how we promoted and launched the site \n\nWe will also discuss various open source Django apps that have been extracted\nfrom the project and used on subsequent sites by us and others.\n\n[http://typewar.com/](http://typewar.com/)\n\n", "state": 1, "category": "DjangoCon 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 223572623, "updated": "2014-04-08T20:28:25.950", "id": 64, "related_urls": [], "slug": "djangocon-2010--typewar--a-case-study", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/64_typewar-a-case-study.flv", "language": "English", "video_ogv_download_only": false, "speakers": ["James Tauber"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "DjangoCon 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Typewar: A Case Study\n\nPresented by James Tauber\n\nTypewar is a popular font-guessing game built with Django and Pinax. This talk\nwill cover everything from game mechanics and statistics to development of an\nAPI for an iPhone client and from how we promoted and launched the site to the\nperformance challenges we faced.\n\nAbstract\n\nTypewar was developed as a side project at Eldarion and went from concept to\nlaunch in a matter of weeks. The first day saw 5,000 visitors and since then,\nover 50,000 people have attempted to \"guess the typeface\" more than 5 million\ntimes.\n\nThe talk will cover:\n\n  * how we went from concept to design mockup to prototype \n  * game mechanics such as: \n    * points \n    * levels \n    * badges \n    * streaks \n    * leader boards \n    * stats (with lots of bayesian goodness) \n  * generation of glyphs with PIL \n  * mitigation against cheaters \n  * twitter integration \n  * migrating unauthenticated user data over on sign up / log in \n  * activity streams \n  * performance challenges \n  * database optimizations \n  * queuing of asynchronous tasks \n  * development of an API for use in an iPhone client \n  * deployment \n  * how we promoted and launched the site \n\nWe will also discuss various open source Django apps that have been extracted\nfrom the project and used on subsequent sites by us and others.\n\n[http://typewar.com/](http://typewar.com/)\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 64,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "djangocon-2010--typewar--a-case-study",
+    "source_url": "",
+    "speakers": [
+        "James Tauber"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "casestudy",
+        "djangocon",
+        "djangocon2010"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-TypewarACaseStudy770-135.jpg",
+    "title": "Typewar: A Case Study",
+    "updated": "2014-04-08T20:28:25.950",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/64_typewar-a-case-study.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": 223572623,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

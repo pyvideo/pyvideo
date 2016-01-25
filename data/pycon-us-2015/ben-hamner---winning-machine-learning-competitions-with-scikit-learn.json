@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/gDbaCIE0mrA/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/gDbaCIE0mrA' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:11.586", "whiteboard": "needs editing", "video_flv_length": null, "title": "Winning Machine Learning Competitions With Scikit-Learn", "duration": null, "description": "This tutorial will offer an introduction machine learning and how to apply it to a Kaggle competition. We will cover methodologies that have worked well across a diverse set of problems, and then work on a current Kaggle competition together using iPython notebook and scikit-learn. We will cover concepts including feature extraction, feature selection, model evaluation, and data visualization.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-10", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=gDbaCIE0mrA", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:11.587", "id": 3478, "related_urls": [], "slug": "winning-machine-learning-competitions-with-scikit", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Ben Hamner"]}
+{
+    "added": "2015-04-16T14:22:11.586",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "This tutorial will offer an introduction machine learning and how to apply it to a Kaggle competition. We will cover methodologies that have worked well across a diverse set of problems, and then work on a current Kaggle competition together using iPython notebook and scikit-learn. We will cover concepts including feature extraction, feature selection, model evaluation, and data visualization.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/gDbaCIE0mrA' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3478,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-10",
+    "related_urls": [],
+    "slug": "winning-machine-learning-competitions-with-scikit",
+    "source_url": "https://www.youtube.com/watch?v=gDbaCIE0mrA",
+    "speakers": [
+        "Ben Hamner"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/gDbaCIE0mrA/hqdefault.jpg",
+    "title": "Winning Machine Learning Competitions With Scikit-Learn",
+    "updated": "2015-04-16T14:22:11.587",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/76YfICi8LcA/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/76YfICi8LcA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/76YfICi8LcA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-19T11:09:28", "whiteboard": "", "video_flv_length": null, "title": "Keynote: Audrey Roy", "duration": null, "description": "", "state": 1, "category": "PyCon AU 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-08-22", "copyright_text": "Creative Commons Attribution license", "source_url": "http://www.youtube.com/watch?v=76YfICi8LcA", "video_webm_url": "", "summary": "Keynote presentation\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.680", "id": 1005, "related_urls": [], "slug": "keynote-audrey-roy", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Audrey Roy"]}
+{
+    "added": "2012-08-19T11:09:28",
+    "category": "PyCon AU 2011",
+    "copyright_text": "Creative Commons Attribution license",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/76YfICi8LcA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/76YfICi8LcA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1005,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-08-22",
+    "related_urls": [],
+    "slug": "keynote-audrey-roy",
+    "source_url": "http://www.youtube.com/watch?v=76YfICi8LcA",
+    "speakers": [
+        "Audrey Roy"
+    ],
+    "state": 1,
+    "summary": "Keynote presentation\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/76YfICi8LcA/hqdefault.jpg",
+    "title": "Keynote: Audrey Roy",
+    "updated": "2014-04-08T20:28:27.680",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

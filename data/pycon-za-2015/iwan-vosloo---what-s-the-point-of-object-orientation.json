@@ -1,1 +1,39 @@
-{"tags": ["Room 211"], "thumbnail_url": "https://i.ytimg.com/vi/M1XL65qj2dU/hqdefault.jpg", "embed": "", "added": "2015-09-30T02:46:42.001", "whiteboard": "", "video_flv_length": null, "title": "What's the point of Object Orientation?", "duration": 885, "description": "Object Orientation (OO) is often introduced in terms of how it is implemented by a specific language. However, understanding the theory underlying OO is not quite the same as understanding how OO concepts are supported by a particular language. It is insightful to understand the simple OO fundamentals and how these map to the particular implementation provided by Python.\r\n\r\nIn this talk I will first explain the very basics of OO from a language-neutral point of view with the aim of showing what OO can offer you. I will touch upon the simple mathematical theory underlying OO and how it can be used as a mental discipline to improve your natural capacity to reason about programs. I hope to give you enough information to help you distinguish between better and worse designs and to detect whether you're using OO as it was intended. I will show how these fundamentals map to Python, and compare the difference of Python's implementation to that of some other languages (even functional languages).\r\n\r\nThis talk is for anyone: whether you're new at Object Orientation, or a practitioner wondering whether OO is worth the effort you've spent trying to use it.", "state": 1, "category": "PyCon ZA 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-10-02", "copyright_text": "", "source_url": "http://youtu.be/M1XL65qj2dU", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-03T04:00:13.799", "id": 3939, "related_urls": [], "slug": "whats-the-point-of-object-orientation", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Iwan Vosloo"]}
+{
+    "added": "2015-09-30T02:46:42.001",
+    "category": "PyCon ZA 2015",
+    "copyright_text": "",
+    "description": "Object Orientation (OO) is often introduced in terms of how it is implemented by a specific language. However, understanding the theory underlying OO is not quite the same as understanding how OO concepts are supported by a particular language. It is insightful to understand the simple OO fundamentals and how these map to the particular implementation provided by Python.\r\n\r\nIn this talk I will first explain the very basics of OO from a language-neutral point of view with the aim of showing what OO can offer you. I will touch upon the simple mathematical theory underlying OO and how it can be used as a mental discipline to improve your natural capacity to reason about programs. I hope to give you enough information to help you distinguish between better and worse designs and to detect whether you're using OO as it was intended. I will show how these fundamentals map to Python, and compare the difference of Python's implementation to that of some other languages (even functional languages).\r\n\r\nThis talk is for anyone: whether you're new at Object Orientation, or a practitioner wondering whether OO is worth the effort you've spent trying to use it.",
+    "duration": 885,
+    "embed": "",
+    "id": 3939,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-10-02",
+    "related_urls": [],
+    "slug": "whats-the-point-of-object-orientation",
+    "source_url": "http://youtu.be/M1XL65qj2dU",
+    "speakers": [
+        "Iwan Vosloo"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "Room 211"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/M1XL65qj2dU/hqdefault.jpg",
+    "title": "What's the point of Object Orientation?",
+    "updated": "2015-10-03T04:00:13.799",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

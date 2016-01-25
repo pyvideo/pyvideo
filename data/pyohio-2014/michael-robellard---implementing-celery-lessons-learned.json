@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i.ytimg.com/vi/hmtSe0yPi6I/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/hmtSe0yPi6I?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/hmtSe0yPi6I?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-19T02:13:02.732", "whiteboard": "", "video_flv_length": null, "title": "Implementing Celery, Lessons Learned", "duration": 3600, "description": "", "state": 1, "category": "PyOhio 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-27", "copyright_text": "CC BY", "source_url": "http://youtu.be/hmtSe0yPi6I", "video_webm_url": "http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2832_Implementing_Celery_Lessons_Learned.webm", "summary": "This talk will include a walkthrough of using Celery and RabbitMQ. We will cover actual issues found and fixed during an actual implementation.\r\nsuch as Queues in stage and production. Handling Failures. Retries, Failure Queues, and Logging. Integrating with SQL Alchemy for producers and consumers.\r\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-09-29T12:06:28.061", "id": 2832, "related_urls": [], "slug": "implementing-celery-lessons-learned", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Michael Robellard"]}
+{
+    "added": "2014-07-19T02:13:02.732",
+    "category": "PyOhio 2014",
+    "copyright_text": "CC BY",
+    "description": "",
+    "duration": 3600,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/hmtSe0yPi6I?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/hmtSe0yPi6I?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2832,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-27",
+    "related_urls": [],
+    "slug": "implementing-celery-lessons-learned",
+    "source_url": "http://youtu.be/hmtSe0yPi6I",
+    "speakers": [
+        "Michael Robellard"
+    ],
+    "state": 1,
+    "summary": "This talk will include a walkthrough of using Celery and RabbitMQ. We will cover actual issues found and fixed during an actual implementation.\r\nsuch as Queues in stage and production. Handling Failures. Retries, Failure Queues, and Logging. Integrating with SQL Alchemy for producers and consumers.\r\n",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/hmtSe0yPi6I/hqdefault.jpg",
+    "title": "Implementing Celery, Lessons Learned",
+    "updated": "2014-09-29T12:06:28.061",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2832_Implementing_Celery_Lessons_Learned.webm",
+    "whiteboard": ""
+}

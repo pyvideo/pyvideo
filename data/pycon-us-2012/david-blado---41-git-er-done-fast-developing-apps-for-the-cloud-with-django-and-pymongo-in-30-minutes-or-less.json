@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://img.youtube.com/vi/fVpvd7OX6PQ/hqdefault.jpg", "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/fVpvd7OX6PQ?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/fVpvd7OX6PQ?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", "added": "2012-03-15T00:15:27", "whiteboard": "", "video_flv_length": null, "title": "41. Git 'er Done Fast! Developing Apps for the Cloud with Django and PyMongo in 30 Minutes or Less", "duration": null, "description": "", "state": 1, "category": "PyCon US 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-03-11", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=fVpvd7OX6PQ", "video_webm_url": "", "summary": "RedHat talks about OpenShift.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.357", "id": 814, "related_urls": [], "slug": "41-git-er-done-fast-developing-apps-for-the-cl", "quality_notes": "The title doesn't match the content. RedHat put in the title to claim a poster slot, but then when they showed up they did something different.\r\n", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["David Blado"]}
+{
+    "added": "2012-03-15T00:15:27",
+    "category": "PyCon US 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/fVpvd7OX6PQ?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/fVpvd7OX6PQ?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>",
+    "id": 814,
+    "language": "English",
+    "quality_notes": "The title doesn't match the content. RedHat put in the title to claim a poster slot, but then when they showed up they did something different.\r\n",
+    "recorded": "2012-03-11",
+    "related_urls": [],
+    "slug": "41-git-er-done-fast-developing-apps-for-the-cl",
+    "source_url": "https://www.youtube.com/watch?v=fVpvd7OX6PQ",
+    "speakers": [
+        "David Blado"
+    ],
+    "state": 1,
+    "summary": "RedHat talks about OpenShift.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://img.youtube.com/vi/fVpvd7OX6PQ/hqdefault.jpg",
+    "title": "41. Git 'er Done Fast! Developing Apps for the Cloud with Django and PyMongo in 30 Minutes or Less",
+    "updated": "2014-04-08T20:28:27.357",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

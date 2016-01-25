@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i2.ytimg.com/vi/5hBMlTFfOJg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/5hBMlTFfOJg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/5hBMlTFfOJg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:56:29", "whiteboard": "", "video_flv_length": null, "title": "Sink or swim: 5 life jackets to throw to New Coders", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Sink_or_swim_5_life_jackets_to.mp4?Signature=FbIUDIAwgFHNPR1duGXvtsnuoMU%3D&Expires=1363731974&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-16", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=5hBMlTFfOJg", "video_webm_url": null, "summary": "Many want to learn to code, and many choose Python as a first language. You direct them to Learn Python the Hard Way, or Dive into Python. Great!  But now what? I will present 5 digestible projects to gradually progress the Python learner from near drowning to a decent swimmer. The goal is to have new coders feeling accomplished and to continuing learning.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.674", "id": 1782, "related_urls": [], "slug": "sink-or-swim-5-life-jackets-to-throw-to-new-code", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Lynn Root"]}
+{
+    "added": "2013-03-13T18:56:29",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/5hBMlTFfOJg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/5hBMlTFfOJg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1782,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-16",
+    "related_urls": [],
+    "slug": "sink-or-swim-5-life-jackets-to-throw-to-new-code",
+    "source_url": "https://www.youtube.com/watch?v=5hBMlTFfOJg",
+    "speakers": [
+        "Lynn Root"
+    ],
+    "state": 1,
+    "summary": "Many want to learn to code, and many choose Python as a first language. You direct them to Learn Python the Hard Way, or Dive into Python. Great!  But now what? I will present 5 digestible projects to gradually progress the Python learner from near drowning to a decent swimmer. The goal is to have new coders feeling accomplished and to continuing learning.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i2.ytimg.com/vi/5hBMlTFfOJg/hqdefault.jpg",
+    "title": "Sink or swim: 5 life jackets to throw to New Coders",
+    "updated": "2014-04-08T20:28:26.674",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Sink_or_swim_5_life_jackets_to.mp4?Signature=FbIUDIAwgFHNPR1duGXvtsnuoMU%3D&Expires=1363731974&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

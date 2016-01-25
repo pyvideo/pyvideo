@@ -1,1 +1,42 @@
-{"tags": ["numpy", "pandas", "pycon", "pycon2010"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010PythonInQuantitativeFinance158145.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Python in quantitative finance (#158)", "duration": null, "description": "Python in quantitative finance\n\n  \nPresented by Wes McKinney (AQR Capital Management, LLC)\n\n  \nThis talk will show how Python and libraries such as NumPy were instrumental\nat AQR for building a robust research platform for prototyping and\nimplementing quantitative trading models. We will discuss many different\ntools, including pandas, a new open source library designed for analyzing\ncommon financial and economic data sets.\n\n  \nA variety of examples will be presented to explore Python's current status as\na replacement for other statistical computing environments (as compared with\nR, MATLAB, or other commercial and open-source statistical products).\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/305_python-in-quantitative-finance-158.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": "", "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/305_python-in-quantitative-finance-158.ogv", "video_ogv_length": 223064549, "updated": "2014-04-08T20:28:28.184", "id": 305, "related_urls": [], "slug": "python-in-quantitative-finance-158", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Wes McKinney"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Python in quantitative finance\n\n  \nPresented by Wes McKinney (AQR Capital Management, LLC)\n\n  \nThis talk will show how Python and libraries such as NumPy were instrumental\nat AQR for building a robust research platform for prototyping and\nimplementing quantitative trading models. We will discuss many different\ntools, including pandas, a new open source library designed for analyzing\ncommon financial and economic data sets.\n\n  \nA variety of examples will be presented to explore Python's current status as\na replacement for other statistical computing environments (as compared with\nR, MATLAB, or other commercial and open-source statistical products).\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 305,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "python-in-quantitative-finance-158",
+    "source_url": "",
+    "speakers": [
+        "Wes McKinney"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "numpy",
+        "pandas",
+        "pycon",
+        "pycon2010"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010PythonInQuantitativeFinance158145.png",
+    "title": "Python in quantitative finance (#158)",
+    "updated": "2014-04-08T20:28:28.184",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/305_python-in-quantitative-finance-158.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 223064549,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/305_python-in-quantitative-finance-158.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

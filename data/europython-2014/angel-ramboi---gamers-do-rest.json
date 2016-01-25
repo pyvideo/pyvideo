@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/l8itUalxsDY/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/l8itUalxsDY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/l8itUalxsDY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:33.114", "whiteboard": "", "video_flv_length": null, "title": "Gamers do REST", "duration": null, "description": "An overview (sprinkled with implementation details and solutions to issues we encountered) of how Demonware uses Python and Django to build RESTful APIs and how we manage to reliably serve millions of gamers all over the world that play Activision-Blizzard\u2019s successful franchises Call of Duty and Skylanders.\r\n\r\nTopics the presentation will touch:\r\n\r\n- tech stack overview\r\n- API design\r\n- configuration handling\r\n- middleware usage for logging, metrics and error handling\r\n- authentication/authorization\r\n", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-22", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=l8itUalxsDY", "video_webm_url": "", "summary": "An overview (sprinkled with implementation details and solutions to issues we encountered) of how Demonware uses Python and Django to build RESTful APIs and how we manage to reliably serve millions of gamers all over the world that play Activision-Blizzard's successful franchises Call of Duty and Skylanders.\r\n\r\nTopics the presentation will touch: tech stack overview; API design; configuration handling; middleware usage for logging, metrics and error handling; authentication/authorization.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-02T10:55:19.395", "id": 3020, "related_urls": [], "slug": "gamers-do-rest", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Angel Ramboi"]}
+{
+    "added": "2014-07-31T00:46:33.114",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "An overview (sprinkled with implementation details and solutions to issues we encountered) of how Demonware uses Python and Django to build RESTful APIs and how we manage to reliably serve millions of gamers all over the world that play Activision-Blizzard\u2019s successful franchises Call of Duty and Skylanders.\r\n\r\nTopics the presentation will touch:\r\n\r\n- tech stack overview\r\n- API design\r\n- configuration handling\r\n- middleware usage for logging, metrics and error handling\r\n- authentication/authorization\r\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/l8itUalxsDY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/l8itUalxsDY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3020,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-22",
+    "related_urls": [],
+    "slug": "gamers-do-rest",
+    "source_url": "http://www.youtube.com/watch?v=l8itUalxsDY",
+    "speakers": [
+        "Angel Ramboi"
+    ],
+    "state": 1,
+    "summary": "An overview (sprinkled with implementation details and solutions to issues we encountered) of how Demonware uses Python and Django to build RESTful APIs and how we manage to reliably serve millions of gamers all over the world that play Activision-Blizzard's successful franchises Call of Duty and Skylanders.\r\n\r\nTopics the presentation will touch: tech stack overview; API design; configuration handling; middleware usage for logging, metrics and error handling; authentication/authorization.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/l8itUalxsDY/hqdefault.jpg",
+    "title": "Gamers do REST",
+    "updated": "2014-08-02T10:55:19.395",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

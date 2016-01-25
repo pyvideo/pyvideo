@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/BGRnVNs7A28/maxresdefault.jpg", "embed": "", "added": "2015-07-31T17:40:40.466", "whiteboard": "", "video_flv_length": null, "title": "Porter le mod\u00e8le de concurrence de GO en Python", "duration": 1982, "description": "", "state": 1, "category": "PyCon FR 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-11-30", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=BGRnVNs7A28", "video_webm_url": null, "summary": "Beaucoup de gens tentent de porter le mod\u00e8le d'acteur en Python, mais ce mod\u00e8le n'est pas vraiment adapt\u00e9 \u00e0 un tel langage. Au contraire le mod\u00e8le de concurrence de Go a quelques points attractifs qui permettent de le porter facilement sous Python.\n\nOffset est une librairie compatible Python 2.7, 3.x et pypy. Cette pr\u00e9sentation pr\u00e9sentera de fa\u00e7on d\u00e9taill\u00e9e la librairie Offset et comment le mod\u00e8le de concurrence de Go y est implement\u00e9e. Je pr\u00e9senterais aussi comment utiliser Offset pour cr\u00e9er des programmes concurrents exploitant tous les CPUs de votre syst\u00e8me.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-07-31T17:40:40.466", "id": 3748, "related_urls": [], "slug": "porter-le-modele-de-concurrence-de-go-en-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "French", "video_ogv_download_only": false, "speakers": ["Benoit Chesneau"]}
+{
+    "added": "2015-07-31T17:40:40.466",
+    "category": "PyCon FR 2013",
+    "copyright_text": "",
+    "description": "",
+    "duration": 1982,
+    "embed": "",
+    "id": 3748,
+    "language": "French",
+    "quality_notes": "",
+    "recorded": "2013-11-30",
+    "related_urls": [],
+    "slug": "porter-le-modele-de-concurrence-de-go-en-python",
+    "source_url": "https://www.youtube.com/watch?v=BGRnVNs7A28",
+    "speakers": [
+        "Benoit Chesneau"
+    ],
+    "state": 1,
+    "summary": "Beaucoup de gens tentent de porter le mod\u00e8le d'acteur en Python, mais ce mod\u00e8le n'est pas vraiment adapt\u00e9 \u00e0 un tel langage. Au contraire le mod\u00e8le de concurrence de Go a quelques points attractifs qui permettent de le porter facilement sous Python.\n\nOffset est une librairie compatible Python 2.7, 3.x et pypy. Cette pr\u00e9sentation pr\u00e9sentera de fa\u00e7on d\u00e9taill\u00e9e la librairie Offset et comment le mod\u00e8le de concurrence de Go y est implement\u00e9e. Je pr\u00e9senterais aussi comment utiliser Offset pour cr\u00e9er des programmes concurrents exploitant tous les CPUs de votre syst\u00e8me.",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/BGRnVNs7A28/maxresdefault.jpg",
+    "title": "Porter le mod\u00e8le de concurrence de GO en Python",
+    "updated": "2015-07-31T17:40:40.466",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,41 @@
-{"tags": ["flask", "pycon", "pycon2011"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011OpeningTheFlask360.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Opening the Flask", "duration": null, "description": "Opening the Flask\n\nPresented by Armin Ronacher\n\nAfter a year of the Flask microframework it's time to draw some conclusions,\nsee things that went right and things that should be improved. The talk gives\nboth an introduction into Flask itself as well as well as the ecosystem that\nevolved around it.\n\nAbstract\n\nFlask is a microframework that was born out of an April's fool joke that\nquickly became more than that. Based on the powerful foundation of Werkzeug\nand Jinja2 it's one of the most popular frameworks for Python now.\n\nThe talk starts with a very quick introduction into Flask, where it all\nstarted and why I think people like it. We will look into the design of Flask\nand why it works the way it works.\n\nFurthermore we will look into the Flask ecosystem and how extensions work and\nhave a brief look in what is planned for the future, especially regarding\nPython 3.\n\nThe talk assumes basic knowledge of web applications.\n\n", "state": 1, "category": "PyCon US 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/440_opening-the-flask.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-03-11", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 180884321, "updated": "2014-04-08T20:28:28.002", "id": 440, "related_urls": [], "slug": "pycon-2011--opening-the-flask", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Armin Ronacher"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2011",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Opening the Flask\n\nPresented by Armin Ronacher\n\nAfter a year of the Flask microframework it's time to draw some conclusions,\nsee things that went right and things that should be improved. The talk gives\nboth an introduction into Flask itself as well as well as the ecosystem that\nevolved around it.\n\nAbstract\n\nFlask is a microframework that was born out of an April's fool joke that\nquickly became more than that. Based on the powerful foundation of Werkzeug\nand Jinja2 it's one of the most popular frameworks for Python now.\n\nThe talk starts with a very quick introduction into Flask, where it all\nstarted and why I think people like it. We will look into the design of Flask\nand why it works the way it works.\n\nFurthermore we will look into the Flask ecosystem and how extensions work and\nhave a brief look in what is planned for the future, especially regarding\nPython 3.\n\nThe talk assumes basic knowledge of web applications.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 440,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-03-11",
+    "related_urls": [],
+    "slug": "pycon-2011--opening-the-flask",
+    "source_url": "",
+    "speakers": [
+        "Armin Ronacher"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "flask",
+        "pycon",
+        "pycon2011"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011OpeningTheFlask360.png",
+    "title": "Opening the Flask",
+    "updated": "2014-04-08T20:28:28.002",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/440_opening-the-flask.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 180884321,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

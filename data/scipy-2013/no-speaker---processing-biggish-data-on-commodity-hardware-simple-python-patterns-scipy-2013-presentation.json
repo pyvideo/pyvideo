@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/-W-UZTDZ2r0/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/-W-UZTDZ2r0?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/-W-UZTDZ2r0?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:57", "whiteboard": "needs editing", "video_flv_length": null, "title": "Processing biggish data on commodity hardware: simple Python patterns; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-01", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=-W-UZTDZ2r0", "video_webm_url": null, "summary": "Authors: Author: Gael Varoquaux Institution: INRIA, Parietal team\n\nTrack: Machine Learning\n\nWhile big data spans many terabytes and requires distributed computing, most mere mortals deal with gigabytes. In this talk I will discuss our experience in applying efficiently machine learning to hundreds of gigabytes on commodity hardware. In particular, I will discuss patterns implemented in two Python libraries, joblib and scikit-learn, dissecting why they help addressing big data and how to implement them efficiently with simple tools.\n\nIn particular, I will cover:\n\nOn the fly data reduction\nOn-line algorithms and out-of-core computing\nParallel computing patterns: performance outside of a framework\nCaching of common operations, with efficient hashing of arbitrary\nPython objects and a robust datastore relying on Posix disk semantics\nThe talk will illustrate the high-level concepts introduced with detailed technical discussions on Python implementations, based both on examples using scikit-learn and joblib and on an analysis of how these libraries work. The goal here is less to sell the libraries themselves than to share the insights gained in using and developing them.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.425", "id": 2121, "related_urls": [], "slug": "processing-biggish-data-on-commodity-hardware-si-1", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:57",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/-W-UZTDZ2r0?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/-W-UZTDZ2r0?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2121,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-01",
+    "related_urls": [],
+    "slug": "processing-biggish-data-on-commodity-hardware-si-1",
+    "source_url": "http://www.youtube.com/watch?v=-W-UZTDZ2r0",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Author: Gael Varoquaux Institution: INRIA, Parietal team\n\nTrack: Machine Learning\n\nWhile big data spans many terabytes and requires distributed computing, most mere mortals deal with gigabytes. In this talk I will discuss our experience in applying efficiently machine learning to hundreds of gigabytes on commodity hardware. In particular, I will discuss patterns implemented in two Python libraries, joblib and scikit-learn, dissecting why they help addressing big data and how to implement them efficiently with simple tools.\n\nIn particular, I will cover:\n\nOn the fly data reduction\nOn-line algorithms and out-of-core computing\nParallel computing patterns: performance outside of a framework\nCaching of common operations, with efficient hashing of arbitrary\nPython objects and a robust datastore relying on Posix disk semantics\nThe talk will illustrate the high-level concepts introduced with detailed technical discussions on Python implementations, based both on examples using scikit-learn and joblib and on an analysis of how these libraries work. The goal here is less to sell the libraries themselves than to share the insights gained in using and developing them.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/-W-UZTDZ2r0/hqdefault.jpg",
+    "title": "Processing biggish data on commodity hardware: simple Python patterns; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.425",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

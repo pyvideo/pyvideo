@@ -1,1 +1,44 @@
-{"tags": ["packaging", "reproducible research"], "thumbnail_url": "http://i1.ytimg.com/vi/wviHkzk0AkY/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/wviHkzk0AkY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/wviHkzk0AkY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-09T19:24:53.236", "whiteboard": "", "video_flv_length": null, "title": "Reproducible, Relocatable, Customizable Builds and Packaging with HashDist Part1", "duration": null, "description": "Developing scientific software is a continuous balance between not reinventing the wheel and getting fragile codes to interoperate with one another.  Binary software distributions such as Anaconda provide a robust starting point for many scientific software packages, but this solution alone is insufficient for many scientific software developers.  HashDist provides a critical component of the development workflow, enabling highly customizable, source-driven, and reproducible builds for scientific software stacks, available from both the IPython Notebook and the command line.\r\n\r\nTo address these issues, the Coastal and Hydraulics Laboratory at the US Army Engineer Research and Development Center has funded the development of HashDist in collaboration with Simula Research Laboratories and the University of Texas at Austin.  HashDist is motivated by a functional approach to package build management, and features intelligent caching of sources and builds, parametrized build specifications, and the ability to interoperate with system compilers and packages. HashDist enables the easy specification of \"software stacks\", which allow both the novice user to install a default environment and the advanced user to configure every aspect of their build in a modular fashion.  As an advanced feature, HashDist builds can be made relocatable, allowing the easy redistribution of binaries on all three major operating systems as well as cloud, and supercomputing platforms.  As a final benefit, all HashDist builds are reproducible, with a build hash specifying exactly how each component of the software stack was installed.\r\n\r\nThis talk will feature an introduction to the problem of packaging Python-based scientific software, a discussion of the basic tools available to scientific Python developers, and a detailed discussion and demonstration of the HashDist package build manager.\r\n\r\nThe HashDist documentation is available from: http://hashdist.readthedocs.org/en/latest/\r\nHashDist is currently hosted at: https://github.com/hashdist/hashdist", "state": 1, "category": "SciPy 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-09", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=wviHkzk0AkY", "video_webm_url": null, "summary": "This talk introduces HashDist, a critical component of the scientific software development workflow.  HashDist enables highly customizable, source-driven, and reproducible builds for scientific software stacks.  HashDist builds can be made relocatable, allowing the easy redistribution of binaries on all three major operating systems as well as cloud and supercomputing platforms. ", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-07-09T19:24:53.236", "id": 2724, "related_urls": [], "slug": "reproducible-relocatable-customizable-builds-an", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Andy Terrel", "Aron Ahmadia", "Chris Kees", "Dag Sverre Seljebotn", "Ondrej Certik"]}
+{
+    "added": "2014-07-09T19:24:53.236",
+    "category": "SciPy 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "Developing scientific software is a continuous balance between not reinventing the wheel and getting fragile codes to interoperate with one another.  Binary software distributions such as Anaconda provide a robust starting point for many scientific software packages, but this solution alone is insufficient for many scientific software developers.  HashDist provides a critical component of the development workflow, enabling highly customizable, source-driven, and reproducible builds for scientific software stacks, available from both the IPython Notebook and the command line.\r\n\r\nTo address these issues, the Coastal and Hydraulics Laboratory at the US Army Engineer Research and Development Center has funded the development of HashDist in collaboration with Simula Research Laboratories and the University of Texas at Austin.  HashDist is motivated by a functional approach to package build management, and features intelligent caching of sources and builds, parametrized build specifications, and the ability to interoperate with system compilers and packages. HashDist enables the easy specification of \"software stacks\", which allow both the novice user to install a default environment and the advanced user to configure every aspect of their build in a modular fashion.  As an advanced feature, HashDist builds can be made relocatable, allowing the easy redistribution of binaries on all three major operating systems as well as cloud, and supercomputing platforms.  As a final benefit, all HashDist builds are reproducible, with a build hash specifying exactly how each component of the software stack was installed.\r\n\r\nThis talk will feature an introduction to the problem of packaging Python-based scientific software, a discussion of the basic tools available to scientific Python developers, and a detailed discussion and demonstration of the HashDist package build manager.\r\n\r\nThe HashDist documentation is available from: http://hashdist.readthedocs.org/en/latest/\r\nHashDist is currently hosted at: https://github.com/hashdist/hashdist",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/wviHkzk0AkY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/wviHkzk0AkY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2724,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-09",
+    "related_urls": [],
+    "slug": "reproducible-relocatable-customizable-builds-an",
+    "source_url": "http://www.youtube.com/watch?v=wviHkzk0AkY",
+    "speakers": [
+        "Andy Terrel",
+        "Aron Ahmadia",
+        "Chris Kees",
+        "Dag Sverre Seljebotn",
+        "Ondrej Certik"
+    ],
+    "state": 1,
+    "summary": "This talk introduces HashDist, a critical component of the scientific software development workflow.  HashDist enables highly customizable, source-driven, and reproducible builds for scientific software stacks.  HashDist builds can be made relocatable, allowing the easy redistribution of binaries on all three major operating systems as well as cloud and supercomputing platforms. ",
+    "tags": [
+        "packaging",
+        "reproducible research"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/wviHkzk0AkY/hqdefault.jpg",
+    "title": "Reproducible, Relocatable, Customizable Builds and Packaging with HashDist Part1",
+    "updated": "2014-07-09T19:24:53.236",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

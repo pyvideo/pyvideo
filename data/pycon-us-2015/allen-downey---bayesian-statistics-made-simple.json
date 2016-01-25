@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/5W715nfJNJw/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/5W715nfJNJw' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:03.481", "whiteboard": "needs editing", "video_flv_length": null, "title": "Bayesian statistics made simple", "duration": null, "description": "An introduction to Bayesian statistics using Python. \u00a0Bayesian statistics are usually presented mathematically, but many of the ideas are easier to understand computationally. \u00a0People who know Python can get started quickly and use Bayesian analysis to solve real problems. \u00a0This tutorial is based on material and case studies from Think Bayes (O\u2019Reilly Media).\n\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-10", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=5W715nfJNJw", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:03.481", "id": 3397, "related_urls": [], "slug": "bayesian-statistics-made-simple-1", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Allen Downey"]}
+{
+    "added": "2015-04-16T14:22:03.481",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "An introduction to Bayesian statistics using Python. \u00a0Bayesian statistics are usually presented mathematically, but many of the ideas are easier to understand computationally. \u00a0People who know Python can get started quickly and use Bayesian analysis to solve real problems. \u00a0This tutorial is based on material and case studies from Think Bayes (O\u2019Reilly Media).\n\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/5W715nfJNJw' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3397,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-10",
+    "related_urls": [],
+    "slug": "bayesian-statistics-made-simple-1",
+    "source_url": "https://www.youtube.com/watch?v=5W715nfJNJw",
+    "speakers": [
+        "Allen Downey"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/5W715nfJNJw/hqdefault.jpg",
+    "title": "Bayesian statistics made simple",
+    "updated": "2015-04-16T14:22:03.481",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

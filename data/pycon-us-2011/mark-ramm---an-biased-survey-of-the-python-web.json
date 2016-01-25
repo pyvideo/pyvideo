@@ -1,1 +1,42 @@
-{"tags": ["pycon", "pycon2011", "web", "webframeworks"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011AnBiasedSurveyOfThePythonWeb847.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "An (biased) survey of the python web", "duration": null, "description": "An (biased) survey of the python web\n\nPresented by Mark Ramm\n\nI may be BDFL of one framework, but that's also why I pay attention to the\nwhole ecosystem. From the release of Plone 4, TurboGears 2, Django 1.2 and\nPylons 1 ,it's been an interesting year. And things like html5lib, an updated\nWSGI spec, and a contender for the next generation WSGI have all made things\ninteresting. Come explore the wild and dynamic jungle that I call \"the python\nweb toolkit.\"\n\nAbstract\n\nThis talk will not teach people to use python to make websites. It's to teach\npeople who already use python, that there are lots of different tools out\nthere, and to help us all get some perspective on the python web toolkit.\n\nIn 2005 Pycon had the great PyWebOff, and while this talk won't be about\nthrowing Twisted into a cage match with Zope3, or setting Flask up in a fight\nto the death against web.py, it will one again provide an attempt to survey\nthe full landscape of the python web world, and to see how far we've come in\nthe last 5 years.\n\nWe've definitely come a long way. Django has brought over many converts to\nPython, google released app engine with python as the first supported\nlanguage, and there are quite a few sites in the top 100 using python to serve\nup dynamic content to hundreds of millions of users.\n\nBut it hasn't all been good either, there's more fragmentation than ever.\nWe've also got more half finished libraries, and broken framework extensions,\nand abandoned projects littering up the landscape.\n\n", "state": 1, "category": "PyCon US 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/434_an-biased-survey-of-the-python-web.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-03-11", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 135394179, "updated": "2014-04-08T20:28:27.942", "id": 434, "related_urls": [], "slug": "pycon-2011--an--biased--survey-of-the-python-web", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Mark Ramm"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2011",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "An (biased) survey of the python web\n\nPresented by Mark Ramm\n\nI may be BDFL of one framework, but that's also why I pay attention to the\nwhole ecosystem. From the release of Plone 4, TurboGears 2, Django 1.2 and\nPylons 1 ,it's been an interesting year. And things like html5lib, an updated\nWSGI spec, and a contender for the next generation WSGI have all made things\ninteresting. Come explore the wild and dynamic jungle that I call \"the python\nweb toolkit.\"\n\nAbstract\n\nThis talk will not teach people to use python to make websites. It's to teach\npeople who already use python, that there are lots of different tools out\nthere, and to help us all get some perspective on the python web toolkit.\n\nIn 2005 Pycon had the great PyWebOff, and while this talk won't be about\nthrowing Twisted into a cage match with Zope3, or setting Flask up in a fight\nto the death against web.py, it will one again provide an attempt to survey\nthe full landscape of the python web world, and to see how far we've come in\nthe last 5 years.\n\nWe've definitely come a long way. Django has brought over many converts to\nPython, google released app engine with python as the first supported\nlanguage, and there are quite a few sites in the top 100 using python to serve\nup dynamic content to hundreds of millions of users.\n\nBut it hasn't all been good either, there's more fragmentation than ever.\nWe've also got more half finished libraries, and broken framework extensions,\nand abandoned projects littering up the landscape.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 434,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-03-11",
+    "related_urls": [],
+    "slug": "pycon-2011--an--biased--survey-of-the-python-web",
+    "source_url": "",
+    "speakers": [
+        "Mark Ramm"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "pycon",
+        "pycon2011",
+        "web",
+        "webframeworks"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011AnBiasedSurveyOfThePythonWeb847.png",
+    "title": "An (biased) survey of the python web",
+    "updated": "2014-04-08T20:28:27.942",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/434_an-biased-survey-of-the-python-web.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 135394179,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

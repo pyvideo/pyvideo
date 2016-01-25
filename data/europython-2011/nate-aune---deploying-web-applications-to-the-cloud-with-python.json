@@ -1,1 +1,44 @@
-{"tags": ["boto", "cloud", "deploy", "ec2", "fabric", "web"], "thumbnail_url": "http://i.ytimg.com/vi/BTpjJkTXFSQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/BTpjJkTXFSQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/BTpjJkTXFSQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:46", "whiteboard": "", "video_flv_length": null, "title": "Deploying web applications to the cloud with Python", "duration": null, "description": "How can Python help you deploy web applications to the cloud? Amazon EC2\nprovides virtual machines on demand but as a developer you still have to\nconfigure these machines and push your code to them. Fabric is a Python\nlibrary that lets you execute commands on a remote machine, and Boto is a\nPython library for interfacing with Amazon web services. By using Fabric and\nBoto, you can easily create repeatable deployments and provision new resources\nas needed with minimal effort.\n\nThis talk will introduce Amazon Web Services and how to launch new machines\nusing simple Boto scripts, and how to get started making your own repeatable\ndeployments using Fabric scripts.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-13", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=BTpjJkTXFSQ", "video_webm_url": null, "summary": "[EuroPython 2011] Nate Aune - 23 June 2011 in \"Track Ravioli\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.805", "id": 1155, "related_urls": [], "slug": "deploying-web-applications-to-the-cloud-with-pyt-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Nate Aune"]}
+{
+    "added": "2012-08-30T21:02:46",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "How can Python help you deploy web applications to the cloud? Amazon EC2\nprovides virtual machines on demand but as a developer you still have to\nconfigure these machines and push your code to them. Fabric is a Python\nlibrary that lets you execute commands on a remote machine, and Boto is a\nPython library for interfacing with Amazon web services. By using Fabric and\nBoto, you can easily create repeatable deployments and provision new resources\nas needed with minimal effort.\n\nThis talk will introduce Amazon Web Services and how to launch new machines\nusing simple Boto scripts, and how to get started making your own repeatable\ndeployments using Fabric scripts.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/BTpjJkTXFSQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/BTpjJkTXFSQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1155,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-13",
+    "related_urls": [],
+    "slug": "deploying-web-applications-to-the-cloud-with-pyt-0",
+    "source_url": "http://www.youtube.com/watch?v=BTpjJkTXFSQ",
+    "speakers": [
+        "Nate Aune"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Nate Aune - 23 June 2011 in \"Track Ravioli\"\n\n",
+    "tags": [
+        "boto",
+        "cloud",
+        "deploy",
+        "ec2",
+        "fabric",
+        "web"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/BTpjJkTXFSQ/hqdefault.jpg",
+    "title": "Deploying web applications to the cloud with Python",
+    "updated": "2014-04-08T20:28:27.805",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

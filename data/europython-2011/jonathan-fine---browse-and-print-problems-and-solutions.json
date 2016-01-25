@@ -1,1 +1,41 @@
-{"tags": ["accessibility", "sphinx", "web"], "thumbnail_url": "http://i.ytimg.com/vi/ilwSRRLlOnE/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/ilwSRRLlOnE?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/ilwSRRLlOnE?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:05", "whiteboard": "", "video_flv_length": null, "title": "Browse and print problems and solutions", "duration": null, "description": "With the growth of the web, how we publish is changing. Paper alone is not\nenough, web pages are also required. And for many web pages it is not enough\nto rely on the browser\u2019s print capabilities. Sphinx, used since 2008 for\nPython\u2019s documentation, is a creative response to this tension.\n\nThis talk will take a broader view of the problem. For example, many browsers\nsupport web fonts for display but not for printing. Mathematics on web pages\nis still difficult, but SVG holds out much promise not only for mathematics\nbut for tables and other complex typeset material. Achieving accessibility\nremains difficult.\n\nBased on over 15 year\u2019s experience in print and electronic publishing, this\ntalk will survey problems and emerging solutions. Software and sites covered\ninclude LaTeX, PDF, SVG, MathJax, web-fonts, PediaPress, Sphinx and arXiv.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-02-27", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=ilwSRRLlOnE", "video_webm_url": null, "summary": "[EuroPython 2011] Jonathan Fine - 21 June 2011 in \"Track Tagliatelle\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.656", "id": 1006, "related_urls": [], "slug": "browse-and-print-problems-and-solutions", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Jonathan Fine"]}
+{
+    "added": "2012-08-30T21:02:05",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "With the growth of the web, how we publish is changing. Paper alone is not\nenough, web pages are also required. And for many web pages it is not enough\nto rely on the browser\u2019s print capabilities. Sphinx, used since 2008 for\nPython\u2019s documentation, is a creative response to this tension.\n\nThis talk will take a broader view of the problem. For example, many browsers\nsupport web fonts for display but not for printing. Mathematics on web pages\nis still difficult, but SVG holds out much promise not only for mathematics\nbut for tables and other complex typeset material. Achieving accessibility\nremains difficult.\n\nBased on over 15 year\u2019s experience in print and electronic publishing, this\ntalk will survey problems and emerging solutions. Software and sites covered\ninclude LaTeX, PDF, SVG, MathJax, web-fonts, PediaPress, Sphinx and arXiv.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/ilwSRRLlOnE?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/ilwSRRLlOnE?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1006,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-02-27",
+    "related_urls": [],
+    "slug": "browse-and-print-problems-and-solutions",
+    "source_url": "http://www.youtube.com/watch?v=ilwSRRLlOnE",
+    "speakers": [
+        "Jonathan Fine"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Jonathan Fine - 21 June 2011 in \"Track Tagliatelle\"\n\n",
+    "tags": [
+        "accessibility",
+        "sphinx",
+        "web"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/ilwSRRLlOnE/hqdefault.jpg",
+    "title": "Browse and print problems and solutions",
+    "updated": "2014-04-08T20:28:27.656",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

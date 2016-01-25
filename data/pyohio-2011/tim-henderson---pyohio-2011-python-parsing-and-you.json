@@ -1,1 +1,43 @@
-{"tags": ["lalr", "parser", "ply", "pyohio", "pyohio2011"], "thumbnail_url": "http://a.images.blip.tv/notfound-episode.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyOhio 2011: Python, Parsing and You", "duration": null, "description": "Python, Parsing, and You\n\nPresented by Tim Henderson\n\nTim Henderson Python is a fantastic language to write text processing tools\nin, including full fledged parsers. In this tutorial I will briefly cover\nRecursive Descent, Top Down Predictive and LALR Parsing. The tools used will\ninclude PLY and a Top Down Predictive Parsing framework of my own\nconstruction. I will expect the audience to be familiar with the following\nconcepts: Context Free Grammars, Regular Expressions, ...\n\n", "state": 1, "category": "PyOhio 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/530_pyohio-2011-python-parsing-and-you.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution 2.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 258213512, "updated": "2014-04-08T20:28:25.873", "id": 530, "related_urls": [], "slug": "pyohio-2011--python--parsing-and-you", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Tim Henderson"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyOhio 2011",
+    "copyright_text": "Creative Commons Attribution 2.0",
+    "description": "Python, Parsing, and You\n\nPresented by Tim Henderson\n\nTim Henderson Python is a fantastic language to write text processing tools\nin, including full fledged parsers. In this tutorial I will briefly cover\nRecursive Descent, Top Down Predictive and LALR Parsing. The tools used will\ninclude PLY and a Top Down Predictive Parsing framework of my own\nconstruction. I will expect the audience to be familiar with the following\nconcepts: Context Free Grammars, Regular Expressions, ...\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 530,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyohio-2011--python--parsing-and-you",
+    "source_url": "",
+    "speakers": [
+        "Tim Henderson"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "lalr",
+        "parser",
+        "ply",
+        "pyohio",
+        "pyohio2011"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/notfound-episode.png",
+    "title": "PyOhio 2011: Python, Parsing and You",
+    "updated": "2014-04-08T20:28:25.873",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/530_pyohio-2011-python-parsing-and-you.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 258213512,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

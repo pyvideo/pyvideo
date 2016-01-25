@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i1.ytimg.com/vi/P0nDa5XUISg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/P0nDa5XUISg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/P0nDa5XUISg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-08-01T21:48:07", "whiteboard": "", "video_flv_length": null, "title": "A Flask of full-text search with PostgreSQL", "duration": 20, "description": "", "state": 1, "category": "PyCon CA 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-08-10", "copyright_text": "CC BY-SA 2.5 CA", "source_url": "http://www.youtube.com/watch?v=P0nDa5XUISg", "video_webm_url": null, "summary": "Building a web application does not have to be hard! This talk walks through a real web application, in under 200 lines of code, that uses Flask for the web and PostgreSQL for its fast, built in text search support.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.163", "id": 2334, "related_urls": [], "slug": "a-flask-of-full-text-search-with-postgresql", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Dan Scott"]}
+{
+    "added": "2013-08-01T21:48:07",
+    "category": "PyCon CA 2013",
+    "copyright_text": "CC BY-SA 2.5 CA",
+    "description": "",
+    "duration": 20,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/P0nDa5XUISg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/P0nDa5XUISg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2334,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-08-10",
+    "related_urls": [],
+    "slug": "a-flask-of-full-text-search-with-postgresql",
+    "source_url": "http://www.youtube.com/watch?v=P0nDa5XUISg",
+    "speakers": [
+        "Dan Scott"
+    ],
+    "state": 1,
+    "summary": "Building a web application does not have to be hard! This talk walks through a real web application, in under 200 lines of code, that uses Flask for the web and PostgreSQL for its fast, built in text search support.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/P0nDa5XUISg/hqdefault.jpg",
+    "title": "A Flask of full-text search with PostgreSQL",
+    "updated": "2014-04-08T20:28:26.163",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

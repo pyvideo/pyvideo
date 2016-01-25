@@ -1,1 +1,43 @@
-{"tags": ["djangocon", "djangocon2011", "lettuce", "splinter", "testing"], "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-TestingWithLettuceAndSplinter801-433.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Testing with Lettuce and Splinter", "duration": null, "description": "Testing with Lettuce and Splinter\n\nPresented by Adam Nelson\n\nLettuce, adapted from Ruby's Cucumber, is a behavior driven development (BDD)\ntesting suite that sits on top of Splinter - a web driver for simulating real-\nworld usage of your site. Learn the ins and outs of BDD using Lettuce and\nSplinter for rapid deployment.\n\n", "state": 1, "category": "DjangoCon 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/106_testing-with-lettuce-and-splinter.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 89972141, "updated": "2014-04-08T20:28:25.935", "id": 106, "related_urls": [], "slug": "djangocon-2011--testing-with-lettuce-and-splinter", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Adam Nelson"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "DjangoCon 2011",
+    "copyright_text": "",
+    "description": "Testing with Lettuce and Splinter\n\nPresented by Adam Nelson\n\nLettuce, adapted from Ruby's Cucumber, is a behavior driven development (BDD)\ntesting suite that sits on top of Splinter - a web driver for simulating real-\nworld usage of your site. Learn the ins and outs of BDD using Lettuce and\nSplinter for rapid deployment.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 106,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "djangocon-2011--testing-with-lettuce-and-splinter",
+    "source_url": "",
+    "speakers": [
+        "Adam Nelson"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "djangocon",
+        "djangocon2011",
+        "lettuce",
+        "splinter",
+        "testing"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-TestingWithLettuceAndSplinter801-433.jpg",
+    "title": "Testing with Lettuce and Splinter",
+    "updated": "2014-04-08T20:28:25.935",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/106_testing-with-lettuce-and-splinter.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 89972141,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

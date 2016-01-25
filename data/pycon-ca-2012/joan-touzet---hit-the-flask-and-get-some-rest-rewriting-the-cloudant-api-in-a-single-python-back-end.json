@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i2.ytimg.com/vi/yEP42WgfaSs/hqdefault.jpg", "embed": "<object width=\"640\" height=\"480\"><param name=\"movie\" value=\"http://www.youtube.com/v/yEP42WgfaSs?version=3&amp;hl=en_US&amp;rel=0\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/yEP42WgfaSs?version=3&amp;hl=en_US&amp;rel=0\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"480\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-15T12:08:02", "whiteboard": "", "video_flv_length": null, "title": "Hit the Flask and Get Some REST: Rewriting the Cloudant API in a Single Python Back End", "duration": null, "description": "", "state": 1, "category": "PyCon CA 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://archive.org/download/nextdayvideo/pyconca%252Fpyconca2012%252FHit_the_Flask_and_Get_Some_REST_Rewriting_the_Cloudant_API_in_a_Single_Python_Back_End.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-11-10", "copyright_text": "", "source_url": "", "video_webm_url": "", "summary": "Cloudant Engineer Joan Touzet will explain the design decisions that led the\ncompany to rewrite the supporting API layer to all its back-end systems in\nPython using the Flask microframework to create a unified, RESTful API.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.851", "id": 1606, "related_urls": [], "slug": "hit-the-flask-and-get-some-rest-rewriting-the-cl", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Joan Touzet"]}
+{
+    "added": "2012-11-15T12:08:02",
+    "category": "PyCon CA 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"480\"><param name=\"movie\" value=\"http://www.youtube.com/v/yEP42WgfaSs?version=3&amp;hl=en_US&amp;rel=0\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/yEP42WgfaSs?version=3&amp;hl=en_US&amp;rel=0\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"480\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1606,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-11-10",
+    "related_urls": [],
+    "slug": "hit-the-flask-and-get-some-rest-rewriting-the-cl",
+    "source_url": "",
+    "speakers": [
+        "Joan Touzet"
+    ],
+    "state": 1,
+    "summary": "Cloudant Engineer Joan Touzet will explain the design decisions that led the\ncompany to rewrite the supporting API layer to all its back-end systems in\nPython using the Flask microframework to create a unified, RESTful API.\n\n",
+    "tags": [],
+    "thumbnail_url": "https://i2.ytimg.com/vi/yEP42WgfaSs/hqdefault.jpg",
+    "title": "Hit the Flask and Get Some REST: Rewriting the Cloudant API in a Single Python Back End",
+    "updated": "2014-04-08T20:28:26.851",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://archive.org/download/nextdayvideo/pyconca%252Fpyconca2012%252FHit_the_Flask_and_Get_Some_REST_Rewriting_the_Cloudant_API_in_a_Single_Python_Back_End.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

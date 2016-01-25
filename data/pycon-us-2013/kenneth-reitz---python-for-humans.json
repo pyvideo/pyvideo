@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i2.ytimg.com/vi/QpkHt1hDYTo/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/QpkHt1hDYTo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/QpkHt1hDYTo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:56:34", "whiteboard": "", "video_flv_length": null, "title": "Python for Humans", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Getting_Python_and_Django_Thro.mp4?Signature=QZTC36G3tjbxEoaC9FtitPfiptw%3D&Expires=1364652846&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-16", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=QpkHt1hDYTo", "video_webm_url": "", "summary": "Python\u2019s ecosystem is held up to a high standard, but it falls short in a few key areas. A handful of crucial APIs are an absolute pain to work with. We\u2019ll go over where these APIs went wrong and learn about strong and elegant API design. The high barriers to entry in Python will be discussed. Potential solutions will be proposed. ", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.666", "id": 1785, "related_urls": [], "slug": "python-for-humans-1", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Kenneth Reitz"]}
+{
+    "added": "2013-03-13T18:56:34",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/QpkHt1hDYTo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/QpkHt1hDYTo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1785,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-16",
+    "related_urls": [],
+    "slug": "python-for-humans-1",
+    "source_url": "https://www.youtube.com/watch?v=QpkHt1hDYTo",
+    "speakers": [
+        "Kenneth Reitz"
+    ],
+    "state": 1,
+    "summary": "Python\u2019s ecosystem is held up to a high standard, but it falls short in a few key areas. A handful of crucial APIs are an absolute pain to work with. We\u2019ll go over where these APIs went wrong and learn about strong and elegant API design. The high barriers to entry in Python will be discussed. Potential solutions will be proposed. ",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i2.ytimg.com/vi/QpkHt1hDYTo/hqdefault.jpg",
+    "title": "Python for Humans",
+    "updated": "2014-04-08T20:28:26.666",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Getting_Python_and_Django_Thro.mp4?Signature=QZTC36G3tjbxEoaC9FtitPfiptw%3D&Expires=1364652846&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,41 @@
-{"tags": ["careers", "pyohio", "pyohio2011"], "thumbnail_url": "http://a.images.blip.tv/Pyohio-SoftSkillzTheyArentJustForHumansAnymore503.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyOhio 2011: Soft Skillz: They aren't just for humans anymore", "duration": null, "description": "Soft Skillz: They aren't just for humans anymore\n\nPresented by Brian H. Prince\n\nBrian looks back at 15 years of being a developer, consultant, and business\nleader. He will talk about the skills and wisdom that you need to be happy and\nsuccessful in your career.\n\n", "state": 1, "category": "PyOhio 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/532_pyohio-2011-soft-skillz-they-aren-t-just-for-humans-anymore.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution 2.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 243890086, "updated": "2014-04-08T20:28:25.875", "id": 532, "related_urls": [], "slug": "pyohio-2011--soft-skillz--they-aren--39-t-just-fo", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Brian H. Prince"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyOhio 2011",
+    "copyright_text": "Creative Commons Attribution 2.0",
+    "description": "Soft Skillz: They aren't just for humans anymore\n\nPresented by Brian H. Prince\n\nBrian looks back at 15 years of being a developer, consultant, and business\nleader. He will talk about the skills and wisdom that you need to be happy and\nsuccessful in your career.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 532,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyohio-2011--soft-skillz--they-aren--39-t-just-fo",
+    "source_url": "",
+    "speakers": [
+        "Brian H. Prince"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "careers",
+        "pyohio",
+        "pyohio2011"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pyohio-SoftSkillzTheyArentJustForHumansAnymore503.png",
+    "title": "PyOhio 2011: Soft Skillz: They aren't just for humans anymore",
+    "updated": "2014-04-08T20:28:25.875",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/532_pyohio-2011-soft-skillz-they-aren-t-just-for-humans-anymore.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 243890086,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

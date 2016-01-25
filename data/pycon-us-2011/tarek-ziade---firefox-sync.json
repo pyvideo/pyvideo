@@ -1,1 +1,42 @@
-{"tags": ["casestudy", "firefoxsync", "pycon", "pycon2011"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011FirefoxSync705-934.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Firefox Sync", "duration": null, "description": "Firefox Sync\n\nPresented by Tarek Ziad\u00e9\n\nFirefox Sync let you access your history, passwords, bookmarks and even open\ntabs across all your devices, while remaining unreadable on the server through\nencryption. After a brief introduction on the Sync protocol, this talk will\nfocus on the server, which is written in Python.\n\nAbstract\n\nThe talk will briefly explain how Syncing works then will focus on the Server\narchitecture and code. You will discover through this talk how the server was\nbuilt and what technologies it uses.\n\n  1. Firefox Sync in numbers \n  2. How synchronisation happens - the big picture \n    1. Desktop\n    2. iPhone (Firefox Home)\n  3. How encryption works\n  4. Overview of the APIs \n    1. Sync 1.1\n    2. User 1.0\n  5. Server architecture \n    1. User & Data storage\n    2. Web Services\n    3. Libraries used\n  6. Scaling and benchmarking\n    1. Grinder\n    2. Funkload\n  7. Run your own server !\n  8. What's Next\n\n", "state": 1, "category": "PyCon US 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/376_firefox-sync.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-03-11", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 154913682, "updated": "2014-04-08T20:28:27.971", "id": 376, "related_urls": [], "slug": "pycon-2011--firefox-sync", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Tarek Ziad\u00e9"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2011",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Firefox Sync\n\nPresented by Tarek Ziad\u00e9\n\nFirefox Sync let you access your history, passwords, bookmarks and even open\ntabs across all your devices, while remaining unreadable on the server through\nencryption. After a brief introduction on the Sync protocol, this talk will\nfocus on the server, which is written in Python.\n\nAbstract\n\nThe talk will briefly explain how Syncing works then will focus on the Server\narchitecture and code. You will discover through this talk how the server was\nbuilt and what technologies it uses.\n\n  1. Firefox Sync in numbers \n  2. How synchronisation happens - the big picture \n    1. Desktop\n    2. iPhone (Firefox Home)\n  3. How encryption works\n  4. Overview of the APIs \n    1. Sync 1.1\n    2. User 1.0\n  5. Server architecture \n    1. User & Data storage\n    2. Web Services\n    3. Libraries used\n  6. Scaling and benchmarking\n    1. Grinder\n    2. Funkload\n  7. Run your own server !\n  8. What's Next\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 376,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-03-11",
+    "related_urls": [],
+    "slug": "pycon-2011--firefox-sync",
+    "source_url": "",
+    "speakers": [
+        "Tarek Ziad\u00e9"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "casestudy",
+        "firefoxsync",
+        "pycon",
+        "pycon2011"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011FirefoxSync705-934.jpg",
+    "title": "Firefox Sync",
+    "updated": "2014-04-08T20:28:27.971",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/376_firefox-sync.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 154913682,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,43 @@
-{"tags": ["pycon", "pycon2010", "reddit", "scaling", "web"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010ScalingYourPythonApplicationOnEC2191887.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Scaling your Python application on EC2 (#191)", "duration": null, "description": "Scaling Your Python Application on EC2\n\n  \nPresented by Jeremy Edberg\n\n  \nCome hear about the trials and tribulations of moving reddit's Python\napplication from physical hardware to EC2's cloud infrastructure, and how they\nhave scaled since moving. Will include general discussion of their learnings\nabout scaling as well cloud specific issues.\n\n  \n[VIDEO HAS ISSUES: Missing audio first few seconds]\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/349_scaling-your-python-application-on-ec2-191.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/349_scaling-your-python-application-on-ec2-191.ogv", "video_ogv_length": 145496279, "updated": "2014-04-08T20:28:28.195", "id": 349, "related_urls": [], "slug": "pycon-2010--scaling-your-python-application-on-ec", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Jeremy Edberg"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Scaling Your Python Application on EC2\n\n  \nPresented by Jeremy Edberg\n\n  \nCome hear about the trials and tribulations of moving reddit's Python\napplication from physical hardware to EC2's cloud infrastructure, and how they\nhave scaled since moving. Will include general discussion of their learnings\nabout scaling as well cloud specific issues.\n\n  \n[VIDEO HAS ISSUES: Missing audio first few seconds]\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 349,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--scaling-your-python-application-on-ec",
+    "source_url": "",
+    "speakers": [
+        "Jeremy Edberg"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "pycon",
+        "pycon2010",
+        "reddit",
+        "scaling",
+        "web"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010ScalingYourPythonApplicationOnEC2191887.png",
+    "title": "Scaling your Python application on EC2 (#191)",
+    "updated": "2014-04-08T20:28:28.195",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/349_scaling-your-python-application-on-ec2-191.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 145496279,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/349_scaling-your-python-application-on-ec2-191.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

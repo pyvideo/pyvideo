@@ -1,1 +1,42 @@
-{"tags": ["pycon", "pycon2010", "traits", "tutorial"], "thumbnail_url": "http://a.images.blip.tv/Pycon-IntroductionToTraits425-362.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Introduction to Traits", "duration": null, "description": "Introduction to Traits\n\nPresented by Corran Webster\n\nThe Traits project allows you to simply add validation, initialization,\ndelegation, notification and a graphical user interface to Python object\nattributes. In this tutorial we will explore the Traits toolset and learn how\nto dramatically reduce the amount of boilerplate code you write, do rapid GUI\napplication development, and understand the ideas which underly other parts of\nthe Enthought Tool Suite (such as MayaVi and Chaco plotting toolkits).\n\nTraits and the Enthought Tool Suite are open source projects licensed under a\nBSD-style license.\n\nIntended Audience\n\nIntermediate to advanced Python programmers\n\nClass Outline\n\n  * Introduction to ETS and Traits \n  * Basic Traits + Trait types + Property Traits + Trait Validation \n  * Traits UI + Basic Traits UI + Tour of the Trait editors + Advanced Trait editors \n  * Notification in Traits + Static notification + Dynamic notification \n  * Advanced Traits UI + Customizing Views, Groups and Items + Traits UI Handlers + Buttons, Menus and Toolbars + Drag and Drop \n  * Q&A;\n\nRequirements\n\nLaptop recommended (any major OS is fine), with the following software\ninstalled:\n\n  * Python 2.5 or 2.6 (www.python.org) \n  * Either wxPython (http://www.wxpython.org/) or PyQt (http://www.riverbankcomputing.co.uk/software/pyqt/intro) \n  * Numpy and Scipy (http://www.scipy.org) \n  * Enthought Tool Suite 3.2 or higher (http://code.enthought.com/projects) \n\nAll required software can be obtained by installing the free trial version of\nthe Enthought Python Distribution v5 or later\n(http://www.enthought.com/products/epd.php).\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/235_introduction-to-traits.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:28.137", "id": 235, "related_urls": [], "slug": "pycon-2010--introduction-to-traits", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Corran Webster"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Introduction to Traits\n\nPresented by Corran Webster\n\nThe Traits project allows you to simply add validation, initialization,\ndelegation, notification and a graphical user interface to Python object\nattributes. In this tutorial we will explore the Traits toolset and learn how\nto dramatically reduce the amount of boilerplate code you write, do rapid GUI\napplication development, and understand the ideas which underly other parts of\nthe Enthought Tool Suite (such as MayaVi and Chaco plotting toolkits).\n\nTraits and the Enthought Tool Suite are open source projects licensed under a\nBSD-style license.\n\nIntended Audience\n\nIntermediate to advanced Python programmers\n\nClass Outline\n\n  * Introduction to ETS and Traits \n  * Basic Traits + Trait types + Property Traits + Trait Validation \n  * Traits UI + Basic Traits UI + Tour of the Trait editors + Advanced Trait editors \n  * Notification in Traits + Static notification + Dynamic notification \n  * Advanced Traits UI + Customizing Views, Groups and Items + Traits UI Handlers + Buttons, Menus and Toolbars + Drag and Drop \n  * Q&A;\n\nRequirements\n\nLaptop recommended (any major OS is fine), with the following software\ninstalled:\n\n  * Python 2.5 or 2.6 (www.python.org) \n  * Either wxPython (http://www.wxpython.org/) or PyQt (http://www.riverbankcomputing.co.uk/software/pyqt/intro) \n  * Numpy and Scipy (http://www.scipy.org) \n  * Enthought Tool Suite 3.2 or higher (http://code.enthought.com/projects) \n\nAll required software can be obtained by installing the free trial version of\nthe Enthought Python Distribution v5 or later\n(http://www.enthought.com/products/epd.php).\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 235,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--introduction-to-traits",
+    "source_url": "",
+    "speakers": [
+        "Corran Webster"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "pycon",
+        "pycon2010",
+        "traits",
+        "tutorial"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-IntroductionToTraits425-362.jpg",
+    "title": "Introduction to Traits",
+    "updated": "2014-04-08T20:28:28.137",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/235_introduction-to-traits.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

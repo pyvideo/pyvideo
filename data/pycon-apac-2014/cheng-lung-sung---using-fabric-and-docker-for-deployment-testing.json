@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/ID9xtnwchuk/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/ID9xtnwchuk' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2014-10-26T00:13:21.746", "whiteboard": "", "video_flv_length": null, "title": "Using Fabric and Docker for deployment testing ", "duration": null, "description": "Deployment testing is a type of production testing which is performed after the code is deployed to check whether it is working fine in production. Fabric is a command-line tool for application deployment or systems administration tasks. Docker is a lightweight, portable, self-sufficient Linux container engine. This talk cover introduction to both Fabric and Docker, and how we use Fabric and Docker to test the deployment process.\r\n\r\n\r\nAbout the speaker\r\n\r\nAn Open Source developer and user for 10+ years. Current favorite programming languages are Python and Go, I get started with Python about 4 years ago. * Blog: <http://dev.clsung.tw/>", "state": 1, "category": "PyCon APAC 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-08-08", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=ID9xtnwchuk", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-10-26T16:36:19.545", "id": 3256, "related_urls": [], "slug": "using-fabric-and-docker-for-deployment-testing", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "Chinese", "video_ogv_download_only": false, "speakers": ["Cheng-Lung Sung"]}
+{
+    "added": "2014-10-26T00:13:21.746",
+    "category": "PyCon APAC 2014",
+    "copyright_text": "creativeCommon",
+    "description": "Deployment testing is a type of production testing which is performed after the code is deployed to check whether it is working fine in production. Fabric is a command-line tool for application deployment or systems administration tasks. Docker is a lightweight, portable, self-sufficient Linux container engine. This talk cover introduction to both Fabric and Docker, and how we use Fabric and Docker to test the deployment process.\r\n\r\n\r\nAbout the speaker\r\n\r\nAn Open Source developer and user for 10+ years. Current favorite programming languages are Python and Go, I get started with Python about 4 years ago. * Blog: <http://dev.clsung.tw/>",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/ID9xtnwchuk' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3256,
+    "language": "Chinese",
+    "quality_notes": "",
+    "recorded": "2014-08-08",
+    "related_urls": [],
+    "slug": "using-fabric-and-docker-for-deployment-testing",
+    "source_url": "https://www.youtube.com/watch?v=ID9xtnwchuk",
+    "speakers": [
+        "Cheng-Lung Sung"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/ID9xtnwchuk/hqdefault.jpg",
+    "title": "Using Fabric and Docker for deployment testing ",
+    "updated": "2014-10-26T16:36:19.545",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

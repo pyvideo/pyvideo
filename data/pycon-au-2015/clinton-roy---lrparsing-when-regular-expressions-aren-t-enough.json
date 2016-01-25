@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/9PQsCmOeYwU/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/9PQsCmOeYwU\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-10-18T16:10:52.730", "whiteboard": "needs editing", "video_flv_length": null, "title": "Lrparsing, when regular expressions aren't enough", "duration": null, "description": "Lrparsing is a fast, well documented and tested parsing infrastructure for Python. Parsing infrastructures are used when the input to be parsed is too complex to be done by regular expressions alone. Parsing infrastructures are ideally suited to parsing programming languages and configuration files. Lrparsing is roughly equivalent to the combination of Flex and Bison, except completely implemented in Python, and is thus very Pythonic.\n\nThe rest of the abstract uses the following Python snippet as an example:\n\n1 if option else 2\n\nlrparsing provides both a lexer (which breaks the input down into tokens, e.g.:\n\n ['1', 'if' , 'option',  'else', '2']\n\nand a parser generator, which produces a concrete parse tree:\n\n(\u00abternary\u00bb, (\u00abbool\u00bb, 'option'), (\u00abexpr\u00bb, '1')), (\u00abexpr\u00bb, '2')))\n\n Lrparsing provides Pythonic syntax support to easily construct parsers for programming languages, Domain Specific Languages and configuration file formats.\n\nLrparsing is very well suited to constructing Concrete Parse Trees but has little support for creating Abstract Syntax Trees (AST), which are much easier to use: My work has added Abstract Syntax Tree support to lrparsing, yielding exactly the same AST nodes that the Python AST module supports:\n\nIfExp(condition, 1, 2)\n\nThis talk will give an overview of the major features of Lrparsing, then look at my work to add AST support. \n\n", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-04", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=9PQsCmOeYwU", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-18T16:10:52.730", "id": 3955, "related_urls": [], "slug": "lrparsing-when-regular-expressions-arent-enough", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Clinton Roy"]}
+{
+    "added": "2015-10-18T16:10:52.730",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Lrparsing is a fast, well documented and tested parsing infrastructure for Python. Parsing infrastructures are used when the input to be parsed is too complex to be done by regular expressions alone. Parsing infrastructures are ideally suited to parsing programming languages and configuration files. Lrparsing is roughly equivalent to the combination of Flex and Bison, except completely implemented in Python, and is thus very Pythonic.\n\nThe rest of the abstract uses the following Python snippet as an example:\n\n1 if option else 2\n\nlrparsing provides both a lexer (which breaks the input down into tokens, e.g.:\n\n ['1', 'if' , 'option',  'else', '2']\n\nand a parser generator, which produces a concrete parse tree:\n\n(\u00abternary\u00bb, (\u00abbool\u00bb, 'option'), (\u00abexpr\u00bb, '1')), (\u00abexpr\u00bb, '2')))\n\n Lrparsing provides Pythonic syntax support to easily construct parsers for programming languages, Domain Specific Languages and configuration file formats.\n\nLrparsing is very well suited to constructing Concrete Parse Trees but has little support for creating Abstract Syntax Trees (AST), which are much easier to use: My work has added Abstract Syntax Tree support to lrparsing, yielding exactly the same AST nodes that the Python AST module supports:\n\nIfExp(condition, 1, 2)\n\nThis talk will give an overview of the major features of Lrparsing, then look at my work to add AST support. \n\n",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/9PQsCmOeYwU\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 3955,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-04",
+    "related_urls": [],
+    "slug": "lrparsing-when-regular-expressions-arent-enough",
+    "source_url": "https://www.youtube.com/watch?v=9PQsCmOeYwU",
+    "speakers": [
+        "Clinton Roy"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/9PQsCmOeYwU/hqdefault.jpg",
+    "title": "Lrparsing, when regular expressions aren't enough",
+    "updated": "2015-10-18T16:10:52.730",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

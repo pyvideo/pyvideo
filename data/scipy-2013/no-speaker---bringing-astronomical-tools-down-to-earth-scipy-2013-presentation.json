@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/AsOzSBgGU0I/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/AsOzSBgGU0I?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/AsOzSBgGU0I?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:39", "whiteboard": "needs editing", "video_flv_length": null, "title": "Bringing astronomical tools down to earth; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=AsOzSBgGU0I", "video_webm_url": null, "summary": "Authors: Droettboom, Michael, STScI; Dencheva, Nadia, STScI; Aldcroft, Tom, Harvard-Smithsonian Center for As\n\nTrack: General\n\nIn the process of developing the core tools in astropy, some modules have been developed that have wider applicability than just for astronomy. This talk will describe these tools and the approach taken by astropy towards these. These include general tools for handling units, and quantities with units, with capabilities not found in other unit packages, such as equivalency mappings. We have also developed a generic system for defining models and interfacing models with generic fitting algorithms in an easily extensible way. This system underlies our approach for mapping array coordinates to general world coordinate systems. Finally, a powerful table interface has been developed that handles many different data formats (currently focused mostly on astronomical varieties, but extensible to other fields as well).", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.334", "id": 2022, "related_urls": [], "slug": "bringing-astronomical-tools-down-to-earth-scipy", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:39",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/AsOzSBgGU0I?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/AsOzSBgGU0I?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2022,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [],
+    "slug": "bringing-astronomical-tools-down-to-earth-scipy",
+    "source_url": "http://www.youtube.com/watch?v=AsOzSBgGU0I",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Droettboom, Michael, STScI; Dencheva, Nadia, STScI; Aldcroft, Tom, Harvard-Smithsonian Center for As\n\nTrack: General\n\nIn the process of developing the core tools in astropy, some modules have been developed that have wider applicability than just for astronomy. This talk will describe these tools and the approach taken by astropy towards these. These include general tools for handling units, and quantities with units, with capabilities not found in other unit packages, such as equivalency mappings. We have also developed a generic system for defining models and interfacing models with generic fitting algorithms in an easily extensible way. This system underlies our approach for mapping array coordinates to general world coordinate systems. Finally, a powerful table interface has been developed that handles many different data formats (currently focused mostly on astronomical varieties, but extensible to other fields as well).",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/AsOzSBgGU0I/hqdefault.jpg",
+    "title": "Bringing astronomical tools down to earth; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.334",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

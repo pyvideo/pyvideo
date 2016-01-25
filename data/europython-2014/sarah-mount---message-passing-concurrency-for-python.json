@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/EsSdtvIGWAA/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/EsSdtvIGWAA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/EsSdtvIGWAA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:34.387", "whiteboard": "", "video_flv_length": null, "title": "Message-passing concurrency for Python", "duration": null, "description": "Concurrency and parallelism in Python are always hot topics. Early Python versions had a threading library to perform concurrency over operating system threads, Python version 2.6 introduced the multiprocessing library and Python 3.2 has introduced a futures library for asynchronous tasks. In addition to the modules in the standard library a number of packages such as gevent exist on PyPI to implement concurrency with \"green threads\". \r\n\r\nThis talk will look the variety of forms of concurrency and parallelism. When are the different libraries useful and how does their performance compare? Why do programmers want to \"remove the GIL\" and why is it so hard to do? In particular this talk will give an overview of various forms of message-passing concurrency which have become popular in languages like Scala and Go. A Python library called python-csp which implements similar ideas in a Pythonic way will be introduced and we will look at how this style of programming can be used to avoid deadlocks, race hazards and \"callback hell\".", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-22", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=EsSdtvIGWAA", "video_webm_url": "", "summary": "Concurrency and parallelism in Python are always hot topics. This talk will look the variety of forms of concurrency and parallelism. In particular this talk will give an overview of various forms of message-passing concurrency which have become popular in languages like Scala and Go. A Python library called python-csp which implements similar ideas in a Pythonic way will be introduced and we will look at how this style of programming can be used to avoid deadlocks, race hazards and \"callback hell\".", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-02T11:25:07.498", "id": 3032, "related_urls": [], "slug": "message-passing-concurrency-for-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Sarah Mount"]}
+{
+    "added": "2014-07-31T00:46:34.387",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "Concurrency and parallelism in Python are always hot topics. Early Python versions had a threading library to perform concurrency over operating system threads, Python version 2.6 introduced the multiprocessing library and Python 3.2 has introduced a futures library for asynchronous tasks. In addition to the modules in the standard library a number of packages such as gevent exist on PyPI to implement concurrency with \"green threads\". \r\n\r\nThis talk will look the variety of forms of concurrency and parallelism. When are the different libraries useful and how does their performance compare? Why do programmers want to \"remove the GIL\" and why is it so hard to do? In particular this talk will give an overview of various forms of message-passing concurrency which have become popular in languages like Scala and Go. A Python library called python-csp which implements similar ideas in a Pythonic way will be introduced and we will look at how this style of programming can be used to avoid deadlocks, race hazards and \"callback hell\".",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/EsSdtvIGWAA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/EsSdtvIGWAA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3032,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-22",
+    "related_urls": [],
+    "slug": "message-passing-concurrency-for-python",
+    "source_url": "http://www.youtube.com/watch?v=EsSdtvIGWAA",
+    "speakers": [
+        "Sarah Mount"
+    ],
+    "state": 1,
+    "summary": "Concurrency and parallelism in Python are always hot topics. This talk will look the variety of forms of concurrency and parallelism. In particular this talk will give an overview of various forms of message-passing concurrency which have become popular in languages like Scala and Go. A Python library called python-csp which implements similar ideas in a Pythonic way will be introduced and we will look at how this style of programming can be used to avoid deadlocks, race hazards and \"callback hell\".",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/EsSdtvIGWAA/hqdefault.jpg",
+    "title": "Message-passing concurrency for Python",
+    "updated": "2014-08-02T11:25:07.498",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

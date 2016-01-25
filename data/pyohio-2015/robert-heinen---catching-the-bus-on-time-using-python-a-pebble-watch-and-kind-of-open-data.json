@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "https://i.ytimg.com/vi/dZQYeoH0Ni0/hqdefault.jpg", "embed": "", "added": "2015-07-22T20:49:49.811", "whiteboard": "", "video_flv_length": null, "title": "Catching the bus on time -- Using Python, a Pebble Watch and (kind of) Open Data", "duration": 2541, "description": "Taking the bus used to be hard. You'd have to find a timetable, map out your route, and then cross your fingers that the bus actually showed up on time! Modern transit systems have equipped their fleet with GPS devices which provide near real-time location information. Using open data systems, a Python webapp, and a Pebble watch, let's build a bus time tracker that would make Dick Tracy envious!", "state": 1, "category": "PyOhio 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3710_Catching_the_bus_on_time_Using_Python_a_Pebble_Wat.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-02", "copyright_text": "CC BY", "source_url": "http://youtu.be/dZQYeoH0Ni0", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-03T12:13:20.489", "id": 3710, "related_urls": [], "slug": "catching-the-bus-on-time-using-python-a-pebbl", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Robert Heinen"]}
+{
+    "added": "2015-07-22T20:49:49.811",
+    "category": "PyOhio 2015",
+    "copyright_text": "CC BY",
+    "description": "Taking the bus used to be hard. You'd have to find a timetable, map out your route, and then cross your fingers that the bus actually showed up on time! Modern transit systems have equipped their fleet with GPS devices which provide near real-time location information. Using open data systems, a Python webapp, and a Pebble watch, let's build a bus time tracker that would make Dick Tracy envious!",
+    "duration": 2541,
+    "embed": "",
+    "id": 3710,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-02",
+    "related_urls": [],
+    "slug": "catching-the-bus-on-time-using-python-a-pebbl",
+    "source_url": "http://youtu.be/dZQYeoH0Ni0",
+    "speakers": [
+        "Robert Heinen"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/dZQYeoH0Ni0/hqdefault.jpg",
+    "title": "Catching the bus on time -- Using Python, a Pebble Watch and (kind of) Open Data",
+    "updated": "2015-08-03T12:13:20.489",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3710_Catching_the_bus_on_time_Using_Python_a_Pebble_Wat.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

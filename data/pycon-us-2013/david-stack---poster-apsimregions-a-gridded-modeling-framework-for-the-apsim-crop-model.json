@@ -1,1 +1,39 @@
-{"tags": ["poster"], "thumbnail_url": "", "embed": "", "added": "2013-03-13T18:57:51", "whiteboard": "", "video_flv_length": null, "title": "[Poster] ApsimRegions: A Gridded Modeling Framework for the APSIM Crop Model", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-17", "copyright_text": "CC", "source_url": "", "video_webm_url": "", "summary": "This poster demonstrates how Python can be used in the Environmental and Earth Systems Sciences to create a framework for automating the process of preparing input, running in parallel, and processing output from existing computer models. The framework discussed, ApsimRegions, uses many built-in and third-party Python packages to accomplish these tasks specifically for the APSIM crop growth model.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.577", "id": 1836, "related_urls": [], "slug": "apsimregions-a-gridded-modeling-framework-for-th", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["David Stack"]}
+{
+    "added": "2013-03-13T18:57:51",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "",
+    "id": 1836,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-17",
+    "related_urls": [],
+    "slug": "apsimregions-a-gridded-modeling-framework-for-th",
+    "source_url": "",
+    "speakers": [
+        "David Stack"
+    ],
+    "state": 1,
+    "summary": "This poster demonstrates how Python can be used in the Environmental and Earth Systems Sciences to create a framework for automating the process of preparing input, running in parallel, and processing output from existing computer models. The framework discussed, ApsimRegions, uses many built-in and third-party Python packages to accomplish these tasks specifically for the APSIM crop growth model.",
+    "tags": [
+        "poster"
+    ],
+    "thumbnail_url": "",
+    "title": "[Poster] ApsimRegions: A Gridded Modeling Framework for the APSIM Crop Model",
+    "updated": "2014-04-08T20:28:26.577",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

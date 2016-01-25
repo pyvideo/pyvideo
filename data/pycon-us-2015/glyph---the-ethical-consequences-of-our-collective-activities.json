@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/uSbKjRRbjZs/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/uSbKjRRbjZs' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:14.188", "whiteboard": "needs editing", "video_flv_length": null, "title": "The Ethical Consequences Of Our Collective Activities", "duration": null, "description": "As more of the world is controlled by software, software developers have an increasing obligation to serve that world well.  Yet, we don't yet have a sense of what makes a good ethical standard.  The fast pace, success, and youth (in both historical and demographic terms) of our industry have given us the sense that such a standard might not be required.  This talk will correct that misconception.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-12", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=uSbKjRRbjZs", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:14.188", "id": 3507, "related_urls": [], "slug": "the-ethical-consequences-of-our-collective-activi", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Glyph"]}
+{
+    "added": "2015-04-16T14:22:14.188",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "As more of the world is controlled by software, software developers have an increasing obligation to serve that world well.  Yet, we don't yet have a sense of what makes a good ethical standard.  The fast pace, success, and youth (in both historical and demographic terms) of our industry have given us the sense that such a standard might not be required.  This talk will correct that misconception.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/uSbKjRRbjZs' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3507,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-12",
+    "related_urls": [],
+    "slug": "the-ethical-consequences-of-our-collective-activi",
+    "source_url": "https://www.youtube.com/watch?v=uSbKjRRbjZs",
+    "speakers": [
+        "Glyph"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/uSbKjRRbjZs/hqdefault.jpg",
+    "title": "The Ethical Consequences Of Our Collective Activities",
+    "updated": "2015-04-16T14:22:14.188",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

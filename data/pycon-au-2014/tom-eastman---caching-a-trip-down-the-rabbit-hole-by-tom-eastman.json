@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/bIWnQ3F1eLA/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/bIWnQ3F1eLA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/bIWnQ3F1eLA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-08-14T15:33:07.898", "whiteboard": "needs editing", "video_flv_length": null, "title": "Caching: A trip down the rabbit hole by Tom Eastman", "duration": null, "description": "The question: How do I make my website fast?\r\n\r\nIf that sounds like a loaded question to you: good, we're on the same page.\r\n\r\nIn this talk I will give you a full overview of one of the most powerful and headache-inducing tools in the web-developer's kit: caching.\r\n\r\nThis is a talk for all experience levels, from beginner to seriously brain-melty. The code and scenarios we'll be exploring are within the context of a Django project, but the principles are applicable to all of web development.\r\n\r\nWe'll begin our journey in the light, warm land of web browser caches: learning how you can make your users' web browsers do all the work for you. Making your site feel rocket-fast and responsive with little more than some finely crafted HTTP response headers.\r\n\r\nFrom there, we'll begin our descent into the underworld of server-level caching, using reverse-proxies such as Varnish or Nginx that shield the application code from having to do any work. What they do, how they can help, and more important -- when do they *not* help, and when do you have to go deeper.\r\n\r\nFinally we'll explore the dark art of application-level caching. Whether it's caching whole responses, partial responses, preventing repetitive SQL queries or expensive API response serialization calls. And, if our brains haven't exploded yet, we might throw in some asynchronous cached-view-generation  just for good measure.\r\n\r\nWhether you're a hobbyist or a grizzled veteran, you should come out of this talk with a few new tricks up your sleeve for making all your sites do more with less work.\r\n\r\nExpect references from -- depending on mood -- Alice in Wonderland, The Matrix, or Dante Alighieri's \"Inferno\".", "state": 1, "category": "PyCon AU 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-08-11", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=bIWnQ3F1eLA", "video_webm_url": "", "summary": "", "video_ogv_url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/28-out.ogv", "video_ogv_length": null, "updated": "2014-08-14T15:41:02.115", "id": 3111, "related_urls": [], "slug": "caching-a-trip-down-the-rabbit-hole-by-tom-eastm", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Tom Eastman"]}
+{
+    "added": "2014-08-14T15:33:07.898",
+    "category": "PyCon AU 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "The question: How do I make my website fast?\r\n\r\nIf that sounds like a loaded question to you: good, we're on the same page.\r\n\r\nIn this talk I will give you a full overview of one of the most powerful and headache-inducing tools in the web-developer's kit: caching.\r\n\r\nThis is a talk for all experience levels, from beginner to seriously brain-melty. The code and scenarios we'll be exploring are within the context of a Django project, but the principles are applicable to all of web development.\r\n\r\nWe'll begin our journey in the light, warm land of web browser caches: learning how you can make your users' web browsers do all the work for you. Making your site feel rocket-fast and responsive with little more than some finely crafted HTTP response headers.\r\n\r\nFrom there, we'll begin our descent into the underworld of server-level caching, using reverse-proxies such as Varnish or Nginx that shield the application code from having to do any work. What they do, how they can help, and more important -- when do they *not* help, and when do you have to go deeper.\r\n\r\nFinally we'll explore the dark art of application-level caching. Whether it's caching whole responses, partial responses, preventing repetitive SQL queries or expensive API response serialization calls. And, if our brains haven't exploded yet, we might throw in some asynchronous cached-view-generation  just for good measure.\r\n\r\nWhether you're a hobbyist or a grizzled veteran, you should come out of this talk with a few new tricks up your sleeve for making all your sites do more with less work.\r\n\r\nExpect references from -- depending on mood -- Alice in Wonderland, The Matrix, or Dante Alighieri's \"Inferno\".",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/bIWnQ3F1eLA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/bIWnQ3F1eLA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3111,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-08-11",
+    "related_urls": [],
+    "slug": "caching-a-trip-down-the-rabbit-hole-by-tom-eastm",
+    "source_url": "http://www.youtube.com/watch?v=bIWnQ3F1eLA",
+    "speakers": [
+        "Tom Eastman"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/bIWnQ3F1eLA/hqdefault.jpg",
+    "title": "Caching: A trip down the rabbit hole by Tom Eastman",
+    "updated": "2014-08-14T15:41:02.115",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/28-out.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing"
+}

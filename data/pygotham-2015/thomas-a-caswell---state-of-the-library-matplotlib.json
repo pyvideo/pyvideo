@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/NYashPgYXB8/hqdefault.jpg", "embed": "", "added": "2015-08-10T15:48:27.117", "whiteboard": "", "video_flv_length": null, "title": "State of the library: matplotlib", "duration": 1481, "description": "A short summary of recent developments of matplotlib and how to write re-usable plotting code.", "state": 1, "category": "PyGotham 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3796_State_of_the_library_matplotlib.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-16", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/NYashPgYXB8", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-18T11:59:55.728", "id": 3796, "related_urls": [], "slug": "state-of-the-library-matplotlib", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Thomas A Caswell"]}
+{
+    "added": "2015-08-10T15:48:27.117",
+    "category": "PyGotham 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "A short summary of recent developments of matplotlib and how to write re-usable plotting code.",
+    "duration": 1481,
+    "embed": "",
+    "id": 3796,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-16",
+    "related_urls": [],
+    "slug": "state-of-the-library-matplotlib",
+    "source_url": "http://youtu.be/NYashPgYXB8",
+    "speakers": [
+        "Thomas A Caswell"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/NYashPgYXB8/hqdefault.jpg",
+    "title": "State of the library: matplotlib",
+    "updated": "2015-08-18T11:59:55.728",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3796_State_of_the_library_matplotlib.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

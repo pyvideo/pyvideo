@@ -1,1 +1,55 @@
-{"tags": ["numerical simulations", "provenance", "reproducibility", "sumatra"], "thumbnail_url": "http://i1.ytimg.com/vi/1YJr9c-zSng/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/1YJr9c-zSng?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/1YJr9c-zSng?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:42", "whiteboard": "", "video_flv_length": null, "title": "Using Sumatra to Manage Numerical Simulations", "duration": null, "description": "Authors: Davison, Andrew, CNRS (principal developer); Wheeler, Daniel, NIST (speaker)\r\n\r\nTrack: Reproducible Science\r\n\r\nSumatra is a lightweight system for recording the history and provenance data for numerical simulations. It works particularly well for scientists that are in the intermediate stage between developing a code base and using that code base for active research. This is a common scenario and often results in a mode of development that mixes branching for both code development and production simulations. Using Sumatra avoids this unintended use of the versioning system by providing a lightweight design for recording the provenance data independently from the versioning system used for the code development. The lightweight design of Sumatra fits well with existing ad-hoc patterns of simulation management contrasting with more pervasive workflow tools, which can require a wholesale alteration of work patterns. Sumatra uses a straightforward Django-based data model enabling persistent data storage independently from the Sumatra installation. Sumatra provides a command line utility with a rudimentary web interface, but has the potential to become a full web-based simulation management solution. During the talk, the speaker will provide an introduction to Sumatra as well as demonstrate some typical usage patterns and discuss achievable future goals.", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=1YJr9c-zSng", "video_webm_url": "", "summary": "Sumatra is a lightweight system for recording the history and provenance data for numerical simulations. ... The speaker will provide an introduction to Sumatra as well as demonstrate some typical usage patterns and discuss achievable future goals.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.377", "id": 2039, "related_urls": [{"url": "https://github.com/wd15/scipy2013", "description": "Repository talk"}, {"url": "http://neuralensemble.org/sumatra/", "description": "Sumatra project"}, {"url": "http://conference.scipy.org/scipy2013/presentation_detail.php?id=145", "description": "SciPy talk page"}], "slug": "using-sumatra-to-manage-numerical-simulations-sc", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Daniel Wheeler"]}
+{
+    "added": "2013-07-04T10:08:42",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "Authors: Davison, Andrew, CNRS (principal developer); Wheeler, Daniel, NIST (speaker)\r\n\r\nTrack: Reproducible Science\r\n\r\nSumatra is a lightweight system for recording the history and provenance data for numerical simulations. It works particularly well for scientists that are in the intermediate stage between developing a code base and using that code base for active research. This is a common scenario and often results in a mode of development that mixes branching for both code development and production simulations. Using Sumatra avoids this unintended use of the versioning system by providing a lightweight design for recording the provenance data independently from the versioning system used for the code development. The lightweight design of Sumatra fits well with existing ad-hoc patterns of simulation management contrasting with more pervasive workflow tools, which can require a wholesale alteration of work patterns. Sumatra uses a straightforward Django-based data model enabling persistent data storage independently from the Sumatra installation. Sumatra provides a command line utility with a rudimentary web interface, but has the potential to become a full web-based simulation management solution. During the talk, the speaker will provide an introduction to Sumatra as well as demonstrate some typical usage patterns and discuss achievable future goals.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/1YJr9c-zSng?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/1YJr9c-zSng?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2039,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [
+        {
+            "description": "Repository talk",
+            "url": "https://github.com/wd15/scipy2013"
+        },
+        {
+            "description": "Sumatra project",
+            "url": "http://neuralensemble.org/sumatra/"
+        },
+        {
+            "description": "SciPy talk page",
+            "url": "http://conference.scipy.org/scipy2013/presentation_detail.php?id=145"
+        }
+    ],
+    "slug": "using-sumatra-to-manage-numerical-simulations-sc",
+    "source_url": "http://www.youtube.com/watch?v=1YJr9c-zSng",
+    "speakers": [
+        "Daniel Wheeler"
+    ],
+    "state": 1,
+    "summary": "Sumatra is a lightweight system for recording the history and provenance data for numerical simulations. ... The speaker will provide an introduction to Sumatra as well as demonstrate some typical usage patterns and discuss achievable future goals.",
+    "tags": [
+        "numerical simulations",
+        "provenance",
+        "reproducibility",
+        "sumatra"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/1YJr9c-zSng/hqdefault.jpg",
+    "title": "Using Sumatra to Manage Numerical Simulations",
+    "updated": "2014-04-08T20:28:26.377",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

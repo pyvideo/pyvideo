@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/0FOQB4PZVe0/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/0FOQB4PZVe0\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-11-23T19:30:03.031", "whiteboard": "needs editing", "video_flv_length": null, "title": "Privsep: A New Security Isolation Mechanism for OpenStack", "duration": null, "description": "OpenStack listens to requests over the network, and (when appropriate) performs operations on the host that require root superpowers.  Following best-practice design, most of the code runs as an unprivileged user and only the code that needs additional powers runs as root using a tool called \"rootwrap\".\n\nThis talk discusses the evolution that led to the current rootwrap design, why it has proven to be completely inadequate in practice, and presents a new \"privsep\" alternative currently being worked on within Oslo.", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-16", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=0FOQB4PZVe0", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-11-23T19:30:03.031", "id": 4034, "related_urls": [], "slug": "privsep-a-new-security-isolation-mechanism-for-o", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Angus Lees"]}
+{
+    "added": "2015-11-23T19:30:03.031",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "OpenStack listens to requests over the network, and (when appropriate) performs operations on the host that require root superpowers.  Following best-practice design, most of the code runs as an unprivileged user and only the code that needs additional powers runs as root using a tool called \"rootwrap\".\n\nThis talk discusses the evolution that led to the current rootwrap design, why it has proven to be completely inadequate in practice, and presents a new \"privsep\" alternative currently being worked on within Oslo.",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/0FOQB4PZVe0\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 4034,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-16",
+    "related_urls": [],
+    "slug": "privsep-a-new-security-isolation-mechanism-for-o",
+    "source_url": "https://www.youtube.com/watch?v=0FOQB4PZVe0",
+    "speakers": [
+        "Angus Lees"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/0FOQB4PZVe0/hqdefault.jpg",
+    "title": "Privsep: A New Security Isolation Mechanism for OpenStack",
+    "updated": "2015-11-23T19:30:03.031",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

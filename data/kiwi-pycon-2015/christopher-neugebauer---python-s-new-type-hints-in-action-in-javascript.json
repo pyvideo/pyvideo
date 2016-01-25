@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/N-Upha2YFNs/hqdefault.jpg", "embed": "", "added": "2015-09-14T05:44:33.370", "whiteboard": "", "video_flv_length": null, "title": "Python's New Type Hints in Action\u2026 In JavaScript", "duration": 1645, "description": "Depending on who you ask, PEP 484's Type Hints are either the next big thing in Python, or the harbinger of doom upon our entire community. Which is it?\r\n\r\nAllowing optional static typing in Python will bring with it some benefits that other languages have had for years: IDEs will be able to do code completion better; a whole class of boring tests will fall out automatically; and some bugs will be easier to catch. \r\n\r\nBut this is also undeniably a huge change of direction: will it mean you have to substantially change your code style? Will Python's simple expressiveness suddenly become unattainable thanks to clumsy Java-style type declarations?\r\n\r\nTo show how PEP 484's Gradual Typing system works, we're going to look at TypeScript, a minimal implementation of Gradual Typing over JavaScript. We'll see how the type system works, and how it fits into the already thriving JavaScript developer community, where most people aren't using type hints at all.\r\n\r\nWe'll draw some parallels with how Python's implementation will work, and see what Python can learn from a language that has successfully made the jump to a type-hinted world.\r\n", "state": 1, "category": "Kiwi PyCon 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-09-06", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/N-Upha2YFNs", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-09-16T04:33:03.472", "id": 3860, "related_urls": [], "slug": "pythons-new-type-hints-in-action-in-javascript", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Christopher Neugebauer"]}
+{
+    "added": "2015-09-14T05:44:33.370",
+    "category": "Kiwi PyCon 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "Depending on who you ask, PEP 484's Type Hints are either the next big thing in Python, or the harbinger of doom upon our entire community. Which is it?\r\n\r\nAllowing optional static typing in Python will bring with it some benefits that other languages have had for years: IDEs will be able to do code completion better; a whole class of boring tests will fall out automatically; and some bugs will be easier to catch. \r\n\r\nBut this is also undeniably a huge change of direction: will it mean you have to substantially change your code style? Will Python's simple expressiveness suddenly become unattainable thanks to clumsy Java-style type declarations?\r\n\r\nTo show how PEP 484's Gradual Typing system works, we're going to look at TypeScript, a minimal implementation of Gradual Typing over JavaScript. We'll see how the type system works, and how it fits into the already thriving JavaScript developer community, where most people aren't using type hints at all.\r\n\r\nWe'll draw some parallels with how Python's implementation will work, and see what Python can learn from a language that has successfully made the jump to a type-hinted world.\r\n",
+    "duration": 1645,
+    "embed": "",
+    "id": 3860,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-09-06",
+    "related_urls": [],
+    "slug": "pythons-new-type-hints-in-action-in-javascript",
+    "source_url": "http://youtu.be/N-Upha2YFNs",
+    "speakers": [
+        "Christopher Neugebauer"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/N-Upha2YFNs/hqdefault.jpg",
+    "title": "Python's New Type Hints in Action\u2026 In JavaScript",
+    "updated": "2015-09-16T04:33:03.472",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

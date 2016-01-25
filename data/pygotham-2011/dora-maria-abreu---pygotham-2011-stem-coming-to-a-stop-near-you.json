@@ -1,1 +1,41 @@
-{"tags": ["pygotham", "pygotham2011", "stem"], "thumbnail_url": "http://a.images.blip.tv/Gloriajw-STEMComingToAStopNearYou822-694.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyGotham 2011: STEM coming to a stop near you", "duration": null, "description": "", "state": 1, "category": "PyGotham 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/491_pygotham-2011-stem-coming-to-a-stop-near-you.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "", "source_url": "", "video_webm_url": "", "summary": "STEM defined. What is STEM and what you can do to increase the STEM knowledge\nevery where!\n\n", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/491_pygotham-2011-stem-coming-to-a-stop-near-you.ogv", "video_ogv_length": 164055133, "updated": "2014-04-08T20:28:25.821", "id": 491, "related_urls": [], "slug": "pygotham-2011--stem-coming-to-a-stop-near-you", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Dora Maria Abreu"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyGotham 2011",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "",
+    "id": 491,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pygotham-2011--stem-coming-to-a-stop-near-you",
+    "source_url": "",
+    "speakers": [
+        "Dora Maria Abreu"
+    ],
+    "state": 1,
+    "summary": "STEM defined. What is STEM and what you can do to increase the STEM knowledge\nevery where!\n\n",
+    "tags": [
+        "pygotham",
+        "pygotham2011",
+        "stem"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Gloriajw-STEMComingToAStopNearYou822-694.jpg",
+    "title": "PyGotham 2011: STEM coming to a stop near you",
+    "updated": "2014-04-08T20:28:25.821",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/491_pygotham-2011-stem-coming-to-a-stop-near-you.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 164055133,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/491_pygotham-2011-stem-coming-to-a-stop-near-you.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

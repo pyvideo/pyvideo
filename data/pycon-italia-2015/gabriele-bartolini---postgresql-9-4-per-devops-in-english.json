@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/mh9bDeIFcUA/maxresdefault.jpg", "embed": "", "added": "2015-06-14T17:04:26.272", "whiteboard": "", "video_flv_length": null, "title": "PostgreSQL 9 4 per devops (in English)", "duration": 1528, "description": "The world\u2019s best open source database won\u2019t stop improving!\nDiscover the new features introduced in PostgreSQL 9.4, classified from a devops point of view, in particular:\n\nlogical streaming replication, the foundation of bi-directional and multi-master replication\nJSONB data type support, dedicated to NoSQL lovers!\nconcurrent refresh of materialised views, dedicated to data warehouse fans!\n\n", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-29", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=mh9bDeIFcUA", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-14T17:04:26.272", "id": 3618, "related_urls": [], "slug": "postgresql-9-4-per-devops-in-english", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Gabriele Bartolini"]}
+{
+    "added": "2015-06-14T17:04:26.272",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "The world\u2019s best open source database won\u2019t stop improving!\nDiscover the new features introduced in PostgreSQL 9.4, classified from a devops point of view, in particular:\n\nlogical streaming replication, the foundation of bi-directional and multi-master replication\nJSONB data type support, dedicated to NoSQL lovers!\nconcurrent refresh of materialised views, dedicated to data warehouse fans!\n\n",
+    "duration": 1528,
+    "embed": "",
+    "id": 3618,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-05-29",
+    "related_urls": [],
+    "slug": "postgresql-9-4-per-devops-in-english",
+    "source_url": "https://www.youtube.com/watch?v=mh9bDeIFcUA",
+    "speakers": [
+        "Gabriele Bartolini"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/mh9bDeIFcUA/maxresdefault.jpg",
+    "title": "PostgreSQL 9 4 per devops (in English)",
+    "updated": "2015-06-14T17:04:26.272",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

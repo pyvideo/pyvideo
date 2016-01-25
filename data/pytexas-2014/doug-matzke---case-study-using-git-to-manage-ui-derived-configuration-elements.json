@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/48fcIml0-_Y/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/48fcIml0-_Y?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/48fcIml0-_Y?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-09-26T00:27:48.218", "whiteboard": "", "video_flv_length": null, "title": "Case Study: Using Git to manage UI derived configuration Elements", "duration": 3000, "description": "Git is common choice for DVCS by software development teams. This case study describes a python system called ClicBank, that captures domain specific UI entity definitions (in medical insurance industry) as XML files and manages changes in the configurations using open source Git modules. This case study will describe the use cases driving this design, design choices,  schema approach, implementation decisions, python modules, workspace/repository design, number of managed entities, GIT performance and status of project. ", "state": 1, "category": "PyTexas 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3156_Case_Study_Using_Git_to_manage_UI_derived_configur.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-04", "copyright_text": "CC-BY", "source_url": "http://youtu.be/48fcIml0-_Y", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-10-14T00:55:08.037", "id": 3156, "related_urls": [], "slug": "case-study-using-git-to-manage-ui-derived-config", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Doug Matzke"]}
+{
+    "added": "2014-09-26T00:27:48.218",
+    "category": "PyTexas 2014",
+    "copyright_text": "CC-BY",
+    "description": "Git is common choice for DVCS by software development teams. This case study describes a python system called ClicBank, that captures domain specific UI entity definitions (in medical insurance industry) as XML files and manages changes in the configurations using open source Git modules. This case study will describe the use cases driving this design, design choices,  schema approach, implementation decisions, python modules, workspace/repository design, number of managed entities, GIT performance and status of project. ",
+    "duration": 3000,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/48fcIml0-_Y?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/48fcIml0-_Y?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3156,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-04",
+    "related_urls": [],
+    "slug": "case-study-using-git-to-manage-ui-derived-config",
+    "source_url": "http://youtu.be/48fcIml0-_Y",
+    "speakers": [
+        "Doug Matzke"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/48fcIml0-_Y/hqdefault.jpg",
+    "title": "Case Study: Using Git to manage UI derived configuration Elements",
+    "updated": "2014-10-14T00:55:08.037",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3156_Case_Study_Using_Git_to_manage_UI_derived_configur.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

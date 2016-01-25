@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/7gLZr5A2niM/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/7gLZr5A2niM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/7gLZr5A2niM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-09-26T00:28:20.213", "whiteboard": "", "video_flv_length": null, "title": "Building concurrent network applications with asyncio", "duration": 1500, "description": "In this talk, I'll introduce the `asyncio` module, which was recently added to the Python standard library. I'll talk about the problems that can be solved with asynchronous I/O and will show how the tools provided by the module, including event loops, coroutines, and futures, along with Python's new `yield from` syntax, can be used to build a concurrent network application.", "state": 1, "category": "PyTexas 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-04", "copyright_text": "CC-BY", "source_url": "http://youtu.be/7gLZr5A2niM", "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3179_Building_concurrent_network_applications_with_asyn.webm", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-10-05T20:13:07.392", "id": 3179, "related_urls": [], "slug": "building-concurrent-network-applications-with-asy", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Joel Watts"]}
+{
+    "added": "2014-09-26T00:28:20.213",
+    "category": "PyTexas 2014",
+    "copyright_text": "CC-BY",
+    "description": "In this talk, I'll introduce the `asyncio` module, which was recently added to the Python standard library. I'll talk about the problems that can be solved with asynchronous I/O and will show how the tools provided by the module, including event loops, coroutines, and futures, along with Python's new `yield from` syntax, can be used to build a concurrent network application.",
+    "duration": 1500,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/7gLZr5A2niM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/7gLZr5A2niM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3179,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-04",
+    "related_urls": [],
+    "slug": "building-concurrent-network-applications-with-asy",
+    "source_url": "http://youtu.be/7gLZr5A2niM",
+    "speakers": [
+        "Joel Watts"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/7gLZr5A2niM/hqdefault.jpg",
+    "title": "Building concurrent network applications with asyncio",
+    "updated": "2014-10-05T20:13:07.392",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3179_Building_concurrent_network_applications_with_asyn.webm",
+    "whiteboard": ""
+}

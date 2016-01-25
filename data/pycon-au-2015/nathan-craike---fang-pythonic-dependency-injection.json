@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/zqRd941NXlI/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/zqRd941NXlI\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-10-18T16:10:59.443", "whiteboard": "needs editing", "video_flv_length": null, "title": "Fang: Pythonic dependency injection", "duration": null, "description": "Dependency injection (DI) is a technique most often used in \"big OO\" languages like Java and C#. It's usually dismissed by Python developers as only needed because of these other languages' deficiencies: static typing, restrictive object systems, lack of reflection, etc.\r\n\r\nHowever, there are other dynamically-typed languages which do use forms of dependency injection. From looking at these systems, we can see there are some advantages to dependency injection _even if_ you're not using a traditional \"big OO\" language with static types and interfaces. Dependency-injected code can be more modular, much easier to test, easier to analyse, and easier to modify or extend to meet new requirements.\r\n\r\nDespite this, there aren't many dependency-injection systems for Python. The few that do exist aren't \"Pythonic\", or implement DI in ways that compromise a lot of its benefits.\r\n\r\nFang is a library which adds dependency injection to Python in a way which provides real benefits for code clarity, ease of testing, and maintainability, while still fitting naturally into Python's idioms. Fang describes dependencies concisely but explicitly, and doesn't restrict the developer to a particular paradigm on how dependencies are validated or met.\r\n\r\nThis talk will give a brief overview of how DI is used across a few languages (both traditional OO and dynamic languages) and highlight what elements of DI can be beneficial in Python. The talk will then demo how Fang can be used to add DI to Python code, and show some of the benefits to code clarity, unit testing and code analysis.\n\n", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-04", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=zqRd941NXlI", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-18T16:10:59.444", "id": 4004, "related_urls": [], "slug": "fang-pythonic-dependency-injection", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Nathan Craike"]}
+{
+    "added": "2015-10-18T16:10:59.443",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Dependency injection (DI) is a technique most often used in \"big OO\" languages like Java and C#. It's usually dismissed by Python developers as only needed because of these other languages' deficiencies: static typing, restrictive object systems, lack of reflection, etc.\r\n\r\nHowever, there are other dynamically-typed languages which do use forms of dependency injection. From looking at these systems, we can see there are some advantages to dependency injection _even if_ you're not using a traditional \"big OO\" language with static types and interfaces. Dependency-injected code can be more modular, much easier to test, easier to analyse, and easier to modify or extend to meet new requirements.\r\n\r\nDespite this, there aren't many dependency-injection systems for Python. The few that do exist aren't \"Pythonic\", or implement DI in ways that compromise a lot of its benefits.\r\n\r\nFang is a library which adds dependency injection to Python in a way which provides real benefits for code clarity, ease of testing, and maintainability, while still fitting naturally into Python's idioms. Fang describes dependencies concisely but explicitly, and doesn't restrict the developer to a particular paradigm on how dependencies are validated or met.\r\n\r\nThis talk will give a brief overview of how DI is used across a few languages (both traditional OO and dynamic languages) and highlight what elements of DI can be beneficial in Python. The talk will then demo how Fang can be used to add DI to Python code, and show some of the benefits to code clarity, unit testing and code analysis.\n\n",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/zqRd941NXlI\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 4004,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-04",
+    "related_urls": [],
+    "slug": "fang-pythonic-dependency-injection",
+    "source_url": "https://www.youtube.com/watch?v=zqRd941NXlI",
+    "speakers": [
+        "Nathan Craike"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/zqRd941NXlI/hqdefault.jpg",
+    "title": "Fang: Pythonic dependency injection",
+    "updated": "2015-10-18T16:10:59.444",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

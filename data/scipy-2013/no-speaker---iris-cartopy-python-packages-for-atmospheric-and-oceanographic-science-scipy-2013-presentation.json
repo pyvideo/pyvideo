@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/MW9wmGsscrs/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/MW9wmGsscrs?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/MW9wmGsscrs?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:35", "whiteboard": "needs editing", "video_flv_length": null, "title": "Iris & Cartopy: Python packages for Atmospheric and Oceanographic science; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=MW9wmGsscrs", "video_webm_url": null, "summary": "Iris & Cartopy: Open source Python packages for Atmospheric and Oceanographic science\n\nAuthors: Elson, Philip, UK Met Office;\n\nTrack: Meteorology, Climatology, Atmospheric and Oceanic Science\n\nAs the capabilities of Python packages valuable to the Atmospheric and Oceanographic Sciences (AOS) such as matplotlib, scipy and numpy have developed, so the UK Met Office's use of Python has expanded. The open source scientific Python stack is strategically important to the Met Office as it strives to meet the increasing need to collaborate freely and openly in academic and commercial partnerships. Python's easy to develop, dynamically typed syntax is ideally suited for data assimilation and model post-processing type tasks, and in recent years the Met Office has sustained funding for a team of software engineers to simplify, develop and improve its scientific capabilities by contributing to the the open source AOS community.\n\nThe focus of much of this effort has been on a new open source Python package, Iris 1, which implements a generalised n-dimensional gridded data model to isolate analysis and visualisation code from file format specifics. The Iris data model is a result of close collaboration with the CF Data Model community and currently has read/write support for a variety of file formats including NetCDF and GRIB. In order to deliver a component of the core visualisation functionality, a new mapping library called Cartopy 2 has also been developed on top of matplotlib. Cartopy exposes an intuitive interface for the transformation and visualisation of geospatial vector and raster data.\n\nThis talk will outline some of the Met Office's involvement in the open source community, including demonstrations of Iris and Cartopy; highlights of recent matplotlib contributions; and an outline of future developments.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.348", "id": 1990, "related_urls": [], "slug": "iris-cartopy-python-packages-for-atmospheric-a", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:35",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/MW9wmGsscrs?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/MW9wmGsscrs?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1990,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [],
+    "slug": "iris-cartopy-python-packages-for-atmospheric-a",
+    "source_url": "http://www.youtube.com/watch?v=MW9wmGsscrs",
+    "speakers": [],
+    "state": 1,
+    "summary": "Iris & Cartopy: Open source Python packages for Atmospheric and Oceanographic science\n\nAuthors: Elson, Philip, UK Met Office;\n\nTrack: Meteorology, Climatology, Atmospheric and Oceanic Science\n\nAs the capabilities of Python packages valuable to the Atmospheric and Oceanographic Sciences (AOS) such as matplotlib, scipy and numpy have developed, so the UK Met Office's use of Python has expanded. The open source scientific Python stack is strategically important to the Met Office as it strives to meet the increasing need to collaborate freely and openly in academic and commercial partnerships. Python's easy to develop, dynamically typed syntax is ideally suited for data assimilation and model post-processing type tasks, and in recent years the Met Office has sustained funding for a team of software engineers to simplify, develop and improve its scientific capabilities by contributing to the the open source AOS community.\n\nThe focus of much of this effort has been on a new open source Python package, Iris 1, which implements a generalised n-dimensional gridded data model to isolate analysis and visualisation code from file format specifics. The Iris data model is a result of close collaboration with the CF Data Model community and currently has read/write support for a variety of file formats including NetCDF and GRIB. In order to deliver a component of the core visualisation functionality, a new mapping library called Cartopy 2 has also been developed on top of matplotlib. Cartopy exposes an intuitive interface for the transformation and visualisation of geospatial vector and raster data.\n\nThis talk will outline some of the Met Office's involvement in the open source community, including demonstrations of Iris and Cartopy; highlights of recent matplotlib contributions; and an outline of future developments.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/MW9wmGsscrs/hqdefault.jpg",
+    "title": "Iris & Cartopy: Python packages for Atmospheric and Oceanographic science; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.348",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

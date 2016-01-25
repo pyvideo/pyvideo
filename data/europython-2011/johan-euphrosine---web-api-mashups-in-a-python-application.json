@@ -1,1 +1,44 @@
-{"tags": ["api", "google", "json", "oauth", "web", "wsgi"], "thumbnail_url": "http://i.ytimg.com/vi/Z_q-52ap-Vg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Z_q-52ap-Vg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Z_q-52ap-Vg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:20", "whiteboard": "", "video_flv_length": null, "title": "Web API Mashups in a Python Application", "duration": null, "description": "This talk will cover: - How to use OAuth into your webapp so users can give\npermission to access their data stored in third party web application. - How\nyour webapp can interact with their Web API using RESTful JSON protocols.\n\nThis talk is suitable for beginners already familiar with any WSGI web\nframework.\n\nThis talk will be illustrated with code samples using Google App Engine and\nGoogle APIs client library.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-18", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=Z_q-52ap-Vg", "video_webm_url": null, "summary": "[EuroPython 2011] Johan Euphrosine - 21 June 2011 in \"Track Tagliatelle\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.795", "id": 1061, "related_urls": [], "slug": "web-api-mashups-in-a-python-application", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Johan Euphrosine"]}
+{
+    "added": "2012-08-30T21:02:20",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "This talk will cover: - How to use OAuth into your webapp so users can give\npermission to access their data stored in third party web application. - How\nyour webapp can interact with their Web API using RESTful JSON protocols.\n\nThis talk is suitable for beginners already familiar with any WSGI web\nframework.\n\nThis talk will be illustrated with code samples using Google App Engine and\nGoogle APIs client library.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Z_q-52ap-Vg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Z_q-52ap-Vg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1061,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-18",
+    "related_urls": [],
+    "slug": "web-api-mashups-in-a-python-application",
+    "source_url": "http://www.youtube.com/watch?v=Z_q-52ap-Vg",
+    "speakers": [
+        "Johan Euphrosine"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Johan Euphrosine - 21 June 2011 in \"Track Tagliatelle\"\n\n",
+    "tags": [
+        "api",
+        "google",
+        "json",
+        "oauth",
+        "web",
+        "wsgi"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/Z_q-52ap-Vg/hqdefault.jpg",
+    "title": "Web API Mashups in a Python Application",
+    "updated": "2014-04-08T20:28:27.795",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

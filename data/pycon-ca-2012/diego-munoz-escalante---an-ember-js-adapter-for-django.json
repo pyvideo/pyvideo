@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i3.ytimg.com/vi/2SXtNV_knDk/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/2SXtNV_knDk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/2SXtNV_knDk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-14T09:02:33", "whiteboard": "", "video_flv_length": null, "title": "An Ember.js adapter for Django", "duration": null, "description": "", "state": 1, "category": "PyCon CA 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/An_Emberjs_adapter_for_Django.mp4?Signature=LgqYMSIM%2BF%2B10lOFmSQyZIoO%2BfI%3D&Expires=1352841411&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-11-11", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=2SXtNV_knDk", "video_webm_url": "", "summary": "Ember is a JS framework based on established conventions that allows writing\ncomplex applications with a small amount of code. Ember-data is the component\nthat connects this framework with a REST API. Unfortunately, the conventions\nfollowed by its community are not compatible with Tastypie, one of the most\nwidely used Django libraries. This adapter makes all these technologies work\ntogether.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.807", "id": 1564, "related_urls": [], "slug": "an-emberjs-adapter-for-django", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Diego Mu\u00f1oz Escalante"]}
+{
+    "added": "2012-11-14T09:02:33",
+    "category": "PyCon CA 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/2SXtNV_knDk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/2SXtNV_knDk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1564,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-11-11",
+    "related_urls": [],
+    "slug": "an-emberjs-adapter-for-django",
+    "source_url": "https://www.youtube.com/watch?v=2SXtNV_knDk",
+    "speakers": [
+        "Diego Mu\u00f1oz Escalante"
+    ],
+    "state": 1,
+    "summary": "Ember is a JS framework based on established conventions that allows writing\ncomplex applications with a small amount of code. Ember-data is the component\nthat connects this framework with a REST API. Unfortunately, the conventions\nfollowed by its community are not compatible with Tastypie, one of the most\nwidely used Django libraries. This adapter makes all these technologies work\ntogether.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i3.ytimg.com/vi/2SXtNV_knDk/hqdefault.jpg",
+    "title": "An Ember.js adapter for Django",
+    "updated": "2014-04-08T20:28:26.807",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/An_Emberjs_adapter_for_Django.mp4?Signature=LgqYMSIM%2BF%2B10lOFmSQyZIoO%2BfI%3D&Expires=1352841411&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

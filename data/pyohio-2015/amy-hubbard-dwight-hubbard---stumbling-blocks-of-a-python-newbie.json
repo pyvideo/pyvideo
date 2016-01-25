@@ -1,1 +1,40 @@
-{"tags": ["talk"], "thumbnail_url": "https://i.ytimg.com/vi/8h-_gHMxse4/hqdefault.jpg", "embed": "", "added": "2015-07-22T20:49:13.728", "whiteboard": "", "video_flv_length": null, "title": "Stumbling blocks of a Python newbie", "duration": 1255, "description": "In our PyLadies study group the training resources we\u2019ve used have common stumbling blocks which can make learning difficult for the beginner.  We will provide suggestions on how to overcome these challenges and to increase the success of learners.", "state": 1, "category": "PyOhio 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3678_Stumbling_blocks_of_a_Python_newbie.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-01", "copyright_text": "CC BY", "source_url": "http://youtu.be/8h-_gHMxse4", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-11T17:45:39.739", "id": 3678, "related_urls": [], "slug": "stumbling-blocks-of-a-python-newbie", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Amy Hubbard", "Dwight Hubbard"]}
+{
+    "added": "2015-07-22T20:49:13.728",
+    "category": "PyOhio 2015",
+    "copyright_text": "CC BY",
+    "description": "In our PyLadies study group the training resources we\u2019ve used have common stumbling blocks which can make learning difficult for the beginner.  We will provide suggestions on how to overcome these challenges and to increase the success of learners.",
+    "duration": 1255,
+    "embed": "",
+    "id": 3678,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-01",
+    "related_urls": [],
+    "slug": "stumbling-blocks-of-a-python-newbie",
+    "source_url": "http://youtu.be/8h-_gHMxse4",
+    "speakers": [
+        "Amy Hubbard",
+        "Dwight Hubbard"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/8h-_gHMxse4/hqdefault.jpg",
+    "title": "Stumbling blocks of a Python newbie",
+    "updated": "2015-08-11T17:45:39.739",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3678_Stumbling_blocks_of_a_Python_newbie.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

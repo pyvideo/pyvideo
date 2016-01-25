@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/KiVwsCBkFYk/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/KiVwsCBkFYk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/KiVwsCBkFYk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:39", "whiteboard": "needs editing", "video_flv_length": null, "title": "Breaking the diffraction limit with python and scipy; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=KiVwsCBkFYk", "video_webm_url": null, "summary": "Authors: Baddeley, David, Nanobiology Institute, Yale University\n\nTrack: General\n\nTextbook physics tells us that the resolution of a microsope is limited to half the wavelength of the radiation used. This means that structures smaller than ~250 nm cannot be resolved in an optical microscope, and that electron microscopy was required to study cellular nanostructures. Recent advances based on imaging stochastically switching fluorescent probes have allowed the diffraction limit to be circumvented and optical imaging to be performed with a resolution of 10-20 nm. These new methods, known as PALM (Photo-Activated Localisation Microscopy), STORM (STochastic Optical Reconstruction Microscopy), and a number of related acronyms are computationally intensive and involve detailed control of the microscope hardware.\n\nI will present a comprehensive package for PALM/STORM microscope control and image analysis written in python and scipy. The package is modular, and comes complete with a facility for distributed data analysis. In addition to the specialised localisation microscopy components, there are many aspects of the project which are likely to be interesting to the broader microscopy and image processing community. These include a generic microscope control package, an extensible 3D image viewer supporting many basic image processing tasks, a 3D deconvolution software (Richardson-Lucy and ICTM), as well as PSF simulation and pupil phase extraction code.\n\nMy knowledge of python has grown alongside the project, and In addition to giving an overview of the package, I will discuss some of the design choices and mistakes I've made along the way.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.332", "id": 2016, "related_urls": [], "slug": "breaking-the-diffraction-limit-with-python-and-sc", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:39",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/KiVwsCBkFYk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/KiVwsCBkFYk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2016,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [],
+    "slug": "breaking-the-diffraction-limit-with-python-and-sc",
+    "source_url": "http://www.youtube.com/watch?v=KiVwsCBkFYk",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Baddeley, David, Nanobiology Institute, Yale University\n\nTrack: General\n\nTextbook physics tells us that the resolution of a microsope is limited to half the wavelength of the radiation used. This means that structures smaller than ~250 nm cannot be resolved in an optical microscope, and that electron microscopy was required to study cellular nanostructures. Recent advances based on imaging stochastically switching fluorescent probes have allowed the diffraction limit to be circumvented and optical imaging to be performed with a resolution of 10-20 nm. These new methods, known as PALM (Photo-Activated Localisation Microscopy), STORM (STochastic Optical Reconstruction Microscopy), and a number of related acronyms are computationally intensive and involve detailed control of the microscope hardware.\n\nI will present a comprehensive package for PALM/STORM microscope control and image analysis written in python and scipy. The package is modular, and comes complete with a facility for distributed data analysis. In addition to the specialised localisation microscopy components, there are many aspects of the project which are likely to be interesting to the broader microscopy and image processing community. These include a generic microscope control package, an extensible 3D image viewer supporting many basic image processing tasks, a 3D deconvolution software (Richardson-Lucy and ICTM), as well as PSF simulation and pupil phase extraction code.\n\nMy knowledge of python has grown alongside the project, and In addition to giving an overview of the package, I will discuss some of the design choices and mistakes I've made along the way.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/KiVwsCBkFYk/hqdefault.jpg",
+    "title": "Breaking the diffraction limit with python and scipy; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.332",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

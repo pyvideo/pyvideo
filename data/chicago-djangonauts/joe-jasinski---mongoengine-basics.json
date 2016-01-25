@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/CApYuQWNCKo/hqdefault.jpg", "embed": "", "added": "2015-09-04T01:53:58.334", "whiteboard": "", "video_flv_length": null, "title": "Mongoengine Basics", "duration": 2425, "description": "A walk through of MondoDB pymongo and mongoengine and how they can be used in a production environment.", "state": 1, "category": "Chicago Djangonauts", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chicago-djangonauts/mongoengine_basics.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-09-03", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/CApYuQWNCKo", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-09-04T11:23:50.450", "id": 3849, "related_urls": [], "slug": "mongoengine-basics", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Joe Jasinski"]}
+{
+    "added": "2015-09-04T01:53:58.334",
+    "category": "Chicago Djangonauts",
+    "copyright_text": "CC BY-SA",
+    "description": "A walk through of MondoDB pymongo and mongoengine and how they can be used in a production environment.",
+    "duration": 2425,
+    "embed": "",
+    "id": 3849,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-09-03",
+    "related_urls": [],
+    "slug": "mongoengine-basics",
+    "source_url": "http://youtu.be/CApYuQWNCKo",
+    "speakers": [
+        "Joe Jasinski"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/CApYuQWNCKo/hqdefault.jpg",
+    "title": "Mongoengine Basics",
+    "updated": "2015-09-04T11:23:50.450",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chicago-djangonauts/mongoengine_basics.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

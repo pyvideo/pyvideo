@@ -1,1 +1,40 @@
-{"tags": ["pycon", "pycon2010"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010ManagingTheWorldsOldestDjangoProject80830.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Managing the world's oldest Django project (#80)", "duration": null, "description": "Managing the world's oldest Django project\n\n  \nPresented by James Bennett\n\n  \nOr, \"how we cut 40,000 lines of code and learned to love unit testing.\"\n\n  \nThis talk will cover some of the development history behind Ellington, the CMS\nwhich spawned the open-source Django web framework, and some of the issues\ninvolved in developing and maintaining a codebase of this age and size.\nHighlights include branch management, the advantages of open-sourcing non-\ncritical functionality, the pain of porting and the joy that can only be found\nin a passing test suite.\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/345_managing-the-world-s-oldest-django-project-80.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/345_managing-the-world-s-oldest-django-project-80.ogv", "video_ogv_length": 303493475, "updated": "2014-04-08T20:28:28.150", "id": 345, "related_urls": [], "slug": "pycon-2010--managing-the-world--39-s-oldest-djang", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["James Bennett"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Managing the world's oldest Django project\n\n  \nPresented by James Bennett\n\n  \nOr, \"how we cut 40,000 lines of code and learned to love unit testing.\"\n\n  \nThis talk will cover some of the development history behind Ellington, the CMS\nwhich spawned the open-source Django web framework, and some of the issues\ninvolved in developing and maintaining a codebase of this age and size.\nHighlights include branch management, the advantages of open-sourcing non-\ncritical functionality, the pain of porting and the joy that can only be found\nin a passing test suite.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 345,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--managing-the-world--39-s-oldest-djang",
+    "source_url": "",
+    "speakers": [
+        "James Bennett"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "pycon",
+        "pycon2010"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010ManagingTheWorldsOldestDjangoProject80830.png",
+    "title": "Managing the world's oldest Django project (#80)",
+    "updated": "2014-04-08T20:28:28.150",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/345_managing-the-world-s-oldest-django-project-80.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 303493475,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/345_managing-the-world-s-oldest-django-project-80.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

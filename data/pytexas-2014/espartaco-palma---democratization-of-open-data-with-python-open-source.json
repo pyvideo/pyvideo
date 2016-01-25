@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/pPqf4PvSEXM/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/pPqf4PvSEXM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/pPqf4PvSEXM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-09-26T00:28:21.576", "whiteboard": "", "video_flv_length": null, "title": "Democratization of Open Data with Python & Open Source", "duration": 1500, "description": "Since the beginning of 2000s, Eric von Hippel has presented Models on how Paradigm Shift from Producer Innovation to User and Open Collaborative Innovation, this can be true not only on products, also in how the users can produce innovation on service like the OpenData & Open Government, don't need the main publisher, researcher or Government provide all the work. The communities can push more innovation around this new services.\r\n\r\nNowadays, everybody can improve the data available, curate, create, publish and provide more value on public & open data. Learn a framework like Flask is more accessible than ever, host & publish REST services for free, host the code of project for free also. It's democratizing all the way. All can be done with Python.\r\n\r\nIn this presentation I'll demonstrate how can use GitHub to publish a data sets (and proper updates) and the code of the Python REST API with no more than 100 lines of code which can be deployed on local installation, plus, with few commands,  deploy on a service with a free tier like OpenShift for a worldwide audience.", "state": 1, "category": "PyTexas 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-04", "copyright_text": "CC-BY", "source_url": "http://youtu.be/pPqf4PvSEXM", "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3180_Democratization_of_Open_Data_with_Python_Open_Sour.webm", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-10-06T12:55:03.036", "id": 3180, "related_urls": [], "slug": "democratization-of-open-data-with-python-open-s", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Espartaco Palma"]}
+{
+    "added": "2014-09-26T00:28:21.576",
+    "category": "PyTexas 2014",
+    "copyright_text": "CC-BY",
+    "description": "Since the beginning of 2000s, Eric von Hippel has presented Models on how Paradigm Shift from Producer Innovation to User and Open Collaborative Innovation, this can be true not only on products, also in how the users can produce innovation on service like the OpenData & Open Government, don't need the main publisher, researcher or Government provide all the work. The communities can push more innovation around this new services.\r\n\r\nNowadays, everybody can improve the data available, curate, create, publish and provide more value on public & open data. Learn a framework like Flask is more accessible than ever, host & publish REST services for free, host the code of project for free also. It's democratizing all the way. All can be done with Python.\r\n\r\nIn this presentation I'll demonstrate how can use GitHub to publish a data sets (and proper updates) and the code of the Python REST API with no more than 100 lines of code which can be deployed on local installation, plus, with few commands,  deploy on a service with a free tier like OpenShift for a worldwide audience.",
+    "duration": 1500,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/pPqf4PvSEXM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/pPqf4PvSEXM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3180,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-04",
+    "related_urls": [],
+    "slug": "democratization-of-open-data-with-python-open-s",
+    "source_url": "http://youtu.be/pPqf4PvSEXM",
+    "speakers": [
+        "Espartaco Palma"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/pPqf4PvSEXM/hqdefault.jpg",
+    "title": "Democratization of Open Data with Python & Open Source",
+    "updated": "2014-10-06T12:55:03.036",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3180_Democratization_of_Open_Data_with_Python_Open_Sour.webm",
+    "whiteboard": ""
+}

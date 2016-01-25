@@ -1,1 +1,42 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/SB9TWabor1k/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/SB9TWabor1k?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/SB9TWabor1k?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-06-26T21:37:22", "whiteboard": "", "video_flv_length": null, "title": "Hy: A Lisp that transforms itself into the Python AST. ", "duration": 90, "description": "", "state": 1, "category": "ChiPy", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvchipy/Hy_a_lisp_that_transforms_itse.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-05-09", "copyright_text": "CC BY", "source_url": "https://www.youtube.com/watch?v=SB9TWabor1k", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.525", "id": 1869, "related_urls": [{"url": "http://hy.readthedocs.org/en/latest/", "description": "hy documentation"}], "slug": "hy-a-lisp-that-transforms-itself-into-the-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Christopher Webber"]}
+{
+    "added": "2013-06-26T21:37:22",
+    "category": "ChiPy",
+    "copyright_text": "CC BY",
+    "description": "",
+    "duration": 90,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/SB9TWabor1k?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/SB9TWabor1k?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1869,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-05-09",
+    "related_urls": [
+        {
+            "description": "hy documentation",
+            "url": "http://hy.readthedocs.org/en/latest/"
+        }
+    ],
+    "slug": "hy-a-lisp-that-transforms-itself-into-the-python",
+    "source_url": "https://www.youtube.com/watch?v=SB9TWabor1k",
+    "speakers": [
+        "Christopher Webber"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/SB9TWabor1k/hqdefault.jpg",
+    "title": "Hy: A Lisp that transforms itself into the Python AST. ",
+    "updated": "2014-04-08T20:28:26.525",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvchipy/Hy_a_lisp_that_transforms_itse.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

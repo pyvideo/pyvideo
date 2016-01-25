@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/KWxu5xuRtwo/hqdefault.jpg", "embed": "", "added": "2015-08-10T15:48:50.437", "whiteboard": "", "video_flv_length": null, "title": "Introduction to pysparkling", "duration": 1279, "description": "A native Python implementation of Spark's RDD interface.", "state": 1, "category": "PyGotham 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3813_Introduction_to_pysparkling.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-16", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/KWxu5xuRtwo", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-18T09:48:02.564", "id": 3813, "related_urls": [], "slug": "introduction-to-pysparkling", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Sven Kreiss"]}
+{
+    "added": "2015-08-10T15:48:50.437",
+    "category": "PyGotham 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "A native Python implementation of Spark's RDD interface.",
+    "duration": 1279,
+    "embed": "",
+    "id": 3813,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-16",
+    "related_urls": [],
+    "slug": "introduction-to-pysparkling",
+    "source_url": "http://youtu.be/KWxu5xuRtwo",
+    "speakers": [
+        "Sven Kreiss"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/KWxu5xuRtwo/hqdefault.jpg",
+    "title": "Introduction to pysparkling",
+    "updated": "2015-08-18T09:48:02.564",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3813_Introduction_to_pysparkling.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

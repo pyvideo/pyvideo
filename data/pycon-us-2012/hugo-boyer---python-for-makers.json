@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://img.youtube.com/vi/wslWYg0CTkY/hqdefault.jpg", "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/wslWYg0CTkY?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/wslWYg0CTkY?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", "added": "2012-03-12T20:00:31", "whiteboard": "", "video_flv_length": null, "title": "Python for makers", "duration": null, "description": "", "state": 1, "category": "PyCon US 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-03-10", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=wslWYg0CTkY", "video_webm_url": null, "summary": "Digital fabrication is the art of translating digital designs into physical\nobjects. Using personal machines that are controlled via software, a live\ndemonstration of CNC milling and 3D printing will also be performed. This talk\nis a walkthrough from 3D models to machine motion, that shows how we can use\nPython to write GCODE generators that create endless form.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.501", "id": 663, "related_urls": [], "slug": "python-for-makers", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Hugo Boyer"]}
+{
+    "added": "2012-03-12T20:00:31",
+    "category": "PyCon US 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/wslWYg0CTkY?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/wslWYg0CTkY?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>",
+    "id": 663,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-03-10",
+    "related_urls": [],
+    "slug": "python-for-makers",
+    "source_url": "https://www.youtube.com/watch?v=wslWYg0CTkY",
+    "speakers": [
+        "Hugo Boyer"
+    ],
+    "state": 1,
+    "summary": "Digital fabrication is the art of translating digital designs into physical\nobjects. Using personal machines that are controlled via software, a live\ndemonstration of CNC milling and 3D printing will also be performed. This talk\nis a walkthrough from 3D models to machine motion, that shows how we can use\nPython to write GCODE generators that create endless form.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://img.youtube.com/vi/wslWYg0CTkY/hqdefault.jpg",
+    "title": "Python for makers",
+    "updated": "2014-04-08T20:28:27.501",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

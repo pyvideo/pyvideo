@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i1.ytimg.com/vi/XkwfV8qjuK4/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/XkwfV8qjuK4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/XkwfV8qjuK4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:55:47", "whiteboard": "", "video_flv_length": null, "title": "Who are we? A sociological analysis of the indigenous Python tribe", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Who_are_we_A_sociological_anal.mp4?Signature=XNozCKvDr9aERTsMVGY9m8nTd7Y%3D&Expires=1363662229&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-16", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=XkwfV8qjuK4", "video_webm_url": null, "summary": "If you look at a history of programming languages, over time languages combine or diverge to form new languages. Here we are, the people of Python, but who are we? Will we survive? Will we evolve from a tribe to state? What is important to us as a people? This talk will aim at providing insight by looking at data in Python community.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.682", "id": 1754, "related_urls": [], "slug": "who-are-we-a-sociological-analysis-of-the-indige", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Jacqueline Kazil"]}
+{
+    "added": "2013-03-13T18:55:47",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/XkwfV8qjuK4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/XkwfV8qjuK4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1754,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-16",
+    "related_urls": [],
+    "slug": "who-are-we-a-sociological-analysis-of-the-indige",
+    "source_url": "https://www.youtube.com/watch?v=XkwfV8qjuK4",
+    "speakers": [
+        "Jacqueline Kazil"
+    ],
+    "state": 1,
+    "summary": "If you look at a history of programming languages, over time languages combine or diverge to form new languages. Here we are, the people of Python, but who are we? Will we survive? Will we evolve from a tribe to state? What is important to us as a people? This talk will aim at providing insight by looking at data in Python community.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/XkwfV8qjuK4/hqdefault.jpg",
+    "title": "Who are we? A sociological analysis of the indigenous Python tribe",
+    "updated": "2014-04-08T20:28:26.682",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Who_are_we_A_sociological_anal.mp4?Signature=XNozCKvDr9aERTsMVGY9m8nTd7Y%3D&Expires=1363662229&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,47 @@
-{"tags": ["api", "django", "flask", "json", "mobile", "rest", "tastypie", "web"], "thumbnail_url": "http://i.ytimg.com/vi/GB0EJUhC7yc/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/GB0EJUhC7yc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/GB0EJUhC7yc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:48", "whiteboard": "", "video_flv_length": null, "title": "An iPhone-Python love affair: Building APIs for mobile", "duration": null, "description": "Mobile apps are the hot item of the day - and the best mobile apps are backed\nby a great website. Python web developer Nate Aune and iPhone developer Anna\nCallahan will show you how we built a simple music web app in Django with a\nnative iPhone app that communicates with it. Attendees of this talk will see a\nconcrete case study of building an application that exposes an API for mobile\ndevices.\n\nOur web app exposes a JSON API for sending and receiving data from the mobile\ndevice. We\u2019ll talk about why we chose Django and the TastyPie API package, and\ndiscuss other Python-based frameworks that could be used to build the API such\nas Pyramid, Flask and Bottle. We\u2019ll also compare REST and custom APIs to\nunderstand best practices for building APIs designed for mobile devices.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-07", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=GB0EJUhC7yc", "video_webm_url": null, "summary": "[EuroPython 2011] Anna Callahan,Nate Aune - 24 June 2011 in \"Track Spaghetti\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.916", "id": 1164, "related_urls": [], "slug": "an-iphone-python-love-affair-building-apis-for-m", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Anna Callahan", "Nate Aune"]}
+{
+    "added": "2012-08-30T21:02:48",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "Mobile apps are the hot item of the day - and the best mobile apps are backed\nby a great website. Python web developer Nate Aune and iPhone developer Anna\nCallahan will show you how we built a simple music web app in Django with a\nnative iPhone app that communicates with it. Attendees of this talk will see a\nconcrete case study of building an application that exposes an API for mobile\ndevices.\n\nOur web app exposes a JSON API for sending and receiving data from the mobile\ndevice. We\u2019ll talk about why we chose Django and the TastyPie API package, and\ndiscuss other Python-based frameworks that could be used to build the API such\nas Pyramid, Flask and Bottle. We\u2019ll also compare REST and custom APIs to\nunderstand best practices for building APIs designed for mobile devices.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/GB0EJUhC7yc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/GB0EJUhC7yc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1164,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-07",
+    "related_urls": [],
+    "slug": "an-iphone-python-love-affair-building-apis-for-m",
+    "source_url": "http://www.youtube.com/watch?v=GB0EJUhC7yc",
+    "speakers": [
+        "Anna Callahan",
+        "Nate Aune"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Anna Callahan,Nate Aune - 24 June 2011 in \"Track Spaghetti\"\n\n",
+    "tags": [
+        "api",
+        "django",
+        "flask",
+        "json",
+        "mobile",
+        "rest",
+        "tastypie",
+        "web"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/GB0EJUhC7yc/hqdefault.jpg",
+    "title": "An iPhone-Python love affair: Building APIs for mobile",
+    "updated": "2014-04-08T20:28:27.916",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

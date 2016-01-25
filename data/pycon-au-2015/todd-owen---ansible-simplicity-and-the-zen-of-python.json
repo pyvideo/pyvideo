@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/JlrkizEBjXk/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/JlrkizEBjXk\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-10-18T16:10:54.325", "whiteboard": "needs editing", "video_flv_length": null, "title": "Ansible, Simplicity, and the Zen of Python", "duration": null, "description": "Ansible is a configuration management tool, written in Python, that has taken the world of IT automation by storm. Its most remarkable quality is simplicity.\r\n\r\nThe Zen of Python is a set of aphorisms which capture the design philosophy of the Python language, one being \"Simple is better than complex\".\r\n\r\nIn this talk, we\u2019ll look at some of the concrete ways that Ansible embodies the Zen of Python, in an attempt to unravel the true meaning of the sometimes cryptic aphorisms. Along the way we will consider why simplicity is a such good thing, yet tantalisingly out of reach in most software projects.\n\n", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-04", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=JlrkizEBjXk", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-18T16:10:54.325", "id": 3967, "related_urls": [], "slug": "ansible-simplicity-and-the-zen-of-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Todd Owen"]}
+{
+    "added": "2015-10-18T16:10:54.325",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Ansible is a configuration management tool, written in Python, that has taken the world of IT automation by storm. Its most remarkable quality is simplicity.\r\n\r\nThe Zen of Python is a set of aphorisms which capture the design philosophy of the Python language, one being \"Simple is better than complex\".\r\n\r\nIn this talk, we\u2019ll look at some of the concrete ways that Ansible embodies the Zen of Python, in an attempt to unravel the true meaning of the sometimes cryptic aphorisms. Along the way we will consider why simplicity is a such good thing, yet tantalisingly out of reach in most software projects.\n\n",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/JlrkizEBjXk\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 3967,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-04",
+    "related_urls": [],
+    "slug": "ansible-simplicity-and-the-zen-of-python",
+    "source_url": "https://www.youtube.com/watch?v=JlrkizEBjXk",
+    "speakers": [
+        "Todd Owen"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/JlrkizEBjXk/hqdefault.jpg",
+    "title": "Ansible, Simplicity, and the Zen of Python",
+    "updated": "2015-10-18T16:10:54.325",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

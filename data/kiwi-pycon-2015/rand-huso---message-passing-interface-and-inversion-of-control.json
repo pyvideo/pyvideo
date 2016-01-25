@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/h4gYrAuKgqM/hqdefault.jpg", "embed": "", "added": "2015-09-14T05:45:19.601", "whiteboard": "", "video_flv_length": null, "title": "Message Passing Interface and Inversion of Control", "duration": 1516, "description": "The myriad of methods available for MPI programming is daunting by itself, and largely unnecessary. The solutions proposed by the developers of MPI and the new languages in this space are all addressing the problem the way it's always been addressed. What I present is a way to attack the massively parallel problem that reduces the complexity of MPI programming to that of implementing a very simple state machine. I've used this combination of MPI and IoC to write state-of-the-art applications that run on some of the largest supercomputers around the world.", "state": 1, "category": "Kiwi PyCon 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-09-05", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/h4gYrAuKgqM", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-09-16T04:33:17.101", "id": 3862, "related_urls": [], "slug": "message-passing-interface-and-inversion-of-contro", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Rand Huso"]}
+{
+    "added": "2015-09-14T05:45:19.601",
+    "category": "Kiwi PyCon 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "The myriad of methods available for MPI programming is daunting by itself, and largely unnecessary. The solutions proposed by the developers of MPI and the new languages in this space are all addressing the problem the way it's always been addressed. What I present is a way to attack the massively parallel problem that reduces the complexity of MPI programming to that of implementing a very simple state machine. I've used this combination of MPI and IoC to write state-of-the-art applications that run on some of the largest supercomputers around the world.",
+    "duration": 1516,
+    "embed": "",
+    "id": 3862,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-09-05",
+    "related_urls": [],
+    "slug": "message-passing-interface-and-inversion-of-contro",
+    "source_url": "http://youtu.be/h4gYrAuKgqM",
+    "speakers": [
+        "Rand Huso"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/h4gYrAuKgqM/hqdefault.jpg",
+    "title": "Message Passing Interface and Inversion of Control",
+    "updated": "2015-09-16T04:33:17.101",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

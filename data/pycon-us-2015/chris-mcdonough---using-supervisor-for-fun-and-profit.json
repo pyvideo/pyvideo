@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/p0iQfT85IvM/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/p0iQfT85IvM' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:13.219", "whiteboard": "needs editing", "video_flv_length": null, "title": "Using Supervisor For Fun And Profit", "duration": null, "description": "Supervisor is a popular Python application that lets you control and monitor process state on UNIX-like systems.  This talk describes what it is, and how to use it effectively to make your application deployments better.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-11", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=p0iQfT85IvM", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:13.219", "id": 3496, "related_urls": [], "slug": "using-supervisor-for-fun-and-profit", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Chris McDonough"]}
+{
+    "added": "2015-04-16T14:22:13.219",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Supervisor is a popular Python application that lets you control and monitor process state on UNIX-like systems.  This talk describes what it is, and how to use it effectively to make your application deployments better.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/p0iQfT85IvM' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3496,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-11",
+    "related_urls": [],
+    "slug": "using-supervisor-for-fun-and-profit",
+    "source_url": "https://www.youtube.com/watch?v=p0iQfT85IvM",
+    "speakers": [
+        "Chris McDonough"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/p0iQfT85IvM/hqdefault.jpg",
+    "title": "Using Supervisor For Fun And Profit",
+    "updated": "2015-04-16T14:22:13.219",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

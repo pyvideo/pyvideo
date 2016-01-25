@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/mKUkp6CiNtU/hqdefault.jpg", "embed": "", "added": "2015-08-10T15:48:39.526", "whiteboard": "", "video_flv_length": null, "title": "Voice programming: a how-to", "duration": 1249, "description": "Despite the many people who suffer from RSI, the subject of programming by voice is still a relatively unexplored one. Although there are numerous proof-of-concept demonstrations available online and many brilliant pieces of software that make voice programming possible, much of the configuration and learning of best practices are left to the user. This talk will cover what exactly goes into creating and using a voice programming environment.", "state": 1, "category": "PyGotham 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3804_Voice_programming_a_howto.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-16", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/mKUkp6CiNtU", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-09-14T13:15:25.923", "id": 3804, "related_urls": [], "slug": "voice-programming-a-how-to", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Evan Fredericksen"]}
+{
+    "added": "2015-08-10T15:48:39.526",
+    "category": "PyGotham 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "Despite the many people who suffer from RSI, the subject of programming by voice is still a relatively unexplored one. Although there are numerous proof-of-concept demonstrations available online and many brilliant pieces of software that make voice programming possible, much of the configuration and learning of best practices are left to the user. This talk will cover what exactly goes into creating and using a voice programming environment.",
+    "duration": 1249,
+    "embed": "",
+    "id": 3804,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-16",
+    "related_urls": [],
+    "slug": "voice-programming-a-how-to",
+    "source_url": "http://youtu.be/mKUkp6CiNtU",
+    "speakers": [
+        "Evan Fredericksen"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/mKUkp6CiNtU/hqdefault.jpg",
+    "title": "Voice programming: a how-to",
+    "updated": "2015-09-14T13:15:25.923",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3804_Voice_programming_a_howto.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

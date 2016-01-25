@@ -1,1 +1,45 @@
-{"tags": ["git", "reproducibility"], "thumbnail_url": "http://i1.ytimg.com/vi/Nj_8lwMKD_g/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Nj_8lwMKD_g?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Nj_8lwMKD_g?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:36", "whiteboard": "needs editing", "video_flv_length": null, "title": "A Portrait of One Scientist as a Graduate Student", "duration": null, "description": "Authors: Ivanov, Paul, UC Berkeley\r\n\r\nTrack: General\r\n\r\nIn this talk, I will focus on the how of reproducible research. I will focus on specific tools and techniques I have found invaluable in doing research in a reproducible manner. In particular, I will cover the following general topics (with specific examples in parentheses): version control and code provenance (git), code verification (test driven development, nosetests), data integrity (sha1, md5, git-annex), seed saving ( random seed retention ) distribution of datasets (mirroring, git-annex, metalinks), light-weight analysis capture ( ttyrec, ipython notebook)", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=Nj_8lwMKD_g", "video_webm_url": "", "summary": "a focus on specific tools and techniques invaluable in doing research in a reproducible manner.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.328", "id": 1994, "related_urls": [{"url": "http://nbviewer.ipython.org/5122140/Portrait.ipynb", "description": "ipynb slides"}], "slug": "a-portrait-of-one-scientist-as-a-graduate-student", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Paul Ivanov"]}
+{
+    "added": "2013-07-04T10:08:36",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "Authors: Ivanov, Paul, UC Berkeley\r\n\r\nTrack: General\r\n\r\nIn this talk, I will focus on the how of reproducible research. I will focus on specific tools and techniques I have found invaluable in doing research in a reproducible manner. In particular, I will cover the following general topics (with specific examples in parentheses): version control and code provenance (git), code verification (test driven development, nosetests), data integrity (sha1, md5, git-annex), seed saving ( random seed retention ) distribution of datasets (mirroring, git-annex, metalinks), light-weight analysis capture ( ttyrec, ipython notebook)",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Nj_8lwMKD_g?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Nj_8lwMKD_g?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1994,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [
+        {
+            "description": "ipynb slides",
+            "url": "http://nbviewer.ipython.org/5122140/Portrait.ipynb"
+        }
+    ],
+    "slug": "a-portrait-of-one-scientist-as-a-graduate-student",
+    "source_url": "http://www.youtube.com/watch?v=Nj_8lwMKD_g",
+    "speakers": [
+        "Paul Ivanov"
+    ],
+    "state": 1,
+    "summary": "a focus on specific tools and techniques invaluable in doing research in a reproducible manner.",
+    "tags": [
+        "git",
+        "reproducibility"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/Nj_8lwMKD_g/hqdefault.jpg",
+    "title": "A Portrait of One Scientist as a Graduate Student",
+    "updated": "2014-04-08T20:28:26.328",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing"
+}

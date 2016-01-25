@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i.ytimg.com/vi/op61s-QHryk/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/op61s-QHryk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/op61s-QHryk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:56:52", "whiteboard": "", "video_flv_length": null, "title": "Planning and Tending the Garden: The Future of Early Childhood Python Education", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Planning_and_Tending_the_Garde.mp4?Signature=fP0zVYdd0qUX4Ph%2BH1KYQeJOJSQ%3D&Expires=1363842009&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-15", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=op61s-QHryk", "video_webm_url": "", "summary": "Interest and activity in computing education is on the rise. Other language communities and projects have stepped up to promote early childhood programming. What tools are available for teaching Python? How do they compare?\r\n\r\nThis talk aims to discuss current trends, examine the current education landscape, question our goals as a community, and discuss opportunities for growing young developers.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.721", "id": 1797, "related_urls": [], "slug": "planning-and-tending-the-garden-the-future-of-ea", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Kurt Grandis"]}
+{
+    "added": "2013-03-13T18:56:52",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/op61s-QHryk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/op61s-QHryk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1797,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-15",
+    "related_urls": [],
+    "slug": "planning-and-tending-the-garden-the-future-of-ea",
+    "source_url": "https://www.youtube.com/watch?v=op61s-QHryk",
+    "speakers": [
+        "Kurt Grandis"
+    ],
+    "state": 1,
+    "summary": "Interest and activity in computing education is on the rise. Other language communities and projects have stepped up to promote early childhood programming. What tools are available for teaching Python? How do they compare?\r\n\r\nThis talk aims to discuss current trends, examine the current education landscape, question our goals as a community, and discuss opportunities for growing young developers.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/op61s-QHryk/hqdefault.jpg",
+    "title": "Planning and Tending the Garden: The Future of Early Childhood Python Education",
+    "updated": "2014-04-08T20:28:26.721",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Planning_and_Tending_the_Garde.mp4?Signature=fP0zVYdd0qUX4Ph%2BH1KYQeJOJSQ%3D&Expires=1363842009&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

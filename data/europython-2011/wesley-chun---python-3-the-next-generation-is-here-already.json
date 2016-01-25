@@ -1,1 +1,41 @@
-{"tags": ["learning", "migration", "python,"], "thumbnail_url": "http://i.ytimg.com/vi/ovVCnhwu9qQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/ovVCnhwu9qQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/ovVCnhwu9qQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:34", "whiteboard": "", "video_flv_length": null, "title": "Python 3: the Next Generation (is here already)", "duration": null, "description": "Python is currently at a crossroads: Python 2 has taken it from a quiet word-\nof-mouth language to primetime, with many companies around the world using it\nand an ever-increasing global marketshare of the programming world. But now\ncomes Python 3, the first version of the language that is not backwards\ncompatible with previous releases.\n\nWhat does this mean? Are all my Python programs going to break? Will I have to\nrewrite everything? How much time do I have? When is Python 2 going to be\nEOL'd? Is the language undergoing a complete rewrite and will I even recognize\nit? What are the changes between Python 2 and 3 anyway? Also, the next\ngeneration is already here, as Python 3 is over two years old now. What has\nbeen ported so far, and what is its current status? Are migration plans or\ntransition tools available? If I want to start learning Python, should I do\nPython 2 or Python 3? Are all Python 2 books obsolete?\n\nWe will attempt to answer all of these questions and more. Join us!\n\nOUTLINE/TOPICS\n\n  * Python 2 vs. Python 3\n  * Introduction to Python 3\n  * Backwards Compatibility\n  * Generational Changes\n  * Key Differences\n  * Role of Remaining Python 2.x releases\n  * Transition & Migration Plans & Tools\n  * Futures\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-13", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=ovVCnhwu9qQ", "video_webm_url": null, "summary": "[EuroPython 2011] wesley chun - 21 June 2011 in \"Track Lasagne\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.870", "id": 1111, "related_urls": [], "slug": "python-3-the-next-generation-is-here-already-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["wesley chun"]}
+{
+    "added": "2012-08-30T21:02:34",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "Python is currently at a crossroads: Python 2 has taken it from a quiet word-\nof-mouth language to primetime, with many companies around the world using it\nand an ever-increasing global marketshare of the programming world. But now\ncomes Python 3, the first version of the language that is not backwards\ncompatible with previous releases.\n\nWhat does this mean? Are all my Python programs going to break? Will I have to\nrewrite everything? How much time do I have? When is Python 2 going to be\nEOL'd? Is the language undergoing a complete rewrite and will I even recognize\nit? What are the changes between Python 2 and 3 anyway? Also, the next\ngeneration is already here, as Python 3 is over two years old now. What has\nbeen ported so far, and what is its current status? Are migration plans or\ntransition tools available? If I want to start learning Python, should I do\nPython 2 or Python 3? Are all Python 2 books obsolete?\n\nWe will attempt to answer all of these questions and more. Join us!\n\nOUTLINE/TOPICS\n\n  * Python 2 vs. Python 3\n  * Introduction to Python 3\n  * Backwards Compatibility\n  * Generational Changes\n  * Key Differences\n  * Role of Remaining Python 2.x releases\n  * Transition & Migration Plans & Tools\n  * Futures\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/ovVCnhwu9qQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/ovVCnhwu9qQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1111,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-13",
+    "related_urls": [],
+    "slug": "python-3-the-next-generation-is-here-already-0",
+    "source_url": "http://www.youtube.com/watch?v=ovVCnhwu9qQ",
+    "speakers": [
+        "wesley chun"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] wesley chun - 21 June 2011 in \"Track Lasagne\"\n\n",
+    "tags": [
+        "learning",
+        "migration",
+        "python,"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/ovVCnhwu9qQ/hqdefault.jpg",
+    "title": "Python 3: the Next Generation (is here already)",
+    "updated": "2014-04-08T20:28:27.870",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

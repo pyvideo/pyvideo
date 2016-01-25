@@ -1,1 +1,41 @@
-{"tags": ["tutorial"], "thumbnail_url": "http://i.ytimg.com/vi/Nc16qeGBtMU/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Nc16qeGBtMU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Nc16qeGBtMU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:53:06", "whiteboard": "", "video_flv_length": null, "title": "Python for Programmers: A Project-Based Tutorial", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Python_for_Programmers_A_Proje.mp4?Signature=2pRtNJXregGoYGKg%2F4jKvlucLBI%3D&Expires=1363942342&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-13", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=Nc16qeGBtMU", "video_webm_url": "", "summary": "Are you a Python-curious programmer? Learn by writing your first project! You'll build a complete quiz creation web application. We will cover topics from data structures and classes, to debugging and testing.\r\n\r\nBefore the day of the workshop, you will need to have Python 2.7, CherryPy, IPython, and Jinja2 installed. Alternatively, you may arrive at the venue an hour early to receive assistance.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.797", "id": 1651, "related_urls": [], "slug": "python-for-programmers-a-project-based-tutorial", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Alexandra Strong", "Christine Cheung", "Katharine Jarmul"]}
+{
+    "added": "2013-03-13T18:53:06",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Nc16qeGBtMU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Nc16qeGBtMU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1651,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-13",
+    "related_urls": [],
+    "slug": "python-for-programmers-a-project-based-tutorial",
+    "source_url": "https://www.youtube.com/watch?v=Nc16qeGBtMU",
+    "speakers": [
+        "Alexandra Strong",
+        "Christine Cheung",
+        "Katharine Jarmul"
+    ],
+    "state": 1,
+    "summary": "Are you a Python-curious programmer? Learn by writing your first project! You'll build a complete quiz creation web application. We will cover topics from data structures and classes, to debugging and testing.\r\n\r\nBefore the day of the workshop, you will need to have Python 2.7, CherryPy, IPython, and Jinja2 installed. Alternatively, you may arrive at the venue an hour early to receive assistance.",
+    "tags": [
+        "tutorial"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/Nc16qeGBtMU/hqdefault.jpg",
+    "title": "Python for Programmers: A Project-Based Tutorial",
+    "updated": "2014-04-08T20:28:26.797",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Python_for_Programmers_A_Proje.mp4?Signature=2pRtNJXregGoYGKg%2F4jKvlucLBI%3D&Expires=1363942342&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

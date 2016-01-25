@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i2.ytimg.com/vi/u44L-l3RPy0/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/u44L-l3RPy0?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/u44L-l3RPy0?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-02T06:41:17", "whiteboard": "", "video_flv_length": null, "title": "OpenOffice-Dokumente selbst modifizieren", "duration": null, "description": "", "state": 1, "category": "PyCon DE 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_OpenOfficeDokumente_se.mp4?Signature=4SSedVti6KVV9qsA3khVQvrmfYk%3D&Expires=1352028522&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-10-31", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=u44L-l3RPy0", "video_webm_url": "", "summary": "Der Vortrag stellt eine Python-Klasse vor, die das fast beliebige Modifizieren\nvon Open/LibreOffice-Dokumenten bequem erm\u00f6glicht. Es geht mehr um die\nVorstellung einer Methode als um ein fertiges Werkzeug. So manche Aufgabe\nl\u00e4sst sich damit erheblich einfacher bewerkstelligen als mit Makros oder \u00fcber\ndie pyUNO-Schnittstelle.\n\nHat man eine gr\u00f6\u00dfere Zahl von ODF-Files (also im Open Document Format) oder\nein gro\u00dfes ODF-Dokument an vielen Stellen in gleicher Weise zu bearbeiten, ist\ndas erm\u00fcdend, zeitaufw\u00e4ndig und fehleranf\u00e4llig. Wozu gibt es Computer?\nOpen/LibreOffice erlaubt zwar Makros, doch deren Leistung ist beschr\u00e4nkt, und\ndie pyUNO-Schnittstelle ist kompliziert, schlecht dokumentiert und noch nicht\nausgetestet.\n\nEs geht auch anders: ODF-Files sind Zip-Archive von XML-Files, und diese\nlassen sich mit Pythonskripten einfach bearbeiten. Das ODF-Format ist relativ\nleicht zu verstehen (der Standard ist gut lesbar), der Phantasie des Anwenders\nsind keine Grenzen gesetzt - sei es, um manuelle Formatierungen zu markieren,\nin bestimmte Tabellen Spalten einzuf\u00fcgen oder diese um Zeilen zu erg\u00e4nzen,\nderen Berechnung partout nicht ins Konzept der Calc-Formeln passen will.\n\nDabei sind allerdings einige kleine Stolpersteine zu beachten, auf die der\nVortrag hinweist. Die hier vorgestellte Klasse ist eine m\u00f6gliche Methode, um\nsich auf die \"wesentlichen Dinge\" konzentrieren zu k\u00f6nnen.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.915", "id": 1450, "related_urls": [], "slug": "openoffice-dokumente-selbst-modifizieren", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "German", "video_ogv_download_only": false, "speakers": ["Reinhard Wobst"]}
+{
+    "added": "2012-11-02T06:41:17",
+    "category": "PyCon DE 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/u44L-l3RPy0?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/u44L-l3RPy0?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1450,
+    "language": "German",
+    "quality_notes": "",
+    "recorded": "2012-10-31",
+    "related_urls": [],
+    "slug": "openoffice-dokumente-selbst-modifizieren",
+    "source_url": "https://www.youtube.com/watch?v=u44L-l3RPy0",
+    "speakers": [
+        "Reinhard Wobst"
+    ],
+    "state": 1,
+    "summary": "Der Vortrag stellt eine Python-Klasse vor, die das fast beliebige Modifizieren\nvon Open/LibreOffice-Dokumenten bequem erm\u00f6glicht. Es geht mehr um die\nVorstellung einer Methode als um ein fertiges Werkzeug. So manche Aufgabe\nl\u00e4sst sich damit erheblich einfacher bewerkstelligen als mit Makros oder \u00fcber\ndie pyUNO-Schnittstelle.\n\nHat man eine gr\u00f6\u00dfere Zahl von ODF-Files (also im Open Document Format) oder\nein gro\u00dfes ODF-Dokument an vielen Stellen in gleicher Weise zu bearbeiten, ist\ndas erm\u00fcdend, zeitaufw\u00e4ndig und fehleranf\u00e4llig. Wozu gibt es Computer?\nOpen/LibreOffice erlaubt zwar Makros, doch deren Leistung ist beschr\u00e4nkt, und\ndie pyUNO-Schnittstelle ist kompliziert, schlecht dokumentiert und noch nicht\nausgetestet.\n\nEs geht auch anders: ODF-Files sind Zip-Archive von XML-Files, und diese\nlassen sich mit Pythonskripten einfach bearbeiten. Das ODF-Format ist relativ\nleicht zu verstehen (der Standard ist gut lesbar), der Phantasie des Anwenders\nsind keine Grenzen gesetzt - sei es, um manuelle Formatierungen zu markieren,\nin bestimmte Tabellen Spalten einzuf\u00fcgen oder diese um Zeilen zu erg\u00e4nzen,\nderen Berechnung partout nicht ins Konzept der Calc-Formeln passen will.\n\nDabei sind allerdings einige kleine Stolpersteine zu beachten, auf die der\nVortrag hinweist. Die hier vorgestellte Klasse ist eine m\u00f6gliche Methode, um\nsich auf die \"wesentlichen Dinge\" konzentrieren zu k\u00f6nnen.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i2.ytimg.com/vi/u44L-l3RPy0/hqdefault.jpg",
+    "title": "OpenOffice-Dokumente selbst modifizieren",
+    "updated": "2014-04-08T20:28:26.915",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_OpenOfficeDokumente_se.mp4?Signature=4SSedVti6KVV9qsA3khVQvrmfYk%3D&Expires=1352028522&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

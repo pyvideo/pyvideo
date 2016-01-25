@@ -1,1 +1,43 @@
-{"tags": ["diversity", "openhatch", "outreach", "pycon", "pycon2011"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011GetNewContributorsAndDiversityThroughOutreach225.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Get new contributors (and diversity) through outreach", "duration": null, "description": "Get new contributors (and diversity) through outreach\n\nPresented by Asheesh Laroia\n\nGroups like the Fedora Design Team, Dreamwidth, SF Ruby, and OpenHatch have\ndiscovered the power of outreach to bring in new contributors. In the past\nyear, SF Ruby grew in numbers as well as in diversity, moving from 3% women to\n18% women. Because most projects need ongoing help, this talk discusses\neffective strategies for bringing in contributors who stick around for the\nlong haul.\n\nAbstract\n\nThis talk is targeted at anyone involved in an open source project who wants\nto find more contributors.\n\nPrograms like Google Summer of Code often provide excited students who\ndisappear after a summer's work. Meanwhile, request for help emails on\ndevelopment lists are typically met with silence. Hackathons create a flurry\nof commits, but then we never hear from the participants again. Expanding your\nteam is possible, and it requires care in terms of outreach, expectation\nmanagement, and mentorship.\n\nWe will discuss three major forms of outreach:\n\n  * One-on-one check-ins with participants, \n  * Periodic drives to bring in new contributors, and \n  * In-person teaching events. \nEach one has \"do\"s and \"don't\"s associated with it. This talk digests the\nexperience of effective outreach into practical strategies that you can re-use\nwithin your project.\n\n", "state": 1, "category": "PyCon US 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/415_get-new-contributors-and-diversity-through-outreach.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-03-11", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 162104223, "updated": "2014-04-08T20:28:27.976", "id": 415, "related_urls": [], "slug": "pycon-2011--get-new-contributors--and-diversity--", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Asheesh Laroia"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2011",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Get new contributors (and diversity) through outreach\n\nPresented by Asheesh Laroia\n\nGroups like the Fedora Design Team, Dreamwidth, SF Ruby, and OpenHatch have\ndiscovered the power of outreach to bring in new contributors. In the past\nyear, SF Ruby grew in numbers as well as in diversity, moving from 3% women to\n18% women. Because most projects need ongoing help, this talk discusses\neffective strategies for bringing in contributors who stick around for the\nlong haul.\n\nAbstract\n\nThis talk is targeted at anyone involved in an open source project who wants\nto find more contributors.\n\nPrograms like Google Summer of Code often provide excited students who\ndisappear after a summer's work. Meanwhile, request for help emails on\ndevelopment lists are typically met with silence. Hackathons create a flurry\nof commits, but then we never hear from the participants again. Expanding your\nteam is possible, and it requires care in terms of outreach, expectation\nmanagement, and mentorship.\n\nWe will discuss three major forms of outreach:\n\n  * One-on-one check-ins with participants, \n  * Periodic drives to bring in new contributors, and \n  * In-person teaching events. \nEach one has \"do\"s and \"don't\"s associated with it. This talk digests the\nexperience of effective outreach into practical strategies that you can re-use\nwithin your project.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 415,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-03-11",
+    "related_urls": [],
+    "slug": "pycon-2011--get-new-contributors--and-diversity--",
+    "source_url": "",
+    "speakers": [
+        "Asheesh Laroia"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "diversity",
+        "openhatch",
+        "outreach",
+        "pycon",
+        "pycon2011"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011GetNewContributorsAndDiversityThroughOutreach225.png",
+    "title": "Get new contributors (and diversity) through outreach",
+    "updated": "2014-04-08T20:28:27.976",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/415_get-new-contributors-and-diversity-through-outreach.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 162104223,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

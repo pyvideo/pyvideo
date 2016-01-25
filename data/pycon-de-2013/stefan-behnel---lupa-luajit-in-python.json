@@ -1,1 +1,41 @@
-{"tags": ["lua", "luajit", "lupa"], "thumbnail_url": "http://i1.ytimg.com/vi/JreLvRxOF9M/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/JreLvRxOF9M?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/JreLvRxOF9M?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-10-18T07:40:59", "whiteboard": "", "video_flv_length": null, "title": "Lupa - LuaJIT in Python", "duration": 30, "description": "", "state": 1, "category": "PyCon DE 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-10-17", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=JreLvRxOF9M", "video_webm_url": null, "summary": "Der Python-Interpreter hat den Ruf, eine ausgereifte und grandios einfach zu verwendende dynamische Sprache und Laufzeitumgebung zu bieten, die f\u00fcr jede noch so [exotische Anforderung](https://xkcd.com/413/) eine L\u00f6sung bereit h\u00e4lt.\r\n\r\nEin oft genanntes Manko ist jedoch die begrenzte Performance des Interpreters f\u00fcr stark algorithmisch gepr\u00e4gte, kritische Teile von Anwendungen. Insbesondere hochdynamischer und generierter Code kommt hier schnell an seine Grenzen.\r\n\r\nAuf der anderen Seite existiert mit LuaJIT2 eine sehr schnelle JIT-kompilierte Laufzeitumgebung der dynamischen Programmiersprache Lua, die bereits so manche Performance-Rekorde gebrochen hat und sich durch ihre geringe Gr\u00f6\u00dfe leicht in andere Programme einbinden l\u00e4sst. Das gro\u00dfe Manko von Lua ist jedoch das Fehlen von Standard-Bibliotheken, die extrem begrenzten Sprach-Features und der daraus resultierende hohe Aufwand bei der Entwicklung gr\u00f6\u00dferer Anwendungen.\r\n\r\nMit [Lupa](https://github.com/scoder/lupa) steht eine Verbindung der beiden Programmiersprachen bereit, die es erm\u00f6glicht, aus Python heraus Lua-Code auszuf\u00fchren und direkt mit diesem zu kommunizieren und Daten auszutauschen. So kann der gr\u00f6\u00dfte Teil einer Anwendung in Python implementiert werden, und einzelne Aufgaben k\u00f6nnen von der schnellen LuaJIT-Umgebung \u00fcbernommen werden.\r\n\r\nDieser Vortrag stellt das Projekt vor und gibt Einblicke in die Integration der beiden Programmiersprachen.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:25.996", "id": 2433, "related_urls": [], "slug": "lupa-luajit-in-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "German", "video_ogv_download_only": false, "speakers": ["Stefan Behnel"]}
+{
+    "added": "2013-10-18T07:40:59",
+    "category": "PyCon DE 2013",
+    "copyright_text": "",
+    "description": "",
+    "duration": 30,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/JreLvRxOF9M?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/JreLvRxOF9M?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2433,
+    "language": "German",
+    "quality_notes": "",
+    "recorded": "2013-10-17",
+    "related_urls": [],
+    "slug": "lupa-luajit-in-python",
+    "source_url": "https://www.youtube.com/watch?v=JreLvRxOF9M",
+    "speakers": [
+        "Stefan Behnel"
+    ],
+    "state": 1,
+    "summary": "Der Python-Interpreter hat den Ruf, eine ausgereifte und grandios einfach zu verwendende dynamische Sprache und Laufzeitumgebung zu bieten, die f\u00fcr jede noch so [exotische Anforderung](https://xkcd.com/413/) eine L\u00f6sung bereit h\u00e4lt.\r\n\r\nEin oft genanntes Manko ist jedoch die begrenzte Performance des Interpreters f\u00fcr stark algorithmisch gepr\u00e4gte, kritische Teile von Anwendungen. Insbesondere hochdynamischer und generierter Code kommt hier schnell an seine Grenzen.\r\n\r\nAuf der anderen Seite existiert mit LuaJIT2 eine sehr schnelle JIT-kompilierte Laufzeitumgebung der dynamischen Programmiersprache Lua, die bereits so manche Performance-Rekorde gebrochen hat und sich durch ihre geringe Gr\u00f6\u00dfe leicht in andere Programme einbinden l\u00e4sst. Das gro\u00dfe Manko von Lua ist jedoch das Fehlen von Standard-Bibliotheken, die extrem begrenzten Sprach-Features und der daraus resultierende hohe Aufwand bei der Entwicklung gr\u00f6\u00dferer Anwendungen.\r\n\r\nMit [Lupa](https://github.com/scoder/lupa) steht eine Verbindung der beiden Programmiersprachen bereit, die es erm\u00f6glicht, aus Python heraus Lua-Code auszuf\u00fchren und direkt mit diesem zu kommunizieren und Daten auszutauschen. So kann der gr\u00f6\u00dfte Teil einer Anwendung in Python implementiert werden, und einzelne Aufgaben k\u00f6nnen von der schnellen LuaJIT-Umgebung \u00fcbernommen werden.\r\n\r\nDieser Vortrag stellt das Projekt vor und gibt Einblicke in die Integration der beiden Programmiersprachen.",
+    "tags": [
+        "lua",
+        "luajit",
+        "lupa"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/JreLvRxOF9M/hqdefault.jpg",
+    "title": "Lupa - LuaJIT in Python",
+    "updated": "2014-04-08T20:28:25.996",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

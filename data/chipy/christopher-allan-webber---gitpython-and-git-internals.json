@@ -1,1 +1,41 @@
-{"tags": ["chipy", "git", "gitpython"], "thumbnail_url": "http://a.images.blip.tv/CarlFK-GitPythonAndGitInternals503.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "GitPython and Git Internals", "duration": null, "description": "", "state": 1, "category": "ChiPy", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-01-14", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": "", "summary": "Chris covers how git works, the internals, and using the GitPython library.\n\n[GitPython](http://gitorious.org/git-python)\n\n", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/579_gitpython-and-git-internals.ogv", "video_ogv_length": null, "updated": "2014-04-08T20:28:28.240", "id": 579, "related_urls": [], "slug": "gitpython-and-git-internals", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Christopher Allan Webber"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "ChiPy",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "",
+    "duration": null,
+    "embed": "",
+    "id": 579,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-01-14",
+    "related_urls": [],
+    "slug": "gitpython-and-git-internals",
+    "source_url": "",
+    "speakers": [
+        "Christopher Allan Webber"
+    ],
+    "state": 1,
+    "summary": "Chris covers how git works, the internals, and using the GitPython library.\n\n[GitPython](http://gitorious.org/git-python)\n\n",
+    "tags": [
+        "chipy",
+        "git",
+        "gitpython"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/CarlFK-GitPythonAndGitInternals503.png",
+    "title": "GitPython and Git Internals",
+    "updated": "2014-04-08T20:28:28.240",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/579_gitpython-and-git-internals.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

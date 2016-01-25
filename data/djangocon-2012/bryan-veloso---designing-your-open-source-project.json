@@ -1,1 +1,40 @@
-{"tags": ["django", "opensource"], "thumbnail_url": "http://i.ytimg.com/vi/bdqLtx3K36k/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/bdqLtx3K36k?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/bdqLtx3K36k?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-10-08T17:39:50", "whiteboard": "needs editing", "video_flv_length": null, "title": "Designing Your Open Source Project", "duration": null, "description": "There is an ever present rift between designers and developers and it is one\nthat has existed since our paths started crossing. While it has almost become\na requirement for designers to be able to grok the code they work with on a\ndaily basis, that has unfortunately had no effect on the willingness of\ndesigners to work on open source projects.\n\nFortunately, if your project is in need of a designer, there are ways that you\ncan make your project more appealing to our \u201cspecial breed\u201d of personality. In\nthis quick talk, we\u2019ll jump into the mind of your typical designer, show you\njust how many similarities we share and then apply that knowledge to make your\nproject easy and appealing for designers to jump into.\n\n", "state": 1, "category": "DjangoCon 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-09-04", "copyright_text": "Creative Commons Attribution license (reuse allowed", "source_url": "http://www.youtube.com/watch?v=bdqLtx3K36k", "video_webm_url": null, "summary": "There is an ever present rift between designers and developers and it is one\nthat has existed since our paths started crossing. We'll talk about how to be\nmindful of design in your own open source project and how to attract designers\nto help your project become even more awesome.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.002", "id": 1392, "related_urls": [], "slug": "designing-your-open-source-project", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Bryan Veloso"]}
+{
+    "added": "2012-10-08T17:39:50",
+    "category": "DjangoCon 2012",
+    "copyright_text": "Creative Commons Attribution license (reuse allowed",
+    "description": "There is an ever present rift between designers and developers and it is one\nthat has existed since our paths started crossing. While it has almost become\na requirement for designers to be able to grok the code they work with on a\ndaily basis, that has unfortunately had no effect on the willingness of\ndesigners to work on open source projects.\n\nFortunately, if your project is in need of a designer, there are ways that you\ncan make your project more appealing to our \u201cspecial breed\u201d of personality. In\nthis quick talk, we\u2019ll jump into the mind of your typical designer, show you\njust how many similarities we share and then apply that knowledge to make your\nproject easy and appealing for designers to jump into.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/bdqLtx3K36k?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/bdqLtx3K36k?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1392,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-09-04",
+    "related_urls": [],
+    "slug": "designing-your-open-source-project",
+    "source_url": "http://www.youtube.com/watch?v=bdqLtx3K36k",
+    "speakers": [
+        "Bryan Veloso"
+    ],
+    "state": 1,
+    "summary": "There is an ever present rift between designers and developers and it is one\nthat has existed since our paths started crossing. We'll talk about how to be\nmindful of design in your own open source project and how to attract designers\nto help your project become even more awesome.\n\n",
+    "tags": [
+        "django",
+        "opensource"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/bdqLtx3K36k/hqdefault.jpg",
+    "title": "Designing Your Open Source Project",
+    "updated": "2014-04-08T20:28:27.002",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

@@ -1,1 +1,42 @@
-{"tags": ["chipy", "cool", "python3", "zeromq"], "thumbnail_url": "http://a.images.blip.tv/CarlFK-Vintage1978SuperboardIIHackingWithSomePython3AndZeroMQ478.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Vintage 1978 Superboard II hacking with some Python3 and ZeroMQ", "duration": null, "description": "", "state": 1, "category": "ChiPy", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/569_vintage-1978-superboard-ii-hacking-with-some-python3-and-zeromq.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-01-13", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": "", "summary": "I'm not sure if we're still looking for talks on Thursday, but if so, I'd like\nto volunteer to give a talk about using Python to do some retro-computing\nhacking involving my vintage 1978 Superboard II. It's not exactly robotics,\nbut it involves hardware and a lot of low-level hacking (along with some\nPython3 and ZeroMQ thrown in for good measure ;-).\n\n", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/569_vintage-1978-superboard-ii-hacking-with-some-python3-and-zeromq.ogv", "video_ogv_length": null, "updated": "2014-04-08T20:28:28.074", "id": 569, "related_urls": [], "slug": "vintage-1978-superboard-ii-hacking-with-some-pyth", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["David Beazley"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "ChiPy",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "",
+    "duration": null,
+    "embed": "",
+    "id": 569,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-01-13",
+    "related_urls": [],
+    "slug": "vintage-1978-superboard-ii-hacking-with-some-pyth",
+    "source_url": "",
+    "speakers": [
+        "David Beazley"
+    ],
+    "state": 1,
+    "summary": "I'm not sure if we're still looking for talks on Thursday, but if so, I'd like\nto volunteer to give a talk about using Python to do some retro-computing\nhacking involving my vintage 1978 Superboard II. It's not exactly robotics,\nbut it involves hardware and a lot of low-level hacking (along with some\nPython3 and ZeroMQ thrown in for good measure ;-).\n\n",
+    "tags": [
+        "chipy",
+        "cool",
+        "python3",
+        "zeromq"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/CarlFK-Vintage1978SuperboardIIHackingWithSomePython3AndZeroMQ478.png",
+    "title": "Vintage 1978 Superboard II hacking with some Python3 and ZeroMQ",
+    "updated": "2014-04-08T20:28:28.074",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/569_vintage-1978-superboard-ii-hacking-with-some-python3-and-zeromq.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/569_vintage-1978-superboard-ii-hacking-with-some-python3-and-zeromq.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

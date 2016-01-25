@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/EoWG0lavg9U/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/EoWG0lavg9U' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:05.201", "whiteboard": "needs editing", "video_flv_length": null, "title": "\"Words, words, words\": Reading Shakespeare with Python", "duration": null, "description": "This talk will give an introduction to text analysis with Python by asking some questions about Shakespeare and discussing the quantitative methods that will go in to answering them. While we\u2019ll use Shakespeare to illustrate our methodologies, we\u2019ll also discuss how they can be ported over into more 21st century texts, like tweets or New York Times articles.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-11", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=EoWG0lavg9U", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:05.201", "id": 3415, "related_urls": [], "slug": "words-words-words-reading-shakespeare-with-p", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Adam Palay"]}
+{
+    "added": "2015-04-16T14:22:05.201",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "This talk will give an introduction to text analysis with Python by asking some questions about Shakespeare and discussing the quantitative methods that will go in to answering them. While we\u2019ll use Shakespeare to illustrate our methodologies, we\u2019ll also discuss how they can be ported over into more 21st century texts, like tweets or New York Times articles.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/EoWG0lavg9U' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3415,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-11",
+    "related_urls": [],
+    "slug": "words-words-words-reading-shakespeare-with-p",
+    "source_url": "https://www.youtube.com/watch?v=EoWG0lavg9U",
+    "speakers": [
+        "Adam Palay"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/EoWG0lavg9U/hqdefault.jpg",
+    "title": "\"Words, words, words\": Reading Shakespeare with Python",
+    "updated": "2015-04-16T14:22:05.201",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

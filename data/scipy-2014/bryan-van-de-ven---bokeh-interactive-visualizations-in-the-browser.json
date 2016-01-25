@@ -1,1 +1,40 @@
-{"tags": ["bokeh", "vis"], "thumbnail_url": "http://i1.ytimg.com/vi/B9NpLOyp-dI/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/B9NpLOyp-dI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/B9NpLOyp-dI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-10T22:35:11.964", "whiteboard": "", "video_flv_length": null, "title": "Bokeh: Interactive Visualizations in the Browser", "duration": null, "description": "With support from the DARPA XDATA Initiative, and contributions from community members, the Bokeh visualization library (http://bokeh.pydata.org) has grown into a large, successful open source project with heavy interest and following on GitHub (https://github.com/ContinuumIO/bokeh). The principal goals of Bokeh are to provide capability to developers and domain experts:\r\n\r\n* easily create novel and powerful visualizations\r\n* that extract insight from remote, possibly large data sets\r\n* published to the web for others to explore and interact\r\n\r\nThis talk will describe how the architecture of Bokeh enables these goals, and demonstrate how it can be leveraged by anyone using python for analysis to visualize and present their work. We will talk about current development and future plans, including a brief discussion of Joseph Cottam's exciting academic work on abstract rendering for large data sets that is going into Bokeh (https://github.com/JosephCottam/AbstractRendering).\r\n\r\n\r\n\r\n\r\n", "state": 1, "category": "SciPy 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-09", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=B9NpLOyp-dI", "video_webm_url": null, "summary": "Bokeh is a Python visualization library for large datasets that natively uses the latest web technologies. Its goal is to provide concise construction of novel graphics, while delivering high-performance interactivity over large data to thin clients. This talk will cover the motivation and architecture behind Bokeh, demonstrate interesting uses and capability, and discuss future plans. ", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-07-10T22:35:11.964", "id": 2736, "related_urls": [], "slug": "bokeh-interactive-visualizations-in-the-browser", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Bryan Van de Ven"]}
+{
+    "added": "2014-07-10T22:35:11.964",
+    "category": "SciPy 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "With support from the DARPA XDATA Initiative, and contributions from community members, the Bokeh visualization library (http://bokeh.pydata.org) has grown into a large, successful open source project with heavy interest and following on GitHub (https://github.com/ContinuumIO/bokeh). The principal goals of Bokeh are to provide capability to developers and domain experts:\r\n\r\n* easily create novel and powerful visualizations\r\n* that extract insight from remote, possibly large data sets\r\n* published to the web for others to explore and interact\r\n\r\nThis talk will describe how the architecture of Bokeh enables these goals, and demonstrate how it can be leveraged by anyone using python for analysis to visualize and present their work. We will talk about current development and future plans, including a brief discussion of Joseph Cottam's exciting academic work on abstract rendering for large data sets that is going into Bokeh (https://github.com/JosephCottam/AbstractRendering).\r\n\r\n\r\n\r\n\r\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/B9NpLOyp-dI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/B9NpLOyp-dI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2736,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-09",
+    "related_urls": [],
+    "slug": "bokeh-interactive-visualizations-in-the-browser",
+    "source_url": "http://www.youtube.com/watch?v=B9NpLOyp-dI",
+    "speakers": [
+        "Bryan Van de Ven"
+    ],
+    "state": 1,
+    "summary": "Bokeh is a Python visualization library for large datasets that natively uses the latest web technologies. Its goal is to provide concise construction of novel graphics, while delivering high-performance interactivity over large data to thin clients. This talk will cover the motivation and architecture behind Bokeh, demonstrate interesting uses and capability, and discuss future plans. ",
+    "tags": [
+        "bokeh",
+        "vis"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/B9NpLOyp-dI/hqdefault.jpg",
+    "title": "Bokeh: Interactive Visualizations in the Browser",
+    "updated": "2014-07-10T22:35:11.964",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

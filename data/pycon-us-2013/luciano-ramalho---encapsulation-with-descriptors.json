@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i2.ytimg.com/vi/5GG4jBxj4Ys/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/5GG4jBxj4Ys?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/5GG4jBxj4Ys?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:55:56", "whiteboard": "", "video_flv_length": null, "title": "Encapsulation with descriptors", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Encapsulation_with_descriptors.mp4?Signature=1nnn6X5f%2FI1zj0WkCpi1PRk8xlQ%3D&Expires=1363664022&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-15", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=5GG4jBxj4Ys", "video_webm_url": null, "summary": "Python has no private fields, but the property decorator lets you replace public attributes with getters and setters without breaking client code. And the descriptor mechanism, used in Django for model field declarations, enables wide reuse of getter/setter logic via composition instead of inheritance. This talk explains how properties and descriptors work by refactoring a practical example.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.696", "id": 1760, "related_urls": [], "slug": "encapsulation-with-descriptors", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Luciano Ramalho"]}
+{
+    "added": "2013-03-13T18:55:56",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/5GG4jBxj4Ys?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/5GG4jBxj4Ys?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1760,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-15",
+    "related_urls": [],
+    "slug": "encapsulation-with-descriptors",
+    "source_url": "https://www.youtube.com/watch?v=5GG4jBxj4Ys",
+    "speakers": [
+        "Luciano Ramalho"
+    ],
+    "state": 1,
+    "summary": "Python has no private fields, but the property decorator lets you replace public attributes with getters and setters without breaking client code. And the descriptor mechanism, used in Django for model field declarations, enables wide reuse of getter/setter logic via composition instead of inheritance. This talk explains how properties and descriptors work by refactoring a practical example.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i2.ytimg.com/vi/5GG4jBxj4Ys/hqdefault.jpg",
+    "title": "Encapsulation with descriptors",
+    "updated": "2014-04-08T20:28:26.696",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Encapsulation_with_descriptors.mp4?Signature=1nnn6X5f%2FI1zj0WkCpi1PRk8xlQ%3D&Expires=1363664022&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

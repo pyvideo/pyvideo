@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/aZ_y_U6rZRM/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/aZ_y_U6rZRM\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-10-18T16:10:57.217", "whiteboard": "needs editing", "video_flv_length": null, "title": "reliable testing with pip constraints", "duration": null, "description": "pip freeze files and similar techniques like buildout have been used for reliable testing and reliable deployments for some time. But they are not flexible enough to deal with situations like OpenStack where there are dozens of separate codebases, evolving independently, which still need the same rigour and reliability.\r\n\r\nEnter pip constraints, new in 7.1.0. I will cover their use, design, and how we're using them in devstack (and thus OpenStack CI) - and how you can (and should) use them in your local projects.\n\n", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-04", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=aZ_y_U6rZRM", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-18T16:10:57.217", "id": 3988, "related_urls": [], "slug": "reliable-testing-with-pip-constraints", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Robert Collins"]}
+{
+    "added": "2015-10-18T16:10:57.217",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "pip freeze files and similar techniques like buildout have been used for reliable testing and reliable deployments for some time. But they are not flexible enough to deal with situations like OpenStack where there are dozens of separate codebases, evolving independently, which still need the same rigour and reliability.\r\n\r\nEnter pip constraints, new in 7.1.0. I will cover their use, design, and how we're using them in devstack (and thus OpenStack CI) - and how you can (and should) use them in your local projects.\n\n",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/aZ_y_U6rZRM\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 3988,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-04",
+    "related_urls": [],
+    "slug": "reliable-testing-with-pip-constraints",
+    "source_url": "https://www.youtube.com/watch?v=aZ_y_U6rZRM",
+    "speakers": [
+        "Robert Collins"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/aZ_y_U6rZRM/hqdefault.jpg",
+    "title": "reliable testing with pip constraints",
+    "updated": "2015-10-18T16:10:57.217",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

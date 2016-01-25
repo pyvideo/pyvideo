@@ -1,1 +1,39 @@
-{"tags": ["Geophysics Mini-Symposia"], "thumbnail_url": "http://i1.ytimg.com/vi/Dpc-bGwyJmk/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Dpc-bGwyJmk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Dpc-bGwyJmk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-31T16:35:23", "whiteboard": "", "video_flv_length": null, "title": "Domain Specific Languages for Partial Differential Equations using Ignition", "duration": null, "description": "As scientific computing pushes towards extreme scales, the programming wall is\nbecoming more apparent. For algorithms to scale on new architectures, they\noften must be rewritten accounting for completely different performance\ncharacteristics. A handful of the communities fastest codes have already\nturned to automatic code generation to tackle these issues. Code generation\ngives a user the ability to use the expressiveness of a domain specific\nlanguage and promises for better portability as architectures rapidly change.\n\nIn this presentation, I will show Ignition, a project for creating numerical\ncode generators. Python and SymPy make exceptional languages for developing\nthese code generators in a way that domain experts can understand and\nmanipulate. I show examples how Ignition can generate several different parts\nof geophysical simulations.\n\n", "state": 1, "category": "SciPy 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Domain_Specific_Languages_for_Partial_Differential_Equations_using_Ignition.mp4?Signature=wUghS1%2BLg%2FG7V4eI0CClg6aLnCc%3D&Expires=1346382037&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-18", "copyright_text": "CC BY-SA", "source_url": "http://youtube.com/watch?v=Dpc-bGwyJmk", "video_webm_url": "", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.142", "id": 1219, "related_urls": [], "slug": "domain-specific-languages-for-partial-differentia", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Andy Terrel"]}
+{
+    "added": "2012-08-31T16:35:23",
+    "category": "SciPy 2012",
+    "copyright_text": "CC BY-SA",
+    "description": "As scientific computing pushes towards extreme scales, the programming wall is\nbecoming more apparent. For algorithms to scale on new architectures, they\noften must be rewritten accounting for completely different performance\ncharacteristics. A handful of the communities fastest codes have already\nturned to automatic code generation to tackle these issues. Code generation\ngives a user the ability to use the expressiveness of a domain specific\nlanguage and promises for better portability as architectures rapidly change.\n\nIn this presentation, I will show Ignition, a project for creating numerical\ncode generators. Python and SymPy make exceptional languages for developing\nthese code generators in a way that domain experts can understand and\nmanipulate. I show examples how Ignition can generate several different parts\nof geophysical simulations.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Dpc-bGwyJmk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Dpc-bGwyJmk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1219,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-07-18",
+    "related_urls": [],
+    "slug": "domain-specific-languages-for-partial-differentia",
+    "source_url": "http://youtube.com/watch?v=Dpc-bGwyJmk",
+    "speakers": [
+        "Andy Terrel"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "Geophysics Mini-Symposia"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/Dpc-bGwyJmk/hqdefault.jpg",
+    "title": "Domain Specific Languages for Partial Differential Equations using Ignition",
+    "updated": "2014-04-08T20:28:27.142",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Domain_Specific_Languages_for_Partial_Differential_Equations_using_Ignition.mp4?Signature=wUghS1%2BLg%2FG7V4eI0CClg6aLnCc%3D&Expires=1346382037&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

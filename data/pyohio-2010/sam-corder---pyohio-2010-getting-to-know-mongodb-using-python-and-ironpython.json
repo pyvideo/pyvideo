@@ -1,1 +1,43 @@
-{"tags": ["ironpython", "mongodb", "nosql", "pyohio", "pyohio2010"], "thumbnail_url": "http://a.images.blip.tv/Pyohio-GettingToKnowMongoDBUsingPythonAndIronPython684.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyOhio 2010: Getting to know MongoDB using Python and IronPython", "duration": null, "description": "Getting to know MongoDB using Python and IronPython\n\nPresented by Sam Corder\n\nIs your RDBMS not coping with the load anymore and can't be scaled out any\nfurther? Are you designing the next big thing and know your RDBMS won't be\nable to handle it? Are you tired of shoe-horning a data model into where it\ndoesn't belong? Are you just curious what this thing called MongoDB is? In\nthis session you will explore a popular alternative to the RDBMS called Mongo\nfrom one who has battled with BSON to write the original .Net driver. You'll\nlearn basics of schema design, document manipulation, several ways to get at\nyour data, something odd called map/reduce and all from the comfort of Python\nand the slightly uncomfortable IronPython.\n\n", "state": 1, "category": "PyOhio 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 105050642, "updated": "2014-04-08T20:28:25.829", "id": 519, "related_urls": [], "slug": "pyohio-2010--getting-to-know-mongodb-using-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/519_pyohio-2010-getting-to-know-mongodb-using-python-and-ironpython.flv", "language": "English", "video_ogv_download_only": false, "speakers": ["Sam Corder"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyOhio 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Getting to know MongoDB using Python and IronPython\n\nPresented by Sam Corder\n\nIs your RDBMS not coping with the load anymore and can't be scaled out any\nfurther? Are you designing the next big thing and know your RDBMS won't be\nable to handle it? Are you tired of shoe-horning a data model into where it\ndoesn't belong? Are you just curious what this thing called MongoDB is? In\nthis session you will explore a popular alternative to the RDBMS called Mongo\nfrom one who has battled with BSON to write the original .Net driver. You'll\nlearn basics of schema design, document manipulation, several ways to get at\nyour data, something odd called map/reduce and all from the comfort of Python\nand the slightly uncomfortable IronPython.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 519,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyohio-2010--getting-to-know-mongodb-using-python",
+    "source_url": "",
+    "speakers": [
+        "Sam Corder"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "ironpython",
+        "mongodb",
+        "nosql",
+        "pyohio",
+        "pyohio2010"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pyohio-GettingToKnowMongoDBUsingPythonAndIronPython684.png",
+    "title": "PyOhio 2010: Getting to know MongoDB using Python and IronPython",
+    "updated": "2014-04-08T20:28:25.829",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/519_pyohio-2010-getting-to-know-mongodb-using-python-and-ironpython.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": 105050642,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

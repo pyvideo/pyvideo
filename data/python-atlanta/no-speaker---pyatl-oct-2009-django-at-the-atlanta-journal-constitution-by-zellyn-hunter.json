@@ -1,1 +1,37 @@
-{"tags": ["pyatl"], "thumbnail_url": "http://a.images.blip.tv/Brandonrhodes-zellyn827-101.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyAtl Oct 2009: \"Django at the Atlanta-Journal Constitution\" by Zellyn Hunter", "duration": null, "description": "", "state": 1, "category": "Python Atlanta", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2009-10-08", "copyright_text": "No license (All rights reserved)", "source_url": "", "video_webm_url": null, "summary": "Hear about the trials, tribulations, and successes of using Django for content\nproviding at a large urban newspaper. Includes a bit of discussion about how\nthey integrate Django with their Big Proprietary Java CMS, their Ruby on Rails\ncomponents, and Memcached.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:28.251", "id": 594, "related_urls": [], "slug": "pyatl-oct-2009---quot-django-at-the-atlanta-journ", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/python-atlanta/594_pyatl-oct-2009-django-at-the-atlanta-journal-constitution-by-zellyn-hunter.flv", "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "Python Atlanta",
+    "copyright_text": "No license (All rights reserved)",
+    "description": "",
+    "duration": null,
+    "embed": "",
+    "id": 594,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2009-10-08",
+    "related_urls": [],
+    "slug": "pyatl-oct-2009---quot-django-at-the-atlanta-journ",
+    "source_url": "",
+    "speakers": [],
+    "state": 1,
+    "summary": "Hear about the trials, tribulations, and successes of using Django for content\nproviding at a large urban newspaper. Includes a bit of discussion about how\nthey integrate Django with their Big Proprietary Java CMS, their Ruby on Rails\ncomponents, and Memcached.\n\n",
+    "tags": [
+        "pyatl"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Brandonrhodes-zellyn827-101.jpg",
+    "title": "PyAtl Oct 2009: \"Django at the Atlanta-Journal Constitution\" by Zellyn Hunter",
+    "updated": "2014-04-08T20:28:28.251",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/python-atlanta/594_pyatl-oct-2009-django-at-the-atlanta-journal-constitution-by-zellyn-hunter.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

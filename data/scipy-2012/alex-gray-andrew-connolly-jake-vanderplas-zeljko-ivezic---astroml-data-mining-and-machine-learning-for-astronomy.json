@@ -1,1 +1,42 @@
-{"tags": ["Astronomy Mini-Symposia"], "thumbnail_url": "http://i3.ytimg.com/vi/62zY8mA-UVQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/62zY8mA-UVQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/62zY8mA-UVQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-31T16:35:21", "whiteboard": "", "video_flv_length": null, "title": "AstroML: data mining and machine learning for Astronomy", "duration": null, "description": "Python is currently being adopted as the language of choice by many\nastronomical researchers. A prominent example is in the Large Synoptic Survey\nTelescope (LSST), a project which will repeatedly observe the southern sky\n1000 times over the course of 10 years. The 30,000 GB of raw data created each\nnight will pass through a processing pipeline consisting of C++ and legacy\ncode, stitched together with a python interface. This example underscores the\nneed for astronomers to be well-versed in large-scale statistical analysis\ntechniques in python. We seek to address this need with the AstroML package,\nwhich is designed to be a repository for well-tested data mining and machine\nlearning routines, with a focus on applications in astronomy and astrophysics.\nIt will be released in late 2012 with an associated graduate-level textbook,\n'Statistics, Data Mining and Machine Learning in Astronomy' (Princeton\nUniversity Press). AstroML leverages many computational tools already\navailable available in the python universe, including numpy, scipy, scikit-\nlearn, pymc, healpy, and others, and adds efficient implementations of several\nroutines more specific to astronomy. A main feature of the package is the\nextensive set of practical examples of astronomical data analysis, all written\nin python. In this talk, we will explore the statistical analysis of several\ninteresting astrophysical datasets using python and astroML.\n\n", "state": 1, "category": "SciPy 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/AstroML_data_mining_and_machine_learning_for_Astronomy.mp4?Signature=wee1HpiGOvESlEYUkXaQoGp%2BgNo%3D&Expires=1346381992&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-18", "copyright_text": "CC BY-SA", "source_url": "http://youtube.com/watch?v=62zY8mA-UVQ", "video_webm_url": "", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.132", "id": 1218, "related_urls": [], "slug": "astroml-data-mining-and-machine-learning-for-ast", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Alex Gray", "Andrew Connolly", "Jake Vanderplas", "Zeljko Ivezic"]}
+{
+    "added": "2012-08-31T16:35:21",
+    "category": "SciPy 2012",
+    "copyright_text": "CC BY-SA",
+    "description": "Python is currently being adopted as the language of choice by many\nastronomical researchers. A prominent example is in the Large Synoptic Survey\nTelescope (LSST), a project which will repeatedly observe the southern sky\n1000 times over the course of 10 years. The 30,000 GB of raw data created each\nnight will pass through a processing pipeline consisting of C++ and legacy\ncode, stitched together with a python interface. This example underscores the\nneed for astronomers to be well-versed in large-scale statistical analysis\ntechniques in python. We seek to address this need with the AstroML package,\nwhich is designed to be a repository for well-tested data mining and machine\nlearning routines, with a focus on applications in astronomy and astrophysics.\nIt will be released in late 2012 with an associated graduate-level textbook,\n'Statistics, Data Mining and Machine Learning in Astronomy' (Princeton\nUniversity Press). AstroML leverages many computational tools already\navailable available in the python universe, including numpy, scipy, scikit-\nlearn, pymc, healpy, and others, and adds efficient implementations of several\nroutines more specific to astronomy. A main feature of the package is the\nextensive set of practical examples of astronomical data analysis, all written\nin python. In this talk, we will explore the statistical analysis of several\ninteresting astrophysical datasets using python and astroML.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/62zY8mA-UVQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/62zY8mA-UVQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1218,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-07-18",
+    "related_urls": [],
+    "slug": "astroml-data-mining-and-machine-learning-for-ast",
+    "source_url": "http://youtube.com/watch?v=62zY8mA-UVQ",
+    "speakers": [
+        "Alex Gray",
+        "Andrew Connolly",
+        "Jake Vanderplas",
+        "Zeljko Ivezic"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "Astronomy Mini-Symposia"
+    ],
+    "thumbnail_url": "http://i3.ytimg.com/vi/62zY8mA-UVQ/hqdefault.jpg",
+    "title": "AstroML: data mining and machine learning for Astronomy",
+    "updated": "2014-04-08T20:28:27.132",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/AstroML_data_mining_and_machine_learning_for_Astronomy.mp4?Signature=wee1HpiGOvESlEYUkXaQoGp%2BgNo%3D&Expires=1346381992&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/MCHpt1FvblI/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/MCHpt1FvblI' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:07.360", "whiteboard": "needs editing", "video_flv_length": null, "title": "Satellite mapping for everyone ", "duration": null, "description": "Concerned about urban sprawl, landscape change or ecosystem recovery? Wildfire, drought or flooding? A vast amount of satellite data, collected since the 1970s, is freely available for your next mapping project. I will demonstrate how Python helps to make sense of odd scientific data and metadata formats and produce beautiful visualization and map products.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-11", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=MCHpt1FvblI", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:07.360", "id": 3431, "related_urls": [], "slug": "satellite-mapping-for-everyone", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Chris Waigl"]}
+{
+    "added": "2015-04-16T14:22:07.360",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Concerned about urban sprawl, landscape change or ecosystem recovery? Wildfire, drought or flooding? A vast amount of satellite data, collected since the 1970s, is freely available for your next mapping project. I will demonstrate how Python helps to make sense of odd scientific data and metadata formats and produce beautiful visualization and map products.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/MCHpt1FvblI' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3431,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-11",
+    "related_urls": [],
+    "slug": "satellite-mapping-for-everyone",
+    "source_url": "https://www.youtube.com/watch?v=MCHpt1FvblI",
+    "speakers": [
+        "Chris Waigl"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/MCHpt1FvblI/hqdefault.jpg",
+    "title": "Satellite mapping for everyone ",
+    "updated": "2015-04-16T14:22:07.360",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

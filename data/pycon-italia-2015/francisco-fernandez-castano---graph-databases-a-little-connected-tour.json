@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/ukV5sPSOtiE/maxresdefault.jpg", "embed": "", "added": "2015-06-14T17:04:24.415", "whiteboard": "", "video_flv_length": null, "title": "Graph Databases, a little connected tour", "duration": 1421, "description": "", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-29", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=ukV5sPSOtiE", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-14T17:04:24.415", "id": 3599, "related_urls": [], "slug": "graph-databases-a-little-connected-tour-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "Italian", "video_ogv_download_only": false, "speakers": ["Francisco Fern\u00e1ndez Casta\u00f1o"]}
+{
+    "added": "2015-06-14T17:04:24.415",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "",
+    "duration": 1421,
+    "embed": "",
+    "id": 3599,
+    "language": "Italian",
+    "quality_notes": "",
+    "recorded": "2015-05-29",
+    "related_urls": [],
+    "slug": "graph-databases-a-little-connected-tour-0",
+    "source_url": "https://www.youtube.com/watch?v=ukV5sPSOtiE",
+    "speakers": [
+        "Francisco Fern\u00e1ndez Casta\u00f1o"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/ukV5sPSOtiE/maxresdefault.jpg",
+    "title": "Graph Databases, a little connected tour",
+    "updated": "2015-06-14T17:04:24.415",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

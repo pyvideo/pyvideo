@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/uOn6_bLy3vo/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/uOn6_bLy3vo' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2014-10-26T00:13:26.619", "whiteboard": "", "video_flv_length": null, "title": "Introduction to Google Cloud Endpoints for Python developers", "duration": null, "description": "Google Cloud Endpoints provides a simple way to create a RESTful service and be fueled by the infrastructure of Google, it also generates client libraries for JavaScript, Android and iOS to minimize the effort for developers who are integrating their service with mobile and web in bootstrapping.\r\n\r\n\r\nAbout the speaker\r\n\r\nI'm the software engineer at Tagtoo, and also the developer expert of Google Cloud Platform. I'm a full-stack engineer who love to teach, presenting. Here're my links: http://about.me/littleq https://developers.google.com/experts/+ColinSu\r\n\r\nTagline\r\npython,google,google cloud platform\r\n\u500b\u4eba\u7db2\u9801\u9023\u7d50\r\n\r\nhttp://about.me/littleq\r\nTwitter\r\n@littleq0903\r\n\u982d\u929c\r\nDeveloper Expert, Google Cloud Platform", "state": 1, "category": "PyCon APAC 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-08-11", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=uOn6_bLy3vo", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-10-26T15:55:51.887", "id": 3278, "related_urls": [], "slug": "introduction-to-google-cloud-endpoints-for-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "Chinese", "video_ogv_download_only": false, "speakers": ["Colin Su"]}
+{
+    "added": "2014-10-26T00:13:26.619",
+    "category": "PyCon APAC 2014",
+    "copyright_text": "creativeCommon",
+    "description": "Google Cloud Endpoints provides a simple way to create a RESTful service and be fueled by the infrastructure of Google, it also generates client libraries for JavaScript, Android and iOS to minimize the effort for developers who are integrating their service with mobile and web in bootstrapping.\r\n\r\n\r\nAbout the speaker\r\n\r\nI'm the software engineer at Tagtoo, and also the developer expert of Google Cloud Platform. I'm a full-stack engineer who love to teach, presenting. Here're my links: http://about.me/littleq https://developers.google.com/experts/+ColinSu\r\n\r\nTagline\r\npython,google,google cloud platform\r\n\u500b\u4eba\u7db2\u9801\u9023\u7d50\r\n\r\nhttp://about.me/littleq\r\nTwitter\r\n@littleq0903\r\n\u982d\u929c\r\nDeveloper Expert, Google Cloud Platform",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/uOn6_bLy3vo' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3278,
+    "language": "Chinese",
+    "quality_notes": "",
+    "recorded": "2014-08-11",
+    "related_urls": [],
+    "slug": "introduction-to-google-cloud-endpoints-for-python",
+    "source_url": "https://www.youtube.com/watch?v=uOn6_bLy3vo",
+    "speakers": [
+        "Colin Su"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/uOn6_bLy3vo/hqdefault.jpg",
+    "title": "Introduction to Google Cloud Endpoints for Python developers",
+    "updated": "2014-10-26T15:55:51.887",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

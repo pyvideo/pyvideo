@@ -1,1 +1,44 @@
-{"tags": ["scraping"], "thumbnail_url": "http://i3.ytimg.com/vi/bWk0P7w2aZg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/bWk0P7w2aZg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/bWk0P7w2aZg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-10T22:21:12", "whiteboard": "", "video_flv_length": null, "title": "Scraping from the Web: An Overview That Does Not Contain Too Much Cussing", "duration": null, "description": "", "state": 1, "category": "ChiPy", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/chipy/chipy_feb_2013/Scraping_with_Python.mp4?Signature=dWiCFwRZAyv0bG8wwkXx7vvJH2s%3D&Expires=1361272540&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-02-15", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=bWk0P7w2aZg", "video_webm_url": "", "summary": "A high level overview of how we did scraping at EveryBlock.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.801", "id": 1649, "related_urls": [{"url": "http://www.slideshare.net/megafeihong/scraping-from-the-web-an-overview-that-does-not-contain-too-much-cussing", "description": "talk slides"}], "slug": "scraping-with-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Feihong Hsu"]}
+{
+    "added": "2013-03-10T22:21:12",
+    "category": "ChiPy",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/bWk0P7w2aZg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/bWk0P7w2aZg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1649,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-02-15",
+    "related_urls": [
+        {
+            "description": "talk slides",
+            "url": "http://www.slideshare.net/megafeihong/scraping-from-the-web-an-overview-that-does-not-contain-too-much-cussing"
+        }
+    ],
+    "slug": "scraping-with-python",
+    "source_url": "https://www.youtube.com/watch?v=bWk0P7w2aZg",
+    "speakers": [
+        "Feihong Hsu"
+    ],
+    "state": 1,
+    "summary": "A high level overview of how we did scraping at EveryBlock.",
+    "tags": [
+        "scraping"
+    ],
+    "thumbnail_url": "http://i3.ytimg.com/vi/bWk0P7w2aZg/hqdefault.jpg",
+    "title": "Scraping from the Web: An Overview That Does Not Contain Too Much Cussing",
+    "updated": "2014-04-08T20:28:26.801",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/chipy/chipy_feb_2013/Scraping_with_Python.mp4?Signature=dWiCFwRZAyv0bG8wwkXx7vvJH2s%3D&Expires=1361272540&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

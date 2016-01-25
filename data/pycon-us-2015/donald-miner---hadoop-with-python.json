@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/b8HLYUp_fA8/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/b8HLYUp_fA8' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:10.898", "whiteboard": "needs editing", "video_flv_length": null, "title": "Hadoop with Python", "duration": null, "description": "In this tutorial, students will learn how to use Python with Apache Hadoop to store, process, and analyze incredibly large data sets. Hadoop has become the standard in distributed data processing, but has mostly required Java in the past. Today, there are a numerous open source projects that support Hadoop in Python and this tutorial will show students how to use them.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-11", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=b8HLYUp_fA8", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:10.898", "id": 3470, "related_urls": [], "slug": "hadoop-with-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Donald Miner"]}
+{
+    "added": "2015-04-16T14:22:10.898",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "In this tutorial, students will learn how to use Python with Apache Hadoop to store, process, and analyze incredibly large data sets. Hadoop has become the standard in distributed data processing, but has mostly required Java in the past. Today, there are a numerous open source projects that support Hadoop in Python and this tutorial will show students how to use them.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/b8HLYUp_fA8' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3470,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-11",
+    "related_urls": [],
+    "slug": "hadoop-with-python",
+    "source_url": "https://www.youtube.com/watch?v=b8HLYUp_fA8",
+    "speakers": [
+        "Donald Miner"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/b8HLYUp_fA8/hqdefault.jpg",
+    "title": "Hadoop with Python",
+    "updated": "2015-04-16T14:22:10.898",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

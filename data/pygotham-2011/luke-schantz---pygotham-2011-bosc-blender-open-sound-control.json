@@ -1,1 +1,43 @@
-{"tags": ["blender", "bosc", "opensoundcontrol", "pygotham", "pygotham2011"], "thumbnail_url": "http://a.images.blip.tv/Gloriajw-BOSCBlenderOpenSoundControl801-50.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyGotham 2011: BOSC: Blender Open Sound Control", "duration": null, "description": "", "state": 1, "category": "PyGotham 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/489_pygotham-2011-bosc-blender-open-sound-control.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "", "source_url": "", "video_webm_url": "", "summary": "Blender Open Sound Control is a project enabling the use of Open Sound Control\nMessages within the Blender Game Engine.\n\n", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/489_pygotham-2011-bosc-blender-open-sound-control.ogv", "video_ogv_length": 177647896, "updated": "2014-04-08T20:28:25.806", "id": 489, "related_urls": [], "slug": "pygotham-2011--bosc--blender-open-sound-control", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Luke Schantz"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyGotham 2011",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "",
+    "id": 489,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pygotham-2011--bosc--blender-open-sound-control",
+    "source_url": "",
+    "speakers": [
+        "Luke Schantz"
+    ],
+    "state": 1,
+    "summary": "Blender Open Sound Control is a project enabling the use of Open Sound Control\nMessages within the Blender Game Engine.\n\n",
+    "tags": [
+        "blender",
+        "bosc",
+        "opensoundcontrol",
+        "pygotham",
+        "pygotham2011"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Gloriajw-BOSCBlenderOpenSoundControl801-50.jpg",
+    "title": "PyGotham 2011: BOSC: Blender Open Sound Control",
+    "updated": "2014-04-08T20:28:25.806",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/489_pygotham-2011-bosc-blender-open-sound-control.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 177647896,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/489_pygotham-2011-bosc-blender-open-sound-control.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

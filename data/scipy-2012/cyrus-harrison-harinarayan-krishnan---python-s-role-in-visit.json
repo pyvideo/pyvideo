@@ -1,1 +1,40 @@
-{"tags": ["visualization"], "thumbnail_url": "http://i1.ytimg.com/vi/0e4TTcswqLg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/0e4TTcswqLg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/0e4TTcswqLg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-31T16:35:42", "whiteboard": "", "video_flv_length": null, "title": "Python's role in VisIt", "duration": null, "description": "VisIt is an open source, turnkey application for scientific data analysis and\nvisualization that runs on a wide variety of platforms from desktops to\npetascale class supercomputers. This talk will provide an overview of Python\u2019s\nrole in VisIt with a focus on use cases of scripted rendering, data analysis,\nand custom application development.\n\nPython is the foundation of VisIt\u2019s primary scripting interface, which is\navailable from both a standard python interpreter and a custom command line\nclient. The interface provides access to all features available through\nVisIt\u2019s GUI. It also includes support for macro recording of GUI actions to\npython snippets and full control of windowless batch processing.\n\nWhile Python has always played an important scripting role in VisIt, two\nrecent development efforts have greatly expanded VisIt\u2019s python capabilities:\n\n  1. We recently enhanced VisIt by embedding python interpreters into our data flow network pipelines. This provides fine grained access, allowing users to write custom algorithms in python that manipulate mesh data via VTK\u2019s python wrappers and leverage packages such as numpy and scipy. Current support includes the ability to create derived mesh quantities and execute data summarization operations.\n  2. We now support custom GUI development using Qt via PySide. This allows users to embed VisIt\u2019s visualization windows into their own python applications. This provides a path to extend VisIt\u2019s existing GUI and for rapid development of streamlined GUIs for specific use cases.\n\nThe ultimate goal of this work is to evolve Python into a true peer to our\ncore C++ plugin infrastructure.\n\nThis work performed under the auspices of the U.S. Department of Energy by\nLawrence Livermore National Laboratory under Contract DE-AC52-07NA27344 (LLNL-\nABS-552316).\n\n", "state": 1, "category": "SciPy 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Pythonu2019s_role_in_VisIt.mp4?Signature=syBSoJjkdBb1x58V850wn21fP04%3D&Expires=1346382780&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-19", "copyright_text": "CC BY-SA", "source_url": "http://youtube.com/watch?v=0e4TTcswqLg", "video_webm_url": "", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.119", "id": 1228, "related_urls": [], "slug": "pythons-role-in-visit", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Cyrus Harrison", "Harinarayan Krishnan"]}
+{
+    "added": "2012-08-31T16:35:42",
+    "category": "SciPy 2012",
+    "copyright_text": "CC BY-SA",
+    "description": "VisIt is an open source, turnkey application for scientific data analysis and\nvisualization that runs on a wide variety of platforms from desktops to\npetascale class supercomputers. This talk will provide an overview of Python\u2019s\nrole in VisIt with a focus on use cases of scripted rendering, data analysis,\nand custom application development.\n\nPython is the foundation of VisIt\u2019s primary scripting interface, which is\navailable from both a standard python interpreter and a custom command line\nclient. The interface provides access to all features available through\nVisIt\u2019s GUI. It also includes support for macro recording of GUI actions to\npython snippets and full control of windowless batch processing.\n\nWhile Python has always played an important scripting role in VisIt, two\nrecent development efforts have greatly expanded VisIt\u2019s python capabilities:\n\n  1. We recently enhanced VisIt by embedding python interpreters into our data flow network pipelines. This provides fine grained access, allowing users to write custom algorithms in python that manipulate mesh data via VTK\u2019s python wrappers and leverage packages such as numpy and scipy. Current support includes the ability to create derived mesh quantities and execute data summarization operations.\n  2. We now support custom GUI development using Qt via PySide. This allows users to embed VisIt\u2019s visualization windows into their own python applications. This provides a path to extend VisIt\u2019s existing GUI and for rapid development of streamlined GUIs for specific use cases.\n\nThe ultimate goal of this work is to evolve Python into a true peer to our\ncore C++ plugin infrastructure.\n\nThis work performed under the auspices of the U.S. Department of Energy by\nLawrence Livermore National Laboratory under Contract DE-AC52-07NA27344 (LLNL-\nABS-552316).\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/0e4TTcswqLg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/0e4TTcswqLg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1228,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-07-19",
+    "related_urls": [],
+    "slug": "pythons-role-in-visit",
+    "source_url": "http://youtube.com/watch?v=0e4TTcswqLg",
+    "speakers": [
+        "Cyrus Harrison",
+        "Harinarayan Krishnan"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "visualization"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/0e4TTcswqLg/hqdefault.jpg",
+    "title": "Python's role in VisIt",
+    "updated": "2014-04-08T20:28:27.119",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Pythonu2019s_role_in_VisIt.mp4?Signature=syBSoJjkdBb1x58V850wn21fP04%3D&Expires=1346382780&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

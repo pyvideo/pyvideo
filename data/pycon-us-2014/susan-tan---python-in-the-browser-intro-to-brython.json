@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/BcDV9QUium4/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/BcDV9QUium4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/BcDV9QUium4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-04-13T21:20:33.986", "whiteboard": "", "video_flv_length": null, "title": "Python in the Browser: Intro to Brython", "duration": null, "description": "", "state": 1, "category": "PyCon US 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-04-13", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=BcDV9QUium4", "video_webm_url": null, "summary": "Have you ever wished that you can write Python in the browser? Brython is an experimental Javascript library that enables you to leverage the elegance of Python on the client side. Novice programmers who are familiar with Javascript will learn about Brython, how Brython measures up against Javascript, and why getting client-side Python adopted as a mainstream tool is really difficult.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-13T21:20:33.986", "id": 2695, "related_urls": [], "slug": "python-in-the-browser-intro-to-brython", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Susan Tan"]}
+{
+    "added": "2014-04-13T21:20:33.986",
+    "category": "PyCon US 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/BcDV9QUium4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/BcDV9QUium4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2695,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-04-13",
+    "related_urls": [],
+    "slug": "python-in-the-browser-intro-to-brython",
+    "source_url": "http://www.youtube.com/watch?v=BcDV9QUium4",
+    "speakers": [
+        "Susan Tan"
+    ],
+    "state": 1,
+    "summary": "Have you ever wished that you can write Python in the browser? Brython is an experimental Javascript library that enables you to leverage the elegance of Python on the client side. Novice programmers who are familiar with Javascript will learn about Brython, how Brython measures up against Javascript, and why getting client-side Python adopted as a mainstream tool is really difficult.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/BcDV9QUium4/hqdefault.jpg",
+    "title": "Python in the Browser: Intro to Brython",
+    "updated": "2014-04-13T21:20:33.986",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

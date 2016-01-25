@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i3.ytimg.com/vi/NLRWUQDaApw/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/NLRWUQDaApw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/NLRWUQDaApw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-10-01T13:13:33", "whiteboard": "", "video_flv_length": null, "title": "You Used Python for What?!", "duration": null, "description": "", "state": 1, "category": "PyOhio 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/You_Used_Python_for_What.mp4?Signature=l3FyP2qi%2Bfphe76sBKPBXeU%2BTZU%3D&Expires=1346552312&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-28", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=NLRWUQDaApw", "video_webm_url": "", "summary": "Taking a break from his usual web development, James will give an overview of\nsome of the more unusual things he's done with Python: from implementing other\nprogramming languages to analyzing piano performances; from emulating an Apple\n][ to the beginnings of an operating system written in Python.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.091", "id": 1353, "related_urls": [], "slug": "you-used-python-for-what", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["James Tauber"]}
+{
+    "added": "2012-10-01T13:13:33",
+    "category": "PyOhio 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/NLRWUQDaApw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/NLRWUQDaApw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1353,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-07-28",
+    "related_urls": [],
+    "slug": "you-used-python-for-what",
+    "source_url": "https://www.youtube.com/watch?v=NLRWUQDaApw",
+    "speakers": [
+        "James Tauber"
+    ],
+    "state": 1,
+    "summary": "Taking a break from his usual web development, James will give an overview of\nsome of the more unusual things he's done with Python: from implementing other\nprogramming languages to analyzing piano performances; from emulating an Apple\n][ to the beginnings of an operating system written in Python.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i3.ytimg.com/vi/NLRWUQDaApw/hqdefault.jpg",
+    "title": "You Used Python for What?!",
+    "updated": "2014-04-08T20:28:27.091",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/You_Used_Python_for_What.mp4?Signature=l3FyP2qi%2Bfphe76sBKPBXeU%2BTZU%3D&Expires=1346552312&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,43 @@
-{"tags": ["api", "argparse", "cmd", "decorators", "parser"], "thumbnail_url": "http://i.ytimg.com/vi/vM9DUUz7Fa8/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/vM9DUUz7Fa8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/vM9DUUz7Fa8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:26", "whiteboard": "", "video_flv_length": null, "title": "plac: more than just another command-line arguments parser", "duration": null, "description": "plac is general purpose tool than can be used to define command-oriented\ndomain specific languages (DSLs). In its simplest form it can be used as a\ncommand-line arguments parser with an easier-to-use API than argparse. It can\nalso be used to replace the cmd module in the standard library. Moreover it\ncan be used to automatize functional tests and for much more. The talk will\ntouch upon many use cases where plac can make your life as a developer simpler\nand better. Technically Plac is a wrapper over argparse and works in all\nversions of Python starting from Python 2.3 up to Python 3.2. In Python 3.X it\ntakes advantage of function annotations to define the parser in a declarative\nway, instead of the imperative way of argparse. In Python 2.X it uses\ndecorators instead, to reach the same goal. The talk is a hands-on interactive\ndemonstration of plac capabilities.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-13", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=vM9DUUz7Fa8", "video_webm_url": null, "summary": "[EuroPython 2011] Michele Simionato - 21 June 2011 in \"Track Ravioli\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.858", "id": 1085, "related_urls": [], "slug": "plac-more-than-just-another-command-line-argumen", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Michele Simionato"]}
+{
+    "added": "2012-08-30T21:02:26",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "plac is general purpose tool than can be used to define command-oriented\ndomain specific languages (DSLs). In its simplest form it can be used as a\ncommand-line arguments parser with an easier-to-use API than argparse. It can\nalso be used to replace the cmd module in the standard library. Moreover it\ncan be used to automatize functional tests and for much more. The talk will\ntouch upon many use cases where plac can make your life as a developer simpler\nand better. Technically Plac is a wrapper over argparse and works in all\nversions of Python starting from Python 2.3 up to Python 3.2. In Python 3.X it\ntakes advantage of function annotations to define the parser in a declarative\nway, instead of the imperative way of argparse. In Python 2.X it uses\ndecorators instead, to reach the same goal. The talk is a hands-on interactive\ndemonstration of plac capabilities.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/vM9DUUz7Fa8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/vM9DUUz7Fa8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1085,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-13",
+    "related_urls": [],
+    "slug": "plac-more-than-just-another-command-line-argumen",
+    "source_url": "http://www.youtube.com/watch?v=vM9DUUz7Fa8",
+    "speakers": [
+        "Michele Simionato"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Michele Simionato - 21 June 2011 in \"Track Ravioli\"\n\n",
+    "tags": [
+        "api",
+        "argparse",
+        "cmd",
+        "decorators",
+        "parser"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/vM9DUUz7Fa8/hqdefault.jpg",
+    "title": "plac: more than just another command-line arguments parser",
+    "updated": "2014-04-08T20:28:27.858",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

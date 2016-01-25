@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://img.youtube.com/vi/Xk6gQ6s2QjU/hqdefault.jpg", "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/Xk6gQ6s2QjU&amp;hl=en&amp;fs=1\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/Xk6gQ6s2QjU&amp;hl=en&amp;fs=1\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", "added": "2012-03-15T21:30:15", "whiteboard": "", "video_flv_length": null, "title": "Through The Ether And Back Again: What Happens To A Packet When You Send It", "duration": null, "description": "", "state": 1, "category": "PyCon US 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-03-09", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=Xk6gQ6s2QjU", "video_webm_url": "", "summary": "Many - perhaps even most - Python software involves a network, at least a\nlittle bit. You've probably written some yourself. But do you really know what\nhappens - to your kernel, to your ethernet card, to Python - when you call\nsocket.send()? Come to this talk and find out: if you dare.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.620", "id": 885, "related_urls": [], "slug": "through-the-ether-and-back-again-what-happens-to", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Glyph Lefkowitz"]}
+{
+    "added": "2012-03-15T21:30:15",
+    "category": "PyCon US 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/Xk6gQ6s2QjU&amp;hl=en&amp;fs=1\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/Xk6gQ6s2QjU&amp;hl=en&amp;fs=1\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>",
+    "id": 885,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-03-09",
+    "related_urls": [],
+    "slug": "through-the-ether-and-back-again-what-happens-to",
+    "source_url": "https://www.youtube.com/watch?v=Xk6gQ6s2QjU",
+    "speakers": [
+        "Glyph Lefkowitz"
+    ],
+    "state": 1,
+    "summary": "Many - perhaps even most - Python software involves a network, at least a\nlittle bit. You've probably written some yourself. But do you really know what\nhappens - to your kernel, to your ethernet card, to Python - when you call\nsocket.send()? Come to this talk and find out: if you dare.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://img.youtube.com/vi/Xk6gQ6s2QjU/hqdefault.jpg",
+    "title": "Through The Ether And Back Again: What Happens To A Packet When You Send It",
+    "updated": "2014-04-08T20:28:27.620",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

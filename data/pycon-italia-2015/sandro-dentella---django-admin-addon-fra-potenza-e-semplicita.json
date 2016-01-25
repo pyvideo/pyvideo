@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/MlZfJVC7ci8/maxresdefault.jpg", "embed": "", "added": "2015-06-14T17:04:25.251", "whiteboard": "", "video_flv_length": null, "title": "Django admin addon fra potenza e semplicit\u00e0", "duration": 1533, "description": "Il talk vuole presentare alcuni strumenti di utilizzo molto generale che sono stati sviluppati in Thunder Systems per integrare le funzionalit\u00e0 offerte dall\u2019admin di Django. In particolare verrano presentati uno strumento di ricerca avanzata, che affianchiamo alla ricerca semplice di Django, un modo efficace di suddividere il layout di una form (e relative inlines) su pi\u00f9 tab ed infine quello che abbiamo battezzato AjaxInlines, un ibrido fra le TabularInlines e la changelist che permette di manipolare i figli di un oggetto via chiamate ajax quindi in modo particolarmente efficace. La caratteristica che unisce queste 3 aggiunte \u00e8 la semplicit\u00e0 e la chiarezza della sintassi richiesta.\n", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-29", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=MlZfJVC7ci8", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-14T17:04:25.251", "id": 3607, "related_urls": [], "slug": "django-admin-addon-fra-potenza-e-semplicita", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "Italian", "video_ogv_download_only": false, "speakers": ["Sandro Dentella"]}
+{
+    "added": "2015-06-14T17:04:25.251",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "Il talk vuole presentare alcuni strumenti di utilizzo molto generale che sono stati sviluppati in Thunder Systems per integrare le funzionalit\u00e0 offerte dall\u2019admin di Django. In particolare verrano presentati uno strumento di ricerca avanzata, che affianchiamo alla ricerca semplice di Django, un modo efficace di suddividere il layout di una form (e relative inlines) su pi\u00f9 tab ed infine quello che abbiamo battezzato AjaxInlines, un ibrido fra le TabularInlines e la changelist che permette di manipolare i figli di un oggetto via chiamate ajax quindi in modo particolarmente efficace. La caratteristica che unisce queste 3 aggiunte \u00e8 la semplicit\u00e0 e la chiarezza della sintassi richiesta.\n",
+    "duration": 1533,
+    "embed": "",
+    "id": 3607,
+    "language": "Italian",
+    "quality_notes": "",
+    "recorded": "2015-05-29",
+    "related_urls": [],
+    "slug": "django-admin-addon-fra-potenza-e-semplicita",
+    "source_url": "https://www.youtube.com/watch?v=MlZfJVC7ci8",
+    "speakers": [
+        "Sandro Dentella"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/MlZfJVC7ci8/maxresdefault.jpg",
+    "title": "Django admin addon fra potenza e semplicit\u00e0",
+    "updated": "2015-06-14T17:04:25.251",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

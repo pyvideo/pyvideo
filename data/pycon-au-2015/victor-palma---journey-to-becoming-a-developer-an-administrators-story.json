@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/3pphvUMy4Fs/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/3pphvUMy4Fs\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-10-18T16:10:51.981", "whiteboard": "needs editing", "video_flv_length": null, "title": "Journey to becoming a Developer: an Administrators story", "duration": null, "description": "As a system operator we sometimes have to create scripts to maintain our infrastructure.  However because of DevOps some of us have taken a path to move more towards a developer role.  That journey can be a bit tough specially if you don\u2019t have the proper support in place.  Fortunately for me I had some help along the way and they gave me some direction that has improved my development.  Here is a list of small things to help you on that journey:\r\n\u2022 Changing the way we think (mindset of a developer)\r\n\u2022 Idiomatic python\r\n\u2022 Zen of Python by example\r\n\u2022 Testing\r\n\r\n\r\n", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-04", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=3pphvUMy4Fs", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2015-10-18T16:26:51.782", "id": 3950, "related_urls": [], "slug": "journey-to-becoming-a-developer-an-administrator", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Victor Palma"]}
+{
+    "added": "2015-10-18T16:10:51.981",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "As a system operator we sometimes have to create scripts to maintain our infrastructure.  However because of DevOps some of us have taken a path to move more towards a developer role.  That journey can be a bit tough specially if you don\u2019t have the proper support in place.  Fortunately for me I had some help along the way and they gave me some direction that has improved my development.  Here is a list of small things to help you on that journey:\r\n\u2022 Changing the way we think (mindset of a developer)\r\n\u2022 Idiomatic python\r\n\u2022 Zen of Python by example\r\n\u2022 Testing\r\n\r\n\r\n",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/3pphvUMy4Fs\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 3950,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-04",
+    "related_urls": [],
+    "slug": "journey-to-becoming-a-developer-an-administrator",
+    "source_url": "https://www.youtube.com/watch?v=3pphvUMy4Fs",
+    "speakers": [
+        "Victor Palma"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/3pphvUMy4Fs/hqdefault.jpg",
+    "title": "Journey to becoming a Developer: an Administrators story",
+    "updated": "2015-10-18T16:26:51.782",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing"
+}

@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i.ytimg.com/vi/vdSZ61IjC6E/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/vdSZ61IjC6E?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/vdSZ61IjC6E?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-19T02:13:14.307", "whiteboard": "", "video_flv_length": null, "title": "A gentle introduction to asyncio", "duration": 3600, "description": "", "state": 1, "category": "PyOhio 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-26", "copyright_text": "CC BY", "source_url": "http://youtu.be/vdSZ61IjC6E", "video_webm_url": "http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2841_A_gentle_introduction_to_asyncio.webm", "summary": "Asyncio is the new standard library module for doing asynchronous IO and concurrency in Python 3.4. In this talk, I'll discuss some earlier strategies for writing such code in Python. I'll cover some of the decisions that went into it's design. Then I'll walk through a tuturial on asyncio itself. Finally, I'll take some well known example code for Gevent and Twisted, and rewrite it in asyncio.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-09-29T12:06:34.240", "id": 2841, "related_urls": [], "slug": "a-gentle-introduction-to-asyncio", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Brian Costlow"]}
+{
+    "added": "2014-07-19T02:13:14.307",
+    "category": "PyOhio 2014",
+    "copyright_text": "CC BY",
+    "description": "",
+    "duration": 3600,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/vdSZ61IjC6E?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/vdSZ61IjC6E?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2841,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-26",
+    "related_urls": [],
+    "slug": "a-gentle-introduction-to-asyncio",
+    "source_url": "http://youtu.be/vdSZ61IjC6E",
+    "speakers": [
+        "Brian Costlow"
+    ],
+    "state": 1,
+    "summary": "Asyncio is the new standard library module for doing asynchronous IO and concurrency in Python 3.4. In this talk, I'll discuss some earlier strategies for writing such code in Python. I'll cover some of the decisions that went into it's design. Then I'll walk through a tuturial on asyncio itself. Finally, I'll take some well known example code for Gevent and Twisted, and rewrite it in asyncio.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/vdSZ61IjC6E/hqdefault.jpg",
+    "title": "A gentle introduction to asyncio",
+    "updated": "2014-09-29T12:06:34.240",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2841_A_gentle_introduction_to_asyncio.webm",
+    "whiteboard": ""
+}

@@ -1,1 +1,39 @@
-{"tags": ["pypy"], "thumbnail_url": "http://i.ytimg.com/vi/KN9eHa2cXNQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/KN9eHa2cXNQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/KN9eHa2cXNQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-01-15T14:29:51", "whiteboard": "", "video_flv_length": null, "title": "PyPy - is it ready for production?", "duration": null, "description": "I have followed the development of PyPy since 2004 and played with various\nreleases to see what the PyPy team had achieved. It wasn't until the release\nof PyPy 1.18 that I actually ran some existing production python code under\nit. The perceived performance improvement of this exercise inspired me to\nimplement a more scientific method for comparing the runtime performance of\nCPython and PyPy running various Python production code sets that we use in\nthe company I work for. This presentation will discuss the results of this\ncomparison and the positives and negatives with utilising PyPy in production.\n\n", "state": 1, "category": "PyCon AU 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-08-22", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=KN9eHa2cXNQ", "video_webm_url": null, "summary": "I have followed the development of PyPy since 2004 and played with various\nreleases to see what the PyPy team had achieved. It wasn't until the release\nof PyPy 1.18 that I actually ran some existing production python code under\nit. The perc\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.030", "id": 1636, "related_urls": [], "slug": "pypy-is-it-ready-for-production", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Mark Rees"]}
+{
+    "added": "2013-01-15T14:29:51",
+    "category": "PyCon AU 2012",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "I have followed the development of PyPy since 2004 and played with various\nreleases to see what the PyPy team had achieved. It wasn't until the release\nof PyPy 1.18 that I actually ran some existing production python code under\nit. The perceived performance improvement of this exercise inspired me to\nimplement a more scientific method for comparing the runtime performance of\nCPython and PyPy running various Python production code sets that we use in\nthe company I work for. This presentation will discuss the results of this\ncomparison and the positives and negatives with utilising PyPy in production.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/KN9eHa2cXNQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/KN9eHa2cXNQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1636,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-08-22",
+    "related_urls": [],
+    "slug": "pypy-is-it-ready-for-production",
+    "source_url": "http://www.youtube.com/watch?v=KN9eHa2cXNQ",
+    "speakers": [
+        "Mark Rees"
+    ],
+    "state": 1,
+    "summary": "I have followed the development of PyPy since 2004 and played with various\nreleases to see what the PyPy team had achieved. It wasn't until the release\nof PyPy 1.18 that I actually ran some existing production python code under\nit. The perc\n\n",
+    "tags": [
+        "pypy"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/KN9eHa2cXNQ/hqdefault.jpg",
+    "title": "PyPy - is it ready for production?",
+    "updated": "2014-04-08T20:28:27.030",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

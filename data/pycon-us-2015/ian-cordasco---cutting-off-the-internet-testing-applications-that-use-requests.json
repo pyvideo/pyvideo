@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/YHbKxFcDltM/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/YHbKxFcDltM' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:10.241", "whiteboard": "needs editing", "video_flv_length": null, "title": "Cutting Off the Internet: Testing Applications that Use Requests", "duration": null, "description": "A brief and opinionated view of testing applications and libraries that use requests by a core-developer of requests. You will receive an overview of testing with responses, vcr, httpretty, mock, and betamax.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-12", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=YHbKxFcDltM", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:10.241", "id": 3462, "related_urls": [], "slug": "cutting-off-the-internet-testing-applications-th", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Ian Cordasco"]}
+{
+    "added": "2015-04-16T14:22:10.241",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "A brief and opinionated view of testing applications and libraries that use requests by a core-developer of requests. You will receive an overview of testing with responses, vcr, httpretty, mock, and betamax.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/YHbKxFcDltM' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3462,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-12",
+    "related_urls": [],
+    "slug": "cutting-off-the-internet-testing-applications-th",
+    "source_url": "https://www.youtube.com/watch?v=YHbKxFcDltM",
+    "speakers": [
+        "Ian Cordasco"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/YHbKxFcDltM/hqdefault.jpg",
+    "title": "Cutting Off the Internet: Testing Applications that Use Requests",
+    "updated": "2015-04-16T14:22:10.241",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

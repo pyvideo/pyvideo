@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/eKlNEJlSjuE/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/eKlNEJlSjuE' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-22T17:59:39.190", "whiteboard": "needs editing", "video_flv_length": null, "title": "Numba, a JIT compiler for fast numerical code", "duration": null, "description": "This talk will be a general introduction to Numba. Numba is a just\u00ad-in-\u00adtime Python compiler that allows you to speed up numerical algorithms for which fast linear algebra (i.e. Numpy array operations) is not enough. It has backends for the CPU and for CUDA GPUs.\n\n    Expected audience: Python programmers / scientists who have an interest in speeding up numerical routines. Also, people who are curious about attempts at high-\u00adperformance Python.", "state": 1, "category": "PyData Paris 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-20", "copyright_text": "youtube", "source_url": "https://www.youtube.com/watch?v=eKlNEJlSjuE", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-22T17:59:39.190", "id": 3529, "related_urls": [], "slug": "numba-a-jit-compiler-for-fast-numerical-code", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Antoine Pitrou"]}
+{
+    "added": "2015-04-22T17:59:39.190",
+    "category": "PyData Paris 2015",
+    "copyright_text": "youtube",
+    "description": "This talk will be a general introduction to Numba. Numba is a just\u00ad-in-\u00adtime Python compiler that allows you to speed up numerical algorithms for which fast linear algebra (i.e. Numpy array operations) is not enough. It has backends for the CPU and for CUDA GPUs.\n\n    Expected audience: Python programmers / scientists who have an interest in speeding up numerical routines. Also, people who are curious about attempts at high-\u00adperformance Python.",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/eKlNEJlSjuE' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3529,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-20",
+    "related_urls": [],
+    "slug": "numba-a-jit-compiler-for-fast-numerical-code",
+    "source_url": "https://www.youtube.com/watch?v=eKlNEJlSjuE",
+    "speakers": [
+        "Antoine Pitrou"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/eKlNEJlSjuE/hqdefault.jpg",
+    "title": "Numba, a JIT compiler for fast numerical code",
+    "updated": "2015-04-22T17:59:39.190",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

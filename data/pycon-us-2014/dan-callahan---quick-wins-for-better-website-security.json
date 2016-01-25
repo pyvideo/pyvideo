@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/T-5p5ewqhVw/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/T-5p5ewqhVw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/T-5p5ewqhVw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-04-13T21:20:18.041", "whiteboard": "", "video_flv_length": null, "title": "Quick Wins for Better Website Security", "duration": null, "description": "", "state": 1, "category": "PyCon US 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-04-13", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=T-5p5ewqhVw", "video_webm_url": null, "summary": "Learn quick, easy, and lesser-known techniques to improve your website's security, protect against session hijacking, and defend against XSS and data injection attacks.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-13T21:20:18.041", "id": 2642, "related_urls": [], "slug": "quick-wins-for-better-website-security-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Dan Callahan"]}
+{
+    "added": "2014-04-13T21:20:18.041",
+    "category": "PyCon US 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/T-5p5ewqhVw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/T-5p5ewqhVw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2642,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-04-13",
+    "related_urls": [],
+    "slug": "quick-wins-for-better-website-security-0",
+    "source_url": "http://www.youtube.com/watch?v=T-5p5ewqhVw",
+    "speakers": [
+        "Dan Callahan"
+    ],
+    "state": 1,
+    "summary": "Learn quick, easy, and lesser-known techniques to improve your website's security, protect against session hijacking, and defend against XSS and data injection attacks.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/T-5p5ewqhVw/hqdefault.jpg",
+    "title": "Quick Wins for Better Website Security",
+    "updated": "2014-04-13T21:20:18.041",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

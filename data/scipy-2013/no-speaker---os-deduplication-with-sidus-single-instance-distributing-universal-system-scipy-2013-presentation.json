@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/J5myH0y_bks/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/J5myH0y_bks?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/J5myH0y_bks?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:53", "whiteboard": "needs editing", "video_flv_length": null, "title": "OS deduplication with SIDUS (single-instance distributing universal system); SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-01", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=J5myH0y_bks", "video_webm_url": null, "summary": "Authors: Quemener, Emmanuel, Centre Blaise Pascal (Lyon, France); Corvellec, Marianne, McGill University (Montreal)\n\nTrack: Reproducible Science\n\nDeveloping scientific programs to be run on multiple platforms takes caution. Python is typically great as a glue language (COTS approach, for 'Component Off the Shelf'). But massive integration requires a technical platform which may be difficult to even deploy. It may be tempting to stick to the same environment for both development and operation. But environments on HPC nodes are very different from those on workstations. Even if Python comes with 'batteries included', it relies on external (C or Fortran) libraries, especially via SciPy. So you want to be careful when running your Python codes on a cluster, after developing it on your workstation. In the end, how do you compare two scientific results from the same program run on two different machines? In the variability, how do you tell the part due to the hardware from the part due to the software? As a scientist, you typically port your Python code from your workstation to cluster nodes. You want to have a uniform software base, so that discrepancies between runs can be attributed to hardware differences, or to the actual code, if edited. SIDUS (single-instance distributing universal system) is your solution for extreme deduplication of an operating system (OS). SIDUS offers scientists a framework for conducting reproducible experiments. Two nodes booting on the same SIDUS base run the exact same system. This way, actually relevant tests can be carried out. We recently used Python to evaluate performance for a cluster-distributed file system. Unexpectedly, early results showed lack of reproducibility over time as well as over the different nodes. Using SIDUS, it was possible to discard that discrepancies might come from the OS. We could identify that they were due to C-states (CPU power-saving modes), which are responsible for large fluctuations in global performance losses (up to 50%).", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.423", "id": 2097, "related_urls": [], "slug": "os-deduplication-with-sidus-single-instance-dist-1", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:53",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/J5myH0y_bks?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/J5myH0y_bks?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2097,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-01",
+    "related_urls": [],
+    "slug": "os-deduplication-with-sidus-single-instance-dist-1",
+    "source_url": "http://www.youtube.com/watch?v=J5myH0y_bks",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Quemener, Emmanuel, Centre Blaise Pascal (Lyon, France); Corvellec, Marianne, McGill University (Montreal)\n\nTrack: Reproducible Science\n\nDeveloping scientific programs to be run on multiple platforms takes caution. Python is typically great as a glue language (COTS approach, for 'Component Off the Shelf'). But massive integration requires a technical platform which may be difficult to even deploy. It may be tempting to stick to the same environment for both development and operation. But environments on HPC nodes are very different from those on workstations. Even if Python comes with 'batteries included', it relies on external (C or Fortran) libraries, especially via SciPy. So you want to be careful when running your Python codes on a cluster, after developing it on your workstation. In the end, how do you compare two scientific results from the same program run on two different machines? In the variability, how do you tell the part due to the hardware from the part due to the software? As a scientist, you typically port your Python code from your workstation to cluster nodes. You want to have a uniform software base, so that discrepancies between runs can be attributed to hardware differences, or to the actual code, if edited. SIDUS (single-instance distributing universal system) is your solution for extreme deduplication of an operating system (OS). SIDUS offers scientists a framework for conducting reproducible experiments. Two nodes booting on the same SIDUS base run the exact same system. This way, actually relevant tests can be carried out. We recently used Python to evaluate performance for a cluster-distributed file system. Unexpectedly, early results showed lack of reproducibility over time as well as over the different nodes. Using SIDUS, it was possible to discard that discrepancies might come from the OS. We could identify that they were due to C-states (CPU power-saving modes), which are responsible for large fluctuations in global performance losses (up to 50%).",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/J5myH0y_bks/hqdefault.jpg",
+    "title": "OS deduplication with SIDUS (single-instance distributing universal system); SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.423",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

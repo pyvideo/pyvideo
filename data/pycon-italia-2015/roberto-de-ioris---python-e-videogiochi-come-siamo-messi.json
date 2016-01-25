@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/mKX171Apw70/maxresdefault.jpg", "embed": "", "added": "2015-06-14T17:04:25.536", "whiteboard": "", "video_flv_length": null, "title": "Python e videogiochi: come siamo messi?", "duration": 1818, "description": "Il videogioco e\u2019 probabilmente la massima espressione del mondo tecnologico . Programmatori, grafici, musicisti, sceneggiatori lavorano insieme nel costruire qualcosa che spesso si avvicina all\u2019arte piu\u2019 che alla scienza. Come si colloca python in questo mondo ? C\u2019e\u2019 ancora spazio per lui ? C\u2019e\u2019 mai stato ? Ce ne sara\u2019 ? Possiamo fare qualcosa, come community, per migliorare le cose ?\n", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-29", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=mKX171Apw70", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-14T17:04:25.536", "id": 3610, "related_urls": [], "slug": "python-e-videogiochi-come-siamo-messi", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "Italian", "video_ogv_download_only": false, "speakers": ["Roberto De Ioris"]}
+{
+    "added": "2015-06-14T17:04:25.536",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "Il videogioco e\u2019 probabilmente la massima espressione del mondo tecnologico . Programmatori, grafici, musicisti, sceneggiatori lavorano insieme nel costruire qualcosa che spesso si avvicina all\u2019arte piu\u2019 che alla scienza. Come si colloca python in questo mondo ? C\u2019e\u2019 ancora spazio per lui ? C\u2019e\u2019 mai stato ? Ce ne sara\u2019 ? Possiamo fare qualcosa, come community, per migliorare le cose ?\n",
+    "duration": 1818,
+    "embed": "",
+    "id": 3610,
+    "language": "Italian",
+    "quality_notes": "",
+    "recorded": "2015-05-29",
+    "related_urls": [],
+    "slug": "python-e-videogiochi-come-siamo-messi",
+    "source_url": "https://www.youtube.com/watch?v=mKX171Apw70",
+    "speakers": [
+        "Roberto De Ioris"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/mKX171Apw70/maxresdefault.jpg",
+    "title": "Python e videogiochi: come siamo messi?",
+    "updated": "2015-06-14T17:04:25.536",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

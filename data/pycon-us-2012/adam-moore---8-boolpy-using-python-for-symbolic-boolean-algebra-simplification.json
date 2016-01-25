@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://img.youtube.com/vi/FCiA6e44aOI/hqdefault.jpg", "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/FCiA6e44aOI?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/FCiA6e44aOI?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", "added": "2012-03-13T03:15:13", "whiteboard": "", "video_flv_length": null, "title": "8. BoolPy: Using Python for Symbolic Boolean Algebra Simplification", "duration": null, "description": "", "state": 1, "category": "PyCon US 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-03-11", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=FCiA6e44aOI", "video_webm_url": null, "summary": "BoolPy is a Python module that iteratively simplifies Boolean Algebra\nexpressions according to the Boolean Theorems. The purpose of this talk is\ntwofold: (1) To present the details of an Object-Oriented solution to the\nsymbolic computing problem and (2) to present the BoolPy module as a useful\nclassroom tool for teaching Boolean Algebra in college-level mathematics and\ncomputer science courses.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.374", "id": 695, "related_urls": [], "slug": "8-boolpy-using-python-for-symbolic-boolean-alge", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Adam Moore"]}
+{
+    "added": "2012-03-13T03:15:13",
+    "category": "PyCon US 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/FCiA6e44aOI?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/FCiA6e44aOI?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>",
+    "id": 695,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-03-11",
+    "related_urls": [],
+    "slug": "8-boolpy-using-python-for-symbolic-boolean-alge",
+    "source_url": "https://www.youtube.com/watch?v=FCiA6e44aOI",
+    "speakers": [
+        "Adam Moore"
+    ],
+    "state": 1,
+    "summary": "BoolPy is a Python module that iteratively simplifies Boolean Algebra\nexpressions according to the Boolean Theorems. The purpose of this talk is\ntwofold: (1) To present the details of an Object-Oriented solution to the\nsymbolic computing problem and (2) to present the BoolPy module as a useful\nclassroom tool for teaching Boolean Algebra in college-level mathematics and\ncomputer science courses.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://img.youtube.com/vi/FCiA6e44aOI/hqdefault.jpg",
+    "title": "8. BoolPy: Using Python for Symbolic Boolean Algebra Simplification",
+    "updated": "2014-04-08T20:28:27.374",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

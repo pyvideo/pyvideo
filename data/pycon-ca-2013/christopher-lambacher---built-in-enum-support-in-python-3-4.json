@@ -1,1 +1,39 @@
-{"tags": ["Lightning talk"], "thumbnail_url": "http://i1.ytimg.com/vi/s9cx7QoYbRE/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/s9cx7QoYbRE?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/s9cx7QoYbRE?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-08-27T15:59:24", "whiteboard": "", "video_flv_length": null, "title": "Built-in Enum support in Python 3.4", "duration": 3, "description": "", "state": 1, "category": "PyCon CA 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-08-11", "copyright_text": "CC BY-SA 2.5 CA", "source_url": "http://www.youtube.com/watch?v=s9cx7QoYbRE", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.122", "id": 2353, "related_urls": [], "slug": "built-in-numb-support-in-python-3-4", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Christopher Lambacher"]}
+{
+    "added": "2013-08-27T15:59:24",
+    "category": "PyCon CA 2013",
+    "copyright_text": "CC BY-SA 2.5 CA",
+    "description": "",
+    "duration": 3,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/s9cx7QoYbRE?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/s9cx7QoYbRE?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2353,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-08-11",
+    "related_urls": [],
+    "slug": "built-in-numb-support-in-python-3-4",
+    "source_url": "http://www.youtube.com/watch?v=s9cx7QoYbRE",
+    "speakers": [
+        "Christopher Lambacher"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "Lightning talk"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/s9cx7QoYbRE/hqdefault.jpg",
+    "title": "Built-in Enum support in Python 3.4",
+    "updated": "2014-04-08T20:28:26.122",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

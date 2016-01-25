@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/7kyc-YL34JU/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/7kyc-YL34JU' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2014-10-26T18:22:34.004", "whiteboard": "", "video_flv_length": null, "title": "Caching up and down the stack in Django", "duration": null, "description": "Whether you're looking to make your web app run faster or scale better, one great way to achieve both is to simply do less work. How? By using caches, the data hidey-holes which generations of engineers have thoughtfully left at key junctures in computing infrastructure from your CPU to the backbone of the internet.", "state": 1, "category": "PyGotham 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-09-16", "copyright_text": "youtube", "source_url": "https://www.youtube.com/watch?v=7kyc-YL34JU", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-10-26T18:22:34.004", "id": 3287, "related_urls": [], "slug": "caching-up-and-down-the-stack-in-django", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["James Meickle"]}
+{
+    "added": "2014-10-26T18:22:34.004",
+    "category": "PyGotham 2014",
+    "copyright_text": "youtube",
+    "description": "Whether you're looking to make your web app run faster or scale better, one great way to achieve both is to simply do less work. How? By using caches, the data hidey-holes which generations of engineers have thoughtfully left at key junctures in computing infrastructure from your CPU to the backbone of the internet.",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/7kyc-YL34JU' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3287,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-09-16",
+    "related_urls": [],
+    "slug": "caching-up-and-down-the-stack-in-django",
+    "source_url": "https://www.youtube.com/watch?v=7kyc-YL34JU",
+    "speakers": [
+        "James Meickle"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/7kyc-YL34JU/hqdefault.jpg",
+    "title": "Caching up and down the stack in Django",
+    "updated": "2014-10-26T18:22:34.004",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

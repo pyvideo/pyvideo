@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/ZSIRGLmQTLk/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/ZSIRGLmQTLk' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:10.490", "whiteboard": "needs editing", "video_flv_length": null, "title": "Exploring is never boring: understanding CPython without reading the code", "duration": null, "description": "Have you started to read the source code of CPython but not gotten as far as you wanted? Maybe you want to understand more about CPython but don't know where to begin. I'll present a number of strategies for getting more familiar with Python under the hood that go beyond \"\"just read it!\"\" This talk isn't about contributing - it's about getting into the code base and discovering interesting things.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-12", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=ZSIRGLmQTLk", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:10.490", "id": 3465, "related_urls": [], "slug": "exploring-is-never-boring-understanding-cpython", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Allison Kaptur"]}
+{
+    "added": "2015-04-16T14:22:10.490",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Have you started to read the source code of CPython but not gotten as far as you wanted? Maybe you want to understand more about CPython but don't know where to begin. I'll present a number of strategies for getting more familiar with Python under the hood that go beyond \"\"just read it!\"\" This talk isn't about contributing - it's about getting into the code base and discovering interesting things.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/ZSIRGLmQTLk' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3465,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-12",
+    "related_urls": [],
+    "slug": "exploring-is-never-boring-understanding-cpython",
+    "source_url": "https://www.youtube.com/watch?v=ZSIRGLmQTLk",
+    "speakers": [
+        "Allison Kaptur"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/ZSIRGLmQTLk/hqdefault.jpg",
+    "title": "Exploring is never boring: understanding CPython without reading the code",
+    "updated": "2015-04-16T14:22:10.490",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

@@ -1,1 +1,40 @@
-{"tags": ["django", "django-orm"], "thumbnail_url": "http://i.ytimg.com/vi/bgV39DlmZ2U/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/bgV39DlmZ2U?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/bgV39DlmZ2U?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-10-08T17:39:47", "whiteboard": "", "video_flv_length": null, "title": "The Dungeon Master's guide to Django's ORM", "duration": null, "description": "Django's database layer is a necessarily complicated piece of code. It is a\nvery powerful API that works more or less seamlessly across multiple database\nstorage systems, smoothing over many of the inconsistencies and implementation\ndifferences that go with the territory. This is great for developers who use\nDjango.\n\nIt's a little less awesome for the maintainers of that code; working in that\nenvironment is fairly difficult. Still, we all like a challenge. Problem is:\nwhere to start? Coming to grips with the ORM code isn't easy. The code is well\nwritten and documented, but the entry points are particularly well highlighted\nand, really, the sheer mass of code is an obstacle to be overcome.\n\nThis talk will look at the various layers of the ORM, from the public\ngateways, to the semi-public doors into the implementation, to the deeper\ninternals and down to the interaction with databases. In effect, following the\njourney of a couple of adventurous young queries as they traverse the pathways\nto bring back some data, smelted into just the right format.\n\nThe goal is to provide some kind of mental map of the code. Some tips for\norienting yourself in the future and how to examine new nooks and corners\nwithout losing your mind. We obviously cannot cover everything, but let's go\nover the common paths and show how the other pieces hang off that backbone.\n\nAlong the way, we'll put some of the details into historical perspective.\nGetting inside the mind of previous adventurers might help understand why\nthings are the way they are.\n\n", "state": 1, "category": "DjangoCon 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-09-05", "copyright_text": "Creative Commons Attribution license (reuse allowed", "source_url": "http://www.youtube.com/watch?v=bgV39DlmZ2U", "video_webm_url": null, "summary": "If you've ever been curious about Django's ORM implementation, you will have\nnoticed the required learning curve. Some of the code is fairly complicated.\nOther bits are worse. Here comes a 30 or 40 minute guided tour of the\nuncharted realms: how the pieces fit together, where to look for things, why\nthe current design is what it is. A portion of this is my fault; I should\nprobably explain myself.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.991", "id": 1380, "related_urls": [], "slug": "the-dungeon-masters-guide-to-djangos-orm", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Malcolm Tredinnick"]}
+{
+    "added": "2012-10-08T17:39:47",
+    "category": "DjangoCon 2012",
+    "copyright_text": "Creative Commons Attribution license (reuse allowed",
+    "description": "Django's database layer is a necessarily complicated piece of code. It is a\nvery powerful API that works more or less seamlessly across multiple database\nstorage systems, smoothing over many of the inconsistencies and implementation\ndifferences that go with the territory. This is great for developers who use\nDjango.\n\nIt's a little less awesome for the maintainers of that code; working in that\nenvironment is fairly difficult. Still, we all like a challenge. Problem is:\nwhere to start? Coming to grips with the ORM code isn't easy. The code is well\nwritten and documented, but the entry points are particularly well highlighted\nand, really, the sheer mass of code is an obstacle to be overcome.\n\nThis talk will look at the various layers of the ORM, from the public\ngateways, to the semi-public doors into the implementation, to the deeper\ninternals and down to the interaction with databases. In effect, following the\njourney of a couple of adventurous young queries as they traverse the pathways\nto bring back some data, smelted into just the right format.\n\nThe goal is to provide some kind of mental map of the code. Some tips for\norienting yourself in the future and how to examine new nooks and corners\nwithout losing your mind. We obviously cannot cover everything, but let's go\nover the common paths and show how the other pieces hang off that backbone.\n\nAlong the way, we'll put some of the details into historical perspective.\nGetting inside the mind of previous adventurers might help understand why\nthings are the way they are.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/bgV39DlmZ2U?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/bgV39DlmZ2U?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1380,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-09-05",
+    "related_urls": [],
+    "slug": "the-dungeon-masters-guide-to-djangos-orm",
+    "source_url": "http://www.youtube.com/watch?v=bgV39DlmZ2U",
+    "speakers": [
+        "Malcolm Tredinnick"
+    ],
+    "state": 1,
+    "summary": "If you've ever been curious about Django's ORM implementation, you will have\nnoticed the required learning curve. Some of the code is fairly complicated.\nOther bits are worse. Here comes a 30 or 40 minute guided tour of the\nuncharted realms: how the pieces fit together, where to look for things, why\nthe current design is what it is. A portion of this is my fault; I should\nprobably explain myself.\n\n",
+    "tags": [
+        "django",
+        "django-orm"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/bgV39DlmZ2U/hqdefault.jpg",
+    "title": "The Dungeon Master's guide to Django's ORM",
+    "updated": "2014-04-08T20:28:26.991",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

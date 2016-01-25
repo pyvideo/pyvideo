@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/M6Ud3qC2tTk/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/M6Ud3qC2tTk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/M6Ud3qC2tTk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:33.771", "whiteboard": "", "video_flv_length": null, "title": "How to make a full fledged REST API with Django OAuth Toolkit", "duration": null, "description": "", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-22", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=M6Ud3qC2tTk", "video_webm_url": "", "summary": "World is going mobile and the need of a backend talking with your apps is getting more and more important. What if I told you writing REST APIs in Python is so easy you don't need to be a backend expert? Take generous tablespoons of Django, mix thoroughly with Django REST Framework and dust with Django OAuth Toolkit to bake the perfect API in minutes.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-02T11:11:54.677", "id": 3026, "related_urls": [], "slug": "how-to-make-a-full-fledged-rest-api-with-django-o", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Federico Frenguelli"]}
+{
+    "added": "2014-07-31T00:46:33.771",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/M6Ud3qC2tTk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/M6Ud3qC2tTk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3026,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-22",
+    "related_urls": [],
+    "slug": "how-to-make-a-full-fledged-rest-api-with-django-o",
+    "source_url": "http://www.youtube.com/watch?v=M6Ud3qC2tTk",
+    "speakers": [
+        "Federico Frenguelli"
+    ],
+    "state": 1,
+    "summary": "World is going mobile and the need of a backend talking with your apps is getting more and more important. What if I told you writing REST APIs in Python is so easy you don't need to be a backend expert? Take generous tablespoons of Django, mix thoroughly with Django REST Framework and dust with Django OAuth Toolkit to bake the perfect API in minutes.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/M6Ud3qC2tTk/hqdefault.jpg",
+    "title": "How to make a full fledged REST API with Django OAuth Toolkit",
+    "updated": "2014-08-02T11:11:54.677",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

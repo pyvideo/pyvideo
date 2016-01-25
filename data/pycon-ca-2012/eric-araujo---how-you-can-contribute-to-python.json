@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i2.ytimg.com/vi/i-dZ2pxJNFM/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/i-dZ2pxJNFM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/i-dZ2pxJNFM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-14T09:09:47", "whiteboard": "", "video_flv_length": null, "title": "How you can contribute to Python", "duration": null, "description": "", "state": 1, "category": "PyCon CA 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/How_you_can_contribute_to_Python.mp4?Signature=qcUnGnpp73uJkqqWjjMf99QTmSY%3D&Expires=1352829451&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-11-11", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=i-dZ2pxJNFM", "video_webm_url": "", "summary": "Did you know that you could contribute to Python? From documentation\n\nwork to patch reviews to new features to blogging, there are a number of\n\nways you can give back to Python. This talk for beginners will walk you\n\nthrough these ways with concrete demonstrations.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.821", "id": 1578, "related_urls": [], "slug": "how-you-can-contribute-to-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["\u00c9ric Araujo"]}
+{
+    "added": "2012-11-14T09:09:47",
+    "category": "PyCon CA 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/i-dZ2pxJNFM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/i-dZ2pxJNFM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1578,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-11-11",
+    "related_urls": [],
+    "slug": "how-you-can-contribute-to-python",
+    "source_url": "https://www.youtube.com/watch?v=i-dZ2pxJNFM",
+    "speakers": [
+        "\u00c9ric Araujo"
+    ],
+    "state": 1,
+    "summary": "Did you know that you could contribute to Python? From documentation\n\nwork to patch reviews to new features to blogging, there are a number of\n\nways you can give back to Python. This talk for beginners will walk you\n\nthrough these ways with concrete demonstrations.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i2.ytimg.com/vi/i-dZ2pxJNFM/hqdefault.jpg",
+    "title": "How you can contribute to Python",
+    "updated": "2014-04-08T20:28:26.821",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/How_you_can_contribute_to_Python.mp4?Signature=qcUnGnpp73uJkqqWjjMf99QTmSY%3D&Expires=1352829451&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

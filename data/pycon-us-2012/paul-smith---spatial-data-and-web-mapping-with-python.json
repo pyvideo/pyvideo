@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://img.youtube.com/vi/qmgh14LUOjQ/hqdefault.jpg", "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/qmgh14LUOjQ?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/qmgh14LUOjQ?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", "added": "2012-03-12T20:00:34", "whiteboard": "", "video_flv_length": null, "title": "Spatial data and web mapping with Python", "duration": null, "description": "", "state": 1, "category": "PyCon US 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-03-10", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=qmgh14LUOjQ", "video_webm_url": null, "summary": "Spatial data are often seen as opaque to most developers, and while dealing\nwith them does require a shift in approach from the data types we most\nregularly handle, they needn\u2019t be the domain of specialists. High-quality\nPython libraries and Python-based applications exist for operating on and\ntransforming spatial data, and for creating visualizations, including maps for\npresentation on the web.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.516", "id": 680, "related_urls": [], "slug": "spatial-data-and-web-mapping-with-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Paul Smith"]}
+{
+    "added": "2012-03-12T20:00:34",
+    "category": "PyCon US 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/qmgh14LUOjQ?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/qmgh14LUOjQ?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>",
+    "id": 680,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-03-10",
+    "related_urls": [],
+    "slug": "spatial-data-and-web-mapping-with-python",
+    "source_url": "https://www.youtube.com/watch?v=qmgh14LUOjQ",
+    "speakers": [
+        "Paul Smith"
+    ],
+    "state": 1,
+    "summary": "Spatial data are often seen as opaque to most developers, and while dealing\nwith them does require a shift in approach from the data types we most\nregularly handle, they needn\u2019t be the domain of specialists. High-quality\nPython libraries and Python-based applications exist for operating on and\ntransforming spatial data, and for creating visualizations, including maps for\npresentation on the web.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://img.youtube.com/vi/qmgh14LUOjQ/hqdefault.jpg",
+    "title": "Spatial data and web mapping with Python",
+    "updated": "2014-04-08T20:28:27.516",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,41 @@
-{"tags": ["pycon", "pycon2011", "tornado"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011AnIntroductionToTornado238.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "An Introduction to Tornado", "duration": null, "description": "An Introduction to Tornado\n\nPresented by Gavin M. Roy\n\nTornado is an open source version of the scalable, non-blocking web server and\ntools that power FriendFeed. It is not only a web server but it is a light-\nweight, use only what you need, web development framework. In this talk we\nwill review the current state of the Tornado project, review the features\nTornado provides and give examples of how to implement asynchronous web\napplications in Tornado.\n\nAbstract\n\nTornado is an open source version of the scalable, non-blocking web server and\ntools that power FriendFeed. It is not only a web server but it is a light-\nweight, use only what you need, web development framework. In this talk we\nwill review the current state of the Tornado project, review the features\nTornado provides and give examples of how to implement asynchronous web\napplications in Tornado.\n\nTopics covered will include:\n\n  * Core Tornado concepts \n  * Building an asynchronous web application \n  * Using the Tornado template engine \n  * Database Interaction \n  * Secure cookies and Sessions \n  * Utilizing built-in OAuth Clients for Authentication \n  * Websockets \n  * State of asynchronous drivers available to Tornado \n  * A light introduction to Tornado internals \n\n", "state": 1, "category": "PyCon US 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/416_an-introduction-to-tornado.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-03-11", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 227050290, "updated": "2014-04-08T20:28:27.943", "id": 416, "related_urls": [], "slug": "pycon-2011--an-introduction-to-tornado", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Gavin M. Roy"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2011",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "An Introduction to Tornado\n\nPresented by Gavin M. Roy\n\nTornado is an open source version of the scalable, non-blocking web server and\ntools that power FriendFeed. It is not only a web server but it is a light-\nweight, use only what you need, web development framework. In this talk we\nwill review the current state of the Tornado project, review the features\nTornado provides and give examples of how to implement asynchronous web\napplications in Tornado.\n\nAbstract\n\nTornado is an open source version of the scalable, non-blocking web server and\ntools that power FriendFeed. It is not only a web server but it is a light-\nweight, use only what you need, web development framework. In this talk we\nwill review the current state of the Tornado project, review the features\nTornado provides and give examples of how to implement asynchronous web\napplications in Tornado.\n\nTopics covered will include:\n\n  * Core Tornado concepts \n  * Building an asynchronous web application \n  * Using the Tornado template engine \n  * Database Interaction \n  * Secure cookies and Sessions \n  * Utilizing built-in OAuth Clients for Authentication \n  * Websockets \n  * State of asynchronous drivers available to Tornado \n  * A light introduction to Tornado internals \n\n",
+    "duration": null,
+    "embed": "",
+    "id": 416,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-03-11",
+    "related_urls": [],
+    "slug": "pycon-2011--an-introduction-to-tornado",
+    "source_url": "",
+    "speakers": [
+        "Gavin M. Roy"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "pycon",
+        "pycon2011",
+        "tornado"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011AnIntroductionToTornado238.png",
+    "title": "An Introduction to Tornado",
+    "updated": "2014-04-08T20:28:27.943",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/416_an-introduction-to-tornado.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 227050290,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,40 @@
-{"tags": ["bdd", "behave"], "thumbnail_url": "http://i.ytimg.com/vi/u8BOKuNkmhg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/u8BOKuNkmhg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/u8BOKuNkmhg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-01-15T14:29:48", "whiteboard": "", "video_flv_length": null, "title": "Making Your Application Behave", "duration": null, "description": "Behave is a tool for behaviour-driven development inspired by the Cucumber\ntool for Ruby. It allows developers and stakeholders to agree on how a\nparticular piece of software should behave using an English-like Given-When-\nThen syntax and for that behaviour for then to be easily tested in whatever\nmanner is appropriate.\n\nThis presentation will provide an introduction to behaviour-driven\ndevelopment, behaviour testing in general and the behave tool along with its\nadvantages over alternatives such as lettuce and freshen.\n\n", "state": 1, "category": "PyCon AU 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-08-22", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=u8BOKuNkmhg", "video_webm_url": null, "summary": "Behave is a tool for behaviour-driven development inspired by the Cucumber\ntool for Ruby. It allows developers and stakeholders to agree on how a\nparticular piece of software should behave using an English-like Given-When-\nThen syntax and f\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.023", "id": 1624, "related_urls": [], "slug": "making-your-application-behave", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Benno Rice"]}
+{
+    "added": "2013-01-15T14:29:48",
+    "category": "PyCon AU 2012",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "Behave is a tool for behaviour-driven development inspired by the Cucumber\ntool for Ruby. It allows developers and stakeholders to agree on how a\nparticular piece of software should behave using an English-like Given-When-\nThen syntax and for that behaviour for then to be easily tested in whatever\nmanner is appropriate.\n\nThis presentation will provide an introduction to behaviour-driven\ndevelopment, behaviour testing in general and the behave tool along with its\nadvantages over alternatives such as lettuce and freshen.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/u8BOKuNkmhg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/u8BOKuNkmhg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1624,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-08-22",
+    "related_urls": [],
+    "slug": "making-your-application-behave",
+    "source_url": "http://www.youtube.com/watch?v=u8BOKuNkmhg",
+    "speakers": [
+        "Benno Rice"
+    ],
+    "state": 1,
+    "summary": "Behave is a tool for behaviour-driven development inspired by the Cucumber\ntool for Ruby. It allows developers and stakeholders to agree on how a\nparticular piece of software should behave using an English-like Given-When-\nThen syntax and f\n\n",
+    "tags": [
+        "bdd",
+        "behave"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/u8BOKuNkmhg/hqdefault.jpg",
+    "title": "Making Your Application Behave",
+    "updated": "2014-04-08T20:28:27.023",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

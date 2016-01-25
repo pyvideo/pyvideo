@@ -1,1 +1,40 @@
-{"tags": ["deploy", "web"], "thumbnail_url": "http://i.ytimg.com/vi/E5POYrUawW8/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/E5POYrUawW8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/E5POYrUawW8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:28:02", "whiteboard": "", "video_flv_length": null, "title": "uWSGI, il coltellino svizzero (di MacGyver) del deploy", "duration": null, "description": "La prima parte del talk introdurra' la storia di uWSGI, dall'idea iniziale\nalla messa in produzione dei primi lavori, fino alla sua inclusione nei\nprogetti Cherokee e Nginx.\n\nSeguira' una serie di esempi di deploy in ambienti ostili (a livello di\nsicurezza, non faremo deploy nella jungla) o con risorse fortemente limitate\nfino all'utilizzo delle funzionalita' integrate per il clustering.\n\nIl talk si rivolge a tutti gli sviluppatori di applicazioni web che sono alla\nricerca di un ambiente robusto e veloce per i propri lavori, o a chi gia'\nutilizza uWSGI e vuole conoscere qualcuna delle nuove funzionalita' introdotte\nnel ramo di sviluppo.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-13", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=E5POYrUawW8", "video_webm_url": null, "summary": "[EuroPython 2011] Roberto De Ioris - 21 June 2011 in \"Track Italiana Big Mac\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.906", "id": 1176, "related_urls": [], "slug": "uwsgi-il-coltellino-svizzero-di-macgyver-del-d", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "Italian", "video_ogv_download_only": false, "speakers": ["Roberto De Ioris"]}
+{
+    "added": "2012-08-30T21:28:02",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "La prima parte del talk introdurra' la storia di uWSGI, dall'idea iniziale\nalla messa in produzione dei primi lavori, fino alla sua inclusione nei\nprogetti Cherokee e Nginx.\n\nSeguira' una serie di esempi di deploy in ambienti ostili (a livello di\nsicurezza, non faremo deploy nella jungla) o con risorse fortemente limitate\nfino all'utilizzo delle funzionalita' integrate per il clustering.\n\nIl talk si rivolge a tutti gli sviluppatori di applicazioni web che sono alla\nricerca di un ambiente robusto e veloce per i propri lavori, o a chi gia'\nutilizza uWSGI e vuole conoscere qualcuna delle nuove funzionalita' introdotte\nnel ramo di sviluppo.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/E5POYrUawW8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/E5POYrUawW8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1176,
+    "language": "Italian",
+    "quality_notes": "",
+    "recorded": "2011-07-13",
+    "related_urls": [],
+    "slug": "uwsgi-il-coltellino-svizzero-di-macgyver-del-d",
+    "source_url": "http://www.youtube.com/watch?v=E5POYrUawW8",
+    "speakers": [
+        "Roberto De Ioris"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Roberto De Ioris - 21 June 2011 in \"Track Italiana Big Mac\"\n\n",
+    "tags": [
+        "deploy",
+        "web"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/E5POYrUawW8/hqdefault.jpg",
+    "title": "uWSGI, il coltellino svizzero (di MacGyver) del deploy",
+    "updated": "2014-04-08T20:28:27.906",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

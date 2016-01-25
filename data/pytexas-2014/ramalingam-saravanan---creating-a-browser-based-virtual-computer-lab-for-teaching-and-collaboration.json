@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/eue3ysdOO1A/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/eue3ysdOO1A?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/eue3ysdOO1A?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-09-26T00:28:16.128", "whiteboard": "", "video_flv_length": null, "title": "Creating a  browser-based virtual computer lab for teaching and collaboration", "duration": 1500, "description": "With laptops and tablets becoming more powerful and more ubiquitous in the classroom, traditional computer labs with rows of expensive desktop computers are slowly beginning to lose their relevance. An alternative approach for computer-assisted instruction is to use a browser-based virtual computer lab. The different approaches to providing a virtual computing environment for Python, and the associated challenges, will be discussed. Options for providing a multi-user environment include running a public IPython Notebook server, or using alternative free/commercial solutions that incorporate the notebook interface, such as JiffyLab, Sage Math Cloud, GraphTerm, and Wakari. A virtual computer lab implemented using the GraphTerm server will be described. The advantages of physical computer labs, such as face-to-face interaction, and the challenge of replicating them in a virtual environment will be discussed as well.", "state": 1, "category": "PyTexas 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-04", "copyright_text": "CC-BY", "source_url": "http://youtu.be/eue3ysdOO1A", "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3176_Creating_a_browserbased_virtual_computer_lab_for_t.webm", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-10-14T00:55:22.820", "id": 3176, "related_urls": [], "slug": "creating-a-browser-based-virtual-computer-lab-fo", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Ramalingam Saravanan"]}
+{
+    "added": "2014-09-26T00:28:16.128",
+    "category": "PyTexas 2014",
+    "copyright_text": "CC-BY",
+    "description": "With laptops and tablets becoming more powerful and more ubiquitous in the classroom, traditional computer labs with rows of expensive desktop computers are slowly beginning to lose their relevance. An alternative approach for computer-assisted instruction is to use a browser-based virtual computer lab. The different approaches to providing a virtual computing environment for Python, and the associated challenges, will be discussed. Options for providing a multi-user environment include running a public IPython Notebook server, or using alternative free/commercial solutions that incorporate the notebook interface, such as JiffyLab, Sage Math Cloud, GraphTerm, and Wakari. A virtual computer lab implemented using the GraphTerm server will be described. The advantages of physical computer labs, such as face-to-face interaction, and the challenge of replicating them in a virtual environment will be discussed as well.",
+    "duration": 1500,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/eue3ysdOO1A?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/eue3ysdOO1A?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3176,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-04",
+    "related_urls": [],
+    "slug": "creating-a-browser-based-virtual-computer-lab-fo",
+    "source_url": "http://youtu.be/eue3ysdOO1A",
+    "speakers": [
+        "Ramalingam Saravanan"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/eue3ysdOO1A/hqdefault.jpg",
+    "title": "Creating a  browser-based virtual computer lab for teaching and collaboration",
+    "updated": "2014-10-14T00:55:22.820",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3176_Creating_a_browserbased_virtual_computer_lab_for_t.webm",
+    "whiteboard": ""
+}

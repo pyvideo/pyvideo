@@ -1,1 +1,44 @@
-{"tags": ["concurrency", "coroutines", "generator", "pycon", "pycon2009", "python-advanced"], "thumbnail_url": "http://a.images.blip.tv/Pycon-ACuriousCourseOnCoroutinesAndConcurrencyPart001109-911.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyCon 2009: A Curious Course on Coroutines and Concurrency (Part 1 of 3)", "duration": null, "description": "A Curious Course on Coroutines and Concurrency (part 1 of 3)\r\n\r\n  \r\nPresented at PyCon 2009 by David Beazley\r\n\r\n  \r\nIf you are a programmer who cares about Python and concurrency, then you\r\nshould also care about Python coroutines. Although they were first introduced\r\nin Python 2.5, coroutines remain one of Python's most overlooked features---\r\noften vaguely described as a curious \"extension\" of generator functions with\r\nlittle insight as to how they might be applied to real-world problems. This\r\ntutorial examines coroutines in a more practical light by showing how they are\r\nactually a very elegant way to implement a processing \"task.\" Using this task\r\nabstraction, it is possible to use coroutines to implement processing\r\npipelines, event handling systems, and programs based on cooperative\r\nmultitasking. Moreover, if you define tasks using coroutines, they can be\r\neasily incorporated into more traditional concurrent programs that utilize\r\nthreads or message passing.\r\n\r\n  \r\n[VIDEO HAS ISSUES: bit of clipping start to finish.]\r\n\r\n", "state": 1, "category": "PyCon US 2009", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/213_pycon-2009-a-curious-course-on-coroutines-and-concurrency-part-1-of-3.mp4", "video_webm_length": null, "video_mp4_length": 1040643135, "recorded": null, "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-10-31T15:55:40.749", "id": 213, "related_urls": [], "slug": "pycon-2009--a-curious-course-on-coroutines-and-co", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["David Beazley"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2009",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "A Curious Course on Coroutines and Concurrency (part 1 of 3)\r\n\r\n  \r\nPresented at PyCon 2009 by David Beazley\r\n\r\n  \r\nIf you are a programmer who cares about Python and concurrency, then you\r\nshould also care about Python coroutines. Although they were first introduced\r\nin Python 2.5, coroutines remain one of Python's most overlooked features---\r\noften vaguely described as a curious \"extension\" of generator functions with\r\nlittle insight as to how they might be applied to real-world problems. This\r\ntutorial examines coroutines in a more practical light by showing how they are\r\nactually a very elegant way to implement a processing \"task.\" Using this task\r\nabstraction, it is possible to use coroutines to implement processing\r\npipelines, event handling systems, and programs based on cooperative\r\nmultitasking. Moreover, if you define tasks using coroutines, they can be\r\neasily incorporated into more traditional concurrent programs that utilize\r\nthreads or message passing.\r\n\r\n  \r\n[VIDEO HAS ISSUES: bit of clipping start to finish.]\r\n\r\n",
+    "duration": null,
+    "embed": "",
+    "id": 213,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pycon-2009--a-curious-course-on-coroutines-and-co",
+    "source_url": "",
+    "speakers": [
+        "David Beazley"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "concurrency",
+        "coroutines",
+        "generator",
+        "pycon",
+        "pycon2009",
+        "python-advanced"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-ACuriousCourseOnCoroutinesAndConcurrencyPart001109-911.jpg",
+    "title": "PyCon 2009: A Curious Course on Coroutines and Concurrency (Part 1 of 3)",
+    "updated": "2014-10-31T15:55:40.749",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": 1040643135,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/213_pycon-2009-a-curious-course-on-coroutines-and-concurrency-part-1-of-3.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

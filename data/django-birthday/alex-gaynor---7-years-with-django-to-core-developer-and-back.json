@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/3IGbdwU1aXQ/hqdefault.jpg", "embed": "", "added": "2015-07-05T19:09:39.207", "whiteboard": "", "video_flv_length": null, "title": "7 Years With Django: To Core Developer and Back", "duration": 838, "description": "One night, in September 2007, I read every page of Django's documentation and the entire (then draft) Django Book. Over the next few years I became a frequent contributor to Django, including becoming a core developer and later a member of the DSF board. Now I'm largely uninvolved with Django's development. This talk is the story of my time with Django. This talk is a walk through my time with Django -- from emailing Adrian to ask about attending a sprint that had already happened, to contributing patches, to the multi-db GSOC, to Eric Florenzano's keynote, becoming a core developer, joining the board, to slowly fading away and becoming an emeritus developer.", "state": 1, "category": "Django Birthday", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-07-11", "copyright_text": "", "source_url": "http://youtu.be/3IGbdwU1aXQ", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-07-16T21:30:49.781", "id": 3655, "related_urls": [], "slug": "7-years-with-django-to-core-developer-and-back", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Alex Gaynor"]}
+{
+    "added": "2015-07-05T19:09:39.207",
+    "category": "Django Birthday",
+    "copyright_text": "",
+    "description": "One night, in September 2007, I read every page of Django's documentation and the entire (then draft) Django Book. Over the next few years I became a frequent contributor to Django, including becoming a core developer and later a member of the DSF board. Now I'm largely uninvolved with Django's development. This talk is the story of my time with Django. This talk is a walk through my time with Django -- from emailing Adrian to ask about attending a sprint that had already happened, to contributing patches, to the multi-db GSOC, to Eric Florenzano's keynote, becoming a core developer, joining the board, to slowly fading away and becoming an emeritus developer.",
+    "duration": 838,
+    "embed": "",
+    "id": 3655,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-07-11",
+    "related_urls": [],
+    "slug": "7-years-with-django-to-core-developer-and-back",
+    "source_url": "http://youtu.be/3IGbdwU1aXQ",
+    "speakers": [
+        "Alex Gaynor"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/3IGbdwU1aXQ/hqdefault.jpg",
+    "title": "7 Years With Django: To Core Developer and Back",
+    "updated": "2015-07-16T21:30:49.781",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

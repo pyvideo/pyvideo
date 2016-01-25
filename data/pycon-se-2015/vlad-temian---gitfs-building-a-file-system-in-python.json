@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/mdhZpFp5n80/maxresdefault.jpg", "embed": "", "added": "2015-06-17T16:46:52.403", "whiteboard": "", "video_flv_length": null, "title": "GitFs: Building a file system in Python", "duration": 1609, "description": "", "state": 1, "category": "PyCon SE 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-06-04", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=mdhZpFp5n80", "video_webm_url": null, "summary": "GitFs is an open-source filesystem which was designed to bring the full powers of Git to everyone, no matter how little they know about versioning. In this talk we will take a look at some of the crucial aspects involved in building a reliable FUSE filesystem, the steps that we took in building GitFs, especially in handling the git objects, what testing methods we have used for it and also we will share the most important lessons learned while building it.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-17T16:46:52.403", "id": 3632, "related_urls": [], "slug": "gitfs-building-a-file-system-in-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Vlad Temian"]}
+{
+    "added": "2015-06-17T16:46:52.403",
+    "category": "PyCon SE 2015",
+    "copyright_text": "",
+    "description": "",
+    "duration": 1609,
+    "embed": "",
+    "id": 3632,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-06-04",
+    "related_urls": [],
+    "slug": "gitfs-building-a-file-system-in-python",
+    "source_url": "https://www.youtube.com/watch?v=mdhZpFp5n80",
+    "speakers": [
+        "Vlad Temian"
+    ],
+    "state": 1,
+    "summary": "GitFs is an open-source filesystem which was designed to bring the full powers of Git to everyone, no matter how little they know about versioning. In this talk we will take a look at some of the crucial aspects involved in building a reliable FUSE filesystem, the steps that we took in building GitFs, especially in handling the git objects, what testing methods we have used for it and also we will share the most important lessons learned while building it.",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/mdhZpFp5n80/maxresdefault.jpg",
+    "title": "GitFs: Building a file system in Python",
+    "updated": "2015-06-17T16:46:52.403",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

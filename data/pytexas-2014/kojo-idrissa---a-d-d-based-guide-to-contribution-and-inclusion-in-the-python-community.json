@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/Xpd9ms2v3Yc/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Xpd9ms2v3Yc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Xpd9ms2v3Yc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-09-26T00:28:35.664", "whiteboard": "", "video_flv_length": null, "title": "A D&D-based guide to Contribution and Inclusion in the Python Community", "duration": 3000, "description": "The Python community needs many different types of contributions to thrive. If you ever thought, \"I'm not a great programmer, so I can't contribute to the Python community. :-(\", you're WRONG!\r\n\r\nFirst, using classes and roles from Dungeons & Dragons (D&D) as a lens, we'll  look at multiple contributing roles in the Python community, and how you can find one that fits you. Not familiar with D&D? I'll provide a brief, relevant primer.\r\n\r\nNext, we'll continue the discussion to see how Inclusiveness helps us get those different contributors into the Python community. To use D&D language, a party of only one class won't go far. We'll also look at how Inclusiveness is NOT the same thing as Diversity or Political Correctness.", "state": 1, "category": "PyTexas 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-05", "copyright_text": "CC-BY", "source_url": "http://youtu.be/Xpd9ms2v3Yc", "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3190_A_DDbased_guide_to_Contribution_and_Inclusion_in_t.webm", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-10-14T00:55:30.850", "id": 3190, "related_urls": [], "slug": "a-dd-based-guide-to-contribution-and-inclusion-i", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Kojo Idrissa"]}
+{
+    "added": "2014-09-26T00:28:35.664",
+    "category": "PyTexas 2014",
+    "copyright_text": "CC-BY",
+    "description": "The Python community needs many different types of contributions to thrive. If you ever thought, \"I'm not a great programmer, so I can't contribute to the Python community. :-(\", you're WRONG!\r\n\r\nFirst, using classes and roles from Dungeons & Dragons (D&D) as a lens, we'll  look at multiple contributing roles in the Python community, and how you can find one that fits you. Not familiar with D&D? I'll provide a brief, relevant primer.\r\n\r\nNext, we'll continue the discussion to see how Inclusiveness helps us get those different contributors into the Python community. To use D&D language, a party of only one class won't go far. We'll also look at how Inclusiveness is NOT the same thing as Diversity or Political Correctness.",
+    "duration": 3000,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Xpd9ms2v3Yc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Xpd9ms2v3Yc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3190,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-05",
+    "related_urls": [],
+    "slug": "a-dd-based-guide-to-contribution-and-inclusion-i",
+    "source_url": "http://youtu.be/Xpd9ms2v3Yc",
+    "speakers": [
+        "Kojo Idrissa"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/Xpd9ms2v3Yc/hqdefault.jpg",
+    "title": "A D&D-based guide to Contribution and Inclusion in the Python Community",
+    "updated": "2014-10-14T00:55:30.850",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3190_A_DDbased_guide_to_Contribution_and_Inclusion_in_t.webm",
+    "whiteboard": ""
+}

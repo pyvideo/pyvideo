@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/UVC62eGQTOQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/UVC62eGQTOQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/UVC62eGQTOQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2015-02-10T18:56:47.055", "whiteboard": "", "video_flv_length": null, "title": "REST on Django", "duration": 1113, "description": "A quick overview through the components that make up Django REST Framework with a dive into a sample project.", "state": 1, "category": "ChiPy", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-02-12", "copyright_text": "CC BY", "source_url": "http://youtu.be/UVC62eGQTOQ", "video_webm_url": "http://s3.us.archive.org/nextdayvideo/REST_on_Django.webm?Signature=QaG%2FxoFtSAlss0RUhvOfeWXPmA0%3D&Expires=1424051762&AWSAccessKeyId=FEWGReWX3QbNk0h3", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2015-02-17T20:58:03.949", "id": 3376, "related_urls": [], "slug": "rest-on-django", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Adam Bain"]}
+{
+    "added": "2015-02-10T18:56:47.055",
+    "category": "ChiPy",
+    "copyright_text": "CC BY",
+    "description": "A quick overview through the components that make up Django REST Framework with a dive into a sample project.",
+    "duration": 1113,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/UVC62eGQTOQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/UVC62eGQTOQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3376,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-02-12",
+    "related_urls": [],
+    "slug": "rest-on-django",
+    "source_url": "http://youtu.be/UVC62eGQTOQ",
+    "speakers": [
+        "Adam Bain"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/UVC62eGQTOQ/hqdefault.jpg",
+    "title": "REST on Django",
+    "updated": "2015-02-17T20:58:03.949",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://s3.us.archive.org/nextdayvideo/REST_on_Django.webm?Signature=QaG%2FxoFtSAlss0RUhvOfeWXPmA0%3D&Expires=1424051762&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "whiteboard": ""
+}

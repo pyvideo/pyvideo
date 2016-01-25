@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i4.ytimg.com/vi/kdWtaVfRxko/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/kdWtaVfRxko?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/kdWtaVfRxko?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-14T09:01:02", "whiteboard": "", "video_flv_length": null, "title": "Avoiding The Search Hall Of Shame", "duration": null, "description": "", "state": 1, "category": "PyCon CA 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Avoiding_The_Search_Hall_Of_Shame.mp4?Signature=571uOsfJBOwPqhfN3J35RGj%2BLls%3D&Expires=1352719653&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-11-10", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=kdWtaVfRxko", "video_webm_url": "", "summary": "Most pieces of modern software (web, desktop or otherwise) include that\ninnocuous little text box with inviting word \"Search\" nearby. But behind it\nlies a torrid world of bad ideas, worse ideas & ideas no computer should be\nmade to suffer. If you want to keep your good name & stay out of the hall of\nshame, this talk will give you a grounding on how to make the search in your\nsoftware better.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.841", "id": 1559, "related_urls": [], "slug": "avoiding-the-search-hall-of-shame", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Daniel Lindsley"]}
+{
+    "added": "2012-11-14T09:01:02",
+    "category": "PyCon CA 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/kdWtaVfRxko?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/kdWtaVfRxko?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1559,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-11-10",
+    "related_urls": [],
+    "slug": "avoiding-the-search-hall-of-shame",
+    "source_url": "https://www.youtube.com/watch?v=kdWtaVfRxko",
+    "speakers": [
+        "Daniel Lindsley"
+    ],
+    "state": 1,
+    "summary": "Most pieces of modern software (web, desktop or otherwise) include that\ninnocuous little text box with inviting word \"Search\" nearby. But behind it\nlies a torrid world of bad ideas, worse ideas & ideas no computer should be\nmade to suffer. If you want to keep your good name & stay out of the hall of\nshame, this talk will give you a grounding on how to make the search in your\nsoftware better.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i4.ytimg.com/vi/kdWtaVfRxko/hqdefault.jpg",
+    "title": "Avoiding The Search Hall Of Shame",
+    "updated": "2014-04-08T20:28:26.841",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Avoiding_The_Search_Hall_Of_Shame.mp4?Signature=571uOsfJBOwPqhfN3J35RGj%2BLls%3D&Expires=1352719653&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

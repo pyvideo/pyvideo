@@ -1,1 +1,43 @@
-{"tags": ["community", "performance", "python,", "sourceforge", "web"], "thumbnail_url": "http://i.ytimg.com/vi/7c1R78iAWJk/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/7c1R78iAWJk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/7c1R78iAWJk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:50", "whiteboard": "", "video_flv_length": null, "title": "A Python Takeover", "duration": null, "description": "Two years ago I started working on SourceForge with a couple of python\ndevelopers. Back then the site was written in PHP and was in some ways buried\nin technical debt. Everything is different today, we have a complete set of\ntools for Ticket tracking, Wiki documents, Git, Mercurial, Subversion, and IRC\n- all written in Python, and now released as open source software.\n\nThis is the story of how the amazing libraries, tools, and talent in the\nPython web community has radically changed an established company, and allowed\nus to reinvent sourceforge.net.\n\nThis talk will go over our tech stack, talk about the libraries we used, the\nway we solved scalability, internationalization, and performance issues\nissues. Ultimately we know that without python, we could not have built a\nflexible plugin based system, and gotten permission from management to open\nsource it.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-07", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=7c1R78iAWJk", "video_webm_url": null, "summary": "[EuroPython 2011] Mark Ramm-Christensen - 23 June 2011 in \"Track Lasagne\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.919", "id": 1169, "related_urls": [], "slug": "a-python-takeover-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Mark Ramm-Christensen"]}
+{
+    "added": "2012-08-30T21:02:50",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "Two years ago I started working on SourceForge with a couple of python\ndevelopers. Back then the site was written in PHP and was in some ways buried\nin technical debt. Everything is different today, we have a complete set of\ntools for Ticket tracking, Wiki documents, Git, Mercurial, Subversion, and IRC\n- all written in Python, and now released as open source software.\n\nThis is the story of how the amazing libraries, tools, and talent in the\nPython web community has radically changed an established company, and allowed\nus to reinvent sourceforge.net.\n\nThis talk will go over our tech stack, talk about the libraries we used, the\nway we solved scalability, internationalization, and performance issues\nissues. Ultimately we know that without python, we could not have built a\nflexible plugin based system, and gotten permission from management to open\nsource it.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/7c1R78iAWJk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/7c1R78iAWJk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1169,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-07",
+    "related_urls": [],
+    "slug": "a-python-takeover-0",
+    "source_url": "http://www.youtube.com/watch?v=7c1R78iAWJk",
+    "speakers": [
+        "Mark Ramm-Christensen"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Mark Ramm-Christensen - 23 June 2011 in \"Track Lasagne\"\n\n",
+    "tags": [
+        "community",
+        "performance",
+        "python,",
+        "sourceforge",
+        "web"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/7c1R78iAWJk/hqdefault.jpg",
+    "title": "A Python Takeover",
+    "updated": "2014-04-08T20:28:27.919",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,46 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/U7HJuC84Lpw/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/U7HJuC84Lpw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/U7HJuC84Lpw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:29.601", "whiteboard": "", "video_flv_length": null, "title": "I want to help! How to make your first contribution to open-source", "duration": null, "description": "", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-23", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=U7HJuC84Lpw", "video_webm_url": "", "summary": "Do you like open-source? Would you like to give back somehow but are not sure what to do or where to start? Together we will look at the usual workflow for making any kind of contribution, using a real patch as an example.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-01T07:58:57.341", "id": 2988, "related_urls": [{"url": "http://www.jpichon.net/site_media/presentations/2014/ContributingOSS_EP_handout.pdf", "description": "handout"}, {"url": "http://www.jpichon.net/blog/2013/02/talk-transcript-first-open-source-contribution/", "description": "transcript"}], "slug": "i-want-to-help-how-to-make-your-first-contributi", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Julie Pichon"]}
+{
+    "added": "2014-07-31T00:46:29.601",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/U7HJuC84Lpw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/U7HJuC84Lpw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2988,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-23",
+    "related_urls": [
+        {
+            "description": "handout",
+            "url": "http://www.jpichon.net/site_media/presentations/2014/ContributingOSS_EP_handout.pdf"
+        },
+        {
+            "description": "transcript",
+            "url": "http://www.jpichon.net/blog/2013/02/talk-transcript-first-open-source-contribution/"
+        }
+    ],
+    "slug": "i-want-to-help-how-to-make-your-first-contributi",
+    "source_url": "http://www.youtube.com/watch?v=U7HJuC84Lpw",
+    "speakers": [
+        "Julie Pichon"
+    ],
+    "state": 1,
+    "summary": "Do you like open-source? Would you like to give back somehow but are not sure what to do or where to start? Together we will look at the usual workflow for making any kind of contribution, using a real patch as an example.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/U7HJuC84Lpw/hqdefault.jpg",
+    "title": "I want to help! How to make your first contribution to open-source",
+    "updated": "2014-08-01T07:58:57.341",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

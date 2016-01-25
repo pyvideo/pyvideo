@@ -1,1 +1,42 @@
-{"tags": ["djangocon", "djangocon2011", "security", "web"], "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-AdvancedSecurityTopics290-576.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Advanced security topics", "duration": null, "description": "Advanced security topics\n\nPresented by Paul McMillan\n\nAn in-depth look (with demonstrations) at the how and why of several advanced\nsecurity topics. Discussion of ways to improve security of the framework\nmoving forward.\n\n", "state": 1, "category": "DjangoCon 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/80_advanced-security-topics.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/80_advanced-security-topics.ogv", "video_ogv_length": 76996528, "updated": "2014-04-08T20:28:25.293", "id": 80, "related_urls": [], "slug": "djangocon-2011--advanced-security-topics", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Paul McMillan"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "DjangoCon 2011",
+    "copyright_text": "",
+    "description": "Advanced security topics\n\nPresented by Paul McMillan\n\nAn in-depth look (with demonstrations) at the how and why of several advanced\nsecurity topics. Discussion of ways to improve security of the framework\nmoving forward.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 80,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "djangocon-2011--advanced-security-topics",
+    "source_url": "",
+    "speakers": [
+        "Paul McMillan"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "djangocon",
+        "djangocon2011",
+        "security",
+        "web"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-AdvancedSecurityTopics290-576.jpg",
+    "title": "Advanced security topics",
+    "updated": "2014-04-08T20:28:25.293",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/80_advanced-security-topics.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 76996528,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/80_advanced-security-topics.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

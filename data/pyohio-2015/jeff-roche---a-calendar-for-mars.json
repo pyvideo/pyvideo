@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "https://i.ytimg.com/vi/6m9RQsW9t5g/hqdefault.jpg", "embed": "", "added": "2015-07-22T20:50:01.385", "whiteboard": "", "video_flv_length": null, "title": "A Calendar for Mars", "duration": 1685, "description": "A discussion of Martian timekeeping and using Python to create a Single Page Application about a calendar for mars using Flask, Twitter Bootstrap, and Backbone.js.\r\n\r\n", "state": 1, "category": "PyOhio 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3720_A_Calendar_for_Mars.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-01", "copyright_text": "CC BY", "source_url": "http://youtu.be/6m9RQsW9t5g", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-02T23:06:24.392", "id": 3720, "related_urls": [], "slug": "a-calendar-for-mars", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Jeff Roche"]}
+{
+    "added": "2015-07-22T20:50:01.385",
+    "category": "PyOhio 2015",
+    "copyright_text": "CC BY",
+    "description": "A discussion of Martian timekeeping and using Python to create a Single Page Application about a calendar for mars using Flask, Twitter Bootstrap, and Backbone.js.\r\n\r\n",
+    "duration": 1685,
+    "embed": "",
+    "id": 3720,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-01",
+    "related_urls": [],
+    "slug": "a-calendar-for-mars",
+    "source_url": "http://youtu.be/6m9RQsW9t5g",
+    "speakers": [
+        "Jeff Roche"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/6m9RQsW9t5g/hqdefault.jpg",
+    "title": "A Calendar for Mars",
+    "updated": "2015-08-02T23:06:24.392",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3720_A_Calendar_for_Mars.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

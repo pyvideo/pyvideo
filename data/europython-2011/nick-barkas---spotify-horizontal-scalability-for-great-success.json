@@ -1,1 +1,40 @@
-{"tags": ["requests", "scalability"], "thumbnail_url": "http://i.ytimg.com/vi/BBAfIYpDMX4/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/BBAfIYpDMX4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/BBAfIYpDMX4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:29", "whiteboard": "", "video_flv_length": null, "title": "Spotify: Horizontal scalability for great success", "duration": null, "description": "If you run on CPython, it's not possible to get a single-process,\nmultithreaded Python program to use more than one CPU core at a time because\nof the Global Interpreter Lock (GIL). A common way of dealing with this is to\nrun one instance of a Python program for each core a machine has and spread\nthe load amongst those processes. This forces developers to write simple,\nstateless programs that naturally scale out to many many servers when needed,\nwhile also not having to think about things like locking and thread\nscheduling.\n\nI'll discuss some tools and methods Spotify's backend uses for managing\nmultiple identical server processes as well as load balancing with DNS, proxy\nservers, and using hashing to send repeated requests to the same process. I\nwill also talk about the difficulties that arise when you really need to share\ndata or state between processes, and how they can be dealt with.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-13", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=BBAfIYpDMX4", "video_webm_url": null, "summary": "[EuroPython 2011] Nick Barkas - 22 June 2011 in \"Track Spaghetti\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.895", "id": 1096, "related_urls": [], "slug": "spotify-horizontal-scalability-for-great-success", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Nick Barkas"]}
+{
+    "added": "2012-08-30T21:02:29",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "If you run on CPython, it's not possible to get a single-process,\nmultithreaded Python program to use more than one CPU core at a time because\nof the Global Interpreter Lock (GIL). A common way of dealing with this is to\nrun one instance of a Python program for each core a machine has and spread\nthe load amongst those processes. This forces developers to write simple,\nstateless programs that naturally scale out to many many servers when needed,\nwhile also not having to think about things like locking and thread\nscheduling.\n\nI'll discuss some tools and methods Spotify's backend uses for managing\nmultiple identical server processes as well as load balancing with DNS, proxy\nservers, and using hashing to send repeated requests to the same process. I\nwill also talk about the difficulties that arise when you really need to share\ndata or state between processes, and how they can be dealt with.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/BBAfIYpDMX4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/BBAfIYpDMX4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1096,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-13",
+    "related_urls": [],
+    "slug": "spotify-horizontal-scalability-for-great-success",
+    "source_url": "http://www.youtube.com/watch?v=BBAfIYpDMX4",
+    "speakers": [
+        "Nick Barkas"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Nick Barkas - 22 June 2011 in \"Track Spaghetti\"\n\n",
+    "tags": [
+        "requests",
+        "scalability"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/BBAfIYpDMX4/hqdefault.jpg",
+    "title": "Spotify: Horizontal scalability for great success",
+    "updated": "2014-04-08T20:28:27.895",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

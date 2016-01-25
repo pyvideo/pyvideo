@@ -1,1 +1,43 @@
-{"tags": ["parrot", "pycon", "pycon2010", "pyine", "python3"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010PyniePython3OnParrot148332.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Pynie: Python 3 on Parrot (#148)", "duration": null, "description": "Pyine: Python 3 on Parrot\n\n  \nPresented by Allison Randal\n\n  \nPynie is an implementation of Python 3 on Parrot. The goal of Pynie is to\nduplicate the pure-Python behavior of CPython 3.x, and perhaps eventually a C\nAPI compatibility layer. Parrot provides a set of compiler tools and core\nfunctionality common to many dynamic languages, so the core code of Pynie is\nlightweight. Pynie allows Python 3 libraries to be shared between multiple\nlanguages. This talk is an overview of the features Pynie currently supports\nand the work left to be done, together with an introduction to the internals\nof Pynie.\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/297_pynie-python-3-on-parrot-148.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/297_pynie-python-3-on-parrot-148.ogv", "video_ogv_length": 92686713, "updated": "2014-04-08T20:28:28.175", "id": 297, "related_urls": [], "slug": "pycon-2010--pynie--python-3-on-parrot---148", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Allison Randal"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Pyine: Python 3 on Parrot\n\n  \nPresented by Allison Randal\n\n  \nPynie is an implementation of Python 3 on Parrot. The goal of Pynie is to\nduplicate the pure-Python behavior of CPython 3.x, and perhaps eventually a C\nAPI compatibility layer. Parrot provides a set of compiler tools and core\nfunctionality common to many dynamic languages, so the core code of Pynie is\nlightweight. Pynie allows Python 3 libraries to be shared between multiple\nlanguages. This talk is an overview of the features Pynie currently supports\nand the work left to be done, together with an introduction to the internals\nof Pynie.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 297,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--pynie--python-3-on-parrot---148",
+    "source_url": "",
+    "speakers": [
+        "Allison Randal"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "parrot",
+        "pycon",
+        "pycon2010",
+        "pyine",
+        "python3"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010PyniePython3OnParrot148332.png",
+    "title": "Pynie: Python 3 on Parrot (#148)",
+    "updated": "2014-04-08T20:28:28.175",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/297_pynie-python-3-on-parrot-148.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 92686713,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/297_pynie-python-3-on-parrot-148.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

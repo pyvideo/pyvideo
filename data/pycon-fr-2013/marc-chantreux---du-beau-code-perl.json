@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/PohwAdkaVcY/maxresdefault.jpg", "embed": "", "added": "2015-07-31T17:40:36.735", "whiteboard": "", "video_flv_length": null, "title": "du beau code Perl", "duration": 1537, "description": "", "state": 1, "category": "PyCon FR 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-11-30", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=PohwAdkaVcY", "video_webm_url": null, "summary": "R\u00e9pondant \u00e0 la demande qui m'avait \u00e9t\u00e9 faite l'an dernier de montrer du \"beau code perl\", je montre les similarit\u00e9s conceptuelles entre les 2 langages , les diff\u00e9rences syntaxiques et (SPOIL) conclus que tout \u00e7a n'est qu'affaire de gout.\n\nAttention: cette pr\u00e9sentation n'est pas pour ceux qui pensent que la programmation peut \u00eatre un job alimentaire!\n\nLors de ma pr\u00e9sentation \u00e0 pycon 2011, je faisais l'\u00e9loge du multiculturalisme et de la curiosit\u00e9. A cette occasion, il m'avait \u00e9t\u00e9 demand\u00e9 de montrer du beau code Perl (illustration que la subjectivit\u00e9 a laquelle j'appellais l'auditeur ne va pas de soit)\n\nIl s'agit donc de montrer une forme de beaut\u00e9, comme un guide de mus\u00e9e tenterait de sensibiliser un photographe au cubisme.\n\nJe pars donc des \"belles choses\" de python (list comprehensions, yield/send, magic **, operator overload, metaprogramming, application partielle) et de ses rigueurs esth\u00e9tiques pour en arriver aux concepts sous-jacents et montrer comment ils s'expriment en Perl. 2 tableaux montrant la m\u00eame id\u00e9e, le gout faisant le reste, sans jugement de valeur.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-07-31T17:40:36.735", "id": 3724, "related_urls": [], "slug": "du-beau-code-perl", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "French", "video_ogv_download_only": false, "speakers": ["Marc Chantreux"]}
+{
+    "added": "2015-07-31T17:40:36.735",
+    "category": "PyCon FR 2013",
+    "copyright_text": "",
+    "description": "",
+    "duration": 1537,
+    "embed": "",
+    "id": 3724,
+    "language": "French",
+    "quality_notes": "",
+    "recorded": "2013-11-30",
+    "related_urls": [],
+    "slug": "du-beau-code-perl",
+    "source_url": "https://www.youtube.com/watch?v=PohwAdkaVcY",
+    "speakers": [
+        "Marc Chantreux"
+    ],
+    "state": 1,
+    "summary": "R\u00e9pondant \u00e0 la demande qui m'avait \u00e9t\u00e9 faite l'an dernier de montrer du \"beau code perl\", je montre les similarit\u00e9s conceptuelles entre les 2 langages , les diff\u00e9rences syntaxiques et (SPOIL) conclus que tout \u00e7a n'est qu'affaire de gout.\n\nAttention: cette pr\u00e9sentation n'est pas pour ceux qui pensent que la programmation peut \u00eatre un job alimentaire!\n\nLors de ma pr\u00e9sentation \u00e0 pycon 2011, je faisais l'\u00e9loge du multiculturalisme et de la curiosit\u00e9. A cette occasion, il m'avait \u00e9t\u00e9 demand\u00e9 de montrer du beau code Perl (illustration que la subjectivit\u00e9 a laquelle j'appellais l'auditeur ne va pas de soit)\n\nIl s'agit donc de montrer une forme de beaut\u00e9, comme un guide de mus\u00e9e tenterait de sensibiliser un photographe au cubisme.\n\nJe pars donc des \"belles choses\" de python (list comprehensions, yield/send, magic **, operator overload, metaprogramming, application partielle) et de ses rigueurs esth\u00e9tiques pour en arriver aux concepts sous-jacents et montrer comment ils s'expriment en Perl. 2 tableaux montrant la m\u00eame id\u00e9e, le gout faisant le reste, sans jugement de valeur.",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/PohwAdkaVcY/maxresdefault.jpg",
+    "title": "du beau code Perl",
+    "updated": "2015-07-31T17:40:36.735",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

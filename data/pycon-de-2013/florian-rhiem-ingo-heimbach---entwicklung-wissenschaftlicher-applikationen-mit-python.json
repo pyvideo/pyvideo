@@ -1,1 +1,46 @@
-{"tags": ["anwendungsentwicklung", "numpy", "opencl", "opengl", "python", "visualisierung", "wxpython"], "thumbnail_url": "http://i1.ytimg.com/vi/PAE0CLzGxEE/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/PAE0CLzGxEE?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/PAE0CLzGxEE?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-10-17T08:26:06", "whiteboard": "", "video_flv_length": null, "title": "Entwicklung wissenschaftlicher Applikationen mit Python", "duration": 30, "description": "", "state": 1, "category": "PyCon DE 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-10-15", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=PAE0CLzGxEE", "video_webm_url": null, "summary": "Durch Experimente und Simulationen werden im wissenschaftlichen Bereich gro\u00dfe Mengen an Daten erzeugt. Diese m\u00fcssen geeignet aufbereitet werden, um sie in eine f\u00fcr die Wissenschaftler verst\u00e4ndliche Form zu \u00fcberf\u00fchren. Ein Beispiel daf\u00fcr ist die Untersuchung von Phasenwechselmaterialien, welche in wiederbeschreibbaren optischen Medien eingesetzt werden. Der beim L\u00f6schen und Beschreiben eintretende Wechsel zwischen kristallinem und amorphen Zustand wird auf Gro\u00dfrechnern simuliert und die resultierende molekulare Struktur auf Hohlstellen hin untersucht, da diese R\u00fcckschl\u00fcsse auf das Verhalten des Materials zulassen. Den Kern der Pr\u00e4sentation nimmt die Entwicklung der Anwendung *pyMolDyn* ein, welche die Analyse und Visualisierung der Molek\u00fcle und Hohlstellen \u00fcbernimmt.\r\n\r\nDieser Vortrag gibt einen Einblick in die Erfahrungen, die w\u00e4hrend der mehrj\u00e4hrigen Entwicklung dieser Software gesammelt wurden. Zum einen wird dabei die rechenintensive Analyse der Daten betrachtet und wie diese durch Verwendung von NumPy und (py)OpenCL vereinfacht und beschleunigt werden kann. Zum anderen werden die grafischen Anwendungskomponenten beschrieben, welche mithilfe von wxPython, (py)OpenGL und einem gezielten Zusammenspiel dieser beiden Pakete umgesetzt werden konnten. Neben Performance und Einfachheit der Programmierung werden auch die gewonnenen Eindr\u00fccke zu Plattformunabh\u00e4ngigkeit und Interversionskompatibilit\u00e4t vorgestellt. Weiterhin werden Eigenheiten der Anwendungsentwicklung im Bereich der Forschung erl\u00e4utert und es wird darauf eingegangen, welche St\u00e4rken und Schw\u00e4chen Python in diesem Zusammenhang bietet. Abschlie\u00dfend folgt ein \u00dcberblick dar\u00fcber, wie sich die weitere Entwicklung von *pyMolDyn* gestalten wird und welche Konsequenzen die gesammelten Erfahrungen in Zukunft f\u00fcr das Projekt haben werden.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.051", "id": 2398, "related_urls": [], "slug": "entwicklung-wissenschaftlicher-applikationen-mit", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "German", "video_ogv_download_only": false, "speakers": ["Florian Rhiem", "Ingo Heimbach"]}
+{
+    "added": "2013-10-17T08:26:06",
+    "category": "PyCon DE 2013",
+    "copyright_text": "",
+    "description": "",
+    "duration": 30,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/PAE0CLzGxEE?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/PAE0CLzGxEE?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2398,
+    "language": "German",
+    "quality_notes": "",
+    "recorded": "2013-10-15",
+    "related_urls": [],
+    "slug": "entwicklung-wissenschaftlicher-applikationen-mit",
+    "source_url": "https://www.youtube.com/watch?v=PAE0CLzGxEE",
+    "speakers": [
+        "Florian Rhiem",
+        "Ingo Heimbach"
+    ],
+    "state": 1,
+    "summary": "Durch Experimente und Simulationen werden im wissenschaftlichen Bereich gro\u00dfe Mengen an Daten erzeugt. Diese m\u00fcssen geeignet aufbereitet werden, um sie in eine f\u00fcr die Wissenschaftler verst\u00e4ndliche Form zu \u00fcberf\u00fchren. Ein Beispiel daf\u00fcr ist die Untersuchung von Phasenwechselmaterialien, welche in wiederbeschreibbaren optischen Medien eingesetzt werden. Der beim L\u00f6schen und Beschreiben eintretende Wechsel zwischen kristallinem und amorphen Zustand wird auf Gro\u00dfrechnern simuliert und die resultierende molekulare Struktur auf Hohlstellen hin untersucht, da diese R\u00fcckschl\u00fcsse auf das Verhalten des Materials zulassen. Den Kern der Pr\u00e4sentation nimmt die Entwicklung der Anwendung *pyMolDyn* ein, welche die Analyse und Visualisierung der Molek\u00fcle und Hohlstellen \u00fcbernimmt.\r\n\r\nDieser Vortrag gibt einen Einblick in die Erfahrungen, die w\u00e4hrend der mehrj\u00e4hrigen Entwicklung dieser Software gesammelt wurden. Zum einen wird dabei die rechenintensive Analyse der Daten betrachtet und wie diese durch Verwendung von NumPy und (py)OpenCL vereinfacht und beschleunigt werden kann. Zum anderen werden die grafischen Anwendungskomponenten beschrieben, welche mithilfe von wxPython, (py)OpenGL und einem gezielten Zusammenspiel dieser beiden Pakete umgesetzt werden konnten. Neben Performance und Einfachheit der Programmierung werden auch die gewonnenen Eindr\u00fccke zu Plattformunabh\u00e4ngigkeit und Interversionskompatibilit\u00e4t vorgestellt. Weiterhin werden Eigenheiten der Anwendungsentwicklung im Bereich der Forschung erl\u00e4utert und es wird darauf eingegangen, welche St\u00e4rken und Schw\u00e4chen Python in diesem Zusammenhang bietet. Abschlie\u00dfend folgt ein \u00dcberblick dar\u00fcber, wie sich die weitere Entwicklung von *pyMolDyn* gestalten wird und welche Konsequenzen die gesammelten Erfahrungen in Zukunft f\u00fcr das Projekt haben werden.",
+    "tags": [
+        "anwendungsentwicklung",
+        "numpy",
+        "opencl",
+        "opengl",
+        "python",
+        "visualisierung",
+        "wxpython"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/PAE0CLzGxEE/hqdefault.jpg",
+    "title": "Entwicklung wissenschaftlicher Applikationen mit Python",
+    "updated": "2014-04-08T20:28:26.051",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

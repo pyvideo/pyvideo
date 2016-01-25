@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i4.ytimg.com/vi/_daLhu-HnAY/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/_daLhu-HnAY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/_daLhu-HnAY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-10-01T13:13:44", "whiteboard": "", "video_flv_length": null, "title": "Drive-in Double-header: Datetimes and Log analysis", "duration": null, "description": "", "state": 1, "category": "PyOhio 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Drivein_Doubleheader_Datetimes_and_Log_analysis.mp4?Signature=3PdB3VPZkQcitHaJE92zsS8oPmY%3D&Expires=1346567801&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-28", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=_daLhu-HnAY", "video_webm_url": "", "summary": "What you need to know about datetimes: time, datetime, and calendar from the\nstandard library are a bit messy. Find out what to use where and how\n(particularly when you have users in many timezones), and what extra modules\nyou might want to look into.\n\nLog analysis for web applications: Use iPython, matplotlib, and some custom\nfunctions to slice, dice, and visualise your app through its logs.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.078", "id": 1358, "related_urls": [], "slug": "drive-in-double-header-datetimes-and-log-analysi", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Taavi Burns"]}
+{
+    "added": "2012-10-01T13:13:44",
+    "category": "PyOhio 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/_daLhu-HnAY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/_daLhu-HnAY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1358,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-07-28",
+    "related_urls": [],
+    "slug": "drive-in-double-header-datetimes-and-log-analysi",
+    "source_url": "https://www.youtube.com/watch?v=_daLhu-HnAY",
+    "speakers": [
+        "Taavi Burns"
+    ],
+    "state": 1,
+    "summary": "What you need to know about datetimes: time, datetime, and calendar from the\nstandard library are a bit messy. Find out what to use where and how\n(particularly when you have users in many timezones), and what extra modules\nyou might want to look into.\n\nLog analysis for web applications: Use iPython, matplotlib, and some custom\nfunctions to slice, dice, and visualise your app through its logs.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i4.ytimg.com/vi/_daLhu-HnAY/hqdefault.jpg",
+    "title": "Drive-in Double-header: Datetimes and Log analysis",
+    "updated": "2014-04-08T20:28:27.078",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Drivein_Doubleheader_Datetimes_and_Log_analysis.mp4?Signature=3PdB3VPZkQcitHaJE92zsS8oPmY%3D&Expires=1346567801&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/gm7p5ztkOZs/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/gm7p5ztkOZs?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/gm7p5ztkOZs?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:30", "whiteboard": "needs editing", "video_flv_length": null, "title": "Accessing the Virtual Observatory from Python; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=gm7p5ztkOZs", "video_webm_url": null, "summary": "Authors: Plante, Raymond, NCSA/UofIL; Fitzpatrick, Mike, NOAO; Graham, Matthew, Caltech; Tody, Doug, NRAO\n\nTrack: Astronomy and Astrophysics\n\nOne of the goals of the Virtual Astronomical Observatory (VAO) project is to enable developers to integrate access to astronomical archives and services into applications through standardized interfaces. As part of this effort, we have developed two packages for accessing the Virtual Observatory through Python. The first tool, VAOpy, is a package built on AstroPy which provides enables discovery of data archive services through the VAO registry service as well as the searching of the archives for individual datasets such as images, spectra, and source catalogs. The purpose of this module is to provide the developer an easy to use interface that reflects knowledge of the standards upon which services are based. The second tool, VOClient, supports the same low-level API provided by VAOpy but adds additional higher-level capabilities and \"book-keeping\" that make it easier to develop sophisticated applications. This includes support for searching multiple archives, finding data for a list of sources, and collaborating with other desktop tools. Long running tasks are supported through asynchronous access to the underlying services and data caching. VOClient can send retrieved data records and datasets to other applications on the desktop through VO standard protocol known as SAMP.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.321", "id": 1962, "related_urls": [], "slug": "accessing-the-virtual-observatory-from-python-sc", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:30",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/gm7p5ztkOZs?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/gm7p5ztkOZs?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1962,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [],
+    "slug": "accessing-the-virtual-observatory-from-python-sc",
+    "source_url": "http://www.youtube.com/watch?v=gm7p5ztkOZs",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Plante, Raymond, NCSA/UofIL; Fitzpatrick, Mike, NOAO; Graham, Matthew, Caltech; Tody, Doug, NRAO\n\nTrack: Astronomy and Astrophysics\n\nOne of the goals of the Virtual Astronomical Observatory (VAO) project is to enable developers to integrate access to astronomical archives and services into applications through standardized interfaces. As part of this effort, we have developed two packages for accessing the Virtual Observatory through Python. The first tool, VAOpy, is a package built on AstroPy which provides enables discovery of data archive services through the VAO registry service as well as the searching of the archives for individual datasets such as images, spectra, and source catalogs. The purpose of this module is to provide the developer an easy to use interface that reflects knowledge of the standards upon which services are based. The second tool, VOClient, supports the same low-level API provided by VAOpy but adds additional higher-level capabilities and \"book-keeping\" that make it easier to develop sophisticated applications. This includes support for searching multiple archives, finding data for a list of sources, and collaborating with other desktop tools. Long running tasks are supported through asynchronous access to the underlying services and data caching. VOClient can send retrieved data records and datasets to other applications on the desktop through VO standard protocol known as SAMP.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/gm7p5ztkOZs/hqdefault.jpg",
+    "title": "Accessing the Virtual Observatory from Python; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.321",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

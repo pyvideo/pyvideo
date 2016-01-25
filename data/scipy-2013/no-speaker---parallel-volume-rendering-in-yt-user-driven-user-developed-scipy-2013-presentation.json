@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/lzPcUZWinKg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/lzPcUZWinKg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/lzPcUZWinKg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:41", "whiteboard": "needs editing", "video_flv_length": null, "title": "Parallel Volume Rendering in yt: User Driven & User Developed; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=lzPcUZWinKg", "video_webm_url": null, "summary": "Authors: Skillman, Samuel, University of Colorado at Boulder; Turk, Matthew, Columbia University\n\nTrack: General\n\nWe will describe the development, design, and deployment of the volume rendering framework within yt, an open-source python library for computational astrophysics. In order to accommodate increasingly large datasets, we have developed a parallel kd-tree construction written using Python, Numpy, and Cython. We couple this parallel kd-tree with two additional levels of parallelism exposed through image plane decomposition with mpi4py and individual brick traversal with OpenMP threads for a total of 3 levels of parallelism. This framework is capable of handling some of the world's largest adaptive mesh refinement simulations as well some of the largest uniform grid data (up to 40963 at the time of this submission). This development has been driven by the need for both inspecting and presenting our own scientific work, with designs constructed by our community of users. Finally, we will close by examining case studies which have benefited from the user-developed nature of our volume renderer, as well as discuss future improvements to both user interface and parallel capability.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.360", "id": 2032, "related_urls": [], "slug": "parallel-volume-rendering-in-yt-user-driven-us", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:41",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/lzPcUZWinKg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/lzPcUZWinKg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2032,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [],
+    "slug": "parallel-volume-rendering-in-yt-user-driven-us",
+    "source_url": "http://www.youtube.com/watch?v=lzPcUZWinKg",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Skillman, Samuel, University of Colorado at Boulder; Turk, Matthew, Columbia University\n\nTrack: General\n\nWe will describe the development, design, and deployment of the volume rendering framework within yt, an open-source python library for computational astrophysics. In order to accommodate increasingly large datasets, we have developed a parallel kd-tree construction written using Python, Numpy, and Cython. We couple this parallel kd-tree with two additional levels of parallelism exposed through image plane decomposition with mpi4py and individual brick traversal with OpenMP threads for a total of 3 levels of parallelism. This framework is capable of handling some of the world's largest adaptive mesh refinement simulations as well some of the largest uniform grid data (up to 40963 at the time of this submission). This development has been driven by the need for both inspecting and presenting our own scientific work, with designs constructed by our community of users. Finally, we will close by examining case studies which have benefited from the user-developed nature of our volume renderer, as well as discuss future improvements to both user interface and parallel capability.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/lzPcUZWinKg/hqdefault.jpg",
+    "title": "Parallel Volume Rendering in yt: User Driven & User Developed; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.360",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

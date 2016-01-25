@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/_OX-3UhwUeg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/_OX-3UhwUeg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/_OX-3UhwUeg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:49", "whiteboard": "", "video_flv_length": null, "title": "A Visual Interactive Programming Environment", "duration": null, "description": "The Larch Environment is a visual interactive programming environment for\nJython/Python. Its purpose is to make programming more visual. To this end,\nprotocols for presenting objects visually have been devised. A programming\nenvironment, that builds on the idea of the standard visual console, allows a\nprogrammer to experiment with ideas, and develop programs at the same time.\nAdditionally, a way of embellishing source code with visual content is\npresented.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-07", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=_OX-3UhwUeg", "video_webm_url": null, "summary": "[EuroPython 2011] Geoffrey French - 24 June 2011 in \"Track Ravioli \"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.922", "id": 1168, "related_urls": [], "slug": "a-visual-interactive-programming-environment", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Geoffrey French"]}
+{
+    "added": "2012-08-30T21:02:49",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "The Larch Environment is a visual interactive programming environment for\nJython/Python. Its purpose is to make programming more visual. To this end,\nprotocols for presenting objects visually have been devised. A programming\nenvironment, that builds on the idea of the standard visual console, allows a\nprogrammer to experiment with ideas, and develop programs at the same time.\nAdditionally, a way of embellishing source code with visual content is\npresented.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/_OX-3UhwUeg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/_OX-3UhwUeg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1168,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-07",
+    "related_urls": [],
+    "slug": "a-visual-interactive-programming-environment",
+    "source_url": "http://www.youtube.com/watch?v=_OX-3UhwUeg",
+    "speakers": [
+        "Geoffrey French"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Geoffrey French - 24 June 2011 in \"Track Ravioli \"\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/_OX-3UhwUeg/hqdefault.jpg",
+    "title": "A Visual Interactive Programming Environment",
+    "updated": "2014-04-08T20:28:27.922",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

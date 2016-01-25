@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "https://i.ytimg.com/vi/ZYQV8BZwAjA/hqdefault.jpg", "embed": "", "added": "2015-07-22T20:49:29.605", "whiteboard": "", "video_flv_length": null, "title": "Automating Your Browser and Desktop Apps", "duration": 2314, "description": "There's a lot of data on the web and in your desktop apps, but accessing it can involve a lot of tedious typing and clicking. In this talk Al Sweigart explains web scraping techniques and programmatically controlling the keyboard and mouse to automate these tasks for you. Covers the Selenium and PyAutoGUI modules.", "state": 1, "category": "PyOhio 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3692_Automating_Your_Browser_and_Desktop_Apps.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-01", "copyright_text": "CC BY", "source_url": "http://youtu.be/ZYQV8BZwAjA", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-03T23:54:28.454", "id": 3692, "related_urls": [], "slug": "automating-your-browser-and-desktop-apps", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Al Sweigart"]}
+{
+    "added": "2015-07-22T20:49:29.605",
+    "category": "PyOhio 2015",
+    "copyright_text": "CC BY",
+    "description": "There's a lot of data on the web and in your desktop apps, but accessing it can involve a lot of tedious typing and clicking. In this talk Al Sweigart explains web scraping techniques and programmatically controlling the keyboard and mouse to automate these tasks for you. Covers the Selenium and PyAutoGUI modules.",
+    "duration": 2314,
+    "embed": "",
+    "id": 3692,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-01",
+    "related_urls": [],
+    "slug": "automating-your-browser-and-desktop-apps",
+    "source_url": "http://youtu.be/ZYQV8BZwAjA",
+    "speakers": [
+        "Al Sweigart"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/ZYQV8BZwAjA/hqdefault.jpg",
+    "title": "Automating Your Browser and Desktop Apps",
+    "updated": "2015-08-03T23:54:28.454",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3692_Automating_Your_Browser_and_Desktop_Apps.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

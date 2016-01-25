@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/crWXUgWKMrI/hqdefault.jpg", "embed": "", "added": "2015-09-14T05:47:43.561", "whiteboard": "", "video_flv_length": null, "title": "Keynote: Brenda Wallace - Copyright", "duration": 3281, "description": "", "state": 1, "category": "Kiwi PyCon 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-09-04", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/crWXUgWKMrI", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-09-16T04:34:07.251", "id": 3869, "related_urls": [], "slug": "keynote-brenda-wallace-copyright", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Brenda Wallace"]}
+{
+    "added": "2015-09-14T05:47:43.561",
+    "category": "Kiwi PyCon 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "",
+    "duration": 3281,
+    "embed": "",
+    "id": 3869,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-09-04",
+    "related_urls": [],
+    "slug": "keynote-brenda-wallace-copyright",
+    "source_url": "http://youtu.be/crWXUgWKMrI",
+    "speakers": [
+        "Brenda Wallace"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/crWXUgWKMrI/hqdefault.jpg",
+    "title": "Keynote: Brenda Wallace - Copyright",
+    "updated": "2015-09-16T04:34:07.251",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

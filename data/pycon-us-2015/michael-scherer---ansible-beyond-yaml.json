@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/igJTEugHozM/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/igJTEugHozM' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:12.207", "whiteboard": "needs editing", "video_flv_length": null, "title": "Ansible beyond YAML", "duration": null, "description": "Ansible is a configuration management tool whose primary mode of operation involve using YAML to describe deployments and operations. However, it can do much more and be extended using python, which is what we will explore in this talk. Among others, we will see the plugins system for various part of the tool and how to reuse Ansible in a script.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-11", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=igJTEugHozM", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:12.207", "id": 3484, "related_urls": [], "slug": "ansible-beyond-yaml", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Michael Scherer"]}
+{
+    "added": "2015-04-16T14:22:12.207",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Ansible is a configuration management tool whose primary mode of operation involve using YAML to describe deployments and operations. However, it can do much more and be extended using python, which is what we will explore in this talk. Among others, we will see the plugins system for various part of the tool and how to reuse Ansible in a script.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/igJTEugHozM' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3484,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-11",
+    "related_urls": [],
+    "slug": "ansible-beyond-yaml",
+    "source_url": "https://www.youtube.com/watch?v=igJTEugHozM",
+    "speakers": [
+        "Michael Scherer"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/igJTEugHozM/hqdefault.jpg",
+    "title": "Ansible beyond YAML",
+    "updated": "2015-04-16T14:22:12.207",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

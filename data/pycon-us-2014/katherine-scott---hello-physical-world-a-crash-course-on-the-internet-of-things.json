@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/grMfIoDgn9M/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/grMfIoDgn9M?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/grMfIoDgn9M?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-04-12T21:30:11.491", "whiteboard": "", "video_flv_length": null, "title": "Hello Physical World: A Crash Course on the Internet of Things", "duration": null, "description": "", "state": 1, "category": "PyCon US 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-04-12", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=grMfIoDgn9M", "video_webm_url": null, "summary": "Live and direct from the PyCon stage learn how to connect your things to the internet! In this talk we'll connect physical things and people to the internet. In this talk we will live code a tiny web server that interacts with the physical world via sensors, actuators, video, and audio. We will explore tools in the Python ecosystem that make this possible and show how they work together.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-12T21:30:11.491", "id": 2594, "related_urls": [], "slug": "hello-physical-world-a-crash-course-on-the-inter", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Katherine Scott"]}
+{
+    "added": "2014-04-12T21:30:11.491",
+    "category": "PyCon US 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/grMfIoDgn9M?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/grMfIoDgn9M?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2594,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-04-12",
+    "related_urls": [],
+    "slug": "hello-physical-world-a-crash-course-on-the-inter",
+    "source_url": "http://www.youtube.com/watch?v=grMfIoDgn9M",
+    "speakers": [
+        "Katherine Scott"
+    ],
+    "state": 1,
+    "summary": "Live and direct from the PyCon stage learn how to connect your things to the internet! In this talk we'll connect physical things and people to the internet. In this talk we will live code a tiny web server that interacts with the physical world via sensors, actuators, video, and audio. We will explore tools in the Python ecosystem that make this possible and show how they work together.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/grMfIoDgn9M/hqdefault.jpg",
+    "title": "Hello Physical World: A Crash Course on the Internet of Things",
+    "updated": "2014-04-12T21:30:11.491",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

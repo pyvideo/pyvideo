@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/ldM2GUGL5sU/hqdefault.jpg", "embed": "", "added": "2015-07-05T19:09:51.467", "whiteboard": "", "video_flv_length": null, "title": "How Django Is Good For Your Health", "duration": 904, "description": "You know Django as the web framework behind sites like Instagram and Pinterest, but Django is used in many places now. One such place is the pharmaceutical industry, which is the definition of large corporate enterprises. Drug discovery is an immensely hard and expensive challenge. Believe it or not Django can play a meaningful role in that endeavor and ultimately be good for your health. ", "state": 1, "category": "Django Birthday", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-07-11", "copyright_text": "", "source_url": "http://youtu.be/ldM2GUGL5sU", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-07-16T21:11:31.343", "id": 3665, "related_urls": [], "slug": "how-django-is-good-for-your-health", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Craig Bruce"]}
+{
+    "added": "2015-07-05T19:09:51.467",
+    "category": "Django Birthday",
+    "copyright_text": "",
+    "description": "You know Django as the web framework behind sites like Instagram and Pinterest, but Django is used in many places now. One such place is the pharmaceutical industry, which is the definition of large corporate enterprises. Drug discovery is an immensely hard and expensive challenge. Believe it or not Django can play a meaningful role in that endeavor and ultimately be good for your health. ",
+    "duration": 904,
+    "embed": "",
+    "id": 3665,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-07-11",
+    "related_urls": [],
+    "slug": "how-django-is-good-for-your-health",
+    "source_url": "http://youtu.be/ldM2GUGL5sU",
+    "speakers": [
+        "Craig Bruce"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/ldM2GUGL5sU/hqdefault.jpg",
+    "title": "How Django Is Good For Your Health",
+    "updated": "2015-07-16T21:11:31.343",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

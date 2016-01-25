@@ -1,1 +1,44 @@
-{"tags": ["advocacy", "architecture", "community", "pyconau", "pyconau2010", "web"], "thumbnail_url": "http://a.images.blip.tv/Pyconau-GLAMkitABetterFasterStrongerWayToWriteReusableDjangoCo180.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyConAU 2010: GLAMkit: a harder, better, faster, stronger way to write reusable Django code", "duration": null, "description": "GLAMkit: a harder, better, faster, stronger way to write reusable Django code\n\nPresented by Dr. Greg Turner (the Interaction Consortium)\n\nAs part of our web development work for Galleries, Libraries, Archives and\nMuseums (the so-called GLAM sector), we have open-sourced the common tools and\ndesign patterns that we have developed as a web framework called GLAMkit\n([http://glamkit.org/](http://glamkit.org/)).\n\nGLAMkit is based on Django, and is inspired by its design philosophy of\nseveral apps which implement specific features. However, by looking at the\nsuccesses and challenges faced by other CMSes and collections of apps such as\nPinax, we have taken the philosophy a stage futher.\n\nRather than being a collection of Django apps, we have constructed GLAMkit as\na collection of optional and reusable Django 'toolkits' for implementing\ncommon features. We leave the implementation details - the things that Django\nalready does brilliantly - to the application developers themselves.\n\nIn this talk, we will present the history of GLAMkit's development, with\nparticular focus on how our approach to reusability came about, and some\nexamples of that approach.\n\n", "state": 1, "category": "PyCon AU 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:25.776", "id": 472, "related_urls": [], "slug": "pyconau-2010--glamkit--a-harder--better--faster--", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/472_pyconau-2010-glamkit-a-harder-better-faster-stronger-way-to-write-reusable-django-code.flv", "language": "English", "video_ogv_download_only": false, "speakers": ["Dr. Greg Turner"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon AU 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "GLAMkit: a harder, better, faster, stronger way to write reusable Django code\n\nPresented by Dr. Greg Turner (the Interaction Consortium)\n\nAs part of our web development work for Galleries, Libraries, Archives and\nMuseums (the so-called GLAM sector), we have open-sourced the common tools and\ndesign patterns that we have developed as a web framework called GLAMkit\n([http://glamkit.org/](http://glamkit.org/)).\n\nGLAMkit is based on Django, and is inspired by its design philosophy of\nseveral apps which implement specific features. However, by looking at the\nsuccesses and challenges faced by other CMSes and collections of apps such as\nPinax, we have taken the philosophy a stage futher.\n\nRather than being a collection of Django apps, we have constructed GLAMkit as\na collection of optional and reusable Django 'toolkits' for implementing\ncommon features. We leave the implementation details - the things that Django\nalready does brilliantly - to the application developers themselves.\n\nIn this talk, we will present the history of GLAMkit's development, with\nparticular focus on how our approach to reusability came about, and some\nexamples of that approach.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 472,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyconau-2010--glamkit--a-harder--better--faster--",
+    "source_url": "",
+    "speakers": [
+        "Dr. Greg Turner"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "advocacy",
+        "architecture",
+        "community",
+        "pyconau",
+        "pyconau2010",
+        "web"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pyconau-GLAMkitABetterFasterStrongerWayToWriteReusableDjangoCo180.png",
+    "title": "PyConAU 2010: GLAMkit: a harder, better, faster, stronger way to write reusable Django code",
+    "updated": "2014-04-08T20:28:25.776",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/472_pyconau-2010-glamkit-a-harder-better-faster-stronger-way-to-write-reusable-django-code.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

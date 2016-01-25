@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/ePaga05gisk/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/ePaga05gisk' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:11.211", "whiteboard": "needs editing", "video_flv_length": null, "title": "A Beginner's Guide to Test-driven Development", "duration": null, "description": "Software is maintained by humans with limited memory and an unfortunate tendency to make mistakes. Test-driven development (TDD) can help you work around these design flaws by providing a permanent, automated specification for your code. Learn how to implement TDD when bug fixing and implementing new features and how this process will ensure your code is correct both now and in the future.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-11", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=ePaga05gisk", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:11.211", "id": 3474, "related_urls": [], "slug": "a-beginners-guide-to-test-driven-development", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Itamar Turner-Trauring"]}
+{
+    "added": "2015-04-16T14:22:11.211",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Software is maintained by humans with limited memory and an unfortunate tendency to make mistakes. Test-driven development (TDD) can help you work around these design flaws by providing a permanent, automated specification for your code. Learn how to implement TDD when bug fixing and implementing new features and how this process will ensure your code is correct both now and in the future.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/ePaga05gisk' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3474,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-11",
+    "related_urls": [],
+    "slug": "a-beginners-guide-to-test-driven-development",
+    "source_url": "https://www.youtube.com/watch?v=ePaga05gisk",
+    "speakers": [
+        "Itamar Turner-Trauring"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/ePaga05gisk/hqdefault.jpg",
+    "title": "A Beginner's Guide to Test-driven Development",
+    "updated": "2015-04-16T14:22:11.211",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

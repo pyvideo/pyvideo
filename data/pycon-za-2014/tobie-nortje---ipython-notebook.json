@@ -1,1 +1,40 @@
-{"tags": ["pyconza", "pyconza2014"], "thumbnail_url": "http://archive.org/download/pyconza2014-ipython-notebook/pyconza2014-ipython-notebook.thumbs/2%20B%20IPython%20Notebook-_000210.jpg", "embed": "", "added": "2015-08-22T21:43:25.606", "whiteboard": "ia scrape", "video_flv_length": null, "title": "IPython Notebook", "duration": null, "description": "", "state": 1, "category": "PyCon ZA 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://archive.org/download/pyconza2014-ipython-notebook/2%20B%20IPython%20Notebook-.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-02", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://archive.org/details/pyconza2014-ipython-notebook", "video_webm_url": "", "summary": "The IPython Notebook is a browser-based interactive computational environment in which you can combine code execution, text, mathematics, plots and rich media into a single document. Notebooks are text files that can be shared with colleagues, converted to other formats such as HTML, PDF, etc.", "video_ogv_url": "http://archive.org/download/pyconza2014-ipython-notebook/2%20B%20IPython%20Notebook-.ogv", "video_ogv_length": null, "updated": "2015-08-22T21:43:25.606", "id": 3831, "related_urls": [], "slug": "ipython-notebook", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Tobie Nortje"]}
+{
+    "added": "2015-08-22T21:43:25.606",
+    "category": "PyCon ZA 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "",
+    "duration": null,
+    "embed": "",
+    "id": 3831,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-02",
+    "related_urls": [],
+    "slug": "ipython-notebook",
+    "source_url": "http://archive.org/details/pyconza2014-ipython-notebook",
+    "speakers": [
+        "Tobie Nortje"
+    ],
+    "state": 1,
+    "summary": "The IPython Notebook is a browser-based interactive computational environment in which you can combine code execution, text, mathematics, plots and rich media into a single document. Notebooks are text files that can be shared with colleagues, converted to other formats such as HTML, PDF, etc.",
+    "tags": [
+        "pyconza",
+        "pyconza2014"
+    ],
+    "thumbnail_url": "http://archive.org/download/pyconza2014-ipython-notebook/pyconza2014-ipython-notebook.thumbs/2%20B%20IPython%20Notebook-_000210.jpg",
+    "title": "IPython Notebook",
+    "updated": "2015-08-22T21:43:25.606",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://archive.org/download/pyconza2014-ipython-notebook/2%20B%20IPython%20Notebook-.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://archive.org/download/pyconza2014-ipython-notebook/2%20B%20IPython%20Notebook-.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "ia scrape"
+}

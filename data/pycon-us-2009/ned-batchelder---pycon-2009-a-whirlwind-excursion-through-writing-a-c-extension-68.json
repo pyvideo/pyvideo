@@ -1,1 +1,42 @@
-{"tags": ["extensions", "pycon", "pycon2009", "python-advanced"], "thumbnail_url": "http://a.images.blip.tv/Pycon-AWhirlwindExcursionThroughWritingACExtension305-36.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyCon 2009: A Whirlwind Excursion through Writing a C Extension (#68)", "duration": null, "description": "  \r\n[VIDEO HAS ISSUES: Ambient mic used, some echoing] Everyone's heard of C\r\nextensions to Python, but few have ventured into those murky depths. This is a\r\nquick overview of how to write a C extension, complete with highlights of the\r\nC API, memory management, error handling, and type creation. Whether you want\r\nto speed up your Python, integrate with legacy code, contribute to Python's\r\ncore, or just learn a little about how it all works under the covers, you will\r\nenjoy this trip through unfamiliar territory. I guarantee you will return\r\nsafely.\r\n\r\n", "state": 1, "category": "PyCon US 2009", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/230_pycon-2009-a-whirlwind-excursion-through-writing-a-c-extension-68.mp4", "video_webm_length": null, "video_mp4_length": 168747462, "recorded": null, "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-10-28T09:28:09.822", "id": 230, "related_urls": [], "slug": "pycon-2009--a-whirlwind-excursion-through-writing", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Ned Batchelder"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2009",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "  \r\n[VIDEO HAS ISSUES: Ambient mic used, some echoing] Everyone's heard of C\r\nextensions to Python, but few have ventured into those murky depths. This is a\r\nquick overview of how to write a C extension, complete with highlights of the\r\nC API, memory management, error handling, and type creation. Whether you want\r\nto speed up your Python, integrate with legacy code, contribute to Python's\r\ncore, or just learn a little about how it all works under the covers, you will\r\nenjoy this trip through unfamiliar territory. I guarantee you will return\r\nsafely.\r\n\r\n",
+    "duration": null,
+    "embed": "",
+    "id": 230,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pycon-2009--a-whirlwind-excursion-through-writing",
+    "source_url": "",
+    "speakers": [
+        "Ned Batchelder"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "extensions",
+        "pycon",
+        "pycon2009",
+        "python-advanced"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-AWhirlwindExcursionThroughWritingACExtension305-36.jpg",
+    "title": "PyCon 2009: A Whirlwind Excursion through Writing a C Extension (#68)",
+    "updated": "2014-10-28T09:28:09.822",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": 168747462,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/230_pycon-2009-a-whirlwind-excursion-through-writing-a-c-extension-68.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/uvLFO3xp714/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/uvLFO3xp714?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/uvLFO3xp714?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-25T10:30:11.435", "whiteboard": "", "video_flv_length": null, "title": "Mercurial Migration im gro\u00dfen Stil", "duration": null, "description": "", "state": 1, "category": "PyCon DE 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-10-06", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=uvLFO3xp714", "video_webm_url": "", "summary": "Ein paar SVN-Repositories sind schnell nach Mercurial migriert. Und das Entwicklerteam hat sich nach einer kurzen Einarbeitungszeit auch an das neue Versionskontrollsystem (VCS) gew\u00f6hnt. So oder so \u00e4hnlich kennen viele den Wechsel zu Mercurial. Was aber, wenn das alles alles im gro\u00dfen Stil geschieht?", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-07-25T10:30:11.435", "id": 2902, "related_urls": [], "slug": "mercurial-migration-im-groen-stil", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "German", "video_ogv_download_only": false, "speakers": ["Markus Zapke-Gr\u00fcndemann"]}
+{
+    "added": "2014-07-25T10:30:11.435",
+    "category": "PyCon DE 2011",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/uvLFO3xp714?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/uvLFO3xp714?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2902,
+    "language": "German",
+    "quality_notes": "",
+    "recorded": "2011-10-06",
+    "related_urls": [],
+    "slug": "mercurial-migration-im-groen-stil",
+    "source_url": "http://www.youtube.com/watch?v=uvLFO3xp714",
+    "speakers": [
+        "Markus Zapke-Gr\u00fcndemann"
+    ],
+    "state": 1,
+    "summary": "Ein paar SVN-Repositories sind schnell nach Mercurial migriert. Und das Entwicklerteam hat sich nach einer kurzen Einarbeitungszeit auch an das neue Versionskontrollsystem (VCS) gew\u00f6hnt. So oder so \u00e4hnlich kennen viele den Wechsel zu Mercurial. Was aber, wenn das alles alles im gro\u00dfen Stil geschieht?",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/uvLFO3xp714/hqdefault.jpg",
+    "title": "Mercurial Migration im gro\u00dfen Stil",
+    "updated": "2014-07-25T10:30:11.435",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

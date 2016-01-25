@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i3.ytimg.com/vi/6vljQRDzIa8/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/6vljQRDzIa8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/6vljQRDzIa8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:53:50", "whiteboard": "", "video_flv_length": null, "title": "Composability Through Multiple Inheritance", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Composability_Through_Multiple.mp4?Signature=8%2BEewqwXKYGrp262L9VDh7VSdC8%3D&Expires=1363648593&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-15", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=6vljQRDzIa8", "video_webm_url": "", "summary": "One of the turning points in history was when manufacturing embraced intermediate production. By creating simple components that can be integrated into complex products, manufacturers are able to build faster and cheaper, achieving better quality. In this tale of developer meets engineer,I describe how I'm using Python's inheritance model to bring this manufacturing reality to life in source code.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.691", "id": 1678, "related_urls": [], "slug": "composability-through-multiple-inheritance", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["\u0141ukasz Langa"]}
+{
+    "added": "2013-03-13T18:53:50",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/6vljQRDzIa8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/6vljQRDzIa8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1678,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-15",
+    "related_urls": [],
+    "slug": "composability-through-multiple-inheritance",
+    "source_url": "https://www.youtube.com/watch?v=6vljQRDzIa8",
+    "speakers": [
+        "\u0141ukasz Langa"
+    ],
+    "state": 1,
+    "summary": "One of the turning points in history was when manufacturing embraced intermediate production. By creating simple components that can be integrated into complex products, manufacturers are able to build faster and cheaper, achieving better quality. In this tale of developer meets engineer,I describe how I'm using Python's inheritance model to bring this manufacturing reality to life in source code.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i3.ytimg.com/vi/6vljQRDzIa8/hqdefault.jpg",
+    "title": "Composability Through Multiple Inheritance",
+    "updated": "2014-04-08T20:28:26.691",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Composability_Through_Multiple.mp4?Signature=8%2BEewqwXKYGrp262L9VDh7VSdC8%3D&Expires=1363648593&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

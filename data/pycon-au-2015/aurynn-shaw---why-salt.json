@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/q86LUTxCDPg/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/q86LUTxCDPg\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-11-23T19:30:12.891", "whiteboard": "needs editing", "video_flv_length": null, "title": "Why Salt?", "duration": null, "description": "DevOps is a growing movement in the tech community, and configuration management is a huge necessity for doing DevOps well.\r\nIn this talk, we'll be talking about why you should use the SaltStack configuration management platform in your environment, versus the other major platforms of Puppet and Chef.", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-03", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=q86LUTxCDPg", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-11-23T19:30:12.891", "id": 4065, "related_urls": [], "slug": "why-salt", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["aurynn shaw"]}
+{
+    "added": "2015-11-23T19:30:12.891",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "DevOps is a growing movement in the tech community, and configuration management is a huge necessity for doing DevOps well.\r\nIn this talk, we'll be talking about why you should use the SaltStack configuration management platform in your environment, versus the other major platforms of Puppet and Chef.",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/q86LUTxCDPg\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 4065,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-03",
+    "related_urls": [],
+    "slug": "why-salt",
+    "source_url": "https://www.youtube.com/watch?v=q86LUTxCDPg",
+    "speakers": [
+        "aurynn shaw"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/q86LUTxCDPg/hqdefault.jpg",
+    "title": "Why Salt?",
+    "updated": "2015-11-23T19:30:12.891",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

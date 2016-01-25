@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/Og1r5heUmOo/maxresdefault.jpg", "embed": "", "added": "2015-06-14T17:04:27.164", "whiteboard": "", "video_flv_length": null, "title": "Does Python stand a chance in todays world of data science?", "duration": 2826, "description": "", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-29", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=Og1r5heUmOo", "video_webm_url": null, "summary": "With the multitude of data mining tools coming out in the data science world, Python is one choice of many. How does it compare? This talk looks into some pragmatic aspects of its (data mining) ecosystem, its baggage and its future.\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-14T17:04:27.164", "id": 3628, "related_urls": [], "slug": "does-python-stand-a-chance-in-todays-world-of-dat", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Radim \u0158eh\u016f\u0159ek"]}
+{
+    "added": "2015-06-14T17:04:27.164",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "",
+    "duration": 2826,
+    "embed": "",
+    "id": 3628,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-05-29",
+    "related_urls": [],
+    "slug": "does-python-stand-a-chance-in-todays-world-of-dat",
+    "source_url": "https://www.youtube.com/watch?v=Og1r5heUmOo",
+    "speakers": [
+        "Radim \u0158eh\u016f\u0159ek"
+    ],
+    "state": 1,
+    "summary": "With the multitude of data mining tools coming out in the data science world, Python is one choice of many. How does it compare? This talk looks into some pragmatic aspects of its (data mining) ecosystem, its baggage and its future.\n",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/Og1r5heUmOo/maxresdefault.jpg",
+    "title": "Does Python stand a chance in todays world of data science?",
+    "updated": "2015-06-14T17:04:27.164",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/Qu6MVLnt2D8/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Qu6MVLnt2D8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Qu6MVLnt2D8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-09-09T20:35:34", "whiteboard": "can't remember -- maybe yarko asked for this to be delisted? check email records.", "video_flv_length": null, "title": "What's Love Got to do with It? / Love: for techies", "duration": 15, "description": "", "state": 1, "category": "ChiPy", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvchipy/Whats_Love_Got_to_do_with_It_L.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-09-12", "copyright_text": "CC BY", "source_url": "https://www.youtube.com/watch?v=Qu6MVLnt2D8", "video_webm_url": "", "summary": "What you think Love is - is (probably) wrong.\r\n\r\nThe correct metaphor / definition for live will make much more sense to the software person.  In fact, it will help with team building and design too.  Yup.\r\n\r\nGrab a beer.   I'll tell you a story about how this evolved (turing machine example), how and where evolution selected it, and why it works - and how it works for approaching problems (design) too.\r\n\r\nThen I'll lay out the api (functional description).\r\n\r\nDon't take it too seriously.\r\nYou couldn't have known.\r\nNow you will.\r\nCheers!", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-07-26T12:34:38.766", "id": 2357, "related_urls": [], "slug": "whats-love-got-to-do-with-it-love-for-techie", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["yarko"]}
+{
+    "added": "2013-09-09T20:35:34",
+    "category": "ChiPy",
+    "copyright_text": "CC BY",
+    "description": "",
+    "duration": 15,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Qu6MVLnt2D8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Qu6MVLnt2D8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2357,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-09-12",
+    "related_urls": [],
+    "slug": "whats-love-got-to-do-with-it-love-for-techie",
+    "source_url": "https://www.youtube.com/watch?v=Qu6MVLnt2D8",
+    "speakers": [
+        "yarko"
+    ],
+    "state": 1,
+    "summary": "What you think Love is - is (probably) wrong.\r\n\r\nThe correct metaphor / definition for live will make much more sense to the software person.  In fact, it will help with team building and design too.  Yup.\r\n\r\nGrab a beer.   I'll tell you a story about how this evolved (turing machine example), how and where evolution selected it, and why it works - and how it works for approaching problems (design) too.\r\n\r\nThen I'll lay out the api (functional description).\r\n\r\nDon't take it too seriously.\r\nYou couldn't have known.\r\nNow you will.\r\nCheers!",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/Qu6MVLnt2D8/hqdefault.jpg",
+    "title": "What's Love Got to do with It? / Love: for techies",
+    "updated": "2014-07-26T12:34:38.766",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvchipy/Whats_Love_Got_to_do_with_It_L.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "can't remember -- maybe yarko asked for this to be delisted? check email records."
+}

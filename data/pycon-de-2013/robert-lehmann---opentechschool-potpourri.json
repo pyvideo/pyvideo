@@ -1,1 +1,39 @@
-{"tags": ["opentechschool"], "thumbnail_url": "http://i1.ytimg.com/vi/k9JuDrHgmbU/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/k9JuDrHgmbU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/k9JuDrHgmbU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-10-17T08:28:54", "whiteboard": "", "video_flv_length": null, "title": "OpenTechSchool Potpourri", "duration": 30, "description": "", "state": 1, "category": "PyCon DE 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-10-15", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=k9JuDrHgmbU", "video_webm_url": null, "summary": "Die OpenTechSchool ist eine Community-Initiative die freie Programmierworkshops f\u00fcr s\u00e4mtliche Zielgruppen anbietet.  Mit mehreren freien Materialien f\u00fcr Programmieranf\u00e4nger und -fortgeschrittene bringen wir unseren Teilnehmern Grundlagen oder spezielle Themenkomplexe bei.\r\n\r\nDieser Vortrag blickt zur\u00fcck auf ein Jahr voller Workshops in mehreren St\u00e4dten, mit einem Fokus auf Python.  Mit verschiedenen Konzepten wie Workshops, Learners Meetups und Hackdays haben wir das verschiedenste Publikum \u2014 von Konferenzteilnehmern zu Kindern \u2014 bedient.\r\n\r\nDer Vortragende speist seine Erfahrungen aus der Erarbeitung mehrerer Python-Curriculi, dem Coaching auf verschiedenen Events in Berlin sowie der Organisation der Lokalgruppe in Z\u00fcrich.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.054", "id": 2408, "related_urls": [], "slug": "opentechschool-potpourri", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "German", "video_ogv_download_only": false, "speakers": ["Robert Lehmann"]}
+{
+    "added": "2013-10-17T08:28:54",
+    "category": "PyCon DE 2013",
+    "copyright_text": "",
+    "description": "",
+    "duration": 30,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/k9JuDrHgmbU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/k9JuDrHgmbU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2408,
+    "language": "German",
+    "quality_notes": "",
+    "recorded": "2013-10-15",
+    "related_urls": [],
+    "slug": "opentechschool-potpourri",
+    "source_url": "https://www.youtube.com/watch?v=k9JuDrHgmbU",
+    "speakers": [
+        "Robert Lehmann"
+    ],
+    "state": 1,
+    "summary": "Die OpenTechSchool ist eine Community-Initiative die freie Programmierworkshops f\u00fcr s\u00e4mtliche Zielgruppen anbietet.  Mit mehreren freien Materialien f\u00fcr Programmieranf\u00e4nger und -fortgeschrittene bringen wir unseren Teilnehmern Grundlagen oder spezielle Themenkomplexe bei.\r\n\r\nDieser Vortrag blickt zur\u00fcck auf ein Jahr voller Workshops in mehreren St\u00e4dten, mit einem Fokus auf Python.  Mit verschiedenen Konzepten wie Workshops, Learners Meetups und Hackdays haben wir das verschiedenste Publikum \u2014 von Konferenzteilnehmern zu Kindern \u2014 bedient.\r\n\r\nDer Vortragende speist seine Erfahrungen aus der Erarbeitung mehrerer Python-Curriculi, dem Coaching auf verschiedenen Events in Berlin sowie der Organisation der Lokalgruppe in Z\u00fcrich.",
+    "tags": [
+        "opentechschool"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/k9JuDrHgmbU/hqdefault.jpg",
+    "title": "OpenTechSchool Potpourri",
+    "updated": "2014-04-08T20:28:26.054",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

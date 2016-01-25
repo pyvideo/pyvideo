@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/z9Hmys8ojno/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/z9Hmys8ojno' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:14.863", "whiteboard": "needs editing", "video_flv_length": null, "title": "Oh, Come On Who Needs Bytearrays", "duration": null, "description": "", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-12", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=z9Hmys8ojno", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2015-04-16T15:37:55.643", "id": 3515, "related_urls": [], "slug": "oh-come-on-who-needs-bytearrays", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Brandon Rhodes"]}
+{
+    "added": "2015-04-16T14:22:14.863",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/z9Hmys8ojno' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3515,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-12",
+    "related_urls": [],
+    "slug": "oh-come-on-who-needs-bytearrays",
+    "source_url": "https://www.youtube.com/watch?v=z9Hmys8ojno",
+    "speakers": [
+        "Brandon Rhodes"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/z9Hmys8ojno/hqdefault.jpg",
+    "title": "Oh, Come On Who Needs Bytearrays",
+    "updated": "2015-04-16T15:37:55.643",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing"
+}

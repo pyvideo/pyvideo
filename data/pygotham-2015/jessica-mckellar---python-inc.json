@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/fhv-4QLGsso/hqdefault.jpg", "embed": "", "added": "2015-08-10T15:47:50.141", "whiteboard": "", "video_flv_length": null, "title": "Python, Inc.", "duration": 1676, "description": "Open source communities and startups have some important properties in common. They are highly resource-constrained and must work to engage and retain users in a competitive and ever-changing market. How can open source communities apply startup best practices? In this talk, we take on the role of CEO of Python, Inc. and ask ourselves what actually matters for growing and sustaining an open source community.", "state": 1, "category": "PyGotham 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3766_Python_Inc.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-16", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/fhv-4QLGsso", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-09-14T13:15:14.863", "id": 3766, "related_urls": [], "slug": "python-inc", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Jessica McKellar"]}
+{
+    "added": "2015-08-10T15:47:50.141",
+    "category": "PyGotham 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "Open source communities and startups have some important properties in common. They are highly resource-constrained and must work to engage and retain users in a competitive and ever-changing market. How can open source communities apply startup best practices? In this talk, we take on the role of CEO of Python, Inc. and ask ourselves what actually matters for growing and sustaining an open source community.",
+    "duration": 1676,
+    "embed": "",
+    "id": 3766,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-16",
+    "related_urls": [],
+    "slug": "python-inc",
+    "source_url": "http://youtu.be/fhv-4QLGsso",
+    "speakers": [
+        "Jessica McKellar"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/fhv-4QLGsso/hqdefault.jpg",
+    "title": "Python, Inc.",
+    "updated": "2015-09-14T13:15:14.863",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3766_Python_Inc.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

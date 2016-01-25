@@ -1,1 +1,42 @@
-{"tags": ["migration", "python3"], "thumbnail_url": "http://i.ytimg.com/vi/dt3JpHo-gNg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/dt3JpHo-gNg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/dt3JpHo-gNg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-19T11:09:22", "whiteboard": "", "video_flv_length": null, "title": "Panel: Python 3", "duration": null, "description": "", "state": 1, "category": "PyCon AU 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-08-23", "copyright_text": "Creative Commons Attribution license", "source_url": "http://www.youtube.com/watch?v=dt3JpHo-gNg", "video_webm_url": "", "summary": "This is a panel discussion in which Nick Coghlan, Raymond Hettinger and\nRichard Jones discuss the state of Python 3, some of the new features, the 3rd\nparty adoption, migration strategies and open to the floor for questions.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.664", "id": 979, "related_urls": [], "slug": "panel-python-3", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Nick Coghlan", "Raymond Hettinger", "Richard Jones"]}
+{
+    "added": "2012-08-19T11:09:22",
+    "category": "PyCon AU 2011",
+    "copyright_text": "Creative Commons Attribution license",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/dt3JpHo-gNg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/dt3JpHo-gNg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 979,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-08-23",
+    "related_urls": [],
+    "slug": "panel-python-3",
+    "source_url": "http://www.youtube.com/watch?v=dt3JpHo-gNg",
+    "speakers": [
+        "Nick Coghlan",
+        "Raymond Hettinger",
+        "Richard Jones"
+    ],
+    "state": 1,
+    "summary": "This is a panel discussion in which Nick Coghlan, Raymond Hettinger and\nRichard Jones discuss the state of Python 3, some of the new features, the 3rd\nparty adoption, migration strategies and open to the floor for questions.\n\n",
+    "tags": [
+        "migration",
+        "python3"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/dt3JpHo-gNg/hqdefault.jpg",
+    "title": "Panel: Python 3",
+    "updated": "2014-04-08T20:28:27.664",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

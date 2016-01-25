@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/YienqSky-c0/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/YienqSky-c0\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-10-18T16:10:56.250", "whiteboard": "needs editing", "video_flv_length": null, "title": "MidoNet: networking made easy", "duration": null, "description": "MidoNet is a Software Defined Networking solution that's currently integrated with OpenStack, Eucalyptus and Docker. We open sourced in November last year and we\u2019re working hard to build a strong community around it.\r\n\r\nThis presentation will cover MidoNet's core concepts, what distinguishes it from other SDN solutions, its core design and why you would choose it for your project/business. Or not. I'll also discuss some of the cool features that we're currently working on, especially around Multi-site Federation.\r\n\r\nYou\u2019ll be introduced to concepts like Topology Aware Switches and JIT Datapath flow computation as well as our distributed agent model. You\u2019ll learn why we strongly believe in having intelligent switches and how this impacts the overlay topology definition as well as the Network Function Virtualization implementation.\r\n\r\nMost importantly, we hope you'll head over to midonet.org and take it for a spin.\n\n", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-04", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=YienqSky-c0", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-18T16:10:56.250", "id": 3982, "related_urls": [], "slug": "midonet-networking-made-easy", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Pino de Candia"]}
+{
+    "added": "2015-10-18T16:10:56.250",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "MidoNet is a Software Defined Networking solution that's currently integrated with OpenStack, Eucalyptus and Docker. We open sourced in November last year and we\u2019re working hard to build a strong community around it.\r\n\r\nThis presentation will cover MidoNet's core concepts, what distinguishes it from other SDN solutions, its core design and why you would choose it for your project/business. Or not. I'll also discuss some of the cool features that we're currently working on, especially around Multi-site Federation.\r\n\r\nYou\u2019ll be introduced to concepts like Topology Aware Switches and JIT Datapath flow computation as well as our distributed agent model. You\u2019ll learn why we strongly believe in having intelligent switches and how this impacts the overlay topology definition as well as the Network Function Virtualization implementation.\r\n\r\nMost importantly, we hope you'll head over to midonet.org and take it for a spin.\n\n",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/YienqSky-c0\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 3982,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-04",
+    "related_urls": [],
+    "slug": "midonet-networking-made-easy",
+    "source_url": "https://www.youtube.com/watch?v=YienqSky-c0",
+    "speakers": [
+        "Pino de Candia"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/YienqSky-c0/hqdefault.jpg",
+    "title": "MidoNet: networking made easy",
+    "updated": "2015-10-18T16:10:56.250",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

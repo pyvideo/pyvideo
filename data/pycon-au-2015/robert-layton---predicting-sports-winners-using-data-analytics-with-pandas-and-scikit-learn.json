@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/k7hSD_-gWMw/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/k7hSD_-gWMw\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-11-23T19:30:11.111", "whiteboard": "needs editing", "video_flv_length": null, "title": "Predicting sports winners using data analytics with pandas and scikit-learn", "duration": null, "description": "The pandas and scikit-learn packages combine together to produce a powerful toolkit for data analytics. In this talk, we will be using them together to analyse the outcome of NBA games, trying to predict the winner of a match. There is plenty of data out there to allow us to create good predictions \u2013 the key is getting it in the right format and building the right model.\r\n\r\nIn this talk we will go through importing data from the net, cleaning it up, creating new features, and building a predictive model. We then evaluate how well we did, using recent NBA data. The model we use will be a decision tree ensemble called a random forest.", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-04", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=k7hSD_-gWMw", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-11-23T19:30:11.111", "id": 4061, "related_urls": [], "slug": "predicting-sports-winners-using-data-analytics-wi", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Robert Layton"]}
+{
+    "added": "2015-11-23T19:30:11.111",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "The pandas and scikit-learn packages combine together to produce a powerful toolkit for data analytics. In this talk, we will be using them together to analyse the outcome of NBA games, trying to predict the winner of a match. There is plenty of data out there to allow us to create good predictions \u2013 the key is getting it in the right format and building the right model.\r\n\r\nIn this talk we will go through importing data from the net, cleaning it up, creating new features, and building a predictive model. We then evaluate how well we did, using recent NBA data. The model we use will be a decision tree ensemble called a random forest.",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/k7hSD_-gWMw\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 4061,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-04",
+    "related_urls": [],
+    "slug": "predicting-sports-winners-using-data-analytics-wi",
+    "source_url": "https://www.youtube.com/watch?v=k7hSD_-gWMw",
+    "speakers": [
+        "Robert Layton"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/k7hSD_-gWMw/hqdefault.jpg",
+    "title": "Predicting sports winners using data analytics with pandas and scikit-learn",
+    "updated": "2015-11-23T19:30:11.111",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

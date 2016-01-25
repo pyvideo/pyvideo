@@ -1,1 +1,40 @@
-{"tags": ["pyconza", "pyconza2014"], "thumbnail_url": "http://archive.org/download/pyconza2014-python-helps-make-writing-docs-less-painful/pyconza2014-python-helps-make-writing-docs-less-painful.thumbs/12%20b%20How%20Python%20helps%20writing%20documentation%20less%20painful-_000150.jpg", "embed": "", "added": "2015-08-22T21:43:28.154", "whiteboard": "ia scrape", "video_flv_length": null, "title": "How Python helps writing documentation less painful", "duration": null, "description": "", "state": 1, "category": "PyCon ZA 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://archive.org/download/pyconza2014-python-helps-make-writing-docs-less-painful/12%20b%20How%20Python%20helps%20writing%20documentation%20less%20painful-.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-03", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://archive.org/details/pyconza2014-python-helps-make-writing-docs-less-painful", "video_webm_url": "", "summary": "We all know writing documentation is an arduous exercise. We all know how useless and frustrating out-of-date or just plain incorrect documentation is. In this talk I'd like to demonstrate how Python can help make writing documentation, keeping it up-to-date and verifying its validity. It can be surprising what happens when other people discover your little-but-well-documented API.\nPython has several built-in concepts and standard tools to help making this easier, such as docstrings, help(), Sphinx, Sphinx plugins, Doctests and generating documentation off tests themselves.\nI'll focus on not only using Sphinx as a tool, but also on how to structure your application/library/tool so as to make writing accurate documentation as simple as possible.", "video_ogv_url": "http://archive.org/download/pyconza2014-python-helps-make-writing-docs-less-painful/12%20b%20How%20Python%20helps%20writing%20documentation%20less%20painful-.ogv", "video_ogv_length": null, "updated": "2015-08-22T21:43:28.154", "id": 3839, "related_urls": [], "slug": "how-python-helps-writing-documentation-less-painf", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Nickolas Grigoriadis"]}
+{
+    "added": "2015-08-22T21:43:28.154",
+    "category": "PyCon ZA 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "",
+    "duration": null,
+    "embed": "",
+    "id": 3839,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-03",
+    "related_urls": [],
+    "slug": "how-python-helps-writing-documentation-less-painf",
+    "source_url": "http://archive.org/details/pyconza2014-python-helps-make-writing-docs-less-painful",
+    "speakers": [
+        "Nickolas Grigoriadis"
+    ],
+    "state": 1,
+    "summary": "We all know writing documentation is an arduous exercise. We all know how useless and frustrating out-of-date or just plain incorrect documentation is. In this talk I'd like to demonstrate how Python can help make writing documentation, keeping it up-to-date and verifying its validity. It can be surprising what happens when other people discover your little-but-well-documented API.\nPython has several built-in concepts and standard tools to help making this easier, such as docstrings, help(), Sphinx, Sphinx plugins, Doctests and generating documentation off tests themselves.\nI'll focus on not only using Sphinx as a tool, but also on how to structure your application/library/tool so as to make writing accurate documentation as simple as possible.",
+    "tags": [
+        "pyconza",
+        "pyconza2014"
+    ],
+    "thumbnail_url": "http://archive.org/download/pyconza2014-python-helps-make-writing-docs-less-painful/pyconza2014-python-helps-make-writing-docs-less-painful.thumbs/12%20b%20How%20Python%20helps%20writing%20documentation%20less%20painful-_000150.jpg",
+    "title": "How Python helps writing documentation less painful",
+    "updated": "2015-08-22T21:43:28.154",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://archive.org/download/pyconza2014-python-helps-make-writing-docs-less-painful/12%20b%20How%20Python%20helps%20writing%20documentation%20less%20painful-.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://archive.org/download/pyconza2014-python-helps-make-writing-docs-less-painful/12%20b%20How%20Python%20helps%20writing%20documentation%20less%20painful-.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "ia scrape"
+}

@@ -1,1 +1,42 @@
-{"tags": ["pycon", "pycon2010", "repoze.bfg", "wsgi"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010PayOnlyForWhatYouEatATourOfTheRepozeBFGRepo556.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Pay only for what you eat: A tour of the Repoze.BFG repository and philosophy (#174)", "duration": null, "description": "Pay only for what you eat: A tour of the Repoze.BFG repository and philosophy\n\n  \nPresented by Carlos de la Guardia\n\n  \nBFG is a Python web application framework based on WSGI. It is a \"pay only for\nwhat you eat\" framework. Meaning that you can get started easily and learn new\nconcepts as you go, and only if you need them. It's simple, well tested, well\ndocumented, and fast. It also tries to make development fun.\n\n  \nThis talk will introduce the framework and its philosophy, including\nsimilarities and differences with other frameworks. I will then show some of\nthe software available in its repository and discuss the inclusive, loose\nconnection approach that the BFG community prefers for creating a flexible web\ndevelopment platform.\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/295_pay-only-for-what-you-eat-a-tour-of-the-repoze-bfg-repository-and-philosophy-174.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/295_pay-only-for-what-you-eat-a-tour-of-the-repoze-bfg-repository-and-philosophy-174.ogv", "video_ogv_length": null, "updated": "2014-04-08T20:28:28.160", "id": 295, "related_urls": [], "slug": "pycon-2010--pay-only-for-what-you-eat--a-tour-of-", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Carlos de la Guardia"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Pay only for what you eat: A tour of the Repoze.BFG repository and philosophy\n\n  \nPresented by Carlos de la Guardia\n\n  \nBFG is a Python web application framework based on WSGI. It is a \"pay only for\nwhat you eat\" framework. Meaning that you can get started easily and learn new\nconcepts as you go, and only if you need them. It's simple, well tested, well\ndocumented, and fast. It also tries to make development fun.\n\n  \nThis talk will introduce the framework and its philosophy, including\nsimilarities and differences with other frameworks. I will then show some of\nthe software available in its repository and discuss the inclusive, loose\nconnection approach that the BFG community prefers for creating a flexible web\ndevelopment platform.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 295,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--pay-only-for-what-you-eat--a-tour-of-",
+    "source_url": "",
+    "speakers": [
+        "Carlos de la Guardia"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "pycon",
+        "pycon2010",
+        "repoze.bfg",
+        "wsgi"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010PayOnlyForWhatYouEatATourOfTheRepozeBFGRepo556.png",
+    "title": "Pay only for what you eat: A tour of the Repoze.BFG repository and philosophy (#174)",
+    "updated": "2014-04-08T20:28:28.160",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/295_pay-only-for-what-you-eat-a-tour-of-the-repoze-bfg-repository-and-philosophy-174.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/295_pay-only-for-what-you-eat-a-tour-of-the-repoze-bfg-repository-and-philosophy-174.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

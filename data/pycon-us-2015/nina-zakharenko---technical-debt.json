@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/JKYktDRoRxw/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/JKYktDRoRxw' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:06.645", "whiteboard": "needs editing", "video_flv_length": null, "title": "Technical Debt", "duration": null, "description": "Technical debt is the code monster hiding in everyone's closet. If you ignore it, it will terrorize you at night. To banish it and re-gain your productivity, you'll need to face it head on. \n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-11", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=JKYktDRoRxw", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:06.645", "id": 3425, "related_urls": [], "slug": "technical-debt", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Nina Zakharenko"]}
+{
+    "added": "2015-04-16T14:22:06.645",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Technical debt is the code monster hiding in everyone's closet. If you ignore it, it will terrorize you at night. To banish it and re-gain your productivity, you'll need to face it head on. \n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/JKYktDRoRxw' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3425,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-11",
+    "related_urls": [],
+    "slug": "technical-debt",
+    "source_url": "https://www.youtube.com/watch?v=JKYktDRoRxw",
+    "speakers": [
+        "Nina Zakharenko"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/JKYktDRoRxw/hqdefault.jpg",
+    "title": "Technical Debt",
+    "updated": "2015-04-16T14:22:06.645",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

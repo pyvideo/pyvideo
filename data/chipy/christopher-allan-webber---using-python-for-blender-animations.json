@@ -1,1 +1,41 @@
-{"tags": ["blender", "chipy", "chriswebber"], "thumbnail_url": "http://a.images.blip.tv/CarlFK-UsingPythonForBlenderAnimations589-560.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Using Python for Blender Animations", "duration": null, "description": "A walk through using Blender 2.5's new Python API to automate various\nanimation tasks, using examples from the film Patent Absurdity:\nhttp://patentabsurdity.com/ http://patentabsurdity.com/fsf_patent_anims.tar.gz\nhas the sources of the animations demonstrated.\n\n", "state": 1, "category": "ChiPy", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-06-10", "copyright_text": "Creative Commons Attribution-ShareAlike 3.0", "source_url": "", "video_webm_url": "", "summary": "Creating tools with Python and Blender 2.5's bpy API\n\n", "video_ogv_url": null, "video_ogv_length": 232840310, "updated": "2014-04-08T20:28:28.080", "id": 575, "related_urls": [], "slug": "using-python-for-blender-animations", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/575_using-python-for-blender-animations.flv", "language": "English", "video_ogv_download_only": false, "speakers": ["Christopher Allan Webber"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "ChiPy",
+    "copyright_text": "Creative Commons Attribution-ShareAlike 3.0",
+    "description": "A walk through using Blender 2.5's new Python API to automate various\nanimation tasks, using examples from the film Patent Absurdity:\nhttp://patentabsurdity.com/ http://patentabsurdity.com/fsf_patent_anims.tar.gz\nhas the sources of the animations demonstrated.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 575,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-06-10",
+    "related_urls": [],
+    "slug": "using-python-for-blender-animations",
+    "source_url": "",
+    "speakers": [
+        "Christopher Allan Webber"
+    ],
+    "state": 1,
+    "summary": "Creating tools with Python and Blender 2.5's bpy API\n\n",
+    "tags": [
+        "blender",
+        "chipy",
+        "chriswebber"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/CarlFK-UsingPythonForBlenderAnimations589-560.jpg",
+    "title": "Using Python for Blender Animations",
+    "updated": "2014-04-08T20:28:28.080",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/575_using-python-for-blender-animations.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 232840310,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

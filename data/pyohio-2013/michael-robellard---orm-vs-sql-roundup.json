@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i1.ytimg.com/vi/Wz1_GYc4GmU/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Wz1_GYc4GmU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Wz1_GYc4GmU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-26T10:12:26", "whiteboard": "", "video_flv_length": null, "title": "ORM vs SQL Roundup", "duration": 60, "description": "", "state": 1, "category": "PyOhio 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-27", "copyright_text": "CC BY-SA 2.5 CA", "source_url": "https://www.youtube.com/watch?v=Wz1_GYc4GmU", "video_webm_url": null, "summary": "We will be discussing pros and cons of various Python ORMs vs. using straight SQL. The goal will be to help developers decide the right decision next time they have to decide what to do for database access for their app. ", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.229", "id": 2289, "related_urls": [], "slug": "orm-vs-sql-roundup", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Michael Robellard"]}
+{
+    "added": "2013-07-26T10:12:26",
+    "category": "PyOhio 2013",
+    "copyright_text": "CC BY-SA 2.5 CA",
+    "description": "",
+    "duration": 60,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Wz1_GYc4GmU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Wz1_GYc4GmU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2289,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-27",
+    "related_urls": [],
+    "slug": "orm-vs-sql-roundup",
+    "source_url": "https://www.youtube.com/watch?v=Wz1_GYc4GmU",
+    "speakers": [
+        "Michael Robellard"
+    ],
+    "state": 1,
+    "summary": "We will be discussing pros and cons of various Python ORMs vs. using straight SQL. The goal will be to help developers decide the right decision next time they have to decide what to do for database access for their app. ",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/Wz1_GYc4GmU/hqdefault.jpg",
+    "title": "ORM vs SQL Roundup",
+    "updated": "2014-04-08T20:28:26.229",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

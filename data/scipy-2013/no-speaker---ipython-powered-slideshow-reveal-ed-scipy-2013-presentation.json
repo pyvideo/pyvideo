@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/rBS6hmiK-H8/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/rBS6hmiK-H8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/rBS6hmiK-H8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:57", "whiteboard": "needs editing", "video_flv_length": null, "title": "IPython-powered Slideshow Reveal-ed; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-01", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=rBS6hmiK-H8", "video_webm_url": null, "summary": "Authors: Avila, Damian, OQUANTA;\n\nTrack: Reproducible Science\n\nIn the last years, Python have gained a lot of interest in the scientific community because of several useful tools, well-suited to do scientific computing research, have been developed [1]. IPython [2], a comprehensive environment for interactive and exploratory computing, has arose as must-have application to run in the daily scientific work-flow because provide not only enhanced interactive Python shells (terminal and qt-based) but also an interactive browser-based notebook with rich media support [3]. The oral presentation of our research results to the public (specialized and non-specialized) is one of the final steps in the scientific research work-flow, and recently, the IPython notebook has began to be used for these oral communications in several conferences.\nDespite the fact that we can present our talks with the IPython notebook or a derived static html through the nbviewer service [4], there is not a native IPython presentation tool aimed to easily present our results. So, in this paper, we describe a new IPython-Reveal.js-powered slideshow, designed specifically to be rendered directly from the IPython notebook, and powered with several features to address the most common tasks performed during the oral presentation and spreading of our scientific work, such as:\n\nMain slides (horizontal)\nNested slides (vertical)\nFragments views\nTransitions\nThemes\nSpeaker notes\nExport to pdf\nTo conclude, we have developed a better visualization tool for the IPython notebook, suited for the final step of our scientific research work-flow, providing us with an enhanced experience in the oral presentation and communication of our results [5 - 6 - 7].", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.407", "id": 2119, "related_urls": [], "slug": "ipython-powered-slideshow-reveal-ed-scipy-2013-p-1", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:57",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/rBS6hmiK-H8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/rBS6hmiK-H8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2119,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-01",
+    "related_urls": [],
+    "slug": "ipython-powered-slideshow-reveal-ed-scipy-2013-p-1",
+    "source_url": "http://www.youtube.com/watch?v=rBS6hmiK-H8",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Avila, Damian, OQUANTA;\n\nTrack: Reproducible Science\n\nIn the last years, Python have gained a lot of interest in the scientific community because of several useful tools, well-suited to do scientific computing research, have been developed [1]. IPython [2], a comprehensive environment for interactive and exploratory computing, has arose as must-have application to run in the daily scientific work-flow because provide not only enhanced interactive Python shells (terminal and qt-based) but also an interactive browser-based notebook with rich media support [3]. The oral presentation of our research results to the public (specialized and non-specialized) is one of the final steps in the scientific research work-flow, and recently, the IPython notebook has began to be used for these oral communications in several conferences.\nDespite the fact that we can present our talks with the IPython notebook or a derived static html through the nbviewer service [4], there is not a native IPython presentation tool aimed to easily present our results. So, in this paper, we describe a new IPython-Reveal.js-powered slideshow, designed specifically to be rendered directly from the IPython notebook, and powered with several features to address the most common tasks performed during the oral presentation and spreading of our scientific work, such as:\n\nMain slides (horizontal)\nNested slides (vertical)\nFragments views\nTransitions\nThemes\nSpeaker notes\nExport to pdf\nTo conclude, we have developed a better visualization tool for the IPython notebook, suited for the final step of our scientific research work-flow, providing us with an enhanced experience in the oral presentation and communication of our results [5 - 6 - 7].",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/rBS6hmiK-H8/hqdefault.jpg",
+    "title": "IPython-powered Slideshow Reveal-ed; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.407",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/gqmAwK0wNyw/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/gqmAwK0wNyw' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:11.688", "whiteboard": "needs editing", "video_flv_length": null, "title": "Beyond grep: Practical Logging and Metrics", "duration": null, "description": "Your Python server applications are running but you\u2019re wondering what they are doing?  Your only clue about their current state is the server load?  Let\u2019s have stroll through the landscape of logging and metrics so you\u2019ll find the perfect fit for your use cases!\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-12", "copyright_text": "youtube", "source_url": "https://www.youtube.com/watch?v=gqmAwK0wNyw", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:11.688", "id": 3479, "related_urls": [], "slug": "beyond-grep-practical-logging-and-metrics", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Hynek Schlawack"]}
+{
+    "added": "2015-04-16T14:22:11.688",
+    "category": "PyCon US 2015",
+    "copyright_text": "youtube",
+    "description": "Your Python server applications are running but you\u2019re wondering what they are doing?  Your only clue about their current state is the server load?  Let\u2019s have stroll through the landscape of logging and metrics so you\u2019ll find the perfect fit for your use cases!\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/gqmAwK0wNyw' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3479,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-12",
+    "related_urls": [],
+    "slug": "beyond-grep-practical-logging-and-metrics",
+    "source_url": "https://www.youtube.com/watch?v=gqmAwK0wNyw",
+    "speakers": [
+        "Hynek Schlawack"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/gqmAwK0wNyw/hqdefault.jpg",
+    "title": "Beyond grep: Practical Logging and Metrics",
+    "updated": "2015-04-16T14:22:11.688",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

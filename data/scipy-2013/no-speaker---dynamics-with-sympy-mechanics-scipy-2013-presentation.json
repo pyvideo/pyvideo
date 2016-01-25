@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/Jtt9hexk93o/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Jtt9hexk93o?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Jtt9hexk93o?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:37", "whiteboard": "needs editing", "video_flv_length": null, "title": "Dynamics with SymPy Mechanics; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=Jtt9hexk93o", "video_webm_url": null, "summary": "Authors: Moore, Jason, University of California at Davis\n\nTrack: General\n\nThe SymPy Mechanics package was created to automate the derivation of the equations of motion for rigid body dynamics problems. It has been developed primarily through several Google Summer of Code grants over three years and is capable of deriving Newton's Second Law for non-trivial multi-body systems using a variety of methods: from Newton-Euler, to Lagrange, to Kane. The software provides essential classes based around the concepts of a three dimensional vector in a reference frame which ease the setup and bookkeeping of the tedious kinematics including both kinematic and motion constraints. There are also classes for the automated formulation of the equations of motion based on the bodies and forces in a system. It also includes automated linearization of the resulting non-linear models. The software can be used to solve basic physics problems or very complicated many-body and many-constraint systems all with symbolic results. I will go over the basic software design, demonstrate its use through the API along with several classic physics problems and some not-so-trivial three dimensional multi-body problems.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.339", "id": 2006, "related_urls": [], "slug": "dynamics-with-sympy-mechanics-scipy-2013-present", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:37",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Jtt9hexk93o?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Jtt9hexk93o?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2006,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [],
+    "slug": "dynamics-with-sympy-mechanics-scipy-2013-present",
+    "source_url": "http://www.youtube.com/watch?v=Jtt9hexk93o",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Moore, Jason, University of California at Davis\n\nTrack: General\n\nThe SymPy Mechanics package was created to automate the derivation of the equations of motion for rigid body dynamics problems. It has been developed primarily through several Google Summer of Code grants over three years and is capable of deriving Newton's Second Law for non-trivial multi-body systems using a variety of methods: from Newton-Euler, to Lagrange, to Kane. The software provides essential classes based around the concepts of a three dimensional vector in a reference frame which ease the setup and bookkeeping of the tedious kinematics including both kinematic and motion constraints. There are also classes for the automated formulation of the equations of motion based on the bodies and forces in a system. It also includes automated linearization of the resulting non-linear models. The software can be used to solve basic physics problems or very complicated many-body and many-constraint systems all with symbolic results. I will go over the basic software design, demonstrate its use through the API along with several classic physics problems and some not-so-trivial three dimensional multi-body problems.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/Jtt9hexk93o/hqdefault.jpg",
+    "title": "Dynamics with SymPy Mechanics; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.339",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

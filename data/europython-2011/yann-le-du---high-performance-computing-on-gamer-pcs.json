@@ -1,1 +1,45 @@
-{"tags": ["image", "mapping", "nvidia", "performance", "processing", "science", "scientific"], "thumbnail_url": "http://i.ytimg.com/vi/TkBkGGPY2P0/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/TkBkGGPY2P0?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/TkBkGGPY2P0?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:42", "whiteboard": "", "video_flv_length": null, "title": "High-performance computing on gamer PCs", "duration": null, "description": "In Electron Paramagnetic Resonance Imaging, we are faced with a deconvolution\nproblem that has a strong impact on the image actually reconstructed. Faced\nwith the need of mapping the distribution of organic matter in Terrestrial and\nMartian rock samples for applications in exobiology, we needed to see how to\nextract a maximum amount of information from our data: our approach uses\nreservoir computing artificial neural networks coupled to a particle swarm\nalgorithm that evolves the reservoirs\u2019 weights.\n\nThe code runs on the Hybrid Processing Units for Science (HPU4Science) cluster\nlocated at the Laboratoire de Chimie de la Mati\u00e8re Condens\u00e9e de Paris (LCMCP).\nThe cluster is composed of a central data storage machine and a heterogeneous\nensemble of 6 decentralized nodes. Each node is equipped with a Core2 Quad or\ni7 CPU and 3-7 NVIDIA Graphical Processing Units (GPUs) including the GF110\nseries. Each of the 28 GPUs independently explores a different parameter space\nsphere of the same problem. Our application shows a sustained real performance\nof 15.6 TFLOPS. The HPU4Science cluster cost $36,090 resulting in a 432.3\nMFLOPS/$ cost performance.\n\nThat talk is meant to demonstrate on a practical case how consumer grade\ncomputer hardware coupled to a very popular computer language can be used to\ntackle a difficult yet very elementary scientific problem: how do you go from\nformulating the problem, to choosing the right hardware and software, and all\nthe way to programming the algorithms using the appropriate development tools\nand methodologies (notably Literate Programming). On the math side, the talk\nrequires a basic understanding of matrix algebra and of the discretization\nprocess involved when computing integrals.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-13", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=TkBkGGPY2P0", "video_webm_url": null, "summary": "[EuroPython 2011] Yann Le Du - 20 June 2011 in \"Track Lasagne\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.828", "id": 1141, "related_urls": [], "slug": "high-performance-computing-on-gamer-pcs-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Yann Le Du"]}
+{
+    "added": "2012-08-30T21:02:42",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "In Electron Paramagnetic Resonance Imaging, we are faced with a deconvolution\nproblem that has a strong impact on the image actually reconstructed. Faced\nwith the need of mapping the distribution of organic matter in Terrestrial and\nMartian rock samples for applications in exobiology, we needed to see how to\nextract a maximum amount of information from our data: our approach uses\nreservoir computing artificial neural networks coupled to a particle swarm\nalgorithm that evolves the reservoirs\u2019 weights.\n\nThe code runs on the Hybrid Processing Units for Science (HPU4Science) cluster\nlocated at the Laboratoire de Chimie de la Mati\u00e8re Condens\u00e9e de Paris (LCMCP).\nThe cluster is composed of a central data storage machine and a heterogeneous\nensemble of 6 decentralized nodes. Each node is equipped with a Core2 Quad or\ni7 CPU and 3-7 NVIDIA Graphical Processing Units (GPUs) including the GF110\nseries. Each of the 28 GPUs independently explores a different parameter space\nsphere of the same problem. Our application shows a sustained real performance\nof 15.6 TFLOPS. The HPU4Science cluster cost $36,090 resulting in a 432.3\nMFLOPS/$ cost performance.\n\nThat talk is meant to demonstrate on a practical case how consumer grade\ncomputer hardware coupled to a very popular computer language can be used to\ntackle a difficult yet very elementary scientific problem: how do you go from\nformulating the problem, to choosing the right hardware and software, and all\nthe way to programming the algorithms using the appropriate development tools\nand methodologies (notably Literate Programming). On the math side, the talk\nrequires a basic understanding of matrix algebra and of the discretization\nprocess involved when computing integrals.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/TkBkGGPY2P0?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/TkBkGGPY2P0?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1141,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-13",
+    "related_urls": [],
+    "slug": "high-performance-computing-on-gamer-pcs-0",
+    "source_url": "http://www.youtube.com/watch?v=TkBkGGPY2P0",
+    "speakers": [
+        "Yann Le Du"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Yann Le Du - 20 June 2011 in \"Track Lasagne\"\n\n",
+    "tags": [
+        "image",
+        "mapping",
+        "nvidia",
+        "performance",
+        "processing",
+        "science",
+        "scientific"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/TkBkGGPY2P0/hqdefault.jpg",
+    "title": "High-performance computing on gamer PCs",
+    "updated": "2014-04-08T20:28:27.828",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

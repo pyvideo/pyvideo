@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/OqF_Eo7jNxQ/maxresdefault.jpg", "embed": "", "added": "2015-07-31T17:40:36.938", "whiteboard": "", "video_flv_length": null, "title": "Evy", "duration": 2002, "description": "", "state": 1, "category": "PyCon FR 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-11-30", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=OqF_Eo7jNxQ", "video_webm_url": null, "summary": "Evy est un serveur d'int\u00e9gration continu, distribu\u00e9 et modulaire. Bas\u00e9 sur Redis, Evy donna la possibilit\u00e9 de distribuer des jobs \u00e0 travers un r\u00e9seau de Workers.\n\nDe plus, de par son aspect modulaire, Evy permet \u00e0 tout d\u00e9veloppeur d'ajouter facilement de nouveaux modules qui r\u00e9aliseront diverses taches.\n\nLe projet est en cours de d\u00e9veloppement.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-07-31T17:40:36.938", "id": 3725, "related_urls": [], "slug": "evy", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "French", "video_ogv_download_only": false, "speakers": ["Stephane Wirtel"]}
+{
+    "added": "2015-07-31T17:40:36.938",
+    "category": "PyCon FR 2013",
+    "copyright_text": "",
+    "description": "",
+    "duration": 2002,
+    "embed": "",
+    "id": 3725,
+    "language": "French",
+    "quality_notes": "",
+    "recorded": "2013-11-30",
+    "related_urls": [],
+    "slug": "evy",
+    "source_url": "https://www.youtube.com/watch?v=OqF_Eo7jNxQ",
+    "speakers": [
+        "Stephane Wirtel"
+    ],
+    "state": 1,
+    "summary": "Evy est un serveur d'int\u00e9gration continu, distribu\u00e9 et modulaire. Bas\u00e9 sur Redis, Evy donna la possibilit\u00e9 de distribuer des jobs \u00e0 travers un r\u00e9seau de Workers.\n\nDe plus, de par son aspect modulaire, Evy permet \u00e0 tout d\u00e9veloppeur d'ajouter facilement de nouveaux modules qui r\u00e9aliseront diverses taches.\n\nLe projet est en cours de d\u00e9veloppement.",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/OqF_Eo7jNxQ/maxresdefault.jpg",
+    "title": "Evy",
+    "updated": "2015-07-31T17:40:36.938",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

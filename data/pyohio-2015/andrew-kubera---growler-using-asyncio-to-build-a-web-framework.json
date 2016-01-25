@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "https://i.ytimg.com/vi/vs7XOn1TXVQ/hqdefault.jpg", "embed": "", "added": "2015-07-22T20:49:22.757", "whiteboard": "", "video_flv_length": null, "title": "Growler - Using asyncio to Build a Web Framework", "duration": 2476, "description": "The asyncio library introduced a native way for python programs to handle multiple network connections with one thread, asynchronously. Inspired by the Express framework for nodejs, I set out to write my own web server using the new library. This is what I've learned.\r\n", "state": 1, "category": "PyOhio 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3686_Growler_Using_asyncio_to_Build_a_Web_Framework.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-02", "copyright_text": "CC BY", "source_url": "http://youtu.be/vs7XOn1TXVQ", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-09-16T22:41:53.952", "id": 3686, "related_urls": [], "slug": "growler-using-asyncio-to-build-a-web-framework", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Andrew Kubera"]}
+{
+    "added": "2015-07-22T20:49:22.757",
+    "category": "PyOhio 2015",
+    "copyright_text": "CC BY",
+    "description": "The asyncio library introduced a native way for python programs to handle multiple network connections with one thread, asynchronously. Inspired by the Express framework for nodejs, I set out to write my own web server using the new library. This is what I've learned.\r\n",
+    "duration": 2476,
+    "embed": "",
+    "id": 3686,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-02",
+    "related_urls": [],
+    "slug": "growler-using-asyncio-to-build-a-web-framework",
+    "source_url": "http://youtu.be/vs7XOn1TXVQ",
+    "speakers": [
+        "Andrew Kubera"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/vs7XOn1TXVQ/hqdefault.jpg",
+    "title": "Growler - Using asyncio to Build a Web Framework",
+    "updated": "2015-09-16T22:41:53.952",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3686_Growler_Using_asyncio_to_Build_a_Web_Framework.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

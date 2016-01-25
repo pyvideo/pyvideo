@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/hgBx_DBiPxA/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/hgBx_DBiPxA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/hgBx_DBiPxA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-15T22:45:42.515", "whiteboard": "", "video_flv_length": null, "title": "scikit-bio: core bioinformatics data structures and algorithms in Python", "duration": null, "description": "Python is widely used in computational biology, with many high profile bioinformatics software projects, such as [Galaxy](http://galaxyproject.org/), [Khmer](http://khmer.readthedocs.org/en/latest/) and [QIIME](http://www.qiime.org), being largely or entirely written in Python. We present [scikit-bio](http://www.scikit-bio.org), a new library based on the standard Python scientific computing stack (e.g., numpy, scipy, and matplotlib) implementing core bioinformatics data structures, algorithms, parsers, and formatters. scikit-bio is the first bioinformatics-centric [scikit](https://scikits.appspot.com/), and arises from over ten years of development efforts on [PyCogent](http://www.pycogent.org) and [QIIME](http://www.qiime.org), representing an effort to update the functionality provided by these extensively used tools, and to make that functionality more accessible. scikit-bio is intended to be useful both as a resource for students, who can learn topics such as heuristic-based sequence database searching or iterative progressive multiple sequence alignment from the source code and accompanying documentation, and as a powerful library for 'real-world' bioinformatics developers. To achieve these goals, scikit-bio development is centered around test-driven, peer-reviewed software development; C/Cython integration for computationally expensive algorithms; extensive API documentation and doc-testing based on the [numpy docstring standards](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt); user documentation and [theoretical discussion of topics in IPython Notebooks](http://caporasolab.us/An-Introduction-To-Applied-Bioinformatics/); adherence to PEP8; and continuous integration testing. scikit-bio is available free of charge under the BSD license.\r\n", "state": 1, "category": "SciPy 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-10", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=hgBx_DBiPxA", "video_webm_url": "", "summary": "We present scikit-bio, a library based on the Python scientific computing stack implementing core bioinformatics data structures, algorithms and parsers. scikit-bio is useful for students in bioinformatics, who can learn topics such as iterative progressive multiple sequence alignment from the source code and accompanying documentation, and for real-world bioinformatics applications developers.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-07-16T14:50:23.679", "id": 2815, "related_urls": [], "slug": "scikit-bio-core-bioinformatics-data-structures-a", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["J Gregory Caporaso"]}
+{
+    "added": "2014-07-15T22:45:42.515",
+    "category": "SciPy 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "Python is widely used in computational biology, with many high profile bioinformatics software projects, such as [Galaxy](http://galaxyproject.org/), [Khmer](http://khmer.readthedocs.org/en/latest/) and [QIIME](http://www.qiime.org), being largely or entirely written in Python. We present [scikit-bio](http://www.scikit-bio.org), a new library based on the standard Python scientific computing stack (e.g., numpy, scipy, and matplotlib) implementing core bioinformatics data structures, algorithms, parsers, and formatters. scikit-bio is the first bioinformatics-centric [scikit](https://scikits.appspot.com/), and arises from over ten years of development efforts on [PyCogent](http://www.pycogent.org) and [QIIME](http://www.qiime.org), representing an effort to update the functionality provided by these extensively used tools, and to make that functionality more accessible. scikit-bio is intended to be useful both as a resource for students, who can learn topics such as heuristic-based sequence database searching or iterative progressive multiple sequence alignment from the source code and accompanying documentation, and as a powerful library for 'real-world' bioinformatics developers. To achieve these goals, scikit-bio development is centered around test-driven, peer-reviewed software development; C/Cython integration for computationally expensive algorithms; extensive API documentation and doc-testing based on the [numpy docstring standards](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt); user documentation and [theoretical discussion of topics in IPython Notebooks](http://caporasolab.us/An-Introduction-To-Applied-Bioinformatics/); adherence to PEP8; and continuous integration testing. scikit-bio is available free of charge under the BSD license.\r\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/hgBx_DBiPxA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/hgBx_DBiPxA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2815,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-10",
+    "related_urls": [],
+    "slug": "scikit-bio-core-bioinformatics-data-structures-a",
+    "source_url": "http://www.youtube.com/watch?v=hgBx_DBiPxA",
+    "speakers": [
+        "J Gregory Caporaso"
+    ],
+    "state": 1,
+    "summary": "We present scikit-bio, a library based on the Python scientific computing stack implementing core bioinformatics data structures, algorithms and parsers. scikit-bio is useful for students in bioinformatics, who can learn topics such as iterative progressive multiple sequence alignment from the source code and accompanying documentation, and for real-world bioinformatics applications developers.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/hgBx_DBiPxA/hqdefault.jpg",
+    "title": "scikit-bio: core bioinformatics data structures and algorithms in Python",
+    "updated": "2014-07-16T14:50:23.679",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

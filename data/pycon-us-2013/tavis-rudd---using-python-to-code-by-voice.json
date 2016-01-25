@@ -1,1 +1,44 @@
-{"tags": ["talk"], "thumbnail_url": "http://i1.ytimg.com/vi/8SkdfdXWYaI/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/8SkdfdXWYaI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/8SkdfdXWYaI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:55:18", "whiteboard": "", "video_flv_length": null, "title": "Using Python to Code by Voice", "duration": null, "description": "Two years ago I developed a case of Emacs Pinkie (RSI) so severe my hands went numb and I could no longer type or work. Desperate, I tried voice recognition. At first programming with it was painfully slow but, as I couldn\u2019t type, I persevered. After several months of vocab tweaking and duct-tape coding in Python and Emacs Lisp, I had a system that enabled me to code faster and more efficiently by voice than I ever had by hand.\r\n\r\nIn a fast-paced live demo, I will create a small system using Python, plus a few other languages for good measure, and deploy it without touching the keyboard. The demo gods will make a scheduled appearance. I hope to convince you that voice recognition is no longer a crutch for the disabled or limited to plain prose. It\u2019s now a highly effective tool that could benefit all programmers. ", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Using_Python_to_Code_by_Voice.mp4?Signature=8iV87JN7k7IweE10nJanN%2FAUdVY%3D&Expires=1363825863&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-17", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=8SkdfdXWYaI", "video_webm_url": "", "summary": "I dictate my code using a voice recognition system with Python embedded in it.  In a fast paced live demo, I will code a small system and deploy it without touching the keyboard. I hope to convince you that voice recognition is no longer a crutch for the disabled or limited to plain prose.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.612", "id": 1735, "related_urls": [{"url": "https://github.com/tavisrudd", "description": "Tavis's github account"}], "slug": "using-python-to-code-by-voice", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Tavis Rudd"]}
+{
+    "added": "2013-03-13T18:55:18",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "Two years ago I developed a case of Emacs Pinkie (RSI) so severe my hands went numb and I could no longer type or work. Desperate, I tried voice recognition. At first programming with it was painfully slow but, as I couldn\u2019t type, I persevered. After several months of vocab tweaking and duct-tape coding in Python and Emacs Lisp, I had a system that enabled me to code faster and more efficiently by voice than I ever had by hand.\r\n\r\nIn a fast-paced live demo, I will create a small system using Python, plus a few other languages for good measure, and deploy it without touching the keyboard. The demo gods will make a scheduled appearance. I hope to convince you that voice recognition is no longer a crutch for the disabled or limited to plain prose. It\u2019s now a highly effective tool that could benefit all programmers. ",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/8SkdfdXWYaI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/8SkdfdXWYaI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1735,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-17",
+    "related_urls": [
+        {
+            "description": "Tavis's github account",
+            "url": "https://github.com/tavisrudd"
+        }
+    ],
+    "slug": "using-python-to-code-by-voice",
+    "source_url": "https://www.youtube.com/watch?v=8SkdfdXWYaI",
+    "speakers": [
+        "Tavis Rudd"
+    ],
+    "state": 1,
+    "summary": "I dictate my code using a voice recognition system with Python embedded in it.  In a fast paced live demo, I will code a small system and deploy it without touching the keyboard. I hope to convince you that voice recognition is no longer a crutch for the disabled or limited to plain prose.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/8SkdfdXWYaI/hqdefault.jpg",
+    "title": "Using Python to Code by Voice",
+    "updated": "2014-04-08T20:28:26.612",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Using_Python_to_Code_by_Voice.mp4?Signature=8iV87JN7k7IweE10nJanN%2FAUdVY%3D&Expires=1363825863&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

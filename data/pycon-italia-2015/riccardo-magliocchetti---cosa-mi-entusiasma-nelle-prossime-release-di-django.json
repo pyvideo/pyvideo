@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/5th8XmQ8VbY/maxresdefault.jpg", "embed": "", "added": "2015-06-14T17:02:21.280", "whiteboard": "", "video_flv_length": null, "title": "Cosa mi entusiasma nelle prossime release di Django", "duration": 1577, "description": "Ci sono almeno tre feature di django 1.8 / 1.9 che mi entusiasmano. Non sono sono i template multipli o la possibilit\u00e0 di utilizzare i campi specializzati di postgres. Qualcuna di esse magari non finir\u00e0 nemmeno nelle release notes. Ad alcune di esse ho collaborato direttamente e descriver\u00f2 la mia esperienza nel contribuire a Django.\r\n", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-06-09", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=5th8XmQ8VbY", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2015-06-14T17:36:36.299", "id": 3571, "related_urls": [], "slug": "cosa-mi-entusiasma-nelle-prossime-release-di-djan", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "Italian", "video_ogv_download_only": false, "speakers": ["Riccardo Magliocchetti"]}
+{
+    "added": "2015-06-14T17:02:21.280",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "Ci sono almeno tre feature di django 1.8 / 1.9 che mi entusiasmano. Non sono sono i template multipli o la possibilit\u00e0 di utilizzare i campi specializzati di postgres. Qualcuna di esse magari non finir\u00e0 nemmeno nelle release notes. Ad alcune di esse ho collaborato direttamente e descriver\u00f2 la mia esperienza nel contribuire a Django.\r\n",
+    "duration": 1577,
+    "embed": "",
+    "id": 3571,
+    "language": "Italian",
+    "quality_notes": "",
+    "recorded": "2015-06-09",
+    "related_urls": [],
+    "slug": "cosa-mi-entusiasma-nelle-prossime-release-di-djan",
+    "source_url": "https://www.youtube.com/watch?v=5th8XmQ8VbY",
+    "speakers": [
+        "Riccardo Magliocchetti"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/5th8XmQ8VbY/maxresdefault.jpg",
+    "title": "Cosa mi entusiasma nelle prossime release di Django",
+    "updated": "2015-06-14T17:36:36.299",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

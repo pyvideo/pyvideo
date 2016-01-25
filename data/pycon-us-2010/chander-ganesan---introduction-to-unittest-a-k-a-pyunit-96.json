@@ -1,1 +1,43 @@
-{"tags": ["pycon", "pycon2010", "pyunit", "testing", "unittest"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010IntroductionToUnittestAkaPyUnit96996-668.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Introduction to unittest (a.k.a. PyUnit) (#96)", "duration": null, "description": "Introduction to Unittest (a.k.a. PyUnit)\n\nPresented by Chander K Ganesan\n\nThe PyUnit (unittest) unit testing framework provides an easy-to-use set of\ntools and techniques to add robust unit testing to your Python code. By\nintegrating unit testing in their code, developers allow for a robust set of\ntools to quickly and easily identify \"broken\" code.\n\nIn this session we'll explore the unittest module and demonstrate how to\nleverage PyUnit for unit testing.\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/237_introduction-to-unittest-a-k-a-pyunit-96.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 256757557, "updated": "2014-04-08T20:28:28.139", "id": 237, "related_urls": [], "slug": "pycon-2010--introduction-to-unittest--a-k-a--pyun", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Chander Ganesan"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Introduction to Unittest (a.k.a. PyUnit)\n\nPresented by Chander K Ganesan\n\nThe PyUnit (unittest) unit testing framework provides an easy-to-use set of\ntools and techniques to add robust unit testing to your Python code. By\nintegrating unit testing in their code, developers allow for a robust set of\ntools to quickly and easily identify \"broken\" code.\n\nIn this session we'll explore the unittest module and demonstrate how to\nleverage PyUnit for unit testing.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 237,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--introduction-to-unittest--a-k-a--pyun",
+    "source_url": "",
+    "speakers": [
+        "Chander Ganesan"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "pycon",
+        "pycon2010",
+        "pyunit",
+        "testing",
+        "unittest"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010IntroductionToUnittestAkaPyUnit96996-668.jpg",
+    "title": "Introduction to unittest (a.k.a. PyUnit) (#96)",
+    "updated": "2014-04-08T20:28:28.139",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/237_introduction-to-unittest-a-k-a-pyunit-96.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 256757557,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

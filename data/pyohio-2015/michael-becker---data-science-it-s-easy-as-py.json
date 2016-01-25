@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "https://i.ytimg.com/vi/HIEoeEQRSAQ/hqdefault.jpg", "embed": "", "added": "2015-07-22T20:49:45.304", "whiteboard": "", "video_flv_length": null, "title": "Data Science: It's Easy as Py\u01c3", "duration": 2677, "description": "Over the last several years, many amazing Python projects have been created for working with data, making Python one of the top languages for data scientists. In this talk, I'll cover all five stages of the OSEMN data science process, and several Python libraries that can be used at each stage. To demo, I'll illustrate the creation of a language classification algorithm, using Wikipedia articles.", "state": 1, "category": "PyOhio 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3706_Data_Science_Its_Easy_as_Py%C7%83.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-01", "copyright_text": "CC BY", "source_url": "http://youtu.be/HIEoeEQRSAQ", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-03T12:13:17.768", "id": 3706, "related_urls": [], "slug": "data-science-its-easy-as-py", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Michael Becker"]}
+{
+    "added": "2015-07-22T20:49:45.304",
+    "category": "PyOhio 2015",
+    "copyright_text": "CC BY",
+    "description": "Over the last several years, many amazing Python projects have been created for working with data, making Python one of the top languages for data scientists. In this talk, I'll cover all five stages of the OSEMN data science process, and several Python libraries that can be used at each stage. To demo, I'll illustrate the creation of a language classification algorithm, using Wikipedia articles.",
+    "duration": 2677,
+    "embed": "",
+    "id": 3706,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-01",
+    "related_urls": [],
+    "slug": "data-science-its-easy-as-py",
+    "source_url": "http://youtu.be/HIEoeEQRSAQ",
+    "speakers": [
+        "Michael Becker"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/HIEoeEQRSAQ/hqdefault.jpg",
+    "title": "Data Science: It's Easy as Py\u01c3",
+    "updated": "2015-08-03T12:13:17.768",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3706_Data_Science_Its_Easy_as_Py%C7%83.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,42 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/5JnMutdy6Fw/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/5JnMutdy6Fw' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:03.273", "whiteboard": "needs editing", "video_flv_length": null, "title": "Pandas From The Ground Up", "duration": null, "description": "The typical Pandas user learns one dataframe method at a time, slowly scraping features together through trial and error until they can solve the task in front of them. In this tutorial you will re-learn how to think about dataframes from the ground up, and discover how to select intelligently from their abilities to solve your data processing problems through direct and deliberately-chosen steps.\r\n\r\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-12", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=5JnMutdy6Fw", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2015-04-16T15:56:45.824", "id": 3395, "related_urls": [{"url": "https://github.com/brandon-rhodes/pycon-pandas-tutorial/releases/tag/v1.0", "description": " the notebook and data bundle for the tutorial"}], "slug": "pandas-from-the-ground-up", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Brandon Rhodes"]}
+{
+    "added": "2015-04-16T14:22:03.273",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "The typical Pandas user learns one dataframe method at a time, slowly scraping features together through trial and error until they can solve the task in front of them. In this tutorial you will re-learn how to think about dataframes from the ground up, and discover how to select intelligently from their abilities to solve your data processing problems through direct and deliberately-chosen steps.\r\n\r\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/5JnMutdy6Fw' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3395,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-12",
+    "related_urls": [
+        {
+            "description": " the notebook and data bundle for the tutorial",
+            "url": "https://github.com/brandon-rhodes/pycon-pandas-tutorial/releases/tag/v1.0"
+        }
+    ],
+    "slug": "pandas-from-the-ground-up",
+    "source_url": "https://www.youtube.com/watch?v=5JnMutdy6Fw",
+    "speakers": [
+        "Brandon Rhodes"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/5JnMutdy6Fw/hqdefault.jpg",
+    "title": "Pandas From The Ground Up",
+    "updated": "2015-04-16T15:56:45.824",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing"
+}

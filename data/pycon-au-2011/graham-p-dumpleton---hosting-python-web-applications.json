@@ -1,1 +1,40 @@
-{"tags": ["hosting", "web"], "thumbnail_url": "http://i.ytimg.com/vi/PWIvm-uloMg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/PWIvm-uloMg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/PWIvm-uloMg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-19T11:09:27", "whiteboard": "", "video_flv_length": null, "title": "Hosting Python Web Applications", "duration": null, "description": "", "state": 1, "category": "PyCon AU 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-08-22", "copyright_text": "Creative Commons Attribution license", "source_url": "http://www.youtube.com/watch?v=PWIvm-uloMg", "video_webm_url": "", "summary": "Web applications which are able to dynamically deliver up content\nhave&nbsp_place_holder;become a crucial part of the Internet landscape, with\nPython becoming an increasingly popular choice for the implementation of all\nmanner of web applications. In order though for users to be able to access\nyour web application you need to host it. The choices available are however\nmany and varied with accurate information on which may be a good choice not\nalways easy to find.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.675", "id": 1002, "related_urls": [], "slug": "hosting-python-web-applications", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Graham P Dumpleton"]}
+{
+    "added": "2012-08-19T11:09:27",
+    "category": "PyCon AU 2011",
+    "copyright_text": "Creative Commons Attribution license",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/PWIvm-uloMg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/PWIvm-uloMg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1002,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-08-22",
+    "related_urls": [],
+    "slug": "hosting-python-web-applications",
+    "source_url": "http://www.youtube.com/watch?v=PWIvm-uloMg",
+    "speakers": [
+        "Graham P Dumpleton"
+    ],
+    "state": 1,
+    "summary": "Web applications which are able to dynamically deliver up content\nhave&nbsp_place_holder;become a crucial part of the Internet landscape, with\nPython becoming an increasingly popular choice for the implementation of all\nmanner of web applications. In order though for users to be able to access\nyour web application you need to host it. The choices available are however\nmany and varied with accurate information on which may be a good choice not\nalways easy to find.\n\n",
+    "tags": [
+        "hosting",
+        "web"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/PWIvm-uloMg/hqdefault.jpg",
+    "title": "Hosting Python Web Applications",
+    "updated": "2014-04-08T20:28:27.675",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

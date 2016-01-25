@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i2.ytimg.com/vi/E708csv4XgY/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/E708csv4XgY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/E708csv4XgY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:53:39", "whiteboard": "", "video_flv_length": null, "title": "Messaging at Scale at Instagram", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Messaging_at_Scale_at_Instagra.mp4?Signature=FcXKHvpDU23C1JXs7LClb%2BXo7pE%3D&Expires=1363645487&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-15", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=E708csv4XgY", "video_webm_url": null, "summary": "As activity accelerated from just a few thousand activities per day to hundreds of millions, Instagram needed a reliable, scalable messaging infrastructure to distribute work and messages. In this talk, I'll jump from a crash course in the abstract concepts of queueing into the implementation details & hard-earned know-how from experience building massive-scale Python-based systems.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.717", "id": 1671, "related_urls": [], "slug": "messaging-at-scale-at-instagram", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Rick Branson"]}
+{
+    "added": "2013-03-13T18:53:39",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/E708csv4XgY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/E708csv4XgY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1671,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-15",
+    "related_urls": [],
+    "slug": "messaging-at-scale-at-instagram",
+    "source_url": "https://www.youtube.com/watch?v=E708csv4XgY",
+    "speakers": [
+        "Rick Branson"
+    ],
+    "state": 1,
+    "summary": "As activity accelerated from just a few thousand activities per day to hundreds of millions, Instagram needed a reliable, scalable messaging infrastructure to distribute work and messages. In this talk, I'll jump from a crash course in the abstract concepts of queueing into the implementation details & hard-earned know-how from experience building massive-scale Python-based systems.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i2.ytimg.com/vi/E708csv4XgY/hqdefault.jpg",
+    "title": "Messaging at Scale at Instagram",
+    "updated": "2014-04-08T20:28:26.717",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Messaging_at_Scale_at_Instagra.mp4?Signature=FcXKHvpDU23C1JXs7LClb%2BXo7pE%3D&Expires=1363645487&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

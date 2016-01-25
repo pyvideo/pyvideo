@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/ZMOHEh-caTc/maxresdefault.jpg", "embed": "", "added": "2015-06-17T16:46:54.115", "whiteboard": "", "video_flv_length": null, "title": "How to build a Python web application with Flask and Neo4j", "duration": 1970, "description": "", "state": 1, "category": "PyCon SE 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-25", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=ZMOHEh-caTc", "video_webm_url": null, "summary": "Flask, a popular Python web framework, has many tutorials available online that use an SQL database to store information about the website\u2019s users and their activities. In this session, we\u2019ll use Neo4j instead of SQL to build social aspects into our application, including recommending similar users to the logged-in user.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-17T16:46:54.116", "id": 3651, "related_urls": [], "slug": "how-to-build-a-python-web-application-with-flask", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Nicole White"]}
+{
+    "added": "2015-06-17T16:46:54.115",
+    "category": "PyCon SE 2015",
+    "copyright_text": "",
+    "description": "",
+    "duration": 1970,
+    "embed": "",
+    "id": 3651,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-05-25",
+    "related_urls": [],
+    "slug": "how-to-build-a-python-web-application-with-flask",
+    "source_url": "https://www.youtube.com/watch?v=ZMOHEh-caTc",
+    "speakers": [
+        "Nicole White"
+    ],
+    "state": 1,
+    "summary": "Flask, a popular Python web framework, has many tutorials available online that use an SQL database to store information about the website\u2019s users and their activities. In this session, we\u2019ll use Neo4j instead of SQL to build social aspects into our application, including recommending similar users to the logged-in user.",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/ZMOHEh-caTc/maxresdefault.jpg",
+    "title": "How to build a Python web application with Flask and Neo4j",
+    "updated": "2015-06-17T16:46:54.116",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,42 @@
-{"tags": ["SymPy", "tutorial"], "thumbnail_url": "http://i1.ytimg.com/vi/qleGSnrnxgc/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/qleGSnrnxgc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/qleGSnrnxgc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-09T19:24:46.382", "whiteboard": "", "video_flv_length": null, "title": "SymPy Tutorial Part 3", "duration": null, "description": "", "state": 1, "category": "SciPy 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-09", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=qleGSnrnxgc", "video_webm_url": null, "summary": "SymPy is a pure Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python and does not require any external libraries.\r\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-07-09T19:24:46.382", "id": 2707, "related_urls": [], "slug": "sympy-tutorial-part-3", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Aaron Meurer", "Jason K. Moore", "Matthew Rocklin"]}
+{
+    "added": "2014-07-09T19:24:46.382",
+    "category": "SciPy 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/qleGSnrnxgc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/qleGSnrnxgc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2707,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-09",
+    "related_urls": [],
+    "slug": "sympy-tutorial-part-3",
+    "source_url": "http://www.youtube.com/watch?v=qleGSnrnxgc",
+    "speakers": [
+        "Aaron Meurer",
+        "Jason K. Moore",
+        "Matthew Rocklin"
+    ],
+    "state": 1,
+    "summary": "SymPy is a pure Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python and does not require any external libraries.\r\n",
+    "tags": [
+        "SymPy",
+        "tutorial"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/qleGSnrnxgc/hqdefault.jpg",
+    "title": "SymPy Tutorial Part 3",
+    "updated": "2014-07-09T19:24:46.382",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

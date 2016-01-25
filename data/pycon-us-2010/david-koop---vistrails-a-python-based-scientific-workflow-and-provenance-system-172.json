@@ -1,1 +1,42 @@
-{"tags": ["pycon", "pycon2010", "scientific", "vistrails"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010VisTrailsAPythonBasedScientificWorkflowAndProven325-746.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "VisTrails: A Python-Based Scientific Workflow and Provenance System (#172)", "duration": null, "description": "VisTrails: A Python-Based Scientific Workflow and Provenance System\n\nPresented by David Koop (University of Utah and VisTrails, Inc.)\n\nIn this talk, we will give an overview of VisTrails\n([http://www.vistrails.org](http://www.vistrails.org/)), a python-based open-\nsource scientific workflow that transparently captures provenance (i.e.,\nlineage) of both data products and the processes used to derive these\nproducts. We will show how VisTrails can be used to streamline data\nexploration and visualization. Using real examples, we will demonstrate key\nfeatures of the system, including the ability to visually create information\nprocessing pipelines that combine multiple tools and Iibraries such as VTK,\npylab, and matplotlib. We will also show how VisTrails leverages provenance\ninformation not only to support result reproducibility, but also to simplify\nthe creation and refinement of pipelines.\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/277_vistrails-a-python-based-scientific-workflow-and-provenance-system-172.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": "", "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/277_vistrails-a-python-based-scientific-workflow-and-provenance-system-172.ogv", "video_ogv_length": 159842063, "updated": "2014-04-08T20:28:28.230", "id": 277, "related_urls": [], "slug": "vistrails-a-python-based-scientific-workflow-and", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["David Koop"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "VisTrails: A Python-Based Scientific Workflow and Provenance System\n\nPresented by David Koop (University of Utah and VisTrails, Inc.)\n\nIn this talk, we will give an overview of VisTrails\n([http://www.vistrails.org](http://www.vistrails.org/)), a python-based open-\nsource scientific workflow that transparently captures provenance (i.e.,\nlineage) of both data products and the processes used to derive these\nproducts. We will show how VisTrails can be used to streamline data\nexploration and visualization. Using real examples, we will demonstrate key\nfeatures of the system, including the ability to visually create information\nprocessing pipelines that combine multiple tools and Iibraries such as VTK,\npylab, and matplotlib. We will also show how VisTrails leverages provenance\ninformation not only to support result reproducibility, but also to simplify\nthe creation and refinement of pipelines.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 277,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "vistrails-a-python-based-scientific-workflow-and",
+    "source_url": "",
+    "speakers": [
+        "David Koop"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "pycon",
+        "pycon2010",
+        "scientific",
+        "vistrails"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010VisTrailsAPythonBasedScientificWorkflowAndProven325-746.jpg",
+    "title": "VisTrails: A Python-Based Scientific Workflow and Provenance System (#172)",
+    "updated": "2014-04-08T20:28:28.230",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/277_vistrails-a-python-based-scientific-workflow-and-provenance-system-172.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 159842063,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/277_vistrails-a-python-based-scientific-workflow-and-provenance-system-172.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/TYVLX3EoU-w/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/TYVLX3EoU-w?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/TYVLX3EoU-w?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-09-26T00:28:54.235", "whiteboard": "", "video_flv_length": null, "title": "Modeling Dollar and Community Currency Flows in a Virtual US County Using Python", "duration": 3000, "description": "John Boik is the author of the new book \"Economic Direct Democracy: A Framework to End Poverty and Maximize Well-Being.\" John will delve into his Python-based simulation model of flows of the dollar and a proposed community currency (called the token) in a virtual US county.  He gives background on the proposed community currency system, called the Token Exchange System, explores how the model is structured, presents modeling results, and discusses potential social impact as guided and informed his book's thesis. As a hint of scale and potential impact, annual currency flows in the simulation model are measured in the billions.  A global partnership of interested academic, civil society, government, business, and philanthropy groups is now forming to move the book's proposal forward. \r\n\r\nSimulation model background: http://www.principledsocietiesproject.org/simulation-model/\r\n\r\nPython TES-simulation Package: https://pypi.python.org/pypi/TES-simulation\r\n\r\nProject and book details: http://www.principledsocietiesproject.org/ ", "state": 1, "category": "PyTexas 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-05", "copyright_text": "CC-BY", "source_url": "http://youtu.be/TYVLX3EoU-w", "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3203_Modeling_Dollar_and_Community_Currency_Flows_in_a_.webm", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-10-06T08:41:14.032", "id": 3203, "related_urls": [], "slug": "modeling-dollar-and-community-currency-flows-in-a", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["John Boik"]}
+{
+    "added": "2014-09-26T00:28:54.235",
+    "category": "PyTexas 2014",
+    "copyright_text": "CC-BY",
+    "description": "John Boik is the author of the new book \"Economic Direct Democracy: A Framework to End Poverty and Maximize Well-Being.\" John will delve into his Python-based simulation model of flows of the dollar and a proposed community currency (called the token) in a virtual US county.  He gives background on the proposed community currency system, called the Token Exchange System, explores how the model is structured, presents modeling results, and discusses potential social impact as guided and informed his book's thesis. As a hint of scale and potential impact, annual currency flows in the simulation model are measured in the billions.  A global partnership of interested academic, civil society, government, business, and philanthropy groups is now forming to move the book's proposal forward. \r\n\r\nSimulation model background: http://www.principledsocietiesproject.org/simulation-model/\r\n\r\nPython TES-simulation Package: https://pypi.python.org/pypi/TES-simulation\r\n\r\nProject and book details: http://www.principledsocietiesproject.org/ ",
+    "duration": 3000,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/TYVLX3EoU-w?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/TYVLX3EoU-w?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3203,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-05",
+    "related_urls": [],
+    "slug": "modeling-dollar-and-community-currency-flows-in-a",
+    "source_url": "http://youtu.be/TYVLX3EoU-w",
+    "speakers": [
+        "John Boik"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/TYVLX3EoU-w/hqdefault.jpg",
+    "title": "Modeling Dollar and Community Currency Flows in a Virtual US County Using Python",
+    "updated": "2014-10-06T08:41:14.032",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3203_Modeling_Dollar_and_Community_Currency_Flows_in_a_.webm",
+    "whiteboard": ""
+}

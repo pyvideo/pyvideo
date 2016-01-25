@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/a4kqO1IBZ4U/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/a4kqO1IBZ4U?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/a4kqO1IBZ4U?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:47", "whiteboard": "needs editing", "video_flv_length": null, "title": "XDress - Type, But Verify; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=a4kqO1IBZ4U", "video_webm_url": null, "summary": "Authors: Scopatz, Anthony, The University of Chicago & NumFOCUS, Inc.\n\nTrack: General\n\nXDress is an automatic wrapper generator for C/C++ written in pure Python. Currently, xdress may generate Python bindings (via Cython) for C++ classes & functions and in-memory wrappers for C++ standard library containers (sets, vectors, maps). In the future, other tools and bindings will be supported.\n\nThe main enabling feature of xdress is a dynamic type system that was designed with the purpose of API generation in mind. This type system provides a canonical abstraction of various kinds of types: Base types (int, str, float, non-templated classes), refined types (even or odd ints, strings containing the letter 'a'), and dependent types (templates such arrays, maps, sets, vectors). This canonical form is itself hashable, being comprised only of strings, ints, and tuples.\n\nOn top of this type system, xdress provides a tool for auto-generating classes which are views into template instantiations of C++ standard library maps and sets. Additionally, this tool also creates custom numpy dtypes for any C++ type, class or struct. This allows the user to have numpy array views into C++ vectors.\n\nFurthermore, xdress also has a tool which inspects a C++ code base and automatically generates Cython wrappers for all user-specified classes and functions. This significantly eases the burden of supporting mixed language projects.\n\nThe above code generators, however, are just the beginning. The xdress type system is flexible and powerful enough to engender a suite of other tools which take advantage of less obvious features. For example, an automatic verification & validation utility could take advantage of refinement type predicate functions to interdict parameter constraints into the API right under the users nose!\n\nThis talk will focus on xdress's type system and its use cases.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.379", "id": 2065, "related_urls": [], "slug": "xdress-type-but-verify-scipy-2013-presentatio", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:47",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/a4kqO1IBZ4U?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/a4kqO1IBZ4U?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2065,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [],
+    "slug": "xdress-type-but-verify-scipy-2013-presentatio",
+    "source_url": "http://www.youtube.com/watch?v=a4kqO1IBZ4U",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Scopatz, Anthony, The University of Chicago & NumFOCUS, Inc.\n\nTrack: General\n\nXDress is an automatic wrapper generator for C/C++ written in pure Python. Currently, xdress may generate Python bindings (via Cython) for C++ classes & functions and in-memory wrappers for C++ standard library containers (sets, vectors, maps). In the future, other tools and bindings will be supported.\n\nThe main enabling feature of xdress is a dynamic type system that was designed with the purpose of API generation in mind. This type system provides a canonical abstraction of various kinds of types: Base types (int, str, float, non-templated classes), refined types (even or odd ints, strings containing the letter 'a'), and dependent types (templates such arrays, maps, sets, vectors). This canonical form is itself hashable, being comprised only of strings, ints, and tuples.\n\nOn top of this type system, xdress provides a tool for auto-generating classes which are views into template instantiations of C++ standard library maps and sets. Additionally, this tool also creates custom numpy dtypes for any C++ type, class or struct. This allows the user to have numpy array views into C++ vectors.\n\nFurthermore, xdress also has a tool which inspects a C++ code base and automatically generates Cython wrappers for all user-specified classes and functions. This significantly eases the burden of supporting mixed language projects.\n\nThe above code generators, however, are just the beginning. The xdress type system is flexible and powerful enough to engender a suite of other tools which take advantage of less obvious features. For example, an automatic verification & validation utility could take advantage of refinement type predicate functions to interdict parameter constraints into the API right under the users nose!\n\nThis talk will focus on xdress's type system and its use cases.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/a4kqO1IBZ4U/hqdefault.jpg",
+    "title": "XDress - Type, But Verify; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.379",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

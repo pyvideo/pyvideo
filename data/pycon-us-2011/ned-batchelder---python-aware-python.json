@@ -1,1 +1,44 @@
-{"tags": ["analysis", "compiling", "introspection", "parsing", "pycon", "pycon2011"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011PythonAwarePython331.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Python-Aware Python", "duration": null, "description": "Python-Aware Python\n\nPresented by Ned Batchelder\n\nPython provides many features for introspecting, analyzing, parsing,\ncompiling, and otherwise grokking Python code. This talk will cover a number\nof the techniques for writing Python-Aware Python, and will hopefully inspire\nyou to build the next great Python tool.\n\nAbstract\n\nPython provides many features for introspecting, analyzing, parsing,\ncompiling, and otherwise grokking Python code. These modules and techniques\nprovide the foundation for developer's tools such as autocompletion IDE's,\ncode analysis tools, test runners, profilers, and so on.\n\nI'll delve into a number of the common techniques used to write Python-Aware\nPython. Each has its area of applicability and its strengths and weaknesses.\nI'll demonstrate small samples that show how those techniques underlie the\ntools we all know and love.\n\nThe world of Python tools is ready for new exploration. This talk will give\nyou the foundation you need to write the next great Python-aware application.\n\n", "state": 1, "category": "PyCon US 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/447_python-aware-python.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-03-11", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 222244649, "updated": "2014-04-08T20:28:28.016", "id": 447, "related_urls": [], "slug": "pycon-2011--python-aware-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Ned Batchelder"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2011",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Python-Aware Python\n\nPresented by Ned Batchelder\n\nPython provides many features for introspecting, analyzing, parsing,\ncompiling, and otherwise grokking Python code. This talk will cover a number\nof the techniques for writing Python-Aware Python, and will hopefully inspire\nyou to build the next great Python tool.\n\nAbstract\n\nPython provides many features for introspecting, analyzing, parsing,\ncompiling, and otherwise grokking Python code. These modules and techniques\nprovide the foundation for developer's tools such as autocompletion IDE's,\ncode analysis tools, test runners, profilers, and so on.\n\nI'll delve into a number of the common techniques used to write Python-Aware\nPython. Each has its area of applicability and its strengths and weaknesses.\nI'll demonstrate small samples that show how those techniques underlie the\ntools we all know and love.\n\nThe world of Python tools is ready for new exploration. This talk will give\nyou the foundation you need to write the next great Python-aware application.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 447,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-03-11",
+    "related_urls": [],
+    "slug": "pycon-2011--python-aware-python",
+    "source_url": "",
+    "speakers": [
+        "Ned Batchelder"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "analysis",
+        "compiling",
+        "introspection",
+        "parsing",
+        "pycon",
+        "pycon2011"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011PythonAwarePython331.png",
+    "title": "Python-Aware Python",
+    "updated": "2014-04-08T20:28:28.016",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/447_python-aware-python.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 222244649,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

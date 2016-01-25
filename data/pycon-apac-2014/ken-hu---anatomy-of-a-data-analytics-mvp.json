@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/BJkWl5RiCAg/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/BJkWl5RiCAg' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2014-10-26T00:13:20.581", "whiteboard": "needs editing", "video_flv_length": null, "title": "Anatomy of a Data Analytics MVP", "duration": null, "description": "Behind the glamour of mobile apps, business SaaS products have been steadily building itself into a billion dollar industry. With companies such as Salesforce spearheading the adaption of business SaaS products in corporate, startups are rising to take on the SME market.\r\n\r\nWith hot topics such as \"big data\" and \"machine learning\" flying around, it may seem overwhelming to put an idea into action. I will walk through the process of building an data analytics minimum viable product (MVP). Attendees will have hands on experiences with the free and/or affordable technology and services that can get their MVP up and running.\r\n\r\nThis talk assumes attendees understand the basic of Python. Basic understanding of MapReduce and NoSQL databases will be big pluses as well.\r\n\r\n\r\nAbout the speaker\r\n\r\nI am a data scientist, software developer, and aspiring entrepreneur. I'm especially interested in machine learning, information retrieval, text analytics, and cloud technology. My weapon of choice is Python.\r\n\r\nI previously founded a social data analysis company and developed its core technology. I grew the startup into a profitable entity, without any outside funding.", "state": 1, "category": "PyCon APAC 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-06-27", "copyright_text": "youtube", "source_url": "https://www.youtube.com/watch?v=BJkWl5RiCAg", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-10-26T16:54:10.460", "id": 3250, "related_urls": [], "slug": "anatomy-of-a-data-analytics-mvp-pycon-apac-2014", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Ken Hu"]}
+{
+    "added": "2014-10-26T00:13:20.581",
+    "category": "PyCon APAC 2014",
+    "copyright_text": "youtube",
+    "description": "Behind the glamour of mobile apps, business SaaS products have been steadily building itself into a billion dollar industry. With companies such as Salesforce spearheading the adaption of business SaaS products in corporate, startups are rising to take on the SME market.\r\n\r\nWith hot topics such as \"big data\" and \"machine learning\" flying around, it may seem overwhelming to put an idea into action. I will walk through the process of building an data analytics minimum viable product (MVP). Attendees will have hands on experiences with the free and/or affordable technology and services that can get their MVP up and running.\r\n\r\nThis talk assumes attendees understand the basic of Python. Basic understanding of MapReduce and NoSQL databases will be big pluses as well.\r\n\r\n\r\nAbout the speaker\r\n\r\nI am a data scientist, software developer, and aspiring entrepreneur. I'm especially interested in machine learning, information retrieval, text analytics, and cloud technology. My weapon of choice is Python.\r\n\r\nI previously founded a social data analysis company and developed its core technology. I grew the startup into a profitable entity, without any outside funding.",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/BJkWl5RiCAg' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3250,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-06-27",
+    "related_urls": [],
+    "slug": "anatomy-of-a-data-analytics-mvp-pycon-apac-2014",
+    "source_url": "https://www.youtube.com/watch?v=BJkWl5RiCAg",
+    "speakers": [
+        "Ken Hu"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/BJkWl5RiCAg/hqdefault.jpg",
+    "title": "Anatomy of a Data Analytics MVP",
+    "updated": "2014-10-26T16:54:10.460",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing"
+}

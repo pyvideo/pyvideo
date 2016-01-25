@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/8Xrdt3-YVz4/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/8Xrdt3-YVz4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/8Xrdt3-YVz4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-10T12:01:34", "whiteboard": "", "video_flv_length": null, "title": "Nobody Expects the Python Packaging Authority", "duration": 45, "description": "", "state": 1, "category": "PyCon AU 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvpyconau2013/Nobody_Expects_the_Python_Pack.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-06", "copyright_text": "CC-BY-SA", "source_url": "https://www.youtube.com/watch?v=8Xrdt3-YVz4", "video_webm_url": null, "summary": "These are interesting times for the Python packaging ecosystem, with the Python Packaging Authority (creators of the popular pip and virtualenv tools) emerging as the umbrella brand for a suite of related tools that will bring support for updated packaging standards to both the upcoming Python 3.4 and to existing versions of Python.\r\n\r\nThis talk will cover some of the history of Python's packaging tools and systems, where we are now, and where we aim to go in the future.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.282", "id": 2197, "related_urls": [], "slug": "nobody-expects-the-python-packaging-authority", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Nick Coghlan"]}
+{
+    "added": "2013-07-10T12:01:34",
+    "category": "PyCon AU 2013",
+    "copyright_text": "CC-BY-SA",
+    "description": "",
+    "duration": 45,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/8Xrdt3-YVz4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/8Xrdt3-YVz4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2197,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-06",
+    "related_urls": [],
+    "slug": "nobody-expects-the-python-packaging-authority",
+    "source_url": "https://www.youtube.com/watch?v=8Xrdt3-YVz4",
+    "speakers": [
+        "Nick Coghlan"
+    ],
+    "state": 1,
+    "summary": "These are interesting times for the Python packaging ecosystem, with the Python Packaging Authority (creators of the popular pip and virtualenv tools) emerging as the umbrella brand for a suite of related tools that will bring support for updated packaging standards to both the upcoming Python 3.4 and to existing versions of Python.\r\n\r\nThis talk will cover some of the history of Python's packaging tools and systems, where we are now, and where we aim to go in the future.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/8Xrdt3-YVz4/hqdefault.jpg",
+    "title": "Nobody Expects the Python Packaging Authority",
+    "updated": "2014-04-08T20:28:26.282",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvpyconau2013/Nobody_Expects_the_Python_Pack.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

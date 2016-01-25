@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i3.ytimg.com/vi/N_idfCgScCQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/N_idfCgScCQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/N_idfCgScCQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-14T09:10:39", "whiteboard": "", "video_flv_length": null, "title": "Python development with Komodo IDE", "duration": null, "description": "", "state": 1, "category": "PyCon CA 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Python_development_with_Komodo_IDE.mp4?Signature=rvcKJZkZH9zOW5t7WZIk%2B5DlNSE%3D&Expires=1352839092&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-11-10", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=N_idfCgScCQ", "video_webm_url": "", "summary": "Todd Whiteman, the lead developer of ActiveState's Komodo IDE, will show you\nthe best practices for creating, writing, debugging and deploying Python\napplications when using Komodo IDE.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.864", "id": 1590, "related_urls": [], "slug": "python-development-with-komodo-ide", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Todd Whiteman"]}
+{
+    "added": "2012-11-14T09:10:39",
+    "category": "PyCon CA 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/N_idfCgScCQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/N_idfCgScCQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1590,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-11-10",
+    "related_urls": [],
+    "slug": "python-development-with-komodo-ide",
+    "source_url": "https://www.youtube.com/watch?v=N_idfCgScCQ",
+    "speakers": [
+        "Todd Whiteman"
+    ],
+    "state": 1,
+    "summary": "Todd Whiteman, the lead developer of ActiveState's Komodo IDE, will show you\nthe best practices for creating, writing, debugging and deploying Python\napplications when using Komodo IDE.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i3.ytimg.com/vi/N_idfCgScCQ/hqdefault.jpg",
+    "title": "Python development with Komodo IDE",
+    "updated": "2014-04-08T20:28:26.864",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Python_development_with_Komodo_IDE.mp4?Signature=rvcKJZkZH9zOW5t7WZIk%2B5DlNSE%3D&Expires=1352839092&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

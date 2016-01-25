@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/DH94wksQFPM/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/DH94wksQFPM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/DH94wksQFPM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-13T01:04:16", "whiteboard": "", "video_flv_length": null, "title": "Testing for Graceful Failure with Vaurien and Marteau", "duration": 30, "description": "", "state": 1, "category": "PyCon AU 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvpyconau2013/Testing_for_Graceful_Failure_w.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-06", "copyright_text": "CC-BY-SA", "source_url": "https://www.youtube.com/watch?v=DH94wksQFPM", "video_webm_url": null, "summary": "So you've built an awesome webapp, put it through its paces, and assured yourself that it does what it's supposed to do.  Great!  Now how does it behave when things start to go wrong?\r\n\r\nThis talk will demonstrate how the Mozilla Services team tests for failure scenarios in our web services, focusing on two key python-based tools:  Marteau, a web-based frontend for easily running load-tests and analyzing the results, and Vaurien, a misbehaving TCP proxy that can simulate a variety of backend failure modes.\r\n\r\nUsed together, these tools can help ensure that a web service will not only scale up to meet its expected demand, but will fail gracefully when it finally reaches breaking point.\r\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.294", "id": 2229, "related_urls": [], "slug": "testing-for-graceful-failure-with-vaurien-and-mar", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Ryan Kelly"]}
+{
+    "added": "2013-07-13T01:04:16",
+    "category": "PyCon AU 2013",
+    "copyright_text": "CC-BY-SA",
+    "description": "",
+    "duration": 30,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/DH94wksQFPM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/DH94wksQFPM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2229,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-06",
+    "related_urls": [],
+    "slug": "testing-for-graceful-failure-with-vaurien-and-mar",
+    "source_url": "https://www.youtube.com/watch?v=DH94wksQFPM",
+    "speakers": [
+        "Ryan Kelly"
+    ],
+    "state": 1,
+    "summary": "So you've built an awesome webapp, put it through its paces, and assured yourself that it does what it's supposed to do.  Great!  Now how does it behave when things start to go wrong?\r\n\r\nThis talk will demonstrate how the Mozilla Services team tests for failure scenarios in our web services, focusing on two key python-based tools:  Marteau, a web-based frontend for easily running load-tests and analyzing the results, and Vaurien, a misbehaving TCP proxy that can simulate a variety of backend failure modes.\r\n\r\nUsed together, these tools can help ensure that a web service will not only scale up to meet its expected demand, but will fail gracefully when it finally reaches breaking point.\r\n",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/DH94wksQFPM/hqdefault.jpg",
+    "title": "Testing for Graceful Failure with Vaurien and Marteau",
+    "updated": "2014-04-08T20:28:26.294",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvpyconau2013/Testing_for_Graceful_Failure_w.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

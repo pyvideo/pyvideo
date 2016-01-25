@@ -1,1 +1,46 @@
-{"tags": ["database", "networking", "numpy", "optimization", "pyohio", "pyohio2010", "scipy", "simulation"], "thumbnail_url": "http://a.images.blip.tv/Pyohio-ImplementationOfANumericalSimulationInPython272.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyOhio 2010: Implementation of a Numerical Simulation in Python", "duration": null, "description": "Implementation of a Numerical Simulation in Python\n\nPresented by Jeffrey B. Armstrong\n\nThe Python programming language is well suited for numerical computation under\na variety of circumstances. Python offers advantages over competing free and\ncommercial technologies, including price, functionality, and maintainability.\nSpecifically, the combination of mature numerical libraries and liberal\nlicensing allow complex simulations to be coded with ease and to be made\navailable to nearly all interested parties. !NumPy/!SciPy, database access,\nnetworking, and optimization techniques are examined in detail with respect to\nnumerical computation. A practical example involving an aerothermal commercial\nturbofan aircraft engine simulation showcases these advantages. An aircraft\nengine is broken down into discrete stages, including compressors, turbines,\nand other flow-related components. Commonalities between components, such as\nrotation and the presence of inlet and exit conditions, map cleanly to the\nobject-oriented nature of Python. Based on simulation needs and hardware\navailability, Python allows for the parallel computation of simulations\nwithout the expense and complexity of commercial parallelization packages.\n\n", "state": 1, "category": "PyOhio 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": "", "summary": "", "video_ogv_url": null, "video_ogv_length": 105404408, "updated": "2014-04-08T20:28:25.831", "id": 515, "related_urls": [], "slug": "pyohio-2010--implementation-of-a-numerical-simula", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/515_pyohio-2010-implementation-of-a-numerical-simulation-in-python.flv", "language": "English", "video_ogv_download_only": false, "speakers": ["Jeffrey Armstrong"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyOhio 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Implementation of a Numerical Simulation in Python\n\nPresented by Jeffrey B. Armstrong\n\nThe Python programming language is well suited for numerical computation under\na variety of circumstances. Python offers advantages over competing free and\ncommercial technologies, including price, functionality, and maintainability.\nSpecifically, the combination of mature numerical libraries and liberal\nlicensing allow complex simulations to be coded with ease and to be made\navailable to nearly all interested parties. !NumPy/!SciPy, database access,\nnetworking, and optimization techniques are examined in detail with respect to\nnumerical computation. A practical example involving an aerothermal commercial\nturbofan aircraft engine simulation showcases these advantages. An aircraft\nengine is broken down into discrete stages, including compressors, turbines,\nand other flow-related components. Commonalities between components, such as\nrotation and the presence of inlet and exit conditions, map cleanly to the\nobject-oriented nature of Python. Based on simulation needs and hardware\navailability, Python allows for the parallel computation of simulations\nwithout the expense and complexity of commercial parallelization packages.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 515,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyohio-2010--implementation-of-a-numerical-simula",
+    "source_url": "",
+    "speakers": [
+        "Jeffrey Armstrong"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "database",
+        "networking",
+        "numpy",
+        "optimization",
+        "pyohio",
+        "pyohio2010",
+        "scipy",
+        "simulation"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pyohio-ImplementationOfANumericalSimulationInPython272.png",
+    "title": "PyOhio 2010: Implementation of a Numerical Simulation in Python",
+    "updated": "2014-04-08T20:28:25.831",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/515_pyohio-2010-implementation-of-a-numerical-simulation-in-python.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 105404408,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-LoggingDeMystifiedBasicsToAdvanced968-723.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Logging De-Mystified! Basics to Advanced!", "duration": null, "description": "Walker Hale will explore the standard Python Logging Module and provide a tour\nfrom the basics through intermediate examples, and touch on advanced logging\nstrategies.\n\nDo you write programs that run longer than 5 minutes? Would you like to\nleverage Python's excellent logging system more fully? Even if you don't use\nPython for your long-running processes, you will learn valuable and widely-\napplicable logging techniques.\n\n", "state": 1, "category": "PyTexas 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pytexas-2011/560_logging-de-mystified-basics-to-advanced.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "", "source_url": "", "video_webm_url": null, "summary": "This talk covers the Python Logging Module!\n\n", "video_ogv_url": null, "video_ogv_length": 196329184, "updated": "2014-04-08T20:28:25.574", "id": 560, "related_urls": [], "slug": "logging-de-mystified--basics-to-advanced", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Walker Hale"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyTexas 2011",
+    "copyright_text": "",
+    "description": "Walker Hale will explore the standard Python Logging Module and provide a tour\nfrom the basics through intermediate examples, and touch on advanced logging\nstrategies.\n\nDo you write programs that run longer than 5 minutes? Would you like to\nleverage Python's excellent logging system more fully? Even if you don't use\nPython for your long-running processes, you will learn valuable and widely-\napplicable logging techniques.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 560,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "logging-de-mystified--basics-to-advanced",
+    "source_url": "",
+    "speakers": [
+        "Walker Hale"
+    ],
+    "state": 1,
+    "summary": "This talk covers the Python Logging Module!\n\n",
+    "tags": [],
+    "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-LoggingDeMystifiedBasicsToAdvanced968-723.jpg",
+    "title": "Logging De-Mystified! Basics to Advanced!",
+    "updated": "2014-04-08T20:28:25.574",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pytexas-2011/560_logging-de-mystified-basics-to-advanced.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 196329184,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

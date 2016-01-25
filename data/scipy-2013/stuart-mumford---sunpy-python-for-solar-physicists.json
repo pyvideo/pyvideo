@@ -1,1 +1,41 @@
-{"tags": ["astronomy", "astrophysics", "SunPy"], "thumbnail_url": "http://i1.ytimg.com/vi/bXPPTCkaVu8/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/bXPPTCkaVu8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/bXPPTCkaVu8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:31", "whiteboard": "", "video_flv_length": null, "title": "SunPy - Python for Solar Physicists", "duration": null, "description": "Authors: Mumford, Stuart, University of Sheffield / SunPy\n\nTrack: Astronomy and Astrophysics\n\nModern solar physicists have, at their disposal, an abundance of space and ground based instruments providing a large amount of data to analyse the complex Sun every day. The NASA Solar Dynamics Observatory satellite, for example, collects around 1.2 TB of data every 24 hours which requires extensive reconstruction before it is ready for scientific use. Currently most data processing and analysis for all solar data is done using IDL and the 'SolarSoft' library. SunPy is a project designed to provide a free, open and easy-to-use Python alternative to IDL and SolarSoft.\n\nSunPy provides unified, coordinate-aware data objects for many common solar data types and integrates into these plotting and analysis tools. Providing this base will give the global solar physics community the opportunity to use Python for future data processing and analysis routines. The astronomy and astrophysics community, through the implementation and adoption of AstroPy and pyRAF, have already demonstrated that Python is well suited for the analysis and processing of space science data.\n\nIn this presentation, we give key examples of SunPy's structure and scope, as well as the major improvements that have taken place to provide a stable base for future expansion. We discuss recent improvements to file I/O and visualisation, as well as improvements to the structure and interface of the map objects.\n\nWe discuss the many challenges which SunPy faces if it is to achieve its goal of becoming a key package for solar physics. The SunPy developers hope to increase the the visibility and uptake of SunPy, and encourage people to contribute to the project, while maintaining a high quality code base, which is facilitated by the use of a social version control system (git and GitHub).", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-01", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=bXPPTCkaVu8", "video_webm_url": null, "summary": "SunPy is a project designed to provide a free, open and easy-to-use Python alternative to IDL and SolarSoft. SunPy provides unified, coordinate-aware data objects for many common solar data types and integrates into these plotting and analysis tools.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.447", "id": 1964, "related_urls": [], "slug": "sunpy-python-for-solar-physicists-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Stuart Mumford"]}
+{
+    "added": "2013-07-04T10:08:31",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "Authors: Mumford, Stuart, University of Sheffield / SunPy\n\nTrack: Astronomy and Astrophysics\n\nModern solar physicists have, at their disposal, an abundance of space and ground based instruments providing a large amount of data to analyse the complex Sun every day. The NASA Solar Dynamics Observatory satellite, for example, collects around 1.2 TB of data every 24 hours which requires extensive reconstruction before it is ready for scientific use. Currently most data processing and analysis for all solar data is done using IDL and the 'SolarSoft' library. SunPy is a project designed to provide a free, open and easy-to-use Python alternative to IDL and SolarSoft.\n\nSunPy provides unified, coordinate-aware data objects for many common solar data types and integrates into these plotting and analysis tools. Providing this base will give the global solar physics community the opportunity to use Python for future data processing and analysis routines. The astronomy and astrophysics community, through the implementation and adoption of AstroPy and pyRAF, have already demonstrated that Python is well suited for the analysis and processing of space science data.\n\nIn this presentation, we give key examples of SunPy's structure and scope, as well as the major improvements that have taken place to provide a stable base for future expansion. We discuss recent improvements to file I/O and visualisation, as well as improvements to the structure and interface of the map objects.\n\nWe discuss the many challenges which SunPy faces if it is to achieve its goal of becoming a key package for solar physics. The SunPy developers hope to increase the the visibility and uptake of SunPy, and encourage people to contribute to the project, while maintaining a high quality code base, which is facilitated by the use of a social version control system (git and GitHub).",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/bXPPTCkaVu8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/bXPPTCkaVu8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1964,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-01",
+    "related_urls": [],
+    "slug": "sunpy-python-for-solar-physicists-0",
+    "source_url": "http://www.youtube.com/watch?v=bXPPTCkaVu8",
+    "speakers": [
+        "Stuart Mumford"
+    ],
+    "state": 1,
+    "summary": "SunPy is a project designed to provide a free, open and easy-to-use Python alternative to IDL and SolarSoft. SunPy provides unified, coordinate-aware data objects for many common solar data types and integrates into these plotting and analysis tools.",
+    "tags": [
+        "astronomy",
+        "astrophysics",
+        "SunPy"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/bXPPTCkaVu8/hqdefault.jpg",
+    "title": "SunPy - Python for Solar Physicists",
+    "updated": "2014-04-08T20:28:26.447",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

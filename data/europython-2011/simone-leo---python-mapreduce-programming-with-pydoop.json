@@ -1,1 +1,45 @@
-{"tags": ["api", "cpython", "distributed", "hadoop", "jython", "mapreduce", "tutorial"], "thumbnail_url": "http://i.ytimg.com/vi/IyXOP7SJqKQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/IyXOP7SJqKQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/IyXOP7SJqKQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:33", "whiteboard": "", "video_flv_length": null, "title": "Python MapReduce Programming with Pydoop", "duration": null, "description": "Hadoop is the leading open source implementation of MapReduce, Google's large\nscale distributed computing paradigm. Hadoop's native API is in Java, and its\nbuilt-in options for Python programming - Streaming and Jython - have several\ndrawbacks: the former allows to access only a small subset of Hadoop's\nfeatures, while the latter carries with it all of the limitations of Jython\nwith respect to CPython.\n\n[Pydoop](http://pydoop.sourceforge.net) is an API for Hadoop that makes most\nof its features available to Python programmers while allowing CPython\ndevelopment. Its core consists of Boost.Python wrappers for Hadoop's C/C++\ninterface.\n\nThe talk consists of a MapReduce/Hadoop tutorial and a presentation of the\nPydoop API, with the main goal of bridging the gap between the Hadoop and\nPython communities. A basic knowledge of distributed programming is helpful\nbut not strictly required.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-13", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=IyXOP7SJqKQ", "video_webm_url": null, "summary": "[EuroPython 2011] Simone Leo - 24 June 2011 in \"Track Lasagne\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.875", "id": 1109, "related_urls": [], "slug": "python-mapreduce-programming-with-pydoop", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Simone Leo"]}
+{
+    "added": "2012-08-30T21:02:33",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "Hadoop is the leading open source implementation of MapReduce, Google's large\nscale distributed computing paradigm. Hadoop's native API is in Java, and its\nbuilt-in options for Python programming - Streaming and Jython - have several\ndrawbacks: the former allows to access only a small subset of Hadoop's\nfeatures, while the latter carries with it all of the limitations of Jython\nwith respect to CPython.\n\n[Pydoop](http://pydoop.sourceforge.net) is an API for Hadoop that makes most\nof its features available to Python programmers while allowing CPython\ndevelopment. Its core consists of Boost.Python wrappers for Hadoop's C/C++\ninterface.\n\nThe talk consists of a MapReduce/Hadoop tutorial and a presentation of the\nPydoop API, with the main goal of bridging the gap between the Hadoop and\nPython communities. A basic knowledge of distributed programming is helpful\nbut not strictly required.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/IyXOP7SJqKQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/IyXOP7SJqKQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1109,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-13",
+    "related_urls": [],
+    "slug": "python-mapreduce-programming-with-pydoop",
+    "source_url": "http://www.youtube.com/watch?v=IyXOP7SJqKQ",
+    "speakers": [
+        "Simone Leo"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Simone Leo - 24 June 2011 in \"Track Lasagne\"\n\n",
+    "tags": [
+        "api",
+        "cpython",
+        "distributed",
+        "hadoop",
+        "jython",
+        "mapreduce",
+        "tutorial"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/IyXOP7SJqKQ/hqdefault.jpg",
+    "title": "Python MapReduce Programming with Pydoop",
+    "updated": "2014-04-08T20:28:27.875",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

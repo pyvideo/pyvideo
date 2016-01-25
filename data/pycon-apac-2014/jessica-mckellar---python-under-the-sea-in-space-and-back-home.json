@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/eGwSC6UnYTg/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/eGwSC6UnYTg' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2014-10-26T00:13:24.772", "whiteboard": "", "video_flv_length": null, "title": "Python: under the sea, in space, and back home", "duration": null, "description": "About the speaker\r\n\r\nJessica McKellar is an entrepreneur, software engineer, and open source developer from Cambridge, Massachusetts, USA. She is a Director for the Python Software Foundation and an organizer for the largest Python user group in the world. With that group she runs the Boston Python Workshop -- an introductory programming pipeline that has brought hundreds of women into the local Python community and is being replicated in cities across the US. Jessica is a veteran open source contributor and a maintainer for several open source projects, including OpenHatch and the Twisted event-driven networking engine; she wrote a chapter on Twisted for The Architecture of Open Source Applications Volume II and the second edition of O\u2019Reilly\u2019s Twisted Networking Essentials.\r\n\r\nIn a PyCon US 2014 keynote, Jessica McKellar outlined the programming-education problem that exists in US high schools, but she also highlighted some steps the community could take to help fix it. Besides, the Python Software Foundation is ready to help, including looking to fund grant proposals for Python-education-related projects. Here's her challenge for the community: by next year's PyCon, we would like to see every folk does one thing to further the cause of the next generation of Python programmers.", "state": 1, "category": "PyCon APAC 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-08-07", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=eGwSC6UnYTg", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-10-26T16:41:09.845", "id": 3272, "related_urls": [], "slug": "python-under-the-sea-in-space-and-back-home-p", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Jessica McKellar"]}
+{
+    "added": "2014-10-26T00:13:24.772",
+    "category": "PyCon APAC 2014",
+    "copyright_text": "creativeCommon",
+    "description": "About the speaker\r\n\r\nJessica McKellar is an entrepreneur, software engineer, and open source developer from Cambridge, Massachusetts, USA. She is a Director for the Python Software Foundation and an organizer for the largest Python user group in the world. With that group she runs the Boston Python Workshop -- an introductory programming pipeline that has brought hundreds of women into the local Python community and is being replicated in cities across the US. Jessica is a veteran open source contributor and a maintainer for several open source projects, including OpenHatch and the Twisted event-driven networking engine; she wrote a chapter on Twisted for The Architecture of Open Source Applications Volume II and the second edition of O\u2019Reilly\u2019s Twisted Networking Essentials.\r\n\r\nIn a PyCon US 2014 keynote, Jessica McKellar outlined the programming-education problem that exists in US high schools, but she also highlighted some steps the community could take to help fix it. Besides, the Python Software Foundation is ready to help, including looking to fund grant proposals for Python-education-related projects. Here's her challenge for the community: by next year's PyCon, we would like to see every folk does one thing to further the cause of the next generation of Python programmers.",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/eGwSC6UnYTg' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3272,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-08-07",
+    "related_urls": [],
+    "slug": "python-under-the-sea-in-space-and-back-home-p",
+    "source_url": "https://www.youtube.com/watch?v=eGwSC6UnYTg",
+    "speakers": [
+        "Jessica McKellar"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/eGwSC6UnYTg/hqdefault.jpg",
+    "title": "Python: under the sea, in space, and back home",
+    "updated": "2014-10-26T16:41:09.845",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

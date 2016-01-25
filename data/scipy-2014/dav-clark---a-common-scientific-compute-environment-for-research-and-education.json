@@ -1,1 +1,53 @@
-{"tags": ["devops", "reproducible research"], "thumbnail_url": "http://i1.ytimg.com/vi/e7jaZ5SFvFk/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/e7jaZ5SFvFk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/e7jaZ5SFvFk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-09T19:24:50.870", "whiteboard": "", "video_flv_length": null, "title": "A Common Scientific Compute Environment for Research and Education", "duration": null, "description": "As the line between developer and researcher becomes ever more blurred, the challenge of sharing your compute environment with students and colleagues becomes ever more complex. Large, private organizations have been grappling with this issue for a while, spawning a great deal of enthusiasm around tools like Docker, Puppet, Vagrant, and Packer. And let\u2019s not forget notable python-based upstarts, Ansible and Salt! These tools can generate immense enthusiasm, followed by the question, \u201cWhy are we doing this?\u201d\r\n\r\nThe problem is that researcher / developers can become overwhelmed by the complexity and variety inherent in devops tools - all the while losing sight of the real reason for using these tools: a philosophy of documenting your research compute environments in a reproducible fashion, with a focus on scripting as much as is reasonable.\r\n\r\nAt UC Berkeley, members of the D-Lab, the Statistical Compute Facility, Computer Science and Research IT have organized a project to develop the Berkeley Common Environment (BCE). I\u2019ll provide an overview of the challenges we\u2019ve tackled in both educational and research contexts, and the needs served by the above-mentioned devops tools. In the end, I argue that a coherent, easy-to-understand philosophy around scientific compute environments is fundamental - the tools are just a way to make your collaboration architecture a little easier for the people building these environments a few times a year. What we should focus on, though, is end-user experience and research community buy-in.", "state": 1, "category": "SciPy 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-09", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=e7jaZ5SFvFk", "video_webm_url": "", "summary": "I provide an overview of the challenges we\u2019ve tackled at UC Berkeley deploying scientific compute environments in both educational and research contexts. After a discussion of how these needs can be served by devops tools like Docker and Ansible, I argue that a coherent, easy-to-understand philosophy around reproducible compute environments is fundamental.\r\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-07-30T13:04:54.962", "id": 2718, "related_urls": [{"url": "https://berkeley.app.box.com/s/m80jxh3fabbvu93otreh", "description": "slides"}, {"url": "https://berkeley.app.box.com/s/w424gdjot3tgksidyyfl", "description": "proceedings draft"}, {"url": "http://collaboratool.berkeley.edu/", "description": "project page"}], "slug": "a-common-scientific-compute-environment-for-resea", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Dav Clark"]}
+{
+    "added": "2014-07-09T19:24:50.870",
+    "category": "SciPy 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "As the line between developer and researcher becomes ever more blurred, the challenge of sharing your compute environment with students and colleagues becomes ever more complex. Large, private organizations have been grappling with this issue for a while, spawning a great deal of enthusiasm around tools like Docker, Puppet, Vagrant, and Packer. And let\u2019s not forget notable python-based upstarts, Ansible and Salt! These tools can generate immense enthusiasm, followed by the question, \u201cWhy are we doing this?\u201d\r\n\r\nThe problem is that researcher / developers can become overwhelmed by the complexity and variety inherent in devops tools - all the while losing sight of the real reason for using these tools: a philosophy of documenting your research compute environments in a reproducible fashion, with a focus on scripting as much as is reasonable.\r\n\r\nAt UC Berkeley, members of the D-Lab, the Statistical Compute Facility, Computer Science and Research IT have organized a project to develop the Berkeley Common Environment (BCE). I\u2019ll provide an overview of the challenges we\u2019ve tackled in both educational and research contexts, and the needs served by the above-mentioned devops tools. In the end, I argue that a coherent, easy-to-understand philosophy around scientific compute environments is fundamental - the tools are just a way to make your collaboration architecture a little easier for the people building these environments a few times a year. What we should focus on, though, is end-user experience and research community buy-in.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/e7jaZ5SFvFk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/e7jaZ5SFvFk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2718,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-09",
+    "related_urls": [
+        {
+            "description": "slides",
+            "url": "https://berkeley.app.box.com/s/m80jxh3fabbvu93otreh"
+        },
+        {
+            "description": "proceedings draft",
+            "url": "https://berkeley.app.box.com/s/w424gdjot3tgksidyyfl"
+        },
+        {
+            "description": "project page",
+            "url": "http://collaboratool.berkeley.edu/"
+        }
+    ],
+    "slug": "a-common-scientific-compute-environment-for-resea",
+    "source_url": "http://www.youtube.com/watch?v=e7jaZ5SFvFk",
+    "speakers": [
+        "Dav Clark"
+    ],
+    "state": 1,
+    "summary": "I provide an overview of the challenges we\u2019ve tackled at UC Berkeley deploying scientific compute environments in both educational and research contexts. After a discussion of how these needs can be served by devops tools like Docker and Ansible, I argue that a coherent, easy-to-understand philosophy around reproducible compute environments is fundamental.\r\n",
+    "tags": [
+        "devops",
+        "reproducible research"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/e7jaZ5SFvFk/hqdefault.jpg",
+    "title": "A Common Scientific Compute Environment for Research and Education",
+    "updated": "2014-07-30T13:04:54.962",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

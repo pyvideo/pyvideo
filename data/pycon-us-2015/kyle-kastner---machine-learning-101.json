@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/r-1XJBHot58/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/r-1XJBHot58' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:13.403", "whiteboard": "needs editing", "video_flv_length": null, "title": "Machine Learning 101", "duration": null, "description": "Machine learning is a crucial part of modern software development. Libraries like pandas, scikit-learn, gensim, and Theano help developers build projects that were previously impossible, and these applications empower our users and can make fundamental improvements in daily life. This talk will show you the why, what, and how of machine learning in Python.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-11", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=r-1XJBHot58", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:13.403", "id": 3498, "related_urls": [], "slug": "machine-learning-101", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Kyle Kastner"]}
+{
+    "added": "2015-04-16T14:22:13.403",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Machine learning is a crucial part of modern software development. Libraries like pandas, scikit-learn, gensim, and Theano help developers build projects that were previously impossible, and these applications empower our users and can make fundamental improvements in daily life. This talk will show you the why, what, and how of machine learning in Python.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/r-1XJBHot58' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3498,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-11",
+    "related_urls": [],
+    "slug": "machine-learning-101",
+    "source_url": "https://www.youtube.com/watch?v=r-1XJBHot58",
+    "speakers": [
+        "Kyle Kastner"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/r-1XJBHot58/hqdefault.jpg",
+    "title": "Machine Learning 101",
+    "updated": "2015-04-16T14:22:13.403",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

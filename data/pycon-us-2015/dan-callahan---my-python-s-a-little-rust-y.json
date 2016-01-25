@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/3CwJ0MH-4MA/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/3CwJ0MH-4MA' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:02.788", "whiteboard": "needs editing", "video_flv_length": null, "title": "My Python's a little Rust-y", "duration": null, "description": "Rust is a new systems programming language from Mozilla that combines strong compile-time correctness guarantees with fast performance... and it plays nice with ctypes! Come learn how you can call Rust functions from Python code and finally say goodbye to hacking C!\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-11", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=3CwJ0MH-4MA", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:02.788", "id": 3390, "related_urls": [], "slug": "my-pythons-a-little-rust-y", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Dan Callahan"]}
+{
+    "added": "2015-04-16T14:22:02.788",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Rust is a new systems programming language from Mozilla that combines strong compile-time correctness guarantees with fast performance... and it plays nice with ctypes! Come learn how you can call Rust functions from Python code and finally say goodbye to hacking C!\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/3CwJ0MH-4MA' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3390,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-11",
+    "related_urls": [],
+    "slug": "my-pythons-a-little-rust-y",
+    "source_url": "https://www.youtube.com/watch?v=3CwJ0MH-4MA",
+    "speakers": [
+        "Dan Callahan"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/3CwJ0MH-4MA/hqdefault.jpg",
+    "title": "My Python's a little Rust-y",
+    "updated": "2015-04-16T14:22:02.788",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

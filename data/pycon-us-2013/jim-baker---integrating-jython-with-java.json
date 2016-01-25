@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i1.ytimg.com/vi/LAWM0hALtAg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/LAWM0hALtAg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/LAWM0hALtAg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:56:47", "whiteboard": "", "video_flv_length": null, "title": "Integrating Jython with Java", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Integrating_Jython_with_Java.mp4?Signature=jIH0w7c3F7gGNuSF5f40ZT%2FSEdY%3D&Expires=1363812490&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-16", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=LAWM0hALtAg", "video_webm_url": "", "summary": "Jython provides a nearly seamless integration when using Java\r\ncode. Using Jython from Java is not nearly as seamless, at least not\r\nyet. There are also several choices, depending on what you're doing,\r\nfrom object factories to using Java Scripting (JSR-223) support. This\r\ntalk will discuss techniques, gotchas, and ongoing work to improve integration.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.644", "id": 1794, "related_urls": [], "slug": "integrating-jython-with-java", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Jim Baker"]}
+{
+    "added": "2013-03-13T18:56:47",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/LAWM0hALtAg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/LAWM0hALtAg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1794,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-16",
+    "related_urls": [],
+    "slug": "integrating-jython-with-java",
+    "source_url": "https://www.youtube.com/watch?v=LAWM0hALtAg",
+    "speakers": [
+        "Jim Baker"
+    ],
+    "state": 1,
+    "summary": "Jython provides a nearly seamless integration when using Java\r\ncode. Using Jython from Java is not nearly as seamless, at least not\r\nyet. There are also several choices, depending on what you're doing,\r\nfrom object factories to using Java Scripting (JSR-223) support. This\r\ntalk will discuss techniques, gotchas, and ongoing work to improve integration.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/LAWM0hALtAg/hqdefault.jpg",
+    "title": "Integrating Jython with Java",
+    "updated": "2014-04-08T20:28:26.644",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Integrating_Jython_with_Java.mp4?Signature=jIH0w7c3F7gGNuSF5f40ZT%2FSEdY%3D&Expires=1363812490&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

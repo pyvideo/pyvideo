@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "https://i.ytimg.com/vi/ri7uGmjRp0M/hqdefault.jpg", "embed": "", "added": "2015-07-22T20:49:30.722", "whiteboard": "", "video_flv_length": null, "title": "Typing better and potentially faster with python", "duration": 2772, "description": "We'll explore areas outside QWERTY keyboard layout most of us are born into.  And we'll build tools to help us expand that (layout) universe and understand it better using python. We'll go over my history of creating and using my custom keyboard layout (dvorak variant), how I designed and improved it over time, and how I confidently know it's better for me.", "state": 1, "category": "PyOhio 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3693_Typing_better_and_potentially_faster_with_python.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-02", "copyright_text": "CC BY", "source_url": "http://youtu.be/ri7uGmjRp0M", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-04T07:49:09.954", "id": 3693, "related_urls": [], "slug": "typing-better-and-potentially-faster-with-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Jamiel Almeida"]}
+{
+    "added": "2015-07-22T20:49:30.722",
+    "category": "PyOhio 2015",
+    "copyright_text": "CC BY",
+    "description": "We'll explore areas outside QWERTY keyboard layout most of us are born into.  And we'll build tools to help us expand that (layout) universe and understand it better using python. We'll go over my history of creating and using my custom keyboard layout (dvorak variant), how I designed and improved it over time, and how I confidently know it's better for me.",
+    "duration": 2772,
+    "embed": "",
+    "id": 3693,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-02",
+    "related_urls": [],
+    "slug": "typing-better-and-potentially-faster-with-python",
+    "source_url": "http://youtu.be/ri7uGmjRp0M",
+    "speakers": [
+        "Jamiel Almeida"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/ri7uGmjRp0M/hqdefault.jpg",
+    "title": "Typing better and potentially faster with python",
+    "updated": "2015-08-04T07:49:09.954",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3693_Typing_better_and_potentially_faster_with_python.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

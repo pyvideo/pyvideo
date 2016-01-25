@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/l4NLunN0rhQ/hqdefault.jpg", "embed": "", "added": "2015-08-10T15:48:11.552", "whiteboard": "", "video_flv_length": null, "title": "Why doesn\u2019t anyone use my library?", "duration": 1389, "description": "When, why, and how to open source code, and how to get it into real-world use. Lessons learned working on Pydub (audio for humans, a la requests). It's grown to incorporate contributions from around the world, over 1000 stars on GitHub and the nicest API you'll find this side of the DAC.", "state": 1, "category": "PyGotham 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3783_Why_doesnt_anyone_use_my_library.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-15", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/l4NLunN0rhQ", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-28T14:06:17.466", "id": 3783, "related_urls": [], "slug": "why-doesnt-anyone-use-my-library", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["James Robert"]}
+{
+    "added": "2015-08-10T15:48:11.552",
+    "category": "PyGotham 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "When, why, and how to open source code, and how to get it into real-world use. Lessons learned working on Pydub (audio for humans, a la requests). It's grown to incorporate contributions from around the world, over 1000 stars on GitHub and the nicest API you'll find this side of the DAC.",
+    "duration": 1389,
+    "embed": "",
+    "id": 3783,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-15",
+    "related_urls": [],
+    "slug": "why-doesnt-anyone-use-my-library",
+    "source_url": "http://youtu.be/l4NLunN0rhQ",
+    "speakers": [
+        "James Robert"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/l4NLunN0rhQ/hqdefault.jpg",
+    "title": "Why doesn\u2019t anyone use my library?",
+    "updated": "2015-08-28T14:06:17.466",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3783_Why_doesnt_anyone_use_my_library.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

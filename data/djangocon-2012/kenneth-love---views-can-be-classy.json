@@ -1,1 +1,40 @@
-{"tags": ["class-based-views", "django"], "thumbnail_url": "http://i.ytimg.com/vi/yr9HOLipPXc/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/yr9HOLipPXc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/yr9HOLipPXc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-10-08T17:39:50", "whiteboard": "needs editing", "video_flv_length": null, "title": "Views can be Classy!", "duration": null, "description": "It seems like most people in the Django community either don't have any idea\nhow class-based views work or are scared to try them out. I want to help with\na solid introduction to the technology.\n\n  * The usual \"who I am\" bit.\n  * Most other things in Django are classes.\n  *     * models\n  *     * forms\n  *     * even templates\n  * Views should be classes, too.\n  * What view classes are provided by Django.\n  * How to create your own mixins to clean up pain points\n  * Where function-based views are still handy.\n  * Example CBVs for common use cases\n  *     * handling form input for more than one form\n  *     * serving different content based on users\n\n", "state": 1, "category": "DjangoCon 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-09-04", "copyright_text": "Creative Commons Attribution license (reuse allowed", "source_url": "http://www.youtube.com/watch?v=yr9HOLipPXc", "video_webm_url": null, "summary": "An overview of what class-based views (CBVs) are, which ones are available,\nand how to use them in your projects. I'll also cover creating mixins, where\nfunction-based views still make sense, and how to test CBVs. As part of this,\nI'll be covering my django-braces (https://crate.io/packages/django-braces/)\npackage.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.012", "id": 1397, "related_urls": [], "slug": "views-can-be-classy", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Kenneth Love"]}
+{
+    "added": "2012-10-08T17:39:50",
+    "category": "DjangoCon 2012",
+    "copyright_text": "Creative Commons Attribution license (reuse allowed",
+    "description": "It seems like most people in the Django community either don't have any idea\nhow class-based views work or are scared to try them out. I want to help with\na solid introduction to the technology.\n\n  * The usual \"who I am\" bit.\n  * Most other things in Django are classes.\n  *     * models\n  *     * forms\n  *     * even templates\n  * Views should be classes, too.\n  * What view classes are provided by Django.\n  * How to create your own mixins to clean up pain points\n  * Where function-based views are still handy.\n  * Example CBVs for common use cases\n  *     * handling form input for more than one form\n  *     * serving different content based on users\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/yr9HOLipPXc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/yr9HOLipPXc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1397,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-09-04",
+    "related_urls": [],
+    "slug": "views-can-be-classy",
+    "source_url": "http://www.youtube.com/watch?v=yr9HOLipPXc",
+    "speakers": [
+        "Kenneth Love"
+    ],
+    "state": 1,
+    "summary": "An overview of what class-based views (CBVs) are, which ones are available,\nand how to use them in your projects. I'll also cover creating mixins, where\nfunction-based views still make sense, and how to test CBVs. As part of this,\nI'll be covering my django-braces (https://crate.io/packages/django-braces/)\npackage.\n\n",
+    "tags": [
+        "class-based-views",
+        "django"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/yr9HOLipPXc/hqdefault.jpg",
+    "title": "Views can be Classy!",
+    "updated": "2014-04-08T20:28:27.012",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

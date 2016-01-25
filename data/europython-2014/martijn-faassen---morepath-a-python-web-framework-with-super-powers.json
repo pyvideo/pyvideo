@@ -1,1 +1,42 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/gyDKMAWPyuY/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/gyDKMAWPyuY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/gyDKMAWPyuY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:26.947", "whiteboard": "", "video_flv_length": null, "title": "Morepath: a Python Web Framework with Super Powers", "duration": null, "description": "[Morepath](http://morepath.readthedocs.org) is a new server web\r\nframework written with modern, rich client web development in mind.\r\n\r\nIn the talk I will be discussing some core features of Morepath that\r\nmake it different:\r\n\r\n* Its different take on routing and linking. Morepath has support\r\n  to help you construct hyperlinks to models.\r\n* Its view system: plain views, generic views, view composition.\r\n* Morepath's approach to application construction allows application extension and overriding, and composition.\r\n\r\nThis talk will attempt to convince people to try Morepath. For those\r\nunable or unwilling to try, I will communicate some design principles\r\nbehind Morepath which can be of help to any web developer.", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-24", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=gyDKMAWPyuY", "video_webm_url": "", "summary": "[Morepath](http://morepath.readthedocs.org) is a server web framework written with modern, rich client web development in mind. Why another new Python web framework in 2014? \r\n\r\nBecause it can be done better: Morepath understands how to construct hyperlinks from models. Writing a generic view in Morepath is like writing any other view. With Morepath, you can reuse, extend and override apps as easily as you can construct them.\r\n\r\nEven if you don't end up using Morepath, you will learn something about how the nature of web frameworks.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-07-31T01:35:12.208", "id": 2966, "related_urls": [{"url": "http://morepath.readthedocs.org/", "description": ""}], "slug": "morepath-a-python-web-framework-with-super-power", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Martijn Faassen"]}
+{
+    "added": "2014-07-31T00:46:26.947",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "[Morepath](http://morepath.readthedocs.org) is a new server web\r\nframework written with modern, rich client web development in mind.\r\n\r\nIn the talk I will be discussing some core features of Morepath that\r\nmake it different:\r\n\r\n* Its different take on routing and linking. Morepath has support\r\n  to help you construct hyperlinks to models.\r\n* Its view system: plain views, generic views, view composition.\r\n* Morepath's approach to application construction allows application extension and overriding, and composition.\r\n\r\nThis talk will attempt to convince people to try Morepath. For those\r\nunable or unwilling to try, I will communicate some design principles\r\nbehind Morepath which can be of help to any web developer.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/gyDKMAWPyuY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/gyDKMAWPyuY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2966,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-24",
+    "related_urls": [
+        {
+            "description": "",
+            "url": "http://morepath.readthedocs.org/"
+        }
+    ],
+    "slug": "morepath-a-python-web-framework-with-super-power",
+    "source_url": "http://www.youtube.com/watch?v=gyDKMAWPyuY",
+    "speakers": [
+        "Martijn Faassen"
+    ],
+    "state": 1,
+    "summary": "[Morepath](http://morepath.readthedocs.org) is a server web framework written with modern, rich client web development in mind. Why another new Python web framework in 2014? \r\n\r\nBecause it can be done better: Morepath understands how to construct hyperlinks from models. Writing a generic view in Morepath is like writing any other view. With Morepath, you can reuse, extend and override apps as easily as you can construct them.\r\n\r\nEven if you don't end up using Morepath, you will learn something about how the nature of web frameworks.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/gyDKMAWPyuY/hqdefault.jpg",
+    "title": "Morepath: a Python Web Framework with Super Powers",
+    "updated": "2014-07-31T01:35:12.208",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

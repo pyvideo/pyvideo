@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/ddpRjHHPQrE/hqdefault.jpg", "embed": "", "added": "2015-08-10T15:48:33.997", "whiteboard": "", "video_flv_length": null, "title": "Scaling Graph Computations with Online Algorithms", "duration": 2842, "description": "There are a lot of ways to represent graphs, and a lot of interfaces and techniques for scaling them. We'll address how you might scale arbitrary operations on graphs by implementing a data stream that allows you to do your computations online.", "state": 1, "category": "PyGotham 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3801_Scaling_Graph_Computations_with_Online_Algorithms.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-15", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/ddpRjHHPQrE", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-16T15:14:15.771", "id": 3801, "related_urls": [], "slug": "scaling-graph-computations-with-online-algorithms", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Andrew Kelleher"]}
+{
+    "added": "2015-08-10T15:48:33.997",
+    "category": "PyGotham 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "There are a lot of ways to represent graphs, and a lot of interfaces and techniques for scaling them. We'll address how you might scale arbitrary operations on graphs by implementing a data stream that allows you to do your computations online.",
+    "duration": 2842,
+    "embed": "",
+    "id": 3801,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-15",
+    "related_urls": [],
+    "slug": "scaling-graph-computations-with-online-algorithms",
+    "source_url": "http://youtu.be/ddpRjHHPQrE",
+    "speakers": [
+        "Andrew Kelleher"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/ddpRjHHPQrE/hqdefault.jpg",
+    "title": "Scaling Graph Computations with Online Algorithms",
+    "updated": "2015-08-16T15:14:15.771",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3801_Scaling_Graph_Computations_with_Online_Algorithms.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

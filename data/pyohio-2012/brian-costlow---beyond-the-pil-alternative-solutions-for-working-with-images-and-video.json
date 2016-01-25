@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i3.ytimg.com/vi/ZTjiDStstmc/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/ZTjiDStstmc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/ZTjiDStstmc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-10-01T13:14:22", "whiteboard": "", "video_flv_length": null, "title": "Beyond the PIL: alternative solutions for working with images and video.", "duration": null, "description": "", "state": 1, "category": "PyOhio 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Beyond_the_PIL_alternative_solutions_for_working_with_images_and_video.mp4?Signature=UtYD0nS8vx66QeU8T%2FJEUvbqv04%3D&Expires=1346593691&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-29", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=ZTjiDStstmc", "video_webm_url": "", "summary": "The Python Imaging Library is the go-to when you need to deal with images in\nPython. But sometimes it falls short. Some formats (PDF) are write-only. Some\nimplementations (TIFF reading) are slow, or limited (TIFF writing). And what\ndo you do about video data? This talk explores some alternative options,\nlooking at strategies for using GraphicsMagick, ImageMagick, and ffmpeg from\nPython.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.056", "id": 1375, "related_urls": [], "slug": "beyond-the-pil-alternative-solutions-for-working", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Brian Costlow"]}
+{
+    "added": "2012-10-01T13:14:22",
+    "category": "PyOhio 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/ZTjiDStstmc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/ZTjiDStstmc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1375,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-07-29",
+    "related_urls": [],
+    "slug": "beyond-the-pil-alternative-solutions-for-working",
+    "source_url": "https://www.youtube.com/watch?v=ZTjiDStstmc",
+    "speakers": [
+        "Brian Costlow"
+    ],
+    "state": 1,
+    "summary": "The Python Imaging Library is the go-to when you need to deal with images in\nPython. But sometimes it falls short. Some formats (PDF) are write-only. Some\nimplementations (TIFF reading) are slow, or limited (TIFF writing). And what\ndo you do about video data? This talk explores some alternative options,\nlooking at strategies for using GraphicsMagick, ImageMagick, and ffmpeg from\nPython.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i3.ytimg.com/vi/ZTjiDStstmc/hqdefault.jpg",
+    "title": "Beyond the PIL: alternative solutions for working with images and video.",
+    "updated": "2014-04-08T20:28:27.056",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Beyond_the_PIL_alternative_solutions_for_working_with_images_and_video.mp4?Signature=UtYD0nS8vx66QeU8T%2FJEUvbqv04%3D&Expires=1346593691&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

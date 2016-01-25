@@ -1,1 +1,42 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/UKY3scPIMd8/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/UKY3scPIMd8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/UKY3scPIMd8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2015-05-27T13:53:25.938", "whiteboard": "", "video_flv_length": null, "title": "Eight years of web2py", "duration": 2886, "description": "This is a compressed tutorial about web2py taking an historical prospective, going from its older features to some of the most recent ones. No previous experience required.", "state": 1, "category": "DePy 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/depy-2015/3547_Eight_years_of_web2py.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-30", "copyright_text": "", "source_url": "http://youtu.be/FaaltEB_v0s", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2015-06-01T13:25:05.756", "id": 3547, "related_urls": [{"url": "https://github.com/mdipierro/depy2015-cats", "description": ""}], "slug": "eight-years-of-web2py", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Massimo Di Pierro"]}
+{
+    "added": "2015-05-27T13:53:25.938",
+    "category": "DePy 2015",
+    "copyright_text": "",
+    "description": "This is a compressed tutorial about web2py taking an historical prospective, going from its older features to some of the most recent ones. No previous experience required.",
+    "duration": 2886,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/UKY3scPIMd8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/UKY3scPIMd8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3547,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-05-30",
+    "related_urls": [
+        {
+            "description": "",
+            "url": "https://github.com/mdipierro/depy2015-cats"
+        }
+    ],
+    "slug": "eight-years-of-web2py",
+    "source_url": "http://youtu.be/FaaltEB_v0s",
+    "speakers": [
+        "Massimo Di Pierro"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/UKY3scPIMd8/hqdefault.jpg",
+    "title": "Eight years of web2py",
+    "updated": "2015-06-01T13:25:05.756",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/depy-2015/3547_Eight_years_of_web2py.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

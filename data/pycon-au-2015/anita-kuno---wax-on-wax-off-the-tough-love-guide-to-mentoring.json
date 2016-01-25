@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/x1rIPW6IYVI/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/x1rIPW6IYVI\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-10-18T16:10:59.157", "whiteboard": "needs editing", "video_flv_length": null, "title": "Wax On, Wax Off: The Tough Love Guide to Mentoring", "duration": null, "description": "Everyone has more bugs than they can fix, more features they would like than time to write them. Wouldn't it be great to have some help? The problem is who knows enough about what you know to actually provide help the way you need?\n\nOpen Source has lots of fans and supporters, but many newcomers need the warmth of a person caring about their existence to actually turn them into a contributor.\n\nSomeone sees you working, is enamoured of what you do and wants to learn. You could break down the steps of what you are doing and get them to follow those steps, that is teaching.\n\nYou could recognize the deep inner understanding the is the foundation of your behaviour. You could decide to help someone build such a foundation for themselves. That is mentoring.\n\nMentoring is helping someone to fail and learn from it. Mentoring is about witnessing someone else's journey, whereever they go, whereever it takes them and saying I'm here, I'm with you, I'm watching. Mentoring is 99% listening.\n\nMentoring is much more time consuming than teaching. Teaching helps someone learn a skill, mentoring helps someone learn themselves.\n\nNow don't get me wrong, teaching is great and we need teachers and to be taught plus many great teachers can also be mentors. Teaching and mentoring are different.\n\nThis talk will discuss mentoring.\n\nWith examples drawn from learning acupuncture, yoga, astrology, pottery, working on film sets, heavy equipment operating as well as code, Anita will endeavour to share what she has learned about mentoring. She hopes you will take away the ability to recognize the difference between teaching and mentoring. She also hopes that should you decide to mentor you have some resources to help you strengthen your mentoring skills.\n\n", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-16", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=x1rIPW6IYVI", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-18T16:10:59.157", "id": 4002, "related_urls": [], "slug": "wax-on-wax-off-the-tough-love-guide-to-mentorin", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Anita Kuno"]}
+{
+    "added": "2015-10-18T16:10:59.157",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Everyone has more bugs than they can fix, more features they would like than time to write them. Wouldn't it be great to have some help? The problem is who knows enough about what you know to actually provide help the way you need?\n\nOpen Source has lots of fans and supporters, but many newcomers need the warmth of a person caring about their existence to actually turn them into a contributor.\n\nSomeone sees you working, is enamoured of what you do and wants to learn. You could break down the steps of what you are doing and get them to follow those steps, that is teaching.\n\nYou could recognize the deep inner understanding the is the foundation of your behaviour. You could decide to help someone build such a foundation for themselves. That is mentoring.\n\nMentoring is helping someone to fail and learn from it. Mentoring is about witnessing someone else's journey, whereever they go, whereever it takes them and saying I'm here, I'm with you, I'm watching. Mentoring is 99% listening.\n\nMentoring is much more time consuming than teaching. Teaching helps someone learn a skill, mentoring helps someone learn themselves.\n\nNow don't get me wrong, teaching is great and we need teachers and to be taught plus many great teachers can also be mentors. Teaching and mentoring are different.\n\nThis talk will discuss mentoring.\n\nWith examples drawn from learning acupuncture, yoga, astrology, pottery, working on film sets, heavy equipment operating as well as code, Anita will endeavour to share what she has learned about mentoring. She hopes you will take away the ability to recognize the difference between teaching and mentoring. She also hopes that should you decide to mentor you have some resources to help you strengthen your mentoring skills.\n\n",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/x1rIPW6IYVI\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 4002,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-16",
+    "related_urls": [],
+    "slug": "wax-on-wax-off-the-tough-love-guide-to-mentorin",
+    "source_url": "https://www.youtube.com/watch?v=x1rIPW6IYVI",
+    "speakers": [
+        "Anita Kuno"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/x1rIPW6IYVI/hqdefault.jpg",
+    "title": "Wax On, Wax Off: The Tough Love Guide to Mentoring",
+    "updated": "2015-10-18T16:10:59.157",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

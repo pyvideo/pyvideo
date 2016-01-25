@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "https://i.ytimg.com/vi/Bn2OAoi3SPk/hqdefault.jpg", "embed": "", "added": "2015-07-22T20:49:09.150", "whiteboard": "", "video_flv_length": null, "title": "Pandas Dataframes At The Cinema", "duration": 6856, "description": "Using data from the Internet Movie Database, students will use the Pandas data analysis library to search the data and answer questions about it. This will be a more focused version of the tutorial I gave at PyCon this year, with an emphasis on demonstrations that get the students ready to go home and work on the several hours' worth of fun exercises that the full tutorial includes.", "state": 1, "category": "PyOhio 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3674_Pandas_Dataframes_At_The_Cinema.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-01", "copyright_text": "CC BY", "source_url": "http://youtu.be/Bn2OAoi3SPk", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-09-16T22:41:47.339", "id": 3674, "related_urls": [], "slug": "pandas-dataframes-at-the-cinema", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Brandon Rhodes"]}
+{
+    "added": "2015-07-22T20:49:09.150",
+    "category": "PyOhio 2015",
+    "copyright_text": "CC BY",
+    "description": "Using data from the Internet Movie Database, students will use the Pandas data analysis library to search the data and answer questions about it. This will be a more focused version of the tutorial I gave at PyCon this year, with an emphasis on demonstrations that get the students ready to go home and work on the several hours' worth of fun exercises that the full tutorial includes.",
+    "duration": 6856,
+    "embed": "",
+    "id": 3674,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-01",
+    "related_urls": [],
+    "slug": "pandas-dataframes-at-the-cinema",
+    "source_url": "http://youtu.be/Bn2OAoi3SPk",
+    "speakers": [
+        "Brandon Rhodes"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/Bn2OAoi3SPk/hqdefault.jpg",
+    "title": "Pandas Dataframes At The Cinema",
+    "updated": "2015-09-16T22:41:47.339",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3674_Pandas_Dataframes_At_The_Cinema.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

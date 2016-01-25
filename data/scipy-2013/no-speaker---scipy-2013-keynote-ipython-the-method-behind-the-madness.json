@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/j9YpkSX7NNM/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/j9YpkSX7NNM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/j9YpkSX7NNM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:09:00", "whiteboard": "needs editing", "video_flv_length": null, "title": "SciPy 2013 Keynote: IPython: the method behind the madness", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-01", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=j9YpkSX7NNM", "video_webm_url": null, "summary": "Presenter: Fernando Perez\n\nIPython began its life as a personal \"afternoon hack\", but almost 12 years later it has become a large and complex project, where we try to think in a comprehensive and coherent way about many related problems in scientific computing. Despite all the moving parts in IPython, there are actually very few key ideas that drive our vision, and I will discuss how we seek to turn this vision into concrete technical constructs. We focus on making the computer a tool for insight and communication, and we will see how every piece of the IPython architecture is driven by these ideas.\n\nI will also look at IPython in the context of the broader SciPy ecosystem: both how the project's user and developer community has evolved over time, and how it maintains an ongoing dialogue with the rest of this ecosystem. We have learned some important lessons along the way that I hope to share, as well as considering the challenges that lie ahead.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.436", "id": 2136, "related_urls": [], "slug": "scipy-2013-keynote-ipython-the-method-behind-th-1", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:09:00",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/j9YpkSX7NNM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/j9YpkSX7NNM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2136,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-01",
+    "related_urls": [],
+    "slug": "scipy-2013-keynote-ipython-the-method-behind-th-1",
+    "source_url": "http://www.youtube.com/watch?v=j9YpkSX7NNM",
+    "speakers": [],
+    "state": 1,
+    "summary": "Presenter: Fernando Perez\n\nIPython began its life as a personal \"afternoon hack\", but almost 12 years later it has become a large and complex project, where we try to think in a comprehensive and coherent way about many related problems in scientific computing. Despite all the moving parts in IPython, there are actually very few key ideas that drive our vision, and I will discuss how we seek to turn this vision into concrete technical constructs. We focus on making the computer a tool for insight and communication, and we will see how every piece of the IPython architecture is driven by these ideas.\n\nI will also look at IPython in the context of the broader SciPy ecosystem: both how the project's user and developer community has evolved over time, and how it maintains an ongoing dialogue with the rest of this ecosystem. We have learned some important lessons along the way that I hope to share, as well as considering the challenges that lie ahead.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/j9YpkSX7NNM/hqdefault.jpg",
+    "title": "SciPy 2013 Keynote: IPython: the method behind the madness",
+    "updated": "2014-04-08T20:28:26.436",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

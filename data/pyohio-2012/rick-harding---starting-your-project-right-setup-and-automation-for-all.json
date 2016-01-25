@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i3.ytimg.com/vi/VNSIDCwJxAg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/VNSIDCwJxAg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/VNSIDCwJxAg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-10-01T13:13:35", "whiteboard": "", "video_flv_length": null, "title": "Starting your project right: setup and automation for all", "duration": null, "description": "", "state": 1, "category": "PyOhio 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Starting_your_project_right_setup_and_automation_for_all.mp4?Signature=ptYcZSzQz8WO7CbjjVLZXD%2Fo3Vg%3D&Expires=1346554799&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-28", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=VNSIDCwJxAg", "video_webm_url": "", "summary": "Everyone starts hacking on their little Python library or application, with\none goal in mind: Hacking Code! However, you need to do a little work to\nprepare your project for success. We'll discuss project layout, automation\nwith Make, and 3rd party services to help your project appear more organized,\naccessible, and dare I say, professional!\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.087", "id": 1354, "related_urls": [], "slug": "starting-your-project-right-setup-and-automation", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Rick Harding"]}
+{
+    "added": "2012-10-01T13:13:35",
+    "category": "PyOhio 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/VNSIDCwJxAg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/VNSIDCwJxAg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1354,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-07-28",
+    "related_urls": [],
+    "slug": "starting-your-project-right-setup-and-automation",
+    "source_url": "https://www.youtube.com/watch?v=VNSIDCwJxAg",
+    "speakers": [
+        "Rick Harding"
+    ],
+    "state": 1,
+    "summary": "Everyone starts hacking on their little Python library or application, with\none goal in mind: Hacking Code! However, you need to do a little work to\nprepare your project for success. We'll discuss project layout, automation\nwith Make, and 3rd party services to help your project appear more organized,\naccessible, and dare I say, professional!\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i3.ytimg.com/vi/VNSIDCwJxAg/hqdefault.jpg",
+    "title": "Starting your project right: setup and automation for all",
+    "updated": "2014-04-08T20:28:27.087",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Starting_your_project_right_setup_and_automation_for_all.mp4?Signature=ptYcZSzQz8WO7CbjjVLZXD%2Fo3Vg%3D&Expires=1346554799&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,40 @@
-{"tags": ["talk"], "thumbnail_url": "http://i3.ytimg.com/vi/VVvqLrSMtxI/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/VVvqLrSMtxI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/VVvqLrSMtxI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:55:13", "whiteboard": "", "video_flv_length": null, "title": "Designers + Developers: Collaborating on your Python project", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Designers_Developers_Collabora.mp4?Signature=Fbe%2BpefqxiiSxqBH8hcBTLdr6CY%3D&Expires=1363659044&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-16", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=VVvqLrSMtxI", "video_webm_url": "", "summary": "Working in teams is an important part of what we do as developers & designers. Whether it's desktop applications or mobile sites, we work together to create successful end products. But how do we work together in different environments? What is the best work-flow for a mix of skill sets?\r\n\r\nWe'll be talking about our various methods & work-flows that we found successful in working collaboratively.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.637", "id": 1732, "related_urls": [], "slug": "designers-developers-collaborating-on-your-pyt", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Julia Elman", "Mark Lavin"]}
+{
+    "added": "2013-03-13T18:55:13",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/VVvqLrSMtxI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/VVvqLrSMtxI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1732,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-16",
+    "related_urls": [],
+    "slug": "designers-developers-collaborating-on-your-pyt",
+    "source_url": "https://www.youtube.com/watch?v=VVvqLrSMtxI",
+    "speakers": [
+        "Julia Elman",
+        "Mark Lavin"
+    ],
+    "state": 1,
+    "summary": "Working in teams is an important part of what we do as developers & designers. Whether it's desktop applications or mobile sites, we work together to create successful end products. But how do we work together in different environments? What is the best work-flow for a mix of skill sets?\r\n\r\nWe'll be talking about our various methods & work-flows that we found successful in working collaboratively.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i3.ytimg.com/vi/VVvqLrSMtxI/hqdefault.jpg",
+    "title": "Designers + Developers: Collaborating on your Python project",
+    "updated": "2014-04-08T20:28:26.637",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Designers_Developers_Collabora.mp4?Signature=Fbe%2BpefqxiiSxqBH8hcBTLdr6CY%3D&Expires=1363659044&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

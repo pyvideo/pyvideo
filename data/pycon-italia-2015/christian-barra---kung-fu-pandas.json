@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/BcD-EfHYmoc/maxresdefault.jpg", "embed": "", "added": "2015-06-14T17:04:24.890", "whiteboard": "", "video_flv_length": null, "title": "Kung Fu Pandas", "duration": 2786, "description": "Scopo di questo talk \u00e8 di introdurvi nel fantastico mondo del Kung Fu\u2026.con Pandas !\nParliamo di cosa \u00e8 Pandas, a cosa pu\u00f3 servirvi e di come utilizzarlo con alcuni esempi pratici.\nUn potente strumento per gestire ed analizzare i vostri dati !\nPrerequisiti: Conoscenza di Python\nGoals: Utilizzo di Pandas come strumento per elaborare e analizzare dati \n", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-29", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=BcD-EfHYmoc", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-14T17:04:24.890", "id": 3604, "related_urls": [], "slug": "kung-fu-pandas", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "Italian", "video_ogv_download_only": false, "speakers": ["Christian Barra"]}
+{
+    "added": "2015-06-14T17:04:24.890",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "Scopo di questo talk \u00e8 di introdurvi nel fantastico mondo del Kung Fu\u2026.con Pandas !\nParliamo di cosa \u00e8 Pandas, a cosa pu\u00f3 servirvi e di come utilizzarlo con alcuni esempi pratici.\nUn potente strumento per gestire ed analizzare i vostri dati !\nPrerequisiti: Conoscenza di Python\nGoals: Utilizzo di Pandas come strumento per elaborare e analizzare dati \n",
+    "duration": 2786,
+    "embed": "",
+    "id": 3604,
+    "language": "Italian",
+    "quality_notes": "",
+    "recorded": "2015-05-29",
+    "related_urls": [],
+    "slug": "kung-fu-pandas",
+    "source_url": "https://www.youtube.com/watch?v=BcD-EfHYmoc",
+    "speakers": [
+        "Christian Barra"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/BcD-EfHYmoc/maxresdefault.jpg",
+    "title": "Kung Fu Pandas",
+    "updated": "2015-06-14T17:04:24.890",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

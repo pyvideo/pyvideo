@@ -1,1 +1,41 @@
-{"tags": ["architecture", "design", "patterns"], "thumbnail_url": "http://i.ytimg.com/vi/bPJKYrZjq10/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/bPJKYrZjq10?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/bPJKYrZjq10?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:33", "whiteboard": "", "video_flv_length": null, "title": "Python Design Patterns", "duration": null, "description": "A completely misguided meme has long been going around: that Python doesn't\nhave, or need, any Design Patterns. This terrible meme may spring from not\nrealizing what the Gang Of Four state so plainly in their historical \"Design\nPatterns\" book: which design patterns are useful DOES depend on the\nprogramming language one targets - design is NOT independent of\nimplementation, as the epic-fail \"Waterfall\" Methodology Pattern would\nsuggest. What patterns apply to a design, depends to some extent on what\nimplementation technologies will be used to realize that design.\n\nIf you focus on some \"classic DPs\" that are basically workarounds for some\nother language's lack of garbage collection, or for a clumsy static-typing\nsystem, those may indeed be worthless for Python. But many other DPs are\nperfectly useful and applicable, and Python's strengths as a language afford\nriffing on them to develop highly Pythonic, powerful, productive variants.\n\nIn this talk, I analyze some of my favorite pattern families - e.g., Template\nMethod and its variants, Dependency Injection and its ilk, Callback and\nfriends - in a highly Pythonic context. Non-pattern Idioms, and Patterns that\naren't really Design Patterns but rather Architecture or Methodology ones,\nmake cameo appearances.\n\nGoals: remove from your system any residue of the pernicious meme about Python\nnot having or needing design patterns. Prereqs: experience designing and\ndeveloping software; intermediate-level Python knowledge.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-13", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=bPJKYrZjq10", "video_webm_url": null, "summary": "[EuroPython 2011] Alex Martelli - 24 June 2011 in \"Track Spaghetti\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.871", "id": 1110, "related_urls": [], "slug": "python-design-patterns", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Alex Martelli"]}
+{
+    "added": "2012-08-30T21:02:33",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "A completely misguided meme has long been going around: that Python doesn't\nhave, or need, any Design Patterns. This terrible meme may spring from not\nrealizing what the Gang Of Four state so plainly in their historical \"Design\nPatterns\" book: which design patterns are useful DOES depend on the\nprogramming language one targets - design is NOT independent of\nimplementation, as the epic-fail \"Waterfall\" Methodology Pattern would\nsuggest. What patterns apply to a design, depends to some extent on what\nimplementation technologies will be used to realize that design.\n\nIf you focus on some \"classic DPs\" that are basically workarounds for some\nother language's lack of garbage collection, or for a clumsy static-typing\nsystem, those may indeed be worthless for Python. But many other DPs are\nperfectly useful and applicable, and Python's strengths as a language afford\nriffing on them to develop highly Pythonic, powerful, productive variants.\n\nIn this talk, I analyze some of my favorite pattern families - e.g., Template\nMethod and its variants, Dependency Injection and its ilk, Callback and\nfriends - in a highly Pythonic context. Non-pattern Idioms, and Patterns that\naren't really Design Patterns but rather Architecture or Methodology ones,\nmake cameo appearances.\n\nGoals: remove from your system any residue of the pernicious meme about Python\nnot having or needing design patterns. Prereqs: experience designing and\ndeveloping software; intermediate-level Python knowledge.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/bPJKYrZjq10?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/bPJKYrZjq10?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1110,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-13",
+    "related_urls": [],
+    "slug": "python-design-patterns",
+    "source_url": "http://www.youtube.com/watch?v=bPJKYrZjq10",
+    "speakers": [
+        "Alex Martelli"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Alex Martelli - 24 June 2011 in \"Track Spaghetti\"\n\n",
+    "tags": [
+        "architecture",
+        "design",
+        "patterns"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/bPJKYrZjq10/hqdefault.jpg",
+    "title": "Python Design Patterns",
+    "updated": "2014-04-08T20:28:27.871",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,42 @@
-{"tags": ["designpatterns", "pycon", "pycon2010", "python-advanced"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010PowerfulPythonicPatterns186111-668.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Powerful Pythonic Patterns (#186)", "duration": null, "description": "Powerful Pythonic Patterns video\n\nPresented by Alex Martelli\n\nAn extremely misguided meme is going around: that Python doesn't have, or\nneed, any Design Patterns. Maybe the meme springs from not realizing what the\nGang Of Four state so plainly in their historical \"Design Patterns\" book:\nwhich design patterns are useful DOES depend on the programming language one\ntargets -- design is NOT independent of implementation, as the epic-fail\n\"Waterfall\" Methodology Pattern would suggest. If you examine a \"classic DP\"\nthat's basically a workaround for some other language's lack of garbage\ncollection, or for a clumsy static-typing system, it may indeed be worthless\nfor Python. But many other DPs are still perfectly useful and applicable, and\nindeed Python's strengths as a language afford riffing on them to develop\nhighly Pythonic, powerful, productive variants.\n\nIn this talk, I analyze some of my favorite pattern families -- e.g., Template\nMethod and its variants, Dependency Injection and its ilk, Callback and\nfriends -- in a highly Pythonic context. Non-pattern Idioms, and Patterns that\naren't really Design Patterns but rather Architecture or Methodology ones,\nalso make cameo appearances.\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/275_powerful-pythonic-patterns-186.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/275_powerful-pythonic-patterns-186.ogv", "video_ogv_length": null, "updated": "2014-04-08T20:28:28.168", "id": 275, "related_urls": [], "slug": "pycon-2010--powerful-pythonic-patterns---186", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Alex Martelli"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Powerful Pythonic Patterns video\n\nPresented by Alex Martelli\n\nAn extremely misguided meme is going around: that Python doesn't have, or\nneed, any Design Patterns. Maybe the meme springs from not realizing what the\nGang Of Four state so plainly in their historical \"Design Patterns\" book:\nwhich design patterns are useful DOES depend on the programming language one\ntargets -- design is NOT independent of implementation, as the epic-fail\n\"Waterfall\" Methodology Pattern would suggest. If you examine a \"classic DP\"\nthat's basically a workaround for some other language's lack of garbage\ncollection, or for a clumsy static-typing system, it may indeed be worthless\nfor Python. But many other DPs are still perfectly useful and applicable, and\nindeed Python's strengths as a language afford riffing on them to develop\nhighly Pythonic, powerful, productive variants.\n\nIn this talk, I analyze some of my favorite pattern families -- e.g., Template\nMethod and its variants, Dependency Injection and its ilk, Callback and\nfriends -- in a highly Pythonic context. Non-pattern Idioms, and Patterns that\naren't really Design Patterns but rather Architecture or Methodology ones,\nalso make cameo appearances.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 275,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--powerful-pythonic-patterns---186",
+    "source_url": "",
+    "speakers": [
+        "Alex Martelli"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "designpatterns",
+        "pycon",
+        "pycon2010",
+        "python-advanced"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010PowerfulPythonicPatterns186111-668.jpg",
+    "title": "Powerful Pythonic Patterns (#186)",
+    "updated": "2014-04-08T20:28:28.168",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/275_powerful-pythonic-patterns-186.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/275_powerful-pythonic-patterns-186.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

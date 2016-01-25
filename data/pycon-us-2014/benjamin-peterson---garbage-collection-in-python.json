@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/iHVs_HkjdmI/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/iHVs_HkjdmI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/iHVs_HkjdmI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-04-13T21:20:10.655", "whiteboard": "", "video_flv_length": null, "title": "Garbage Collection in Python", "duration": null, "description": "", "state": 1, "category": "PyCon US 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-04-13", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=iHVs_HkjdmI", "video_webm_url": null, "summary": "This talk will explore how garbage collection is implemented in CPython and PyPy. See how CPython deals reference counting's shortcomings with a special GC for cycle collection. Then dive into PyPy's sophisticated and high-performing GC implementations. The particularly thorny issue of finalizers in reference cycles will also be addressed.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-13T21:20:10.655", "id": 2633, "related_urls": [], "slug": "garbage-collection-in-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Benjamin Peterson"]}
+{
+    "added": "2014-04-13T21:20:10.655",
+    "category": "PyCon US 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/iHVs_HkjdmI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/iHVs_HkjdmI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2633,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-04-13",
+    "related_urls": [],
+    "slug": "garbage-collection-in-python",
+    "source_url": "http://www.youtube.com/watch?v=iHVs_HkjdmI",
+    "speakers": [
+        "Benjamin Peterson"
+    ],
+    "state": 1,
+    "summary": "This talk will explore how garbage collection is implemented in CPython and PyPy. See how CPython deals reference counting's shortcomings with a special GC for cycle collection. Then dive into PyPy's sophisticated and high-performing GC implementations. The particularly thorny issue of finalizers in reference cycles will also be addressed.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/iHVs_HkjdmI/hqdefault.jpg",
+    "title": "Garbage Collection in Python",
+    "updated": "2014-04-13T21:20:10.655",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

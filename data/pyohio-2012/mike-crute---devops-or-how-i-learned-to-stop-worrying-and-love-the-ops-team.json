@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i4.ytimg.com/vi/wuxMTBW6CCs/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/wuxMTBW6CCs?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/wuxMTBW6CCs?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-10-01T13:13:42", "whiteboard": "", "video_flv_length": null, "title": "Devops or: How I Learned to Stop Worrying and Love the Ops Team", "duration": null, "description": "", "state": 1, "category": "PyOhio 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Devops_or_How_I_Learned_to_Stop_Worrying_and_Love_the_Ops_Team.mp4?Signature=TsjD3DCOnQGCSAkGIPDwVVW%2FRCM%3D&Expires=1346565365&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-28", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=wuxMTBW6CCs", "video_webm_url": "", "summary": "Communication and a few engineering techniques can help greatly to ease the\nburden on an operations team and make applications easier to deploy, maintain\nand scale. Given from a developer's perspective this talk focuses on some\nengineering techniques that will help to make applications more robust and\nmore operations friendly.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.075", "id": 1357, "related_urls": [], "slug": "devops-or-how-i-learned-to-stop-worrying-and-lov", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Mike Crute"]}
+{
+    "added": "2012-10-01T13:13:42",
+    "category": "PyOhio 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/wuxMTBW6CCs?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/wuxMTBW6CCs?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1357,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-07-28",
+    "related_urls": [],
+    "slug": "devops-or-how-i-learned-to-stop-worrying-and-lov",
+    "source_url": "https://www.youtube.com/watch?v=wuxMTBW6CCs",
+    "speakers": [
+        "Mike Crute"
+    ],
+    "state": 1,
+    "summary": "Communication and a few engineering techniques can help greatly to ease the\nburden on an operations team and make applications easier to deploy, maintain\nand scale. Given from a developer's perspective this talk focuses on some\nengineering techniques that will help to make applications more robust and\nmore operations friendly.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i4.ytimg.com/vi/wuxMTBW6CCs/hqdefault.jpg",
+    "title": "Devops or: How I Learned to Stop Worrying and Love the Ops Team",
+    "updated": "2014-04-08T20:28:27.075",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Devops_or_How_I_Learned_to_Stop_Worrying_and_Love_the_Ops_Team.mp4?Signature=TsjD3DCOnQGCSAkGIPDwVVW%2FRCM%3D&Expires=1346565365&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

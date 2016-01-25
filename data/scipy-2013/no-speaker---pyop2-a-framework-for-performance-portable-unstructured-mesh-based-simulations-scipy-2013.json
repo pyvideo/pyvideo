@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/W0u4vW_eJc4/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/W0u4vW_eJc4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/W0u4vW_eJc4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:59", "whiteboard": "needs editing", "video_flv_length": null, "title": "PyOP2: a Framework for Performance-Portable Unstructured Mesh-based Simulations, SciPy 2013", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-01", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=W0u4vW_eJc4", "video_webm_url": null, "summary": "Authors: Rathgeber, Florian, Imperial College London, UK; Markall, Graham R., Imperial College London, UK; Mi\n\nTrack: General\n\nWe present PyOP2, a high-level domain-specific language embedded in Python for mesh-based simulation codes. Through a simple interface, numerical kernels are efficiently scheduled and executed over unstructured meshes in parallel. Without any code changes required, an application can run on a range of hardware platforms, while implementation details of the parallel execution are abstracted from the programmer. Performance portability is achieved by generating optimized low-level OpenMP, MPI, CUDA or OpenCL code for multi-core CPUs or GPUs at runtime and just-in-time compiling the generated code.\n\nPyOP2 is suitable as an intermediate representation for scientific computations, which we demonstrate with a finite-element tool chain using the domain-specific Unified Form Language UFL and the form compiler FFC from the FEniCS project. Finite-element methods are widely used to approximately solve partial differential equations on unstructured domains. The local assembly operation executes the same kernel for every entity of the mesh and is therefore a natural fit for the PyOP2 computation model. We show how these kernels are generated automatically from the weak form of an equation given in UFL. Global assembly and linear solves are passed through to platform-specific linear algebra backends integrated into PyOP2 through a modular interface. Using this tool chain, scientists can drive finite-element computations from an input notation very close to the mathematical model and transparently benefit from performance-portable parallel execution on their hardware architecture of choice without requiring specialist knowledge in numerical analysis or parallel programming.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.426", "id": 2132, "related_urls": [], "slug": "pyop2-a-framework-for-performance-portable-unstr-1", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:59",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/W0u4vW_eJc4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/W0u4vW_eJc4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2132,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-01",
+    "related_urls": [],
+    "slug": "pyop2-a-framework-for-performance-portable-unstr-1",
+    "source_url": "http://www.youtube.com/watch?v=W0u4vW_eJc4",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Rathgeber, Florian, Imperial College London, UK; Markall, Graham R., Imperial College London, UK; Mi\n\nTrack: General\n\nWe present PyOP2, a high-level domain-specific language embedded in Python for mesh-based simulation codes. Through a simple interface, numerical kernels are efficiently scheduled and executed over unstructured meshes in parallel. Without any code changes required, an application can run on a range of hardware platforms, while implementation details of the parallel execution are abstracted from the programmer. Performance portability is achieved by generating optimized low-level OpenMP, MPI, CUDA or OpenCL code for multi-core CPUs or GPUs at runtime and just-in-time compiling the generated code.\n\nPyOP2 is suitable as an intermediate representation for scientific computations, which we demonstrate with a finite-element tool chain using the domain-specific Unified Form Language UFL and the form compiler FFC from the FEniCS project. Finite-element methods are widely used to approximately solve partial differential equations on unstructured domains. The local assembly operation executes the same kernel for every entity of the mesh and is therefore a natural fit for the PyOP2 computation model. We show how these kernels are generated automatically from the weak form of an equation given in UFL. Global assembly and linear solves are passed through to platform-specific linear algebra backends integrated into PyOP2 through a modular interface. Using this tool chain, scientists can drive finite-element computations from an input notation very close to the mathematical model and transparently benefit from performance-portable parallel execution on their hardware architecture of choice without requiring specialist knowledge in numerical analysis or parallel programming.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/W0u4vW_eJc4/hqdefault.jpg",
+    "title": "PyOP2: a Framework for Performance-Portable Unstructured Mesh-based Simulations, SciPy 2013",
+    "updated": "2014-04-08T20:28:26.426",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

@@ -1,1 +1,39 @@
-{"tags": ["hpc"], "thumbnail_url": "http://i3.ytimg.com/vi/FN1nH4Fkd_Y/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/FN1nH4Fkd_Y?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/FN1nH4Fkd_Y?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-31T16:34:40", "whiteboard": "", "video_flv_length": null, "title": "PySAL: A Python Library for Exploratory Spatial Data Analysis and Geocomputation", "duration": null, "description": "This talk presents an overview and update of PySAL. PySAL is designed to\nsupport the development of high level applications in exploratory spatial data\nanalysis and geocomputation. The library includes a comprehensive suite of\nmodules that cover the entire spatial data analysis research stack from\ngeospatial data processing and integration, to exploratory spatial data\nanalysis, spatial dynamics, regionalization, and spatial econometrics. A\nselection of these modules are illustrated drawing on research in spatial\ncriminology, epidemiology and urban inequality dynamics. A number of\ngeovisualization packages that have been implemented using PySAL as an\nanalytical core are also demonstrated. Future plans for additional modules and\nenhancements are also discussed.\n\n", "state": 1, "category": "SciPy 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/PySAL_A_Python_Library_for_Exploratory_Spatial_Data_Analysis_and_Geocomputation.mp4?Signature=En8RJ3zgz2U0Ttqxe4RpueZ8yLY%3D&Expires=1346381871&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-18", "copyright_text": "CC BY-SA", "source_url": "http://youtube.com/watch?v=FN1nH4Fkd_Y", "video_webm_url": "", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.155", "id": 1199, "related_urls": [], "slug": "pysal-a-python-library-for-exploratory-spatial-d", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Sergio Rey"]}
+{
+    "added": "2012-08-31T16:34:40",
+    "category": "SciPy 2012",
+    "copyright_text": "CC BY-SA",
+    "description": "This talk presents an overview and update of PySAL. PySAL is designed to\nsupport the development of high level applications in exploratory spatial data\nanalysis and geocomputation. The library includes a comprehensive suite of\nmodules that cover the entire spatial data analysis research stack from\ngeospatial data processing and integration, to exploratory spatial data\nanalysis, spatial dynamics, regionalization, and spatial econometrics. A\nselection of these modules are illustrated drawing on research in spatial\ncriminology, epidemiology and urban inequality dynamics. A number of\ngeovisualization packages that have been implemented using PySAL as an\nanalytical core are also demonstrated. Future plans for additional modules and\nenhancements are also discussed.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/FN1nH4Fkd_Y?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/FN1nH4Fkd_Y?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1199,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-07-18",
+    "related_urls": [],
+    "slug": "pysal-a-python-library-for-exploratory-spatial-d",
+    "source_url": "http://youtube.com/watch?v=FN1nH4Fkd_Y",
+    "speakers": [
+        "Sergio Rey"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "hpc"
+    ],
+    "thumbnail_url": "http://i3.ytimg.com/vi/FN1nH4Fkd_Y/hqdefault.jpg",
+    "title": "PySAL: A Python Library for Exploratory Spatial Data Analysis and Geocomputation",
+    "updated": "2014-04-08T20:28:27.155",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/PySAL_A_Python_Library_for_Exploratory_Spatial_Data_Analysis_and_Geocomputation.mp4?Signature=En8RJ3zgz2U0Ttqxe4RpueZ8yLY%3D&Expires=1346381871&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

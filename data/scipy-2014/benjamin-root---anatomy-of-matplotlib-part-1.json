@@ -1,1 +1,39 @@
-{"tags": ["matplotlib"], "thumbnail_url": "http://i1.ytimg.com/vi/A2adyFMsut0/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/A2adyFMsut0?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/A2adyFMsut0?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-10T22:35:23.504", "whiteboard": "", "video_flv_length": null, "title": "Anatomy of Matplotlib - Part 1", "duration": null, "description": "Introduction\r\n============\r\n\r\nPurpose of matplotlib\r\n---------------------\r\n\r\nOnline Documentation\r\n--------------------\r\n### [matplotlib.org](http://matplotlib.org \"\")\r\n### Mailing Lists and StackOverflow\r\n### Github Repository\r\n### Bug Reports & Feature Requests\r\n\r\nWhat is this \"backend\" thing I keep hearing about?\r\n==================================================\r\n### Interactive versus non-interactive\r\n### Agg\r\n### Tk, Qt, GTK, MacOSX, Wx, Cairo\r\n\r\nPlotting Functions\r\n==================\r\n### Graphs (plot, scatter, bar, stem, etc.)\r\n### Images (imshow, pcolor, pcolormesh, contour[f], etc.)\r\n### Lesser Knowns: (pie, acorr, hexbin, streamplot, etc.)\r\n\r\nWhat goes in a Figure?\r\n======================\r\n### Axes\r\n### Axis\r\n### ticks (and ticklines and ticklabels) (both major & minor)\r\n### axis labels\r\n### axes title\r\n### figure suptitle\r\n### axis spines\r\n### colorbars (and the oddities thereof)\r\n### axis scale\r\n### axis gridlines\r\n### legend\r\n\r\nManipulating the \"Look-and-Feel\"\r\n================================\r\n\r\n### Introducing matplotlibrc\r\n### Properties\r\n- color (and edgecolor, linecolor, facecolor, etc...)\r\n- linewidth and edgewidth and markeredgewidth (and the oddity that happens in errorbar())\r\n- linestyle\r\n- fonts\r\n- zorder\r\n- visible\r\n\r\nWhat are toolkits?\r\n==================\r\n### axes_grid1\r\n### mplot3d\r\n### basemap\r\n", "state": 1, "category": "SciPy 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-09", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=A2adyFMsut0", "video_webm_url": null, "summary": "This tutorial will be the introduction to matplotlib. Users will learn the types of plots and experiment with them. Then the fundamental concepts and terminologies of matplotlib are introduced. Next, we will learn how to change the \"look and feel\" of their plots. Finally, users will be introduced to other toolkits that extends matplotlib.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-07-10T22:35:23.504", "id": 2757, "related_urls": [], "slug": "anatomy-of-matplotlib-part-1", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Benjamin Root"]}
+{
+    "added": "2014-07-10T22:35:23.504",
+    "category": "SciPy 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "Introduction\r\n============\r\n\r\nPurpose of matplotlib\r\n---------------------\r\n\r\nOnline Documentation\r\n--------------------\r\n### [matplotlib.org](http://matplotlib.org \"\")\r\n### Mailing Lists and StackOverflow\r\n### Github Repository\r\n### Bug Reports & Feature Requests\r\n\r\nWhat is this \"backend\" thing I keep hearing about?\r\n==================================================\r\n### Interactive versus non-interactive\r\n### Agg\r\n### Tk, Qt, GTK, MacOSX, Wx, Cairo\r\n\r\nPlotting Functions\r\n==================\r\n### Graphs (plot, scatter, bar, stem, etc.)\r\n### Images (imshow, pcolor, pcolormesh, contour[f], etc.)\r\n### Lesser Knowns: (pie, acorr, hexbin, streamplot, etc.)\r\n\r\nWhat goes in a Figure?\r\n======================\r\n### Axes\r\n### Axis\r\n### ticks (and ticklines and ticklabels) (both major & minor)\r\n### axis labels\r\n### axes title\r\n### figure suptitle\r\n### axis spines\r\n### colorbars (and the oddities thereof)\r\n### axis scale\r\n### axis gridlines\r\n### legend\r\n\r\nManipulating the \"Look-and-Feel\"\r\n================================\r\n\r\n### Introducing matplotlibrc\r\n### Properties\r\n- color (and edgecolor, linecolor, facecolor, etc...)\r\n- linewidth and edgewidth and markeredgewidth (and the oddity that happens in errorbar())\r\n- linestyle\r\n- fonts\r\n- zorder\r\n- visible\r\n\r\nWhat are toolkits?\r\n==================\r\n### axes_grid1\r\n### mplot3d\r\n### basemap\r\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/A2adyFMsut0?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/A2adyFMsut0?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2757,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-09",
+    "related_urls": [],
+    "slug": "anatomy-of-matplotlib-part-1",
+    "source_url": "http://www.youtube.com/watch?v=A2adyFMsut0",
+    "speakers": [
+        "Benjamin Root"
+    ],
+    "state": 1,
+    "summary": "This tutorial will be the introduction to matplotlib. Users will learn the types of plots and experiment with them. Then the fundamental concepts and terminologies of matplotlib are introduced. Next, we will learn how to change the \"look and feel\" of their plots. Finally, users will be introduced to other toolkits that extends matplotlib.",
+    "tags": [
+        "matplotlib"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/A2adyFMsut0/hqdefault.jpg",
+    "title": "Anatomy of Matplotlib - Part 1",
+    "updated": "2014-07-10T22:35:23.504",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

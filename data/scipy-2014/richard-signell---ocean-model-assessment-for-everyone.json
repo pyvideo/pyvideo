@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/WHjU_rg81BI/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/WHjU_rg81BI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/WHjU_rg81BI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-15T22:45:40.449", "whiteboard": "", "video_flv_length": null, "title": "Ocean Model Assessment for Everyone", "duration": null, "description": "To assess how well ocean models are performing, the model products need to be compared with data. Finding what models and data exist has historically been challenging because this information is held and distributed by numerous providers.  Accessing data has been challenging because ocean models produce gigabytes or terabytes of information, is usually stored in scientific data formats like HDF or NetCDF, while ocean observations are often stored in scientific data formats or in databases.\r\n\r\nTo solve this problem, the Integrated Ocean Observing System (IOOS) has been building a distributed information system based on standard web services for discovery and access.  IOOS is now embarking on a nationwide system-test using python to formulate queries, process responses, and analyze and visualize the data. An end-to-end (search-access-analyze-visualize) workflow for assessing storm-driven water levels predicted by coastal ocean models will be discussed, which uses `OWSLib` for OGC CSW service catalog access, `Iris` for ocean model access and `pyoos` (which wraps OWSLib) for Sensor Observation Service data access. Analysis and visualization is done with `Pandas` and `Cartopy`, and the entire end-to-end workflow is shared as in IPython Notebook with custom environment in Wakari.\r\n", "state": 1, "category": "SciPy 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-13", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=WHjU_rg81BI", "video_webm_url": "", "summary": "An end-to-end workflow for assessing storm-driven water levels predicted by coastal ocean models will be discussed which uses `OWSLib` for CSW Catalog access, `Iris` for ocean model access and `pyoos` for Sensor Observation Service data access. Analysis and visualization is done with `Pandas` and `Cartopy`, and the entire workflow is shared as in IPython Notebook with custom environment in Wakari.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-07-16T14:12:41.833", "id": 2795, "related_urls": [], "slug": "ocean-model-assessment-for-everyone", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Richard Signell"]}
+{
+    "added": "2014-07-15T22:45:40.449",
+    "category": "SciPy 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "To assess how well ocean models are performing, the model products need to be compared with data. Finding what models and data exist has historically been challenging because this information is held and distributed by numerous providers.  Accessing data has been challenging because ocean models produce gigabytes or terabytes of information, is usually stored in scientific data formats like HDF or NetCDF, while ocean observations are often stored in scientific data formats or in databases.\r\n\r\nTo solve this problem, the Integrated Ocean Observing System (IOOS) has been building a distributed information system based on standard web services for discovery and access.  IOOS is now embarking on a nationwide system-test using python to formulate queries, process responses, and analyze and visualize the data. An end-to-end (search-access-analyze-visualize) workflow for assessing storm-driven water levels predicted by coastal ocean models will be discussed, which uses `OWSLib` for OGC CSW service catalog access, `Iris` for ocean model access and `pyoos` (which wraps OWSLib) for Sensor Observation Service data access. Analysis and visualization is done with `Pandas` and `Cartopy`, and the entire end-to-end workflow is shared as in IPython Notebook with custom environment in Wakari.\r\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/WHjU_rg81BI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/WHjU_rg81BI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2795,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-13",
+    "related_urls": [],
+    "slug": "ocean-model-assessment-for-everyone",
+    "source_url": "http://www.youtube.com/watch?v=WHjU_rg81BI",
+    "speakers": [
+        "Richard Signell"
+    ],
+    "state": 1,
+    "summary": "An end-to-end workflow for assessing storm-driven water levels predicted by coastal ocean models will be discussed which uses `OWSLib` for CSW Catalog access, `Iris` for ocean model access and `pyoos` for Sensor Observation Service data access. Analysis and visualization is done with `Pandas` and `Cartopy`, and the entire workflow is shared as in IPython Notebook with custom environment in Wakari.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/WHjU_rg81BI/hqdefault.jpg",
+    "title": "Ocean Model Assessment for Everyone",
+    "updated": "2014-07-16T14:12:41.833",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

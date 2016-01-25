@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/L_LLYTm-QnM/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/L_LLYTm-QnM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/L_LLYTm-QnM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-04-13T21:20:28.964", "whiteboard": "", "video_flv_length": null, "title": "Opening Statements - PyCon 2014 (2014/04/11)", "duration": null, "description": "", "state": 1, "category": "PyCon US 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-04-11", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=L_LLYTm-QnM", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-17T08:45:14.349", "id": 2679, "related_urls": [], "slug": "opening-statements-pycon-2014-20140411", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Brett Cannon"]}
+{
+    "added": "2014-04-13T21:20:28.964",
+    "category": "PyCon US 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/L_LLYTm-QnM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/L_LLYTm-QnM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2679,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-04-11",
+    "related_urls": [],
+    "slug": "opening-statements-pycon-2014-20140411",
+    "source_url": "http://www.youtube.com/watch?v=L_LLYTm-QnM",
+    "speakers": [
+        "Brett Cannon"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/L_LLYTm-QnM/hqdefault.jpg",
+    "title": "Opening Statements - PyCon 2014 (2014/04/11)",
+    "updated": "2014-04-17T08:45:14.349",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

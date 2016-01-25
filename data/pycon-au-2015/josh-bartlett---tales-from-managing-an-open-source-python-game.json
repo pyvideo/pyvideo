@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/RgaDT3E5Esk/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/RgaDT3E5Esk\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-10-18T16:10:55.288", "whiteboard": "needs editing", "video_flv_length": null, "title": "Tales from Managing an Open Source Python Game", "duration": null, "description": "Ten years ago, a rag-tag bunch of computer camp leaders decided to create a game that would teach kids teamwork and strategy, and which the kids could feel a part of. In those days, the presenter was a young dreamer with time on his hands, and he chose to spearhead the project. Was this folly? You be the judge. The game was Trosnoth. It is developed in Python, using Pygame and Twisted.\r\nIn this presentation, Josh will tell the story of Trosnoth, and share some of the many lessons, both social and technical, which he learnt while managing the project. Maybe you\u2019ve considered writing a game in Python. Maybe you\u2019re not sure how Open Source projects really work. Maybe you\u2019re an experienced project manager who wants to laugh at some of the mistakes Josh made. Or maybe you just enjoy hearing Josh tell stories. Whoever you are, there\u2019s bound to be something in this presentation for you.\n\n", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-03", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=RgaDT3E5Esk", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-18T16:10:55.288", "id": 3974, "related_urls": [], "slug": "tales-from-managing-an-open-source-python-game", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Josh Bartlett"]}
+{
+    "added": "2015-10-18T16:10:55.288",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Ten years ago, a rag-tag bunch of computer camp leaders decided to create a game that would teach kids teamwork and strategy, and which the kids could feel a part of. In those days, the presenter was a young dreamer with time on his hands, and he chose to spearhead the project. Was this folly? You be the judge. The game was Trosnoth. It is developed in Python, using Pygame and Twisted.\r\nIn this presentation, Josh will tell the story of Trosnoth, and share some of the many lessons, both social and technical, which he learnt while managing the project. Maybe you\u2019ve considered writing a game in Python. Maybe you\u2019re not sure how Open Source projects really work. Maybe you\u2019re an experienced project manager who wants to laugh at some of the mistakes Josh made. Or maybe you just enjoy hearing Josh tell stories. Whoever you are, there\u2019s bound to be something in this presentation for you.\n\n",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/RgaDT3E5Esk\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 3974,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-03",
+    "related_urls": [],
+    "slug": "tales-from-managing-an-open-source-python-game",
+    "source_url": "https://www.youtube.com/watch?v=RgaDT3E5Esk",
+    "speakers": [
+        "Josh Bartlett"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/RgaDT3E5Esk/hqdefault.jpg",
+    "title": "Tales from Managing an Open Source Python Game",
+    "updated": "2015-10-18T16:10:55.288",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

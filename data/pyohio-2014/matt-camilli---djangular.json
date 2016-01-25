@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i.ytimg.com/vi/GVDjoTt3r8A/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/GVDjoTt3r8A?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/GVDjoTt3r8A?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-19T02:13:21.983", "whiteboard": "", "video_flv_length": null, "title": "Djangular", "duration": 3600, "description": "", "state": 1, "category": "PyOhio 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-27", "copyright_text": "CC BY", "source_url": "http://youtu.be/GVDjoTt3r8A", "video_webm_url": "http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2847_Djangular.webm", "summary": "AngularJS is a powerful JavaScript MVC Framework that is growing in popularity among developers every day. Paired with the power of Django's ORM and the Django Rest Framework, developers can build complex applications that enforce good client side and server side separation. This talk will be a walk-through of the Django Tutorial using AngularJS on the front end. ", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-09-29T12:06:38.116", "id": 2847, "related_urls": [], "slug": "djangular", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Matt Camilli"]}
+{
+    "added": "2014-07-19T02:13:21.983",
+    "category": "PyOhio 2014",
+    "copyright_text": "CC BY",
+    "description": "",
+    "duration": 3600,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/GVDjoTt3r8A?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/GVDjoTt3r8A?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2847,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-27",
+    "related_urls": [],
+    "slug": "djangular",
+    "source_url": "http://youtu.be/GVDjoTt3r8A",
+    "speakers": [
+        "Matt Camilli"
+    ],
+    "state": 1,
+    "summary": "AngularJS is a powerful JavaScript MVC Framework that is growing in popularity among developers every day. Paired with the power of Django's ORM and the Django Rest Framework, developers can build complex applications that enforce good client side and server side separation. This talk will be a walk-through of the Django Tutorial using AngularJS on the front end. ",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/GVDjoTt3r8A/hqdefault.jpg",
+    "title": "Djangular",
+    "updated": "2014-09-29T12:06:38.116",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2847_Djangular.webm",
+    "whiteboard": ""
+}

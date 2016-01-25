@@ -1,1 +1,43 @@
-{"tags": ["djangocon", "djangocon2011", "forms", "web"], "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-AdvancedDjangoFormUsage262-618.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Advanced Django Form Usage", "duration": null, "description": "Advanced Django Form Usage\n\nPresented by Daniel Greenfeld, Miguel Araujo\n\nDjango forms are really powerful but there are edge cases that can cause a bit\nof anguish. This talk will go over how to handle many common solutions not\ncurrently described in the core documentation. It will also cover some useful\nthird-party libraries and will end with clarifications about what the state of\nform features will be in Django 1.4.\n\n", "state": 1, "category": "DjangoCon 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/82_advanced-django-form-usage.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 103742432, "updated": "2014-04-08T20:28:25.291", "id": 82, "related_urls": [], "slug": "djangocon-2011--advanced-django-form-usage", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Daniel Greenfeld", "Miguel Araujo"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "DjangoCon 2011",
+    "copyright_text": "",
+    "description": "Advanced Django Form Usage\n\nPresented by Daniel Greenfeld, Miguel Araujo\n\nDjango forms are really powerful but there are edge cases that can cause a bit\nof anguish. This talk will go over how to handle many common solutions not\ncurrently described in the core documentation. It will also cover some useful\nthird-party libraries and will end with clarifications about what the state of\nform features will be in Django 1.4.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 82,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "djangocon-2011--advanced-django-form-usage",
+    "source_url": "",
+    "speakers": [
+        "Daniel Greenfeld",
+        "Miguel Araujo"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "djangocon",
+        "djangocon2011",
+        "forms",
+        "web"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-AdvancedDjangoFormUsage262-618.jpg",
+    "title": "Advanced Django Form Usage",
+    "updated": "2014-04-08T20:28:25.291",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/82_advanced-django-form-usage.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 103742432,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

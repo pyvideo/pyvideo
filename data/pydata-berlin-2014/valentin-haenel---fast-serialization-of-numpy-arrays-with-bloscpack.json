@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/TZdqeEd7iTM/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/TZdqeEd7iTM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/TZdqeEd7iTM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-08-06T18:53:19.303", "whiteboard": "", "video_flv_length": null, "title": "Fast Serialization of Numpy Arrays with Bloscpack", "duration": null, "description": "Bloscpack [1] is a reference implementation and file-format for fast serialization of numerical data. It features lightweight, chunked and compressed storage, based on the extremely fast Blosc [2] metacodec and supports serialization of Numpy arrays out-of-the-box. Recently, Blosc -- being the metacodec that it is -- has received support for using the popular and widely used Snappy [3], LZ4 [4], and ZLib [5] codecs, and so, now Bloscpack supports serializing Numpy arrays easily with those codecs! In this talk I will present recent benchmarks of Bloscpack performance on a variety of artificial and real-world datasets with a special focus on the newly available codecs. In these benchmarks I will compare Bloscpack, both performance and usability wise, to alternatives such as Numpy's native offerings (NPZ and NPY), HDF5/PyTables [6], and if time permits, to novel bleeding edge solutions. Lastly I will argue that compressed and chunked storage format such as Bloscpack can be and somewhat already is a useful substrate on which to build more powerful applications such as online analytical processing engines and distributed computing frameworks. [1]: https://github.com/Blosc/bloscpack [2]: https://github.com/Blosc/c-blosc/ [3]: http://code.google.com/p/snappy/ [4]: http://code.google.com/p/lz4/ [5]: http://www.zlib.net/ [6]: http://www.pytables.org/moin", "state": 1, "category": "PyData Berlin 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://video.ep14.c3voc.de/20226.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-27", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=TZdqeEd7iTM", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-06T19:23:49.825", "id": 3060, "related_urls": [], "slug": "fast-serialization-of-numpy-arrays-with-bloscpack", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Valentin Haenel"]}
+{
+    "added": "2014-08-06T18:53:19.303",
+    "category": "PyData Berlin 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "Bloscpack [1] is a reference implementation and file-format for fast serialization of numerical data. It features lightweight, chunked and compressed storage, based on the extremely fast Blosc [2] metacodec and supports serialization of Numpy arrays out-of-the-box. Recently, Blosc -- being the metacodec that it is -- has received support for using the popular and widely used Snappy [3], LZ4 [4], and ZLib [5] codecs, and so, now Bloscpack supports serializing Numpy arrays easily with those codecs! In this talk I will present recent benchmarks of Bloscpack performance on a variety of artificial and real-world datasets with a special focus on the newly available codecs. In these benchmarks I will compare Bloscpack, both performance and usability wise, to alternatives such as Numpy's native offerings (NPZ and NPY), HDF5/PyTables [6], and if time permits, to novel bleeding edge solutions. Lastly I will argue that compressed and chunked storage format such as Bloscpack can be and somewhat already is a useful substrate on which to build more powerful applications such as online analytical processing engines and distributed computing frameworks. [1]: https://github.com/Blosc/bloscpack [2]: https://github.com/Blosc/c-blosc/ [3]: http://code.google.com/p/snappy/ [4]: http://code.google.com/p/lz4/ [5]: http://www.zlib.net/ [6]: http://www.pytables.org/moin",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/TZdqeEd7iTM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/TZdqeEd7iTM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3060,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-27",
+    "related_urls": [],
+    "slug": "fast-serialization-of-numpy-arrays-with-bloscpack",
+    "source_url": "http://www.youtube.com/watch?v=TZdqeEd7iTM",
+    "speakers": [
+        "Valentin Haenel"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/TZdqeEd7iTM/hqdefault.jpg",
+    "title": "Fast Serialization of Numpy Arrays with Bloscpack",
+    "updated": "2014-08-06T19:23:49.825",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://video.ep14.c3voc.de/20226.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

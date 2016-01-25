@@ -1,1 +1,39 @@
-{"tags": ["poster"], "thumbnail_url": "http://i.ytimg.com/vi/iXdqBEr-p-g/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/iXdqBEr-p-g?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/iXdqBEr-p-g?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:57:40", "whiteboard": "", "video_flv_length": null, "title": "Reverse Engineering the Internet of Things", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-17", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=iXdqBEr-p-g", "video_webm_url": null, "summary": "This year I've reverse engineered two HTTP/Web enabled devices and written python clients for them. The Belkin Wemo [1] and the Philips Hue [2]. My poster session will cover methods materials and work.\r\n\r\n[1] http://www.issackelly.com/blog/2012/08/04/wemo-api-hacking/\r\n[2] http://www.issackelly.com/blog/2012/11/10/philips-hue-api-hacking/\r\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.601", "id": 1829, "related_urls": [], "slug": "reverse-engineering-the-internet-of-things", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Issac Kelly"]}
+{
+    "added": "2013-03-13T18:57:40",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/iXdqBEr-p-g?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/iXdqBEr-p-g?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1829,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-17",
+    "related_urls": [],
+    "slug": "reverse-engineering-the-internet-of-things",
+    "source_url": "https://www.youtube.com/watch?v=iXdqBEr-p-g",
+    "speakers": [
+        "Issac Kelly"
+    ],
+    "state": 1,
+    "summary": "This year I've reverse engineered two HTTP/Web enabled devices and written python clients for them. The Belkin Wemo [1] and the Philips Hue [2]. My poster session will cover methods materials and work.\r\n\r\n[1] http://www.issackelly.com/blog/2012/08/04/wemo-api-hacking/\r\n[2] http://www.issackelly.com/blog/2012/11/10/philips-hue-api-hacking/\r\n",
+    "tags": [
+        "poster"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/iXdqBEr-p-g/hqdefault.jpg",
+    "title": "Reverse Engineering the Internet of Things",
+    "updated": "2014-04-08T20:28:26.601",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

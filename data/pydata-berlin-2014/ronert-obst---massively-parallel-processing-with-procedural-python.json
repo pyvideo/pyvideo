@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/rv6J6CYbGy4/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/rv6J6CYbGy4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/rv6J6CYbGy4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-08-06T18:53:18.484", "whiteboard": "", "video_flv_length": null, "title": "Massively Parallel Processing with Procedural Python", "duration": null, "description": "The Python data ecosystem has grown beyond the confines of single machines to embrace scalability. Here we describe one of our approaches to scaling, which is already being used in production systems. The goal of in-database analytics is to bring the calculations to the data, reducing transport costs and I/O bottlenecks. Using PL/Python we can run parallel queries across terabytes of data using not only pure SQL but also familiar PyData packages such as scikit-learn and nltk. This approach can also be used with PL/R to make use of a wide variety of R packages. We look at examples on Postgres compatible systems such as the Greenplum Database and on Hadoop through Pivotal HAWQ. We will also introduce MADlib, Pivotal\u2019s open source library for scalable in-database machine learning, which uses Python to glue SQL queries to low level C++ functions and is also usable through the PyMADlib package.", "state": 1, "category": "PyData Berlin 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://video.ep14.c3voc.de/20232.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-27", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=rv6J6CYbGy4", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-06T18:53:18.484", "id": 3052, "related_urls": [], "slug": "massively-parallel-processing-with-procedural-pyt", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Ronert Obst"]}
+{
+    "added": "2014-08-06T18:53:18.484",
+    "category": "PyData Berlin 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "The Python data ecosystem has grown beyond the confines of single machines to embrace scalability. Here we describe one of our approaches to scaling, which is already being used in production systems. The goal of in-database analytics is to bring the calculations to the data, reducing transport costs and I/O bottlenecks. Using PL/Python we can run parallel queries across terabytes of data using not only pure SQL but also familiar PyData packages such as scikit-learn and nltk. This approach can also be used with PL/R to make use of a wide variety of R packages. We look at examples on Postgres compatible systems such as the Greenplum Database and on Hadoop through Pivotal HAWQ. We will also introduce MADlib, Pivotal\u2019s open source library for scalable in-database machine learning, which uses Python to glue SQL queries to low level C++ functions and is also usable through the PyMADlib package.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/rv6J6CYbGy4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/rv6J6CYbGy4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3052,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-27",
+    "related_urls": [],
+    "slug": "massively-parallel-processing-with-procedural-pyt",
+    "source_url": "http://www.youtube.com/watch?v=rv6J6CYbGy4",
+    "speakers": [
+        "Ronert Obst"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/rv6J6CYbGy4/hqdefault.jpg",
+    "title": "Massively Parallel Processing with Procedural Python",
+    "updated": "2014-08-06T18:53:18.484",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://video.ep14.c3voc.de/20232.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

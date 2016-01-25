@@ -1,1 +1,42 @@
-{"tags": ["plover", "pygotham", "pygotham2011", "stenography"], "thumbnail_url": "http://a.images.blip.tv/Gloriajw-PloverThoughtToTextAt240WPM420-809.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyGotham 2011: Plover: Thought to Text at 240 WPM", "duration": null, "description": "", "state": 1, "category": "PyGotham 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/500_pygotham-2011-plover-thought-to-text-at-240-wpm.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "", "source_url": "", "video_webm_url": "", "summary": "Realtime stenography lets you type as quickly as you can speak, but until now\nit's required ridiculously expensive hardware and software. Plover is the\nworld's first open source steno software and works with a $45 keyboard.\n\n", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/500_pygotham-2011-plover-thought-to-text-at-240-wpm.ogv", "video_ogv_length": 182055374, "updated": "2014-04-08T20:28:25.815", "id": 500, "related_urls": [], "slug": "pygotham-2011--plover--thought-to-text-at-240-wpm", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Mirabai Knight"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyGotham 2011",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "",
+    "id": 500,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pygotham-2011--plover--thought-to-text-at-240-wpm",
+    "source_url": "",
+    "speakers": [
+        "Mirabai Knight"
+    ],
+    "state": 1,
+    "summary": "Realtime stenography lets you type as quickly as you can speak, but until now\nit's required ridiculously expensive hardware and software. Plover is the\nworld's first open source steno software and works with a $45 keyboard.\n\n",
+    "tags": [
+        "plover",
+        "pygotham",
+        "pygotham2011",
+        "stenography"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Gloriajw-PloverThoughtToTextAt240WPM420-809.jpg",
+    "title": "PyGotham 2011: Plover: Thought to Text at 240 WPM",
+    "updated": "2014-04-08T20:28:25.815",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/500_pygotham-2011-plover-thought-to-text-at-240-wpm.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 182055374,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pygotham-2011/500_pygotham-2011-plover-thought-to-text-at-240-wpm.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

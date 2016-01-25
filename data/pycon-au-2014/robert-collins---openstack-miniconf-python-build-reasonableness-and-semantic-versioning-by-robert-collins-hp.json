@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/RcwLcKhbVSk/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/RcwLcKhbVSk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/RcwLcKhbVSk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-08-14T15:33:06.086", "whiteboard": "needs editing", "video_flv_length": null, "title": "OpenStack MiniConf: Python Build Reasonableness and Semantic Versioning by Robert Collins (HP)", "duration": null, "description": "", "state": 1, "category": "PyCon AU 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-08-11", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=RcwLcKhbVSk", "video_webm_url": "", "summary": "", "video_ogv_url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/90-out.ogv", "video_ogv_length": null, "updated": "2014-08-14T15:50:54.680", "id": 3093, "related_urls": [], "slug": "openstack-miniconf-python-build-reasonableness-a", "quality_notes": "Talk starts at 8 minutes in.", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Robert Collins"]}
+{
+    "added": "2014-08-14T15:33:06.086",
+    "category": "PyCon AU 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/RcwLcKhbVSk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/RcwLcKhbVSk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3093,
+    "language": "English",
+    "quality_notes": "Talk starts at 8 minutes in.",
+    "recorded": "2014-08-11",
+    "related_urls": [],
+    "slug": "openstack-miniconf-python-build-reasonableness-a",
+    "source_url": "http://www.youtube.com/watch?v=RcwLcKhbVSk",
+    "speakers": [
+        "Robert Collins"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/RcwLcKhbVSk/hqdefault.jpg",
+    "title": "OpenStack MiniConf: Python Build Reasonableness and Semantic Versioning by Robert Collins (HP)",
+    "updated": "2014-08-14T15:50:54.680",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/90-out.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing"
+}

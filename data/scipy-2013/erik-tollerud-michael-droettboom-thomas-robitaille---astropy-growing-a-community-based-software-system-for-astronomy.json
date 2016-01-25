@@ -1,1 +1,43 @@
-{"tags": ["astronomy", "astrophysics", "astropy"], "thumbnail_url": "http://i1.ytimg.com/vi/0wfxxpM75vM/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/0wfxxpM75vM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/0wfxxpM75vM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:32", "whiteboard": "", "video_flv_length": null, "title": "Astropy, growing a community-based software system for astronomy", "duration": null, "description": "Authors: Droettboom, Michael, STScI; Robitaille, Thomas, Max Planck Institute; Tollerud, Erik, Yale Universit\n\nTrack: Astronomy and Astrophysics\n\nAstropy is a community-based software project to coordinate the development of libraries and applications for astronomy. We will report on progress that has been made with astropy since the last scipy conference. The past year has seen much growth in the number and quality of the core libraries in astropy and a public release. We will highlight the new capabilities available, and outline the development plans for the upcoming year. Finally we discuss the strategies for advertising its capabilities and growing the documentation and tutorials available for users and developers.", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-01", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=0wfxxpM75vM", "video_webm_url": null, "summary": "Astropy is a community-based software project to coordinate the development of libraries and applications for astronomy. We will report on progress that has been made with astropy since the last scipy conference.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.384", "id": 1967, "related_urls": [], "slug": "astropy-growing-a-community-based-software-syste-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Erik Tollerud", "Michael Droettboom", "Thomas Robitaille"]}
+{
+    "added": "2013-07-04T10:08:32",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "Authors: Droettboom, Michael, STScI; Robitaille, Thomas, Max Planck Institute; Tollerud, Erik, Yale Universit\n\nTrack: Astronomy and Astrophysics\n\nAstropy is a community-based software project to coordinate the development of libraries and applications for astronomy. We will report on progress that has been made with astropy since the last scipy conference. The past year has seen much growth in the number and quality of the core libraries in astropy and a public release. We will highlight the new capabilities available, and outline the development plans for the upcoming year. Finally we discuss the strategies for advertising its capabilities and growing the documentation and tutorials available for users and developers.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/0wfxxpM75vM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/0wfxxpM75vM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1967,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-01",
+    "related_urls": [],
+    "slug": "astropy-growing-a-community-based-software-syste-0",
+    "source_url": "http://www.youtube.com/watch?v=0wfxxpM75vM",
+    "speakers": [
+        "Erik Tollerud",
+        "Michael Droettboom",
+        "Thomas Robitaille"
+    ],
+    "state": 1,
+    "summary": "Astropy is a community-based software project to coordinate the development of libraries and applications for astronomy. We will report on progress that has been made with astropy since the last scipy conference.",
+    "tags": [
+        "astronomy",
+        "astrophysics",
+        "astropy"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/0wfxxpM75vM/hqdefault.jpg",
+    "title": "Astropy, growing a community-based software system for astronomy",
+    "updated": "2014-04-08T20:28:26.384",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

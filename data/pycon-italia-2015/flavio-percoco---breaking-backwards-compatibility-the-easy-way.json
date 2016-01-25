@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/EYKdmo9Rg2s/maxresdefault.jpg", "embed": "", "added": "2015-06-14T17:04:26.182", "whiteboard": "", "video_flv_length": null, "title": "Breaking backwards compatibility The easy way", "duration": 1848, "description": "Say you have this piece of software that many people use. One day, you wake up and you have the urge to make them suffer. Well, there\u2019s no better way to do so than breaking the software they\u2019re using.\nIn this talk, I\u2019ll walk you through very good ways to do so by showing examples taken from experience - because experience is the only thing that matters (TM) - so that you\u2019ll be able, by the time this talk ends, to do the same to your users.\n(P.S: If you\u2019ve a kinder hearth, you can also do the exact oposite of what I\u2019ll say and keep your users happy.)\n", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-29", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=EYKdmo9Rg2s", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-14T17:04:26.183", "id": 3617, "related_urls": [], "slug": "breaking-backwards-compatibility-the-easy-way", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Flavio Percoco"]}
+{
+    "added": "2015-06-14T17:04:26.182",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "Say you have this piece of software that many people use. One day, you wake up and you have the urge to make them suffer. Well, there\u2019s no better way to do so than breaking the software they\u2019re using.\nIn this talk, I\u2019ll walk you through very good ways to do so by showing examples taken from experience - because experience is the only thing that matters (TM) - so that you\u2019ll be able, by the time this talk ends, to do the same to your users.\n(P.S: If you\u2019ve a kinder hearth, you can also do the exact oposite of what I\u2019ll say and keep your users happy.)\n",
+    "duration": 1848,
+    "embed": "",
+    "id": 3617,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-05-29",
+    "related_urls": [],
+    "slug": "breaking-backwards-compatibility-the-easy-way",
+    "source_url": "https://www.youtube.com/watch?v=EYKdmo9Rg2s",
+    "speakers": [
+        "Flavio Percoco"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/EYKdmo9Rg2s/maxresdefault.jpg",
+    "title": "Breaking backwards compatibility The easy way",
+    "updated": "2015-06-14T17:04:26.183",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

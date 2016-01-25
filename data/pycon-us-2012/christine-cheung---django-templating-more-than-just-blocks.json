@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://img.youtube.com/vi/ahM4GBZ-6qg/hqdefault.jpg", "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/ahM4GBZ-6qg&amp;hl=en&amp;fs=1\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/ahM4GBZ-6qg&amp;hl=en&amp;fs=1\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", "added": "2012-03-13T03:30:23", "whiteboard": "", "video_flv_length": null, "title": "Django Templating: More Than Just Blocks", "duration": null, "description": "", "state": 1, "category": "PyCon US 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-03-10", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=ahM4GBZ-6qg", "video_webm_url": null, "summary": "Django's template language is designed to strike a balance between power and\nease of use; learn how to use this balance to create awesome looking websites.\nThis talk will cover the basics and best practices of Django templating, from\ncustom tag and filter creation, to the finer points of template rendering and\nloading, and even to replacing the default templating engine itself.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.457", "id": 697, "related_urls": [], "slug": "django-templating-more-than-just-blocks", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Christine Cheung"]}
+{
+    "added": "2012-03-13T03:30:23",
+    "category": "PyCon US 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/ahM4GBZ-6qg&amp;hl=en&amp;fs=1\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/ahM4GBZ-6qg&amp;hl=en&amp;fs=1\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>",
+    "id": 697,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-03-10",
+    "related_urls": [],
+    "slug": "django-templating-more-than-just-blocks",
+    "source_url": "https://www.youtube.com/watch?v=ahM4GBZ-6qg",
+    "speakers": [
+        "Christine Cheung"
+    ],
+    "state": 1,
+    "summary": "Django's template language is designed to strike a balance between power and\nease of use; learn how to use this balance to create awesome looking websites.\nThis talk will cover the basics and best practices of Django templating, from\ncustom tag and filter creation, to the finer points of template rendering and\nloading, and even to replacing the default templating engine itself.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://img.youtube.com/vi/ahM4GBZ-6qg/hqdefault.jpg",
+    "title": "Django Templating: More Than Just Blocks",
+    "updated": "2014-04-08T20:28:27.457",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

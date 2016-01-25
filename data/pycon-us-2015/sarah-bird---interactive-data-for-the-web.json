@@ -1,1 +1,42 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/O5OvOLK-xqQ/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/O5OvOLK-xqQ' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:07.959", "whiteboard": "needs editing", "video_flv_length": null, "title": "Interactive data for the web", "duration": null, "description": "Interactive data visualization libraries are mostly a JavaScript stronghold. The new Python library, Bokeh, provides a simple, clean way to make more shiny things. Although it comes from the data science community, it has a lot to offer web developers. For a visualization you might have built in d3.js, I'll show how to build it in Bokeh, how to test it, and how to hook it into your web app. \r\n\r\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-12", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=O5OvOLK-xqQ", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2015-04-29T13:48:07.145", "id": 3438, "related_urls": [{"url": "https://github.com/birdsarah/pycon_2015_bokeh_talk", "description": "slides"}], "slug": "interactive-data-for-the-web", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Sarah Bird"]}
+{
+    "added": "2015-04-16T14:22:07.959",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Interactive data visualization libraries are mostly a JavaScript stronghold. The new Python library, Bokeh, provides a simple, clean way to make more shiny things. Although it comes from the data science community, it has a lot to offer web developers. For a visualization you might have built in d3.js, I'll show how to build it in Bokeh, how to test it, and how to hook it into your web app. \r\n\r\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/O5OvOLK-xqQ' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3438,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-12",
+    "related_urls": [
+        {
+            "description": "slides",
+            "url": "https://github.com/birdsarah/pycon_2015_bokeh_talk"
+        }
+    ],
+    "slug": "interactive-data-for-the-web",
+    "source_url": "https://www.youtube.com/watch?v=O5OvOLK-xqQ",
+    "speakers": [
+        "Sarah Bird"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/O5OvOLK-xqQ/hqdefault.jpg",
+    "title": "Interactive data for the web",
+    "updated": "2015-04-29T13:48:07.145",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing"
+}

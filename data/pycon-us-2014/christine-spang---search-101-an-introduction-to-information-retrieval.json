@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/MtlH14N3REQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/MtlH14N3REQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/MtlH14N3REQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-04-13T21:20:13.538", "whiteboard": "", "video_flv_length": null, "title": "Search 101: An Introduction to Information Retrieval", "duration": null, "description": "", "state": 1, "category": "PyCon US 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-04-12", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=MtlH14N3REQ", "video_webm_url": null, "summary": "Data is everywhere! And most of the time, the best way to find what you want in a pile of data is to search it. In this project-based tutorial, you'll get an introduction to the basic theory of search and write a program to index and search a collection of Wikipedia documents using the Whoosh library. You'll leave with the ability to add search functionality to all of your own projects.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-13T21:20:13.538", "id": 2639, "related_urls": [], "slug": "search-101-an-introduction-to-information-retrie", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Christine Spang"]}
+{
+    "added": "2014-04-13T21:20:13.538",
+    "category": "PyCon US 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/MtlH14N3REQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/MtlH14N3REQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2639,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-04-12",
+    "related_urls": [],
+    "slug": "search-101-an-introduction-to-information-retrie",
+    "source_url": "http://www.youtube.com/watch?v=MtlH14N3REQ",
+    "speakers": [
+        "Christine Spang"
+    ],
+    "state": 1,
+    "summary": "Data is everywhere! And most of the time, the best way to find what you want in a pile of data is to search it. In this project-based tutorial, you'll get an introduction to the basic theory of search and write a program to index and search a collection of Wikipedia documents using the Whoosh library. You'll leave with the ability to add search functionality to all of your own projects.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/MtlH14N3REQ/hqdefault.jpg",
+    "title": "Search 101: An Introduction to Information Retrieval",
+    "updated": "2014-04-13T21:20:13.538",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

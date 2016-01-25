@@ -1,1 +1,53 @@
-{"tags": ["asynchronous", "tulip"], "thumbnail_url": "http://i1.ytimg.com/vi/jMgRUI7V_mk/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/jMgRUI7V_mk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/jMgRUI7V_mk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-07T11:16:55", "whiteboard": "", "video_flv_length": null, "title": "Asynchronous I/O in Python 3", "duration": 80, "description": "", "state": 1, "category": "ChiPy", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvchipy/Asynchronous_IO_in_Python_3.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-11", "copyright_text": "CC BY", "source_url": "https://www.youtube.com/watch?v=jMgRUI7V_mk", "video_webm_url": "", "summary": "Feihong talks about PEP 3156 and the basic usage of Tulip,  the reference implementation.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.241", "id": 2194, "related_urls": [{"url": "http://mail.python.org/pipermail/chicago/2013-July/011253.html", "description": "Asynchronous I/O in Python 3 (and more analogies)"}, {"url": "http://www.slideshare.net/megafeihong/tulip-24190096", "description": "slides"}, {"url": "https://github.com/feihong/tulip-talk", "description": "examples and demos"}], "slug": "asynchronous-io-in-python-3", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Feihong Hsu"]}
+{
+    "added": "2013-07-07T11:16:55",
+    "category": "ChiPy",
+    "copyright_text": "CC BY",
+    "description": "",
+    "duration": 80,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/jMgRUI7V_mk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/jMgRUI7V_mk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2194,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-11",
+    "related_urls": [
+        {
+            "description": "Asynchronous I/O in Python 3 (and more analogies)",
+            "url": "http://mail.python.org/pipermail/chicago/2013-July/011253.html"
+        },
+        {
+            "description": "slides",
+            "url": "http://www.slideshare.net/megafeihong/tulip-24190096"
+        },
+        {
+            "description": "examples and demos",
+            "url": "https://github.com/feihong/tulip-talk"
+        }
+    ],
+    "slug": "asynchronous-io-in-python-3",
+    "source_url": "https://www.youtube.com/watch?v=jMgRUI7V_mk",
+    "speakers": [
+        "Feihong Hsu"
+    ],
+    "state": 1,
+    "summary": "Feihong talks about PEP 3156 and the basic usage of Tulip,  the reference implementation.",
+    "tags": [
+        "asynchronous",
+        "tulip"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/jMgRUI7V_mk/hqdefault.jpg",
+    "title": "Asynchronous I/O in Python 3",
+    "updated": "2014-04-08T20:28:26.241",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvchipy/Asynchronous_IO_in_Python_3.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

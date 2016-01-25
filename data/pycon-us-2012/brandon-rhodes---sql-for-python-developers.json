@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://img.youtube.com/vi/Thd8yoBou7k/hqdefault.jpg", "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/Thd8yoBou7k&amp;hl=en&amp;fs=1\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/Thd8yoBou7k&amp;hl=en&amp;fs=1\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", "added": "2012-03-15T21:00:04", "whiteboard": "", "video_flv_length": null, "title": "SQL for Python Developers", "duration": null, "description": "", "state": 1, "category": "PyCon US 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-03-07", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=Thd8yoBou7k", "video_webm_url": null, "summary": "Relational databases are often the bread-and-butter of large-scale data\nstorage, yet they are often poorly understood by Python programmers.\nOrganizations even split programmers into SQL and front-end teams, each of\nwhich jealously guards its turf. These tutorials will take what you already\nknow about Python programming, and advance into a new realm: SQL programming\nand database design.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.646", "id": 875, "related_urls": [], "slug": "sql-for-python-developers", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Brandon Rhodes"]}
+{
+    "added": "2012-03-15T21:00:04",
+    "category": "PyCon US 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/Thd8yoBou7k&amp;hl=en&amp;fs=1\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/Thd8yoBou7k&amp;hl=en&amp;fs=1\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>",
+    "id": 875,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-03-07",
+    "related_urls": [],
+    "slug": "sql-for-python-developers",
+    "source_url": "https://www.youtube.com/watch?v=Thd8yoBou7k",
+    "speakers": [
+        "Brandon Rhodes"
+    ],
+    "state": 1,
+    "summary": "Relational databases are often the bread-and-butter of large-scale data\nstorage, yet they are often poorly understood by Python programmers.\nOrganizations even split programmers into SQL and front-end teams, each of\nwhich jealously guards its turf. These tutorials will take what you already\nknow about Python programming, and advance into a new realm: SQL programming\nand database design.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://img.youtube.com/vi/Thd8yoBou7k/hqdefault.jpg",
+    "title": "SQL for Python Developers",
+    "updated": "2014-04-08T20:28:27.646",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

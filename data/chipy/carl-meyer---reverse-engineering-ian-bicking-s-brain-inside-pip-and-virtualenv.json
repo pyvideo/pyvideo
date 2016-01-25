@@ -1,1 +1,42 @@
-{"tags": ["chipy", "ianbicking", "pip", "virtualenv"], "thumbnail_url": "http://a.images.blip.tv/CarlFK-ReverseengineeringIanBickingsBrainInsidePipAndVirtualenv225.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Reverse-engineering Ian Bicking's brain: inside pip and virtualenv.", "duration": null, "description": "  * 1 [http://us.pycon.org/2011/schedule/sessions/198/](http://us.pycon.org/2011/schedule/sessions/198/)\n  * 2 [http://pip.openplans.org/](http://pip.openplans.org/)\n  * 3 [http://virtualenv.openplans.org/](http://virtualenv.openplans.org/)\n\n", "state": 1, "category": "ChiPy", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/568_reverse-engineering-ian-bicking-s-brain-inside-pip-and-virtualenv.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-02-10", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": "", "summary": "Pip and virtualenv: many use them; not so many understand just how they work\ntheir magic. If you're a pip/virtualenv user but haven't yet dared crack the\nlid (or you have, and found it a bit difficult to follow), come along for a\nfast-paced guided tour. Knowing these tools will help you make more effective\nuse of them, and might also turn you into a contributor.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:28.070", "id": 568, "related_urls": [], "slug": "reverse-engineering-ian-bicking--39-s-brain--insi", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/568_reverse-engineering-ian-bicking-s-brain-inside-pip-and-virtualenv.flv", "language": "English", "video_ogv_download_only": false, "speakers": ["Carl Meyer"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "ChiPy",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "  * 1 [http://us.pycon.org/2011/schedule/sessions/198/](http://us.pycon.org/2011/schedule/sessions/198/)\n  * 2 [http://pip.openplans.org/](http://pip.openplans.org/)\n  * 3 [http://virtualenv.openplans.org/](http://virtualenv.openplans.org/)\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 568,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-02-10",
+    "related_urls": [],
+    "slug": "reverse-engineering-ian-bicking--39-s-brain--insi",
+    "source_url": "",
+    "speakers": [
+        "Carl Meyer"
+    ],
+    "state": 1,
+    "summary": "Pip and virtualenv: many use them; not so many understand just how they work\ntheir magic. If you're a pip/virtualenv user but haven't yet dared crack the\nlid (or you have, and found it a bit difficult to follow), come along for a\nfast-paced guided tour. Knowing these tools will help you make more effective\nuse of them, and might also turn you into a contributor.\n\n",
+    "tags": [
+        "chipy",
+        "ianbicking",
+        "pip",
+        "virtualenv"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/CarlFK-ReverseengineeringIanBickingsBrainInsidePipAndVirtualenv225.png",
+    "title": "Reverse-engineering Ian Bicking's brain: inside pip and virtualenv.",
+    "updated": "2014-04-08T20:28:28.070",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/568_reverse-engineering-ian-bicking-s-brain-inside-pip-and-virtualenv.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/568_reverse-engineering-ian-bicking-s-brain-inside-pip-and-virtualenv.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

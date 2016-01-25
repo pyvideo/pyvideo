@@ -1,1 +1,42 @@
-{"tags": ["geneticprogramming", "gp", "pyohio", "pyohio2010"], "thumbnail_url": "http://a.images.blip.tv/Pyohio-GeneticProgrammingInPython240.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyOhio 2010: Genetic Programming in Python", "duration": null, "description": "Genetic Programming in Python\n\nPresented by Eric Floehr\n\nDid you know you can create and evolve programs that find solutions to\nproblems? This talk walks through how to use Genetic Programming (GP) as a\ntool to discover solutions to hard problems, when to use GP, how best to set\nup the GP environment, and how to interpret the results.\n\n", "state": 1, "category": "PyOhio 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 106086596, "updated": "2014-04-08T20:28:25.827", "id": 520, "related_urls": [], "slug": "pyohio-2010--genetic-programming-in-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/520_pyohio-2010-genetic-programming-in-python.flv", "language": "English", "video_ogv_download_only": false, "speakers": ["Eric Floehr"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyOhio 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Genetic Programming in Python\n\nPresented by Eric Floehr\n\nDid you know you can create and evolve programs that find solutions to\nproblems? This talk walks through how to use Genetic Programming (GP) as a\ntool to discover solutions to hard problems, when to use GP, how best to set\nup the GP environment, and how to interpret the results.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 520,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyohio-2010--genetic-programming-in-python",
+    "source_url": "",
+    "speakers": [
+        "Eric Floehr"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "geneticprogramming",
+        "gp",
+        "pyohio",
+        "pyohio2010"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pyohio-GeneticProgrammingInPython240.png",
+    "title": "PyOhio 2010: Genetic Programming in Python",
+    "updated": "2014-04-08T20:28:25.827",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/520_pyohio-2010-genetic-programming-in-python.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": 106086596,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

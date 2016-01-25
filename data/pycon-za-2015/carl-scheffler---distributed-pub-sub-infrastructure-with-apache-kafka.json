@@ -1,1 +1,39 @@
-{"tags": ["Room 215"], "thumbnail_url": "https://i.ytimg.com/vi/b8Cj5-LieH0/hqdefault.jpg", "embed": "", "added": "2015-09-30T02:44:04.605", "whiteboard": "", "video_flv_length": null, "title": "Distributed pub-sub infrastructure with Apache Kafka", "duration": 2387, "description": "[Apache Kafka](http://kafka.apache.org/) is great for building a large scale distributed data bus. Even a small cluster will happily accept and store thousands of messages per second, and make them available to consumers with low latency.\r\n\r\nKafka was chosen as the solution to our publish-subscribe infrastructure at [Takealot.com](http://www.takealot.com/). It supports our event-driven systems on the website, in the warehouses and in the office, as well as our analytics and machine learning projects.\r\n\r\nThis talk will\r\n\r\n * introduce the basic Kafka principles that make things work,\r\n * outline how Kafka fits in with the rest of our architecture,\r\n * cover some of the practicalities of building Python-based Kafka services,\r\n * compare the two main Python libraries for Kafka, namely [kafka-python](https://github.com/mumrah/kafka-python) and [pykafka](https://github.com/Parsely/pykafka),\r\n * demonstrate some practical applications at Takealot.com.\r\n\r\nJoin in if you are interested in scalable distributed infrastructure.", "state": 1, "category": "PyCon ZA 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-10-01", "copyright_text": "", "source_url": "http://youtu.be/b8Cj5-LieH0", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2015-10-10T14:30:41.896", "id": 3924, "related_urls": [], "slug": "distributed-pub-sub-infrastructure-with-apache-ka", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Carl Scheffler"]}
+{
+    "added": "2015-09-30T02:44:04.605",
+    "category": "PyCon ZA 2015",
+    "copyright_text": "",
+    "description": "[Apache Kafka](http://kafka.apache.org/) is great for building a large scale distributed data bus. Even a small cluster will happily accept and store thousands of messages per second, and make them available to consumers with low latency.\r\n\r\nKafka was chosen as the solution to our publish-subscribe infrastructure at [Takealot.com](http://www.takealot.com/). It supports our event-driven systems on the website, in the warehouses and in the office, as well as our analytics and machine learning projects.\r\n\r\nThis talk will\r\n\r\n * introduce the basic Kafka principles that make things work,\r\n * outline how Kafka fits in with the rest of our architecture,\r\n * cover some of the practicalities of building Python-based Kafka services,\r\n * compare the two main Python libraries for Kafka, namely [kafka-python](https://github.com/mumrah/kafka-python) and [pykafka](https://github.com/Parsely/pykafka),\r\n * demonstrate some practical applications at Takealot.com.\r\n\r\nJoin in if you are interested in scalable distributed infrastructure.",
+    "duration": 2387,
+    "embed": "",
+    "id": 3924,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-10-01",
+    "related_urls": [],
+    "slug": "distributed-pub-sub-infrastructure-with-apache-ka",
+    "source_url": "http://youtu.be/b8Cj5-LieH0",
+    "speakers": [
+        "Carl Scheffler"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "Room 215"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/b8Cj5-LieH0/hqdefault.jpg",
+    "title": "Distributed pub-sub infrastructure with Apache Kafka",
+    "updated": "2015-10-10T14:30:41.896",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

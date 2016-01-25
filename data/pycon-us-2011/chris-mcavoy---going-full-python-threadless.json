@@ -1,1 +1,42 @@
-{"tags": ["casestudy", "pycon", "pycon2011", "threadless"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011GoingFullPythonThreadless741.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Going Full Python - Threadless", "duration": null, "description": "  \n\nGoing Full Python -- Threadless\n\nPresented by Chris McAvoy\n\nThreadless is a 10 year old community based design company with an\noverpowering love of witty t-shirts and a mission to 'inspire awesomeness.'\nAfter 10 years of working primarily with PHP, Threadless has decided to use\nPython as our base development language. The decision was 10% technical and\n90% touchy feely. We know what a powerful community can do to a product, and\nsee the same sort of drive and passion in the Python community that we see in\nour own design community. Python is the peanut butter to our jelly. We're\nexcited to share our jelly with you. Chris McAvoy, VP of Technology at\nThreadless (and the founder of the Chicago Python Users Group), will share a\nbit about the companies history, the role of technology in supporting the\ncommunity at the core of the business, and why Python and Threadless are going\nto be totally BFF's.\n\n", "state": 1, "category": "PyCon US 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/385_going-full-python-threadless.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-03-11", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 107891792, "updated": "2014-04-08T20:28:27.978", "id": 385, "related_urls": [], "slug": "pycon-2011--going-full-python---threadless", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Chris McAvoy"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2011",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "  \n\nGoing Full Python -- Threadless\n\nPresented by Chris McAvoy\n\nThreadless is a 10 year old community based design company with an\noverpowering love of witty t-shirts and a mission to 'inspire awesomeness.'\nAfter 10 years of working primarily with PHP, Threadless has decided to use\nPython as our base development language. The decision was 10% technical and\n90% touchy feely. We know what a powerful community can do to a product, and\nsee the same sort of drive and passion in the Python community that we see in\nour own design community. Python is the peanut butter to our jelly. We're\nexcited to share our jelly with you. Chris McAvoy, VP of Technology at\nThreadless (and the founder of the Chicago Python Users Group), will share a\nbit about the companies history, the role of technology in supporting the\ncommunity at the core of the business, and why Python and Threadless are going\nto be totally BFF's.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 385,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-03-11",
+    "related_urls": [],
+    "slug": "pycon-2011--going-full-python---threadless",
+    "source_url": "",
+    "speakers": [
+        "Chris McAvoy"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "casestudy",
+        "pycon",
+        "pycon2011",
+        "threadless"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011GoingFullPythonThreadless741.png",
+    "title": "Going Full Python - Threadless",
+    "updated": "2014-04-08T20:28:27.978",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/385_going-full-python-threadless.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 107891792,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

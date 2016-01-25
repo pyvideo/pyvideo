@@ -1,1 +1,39 @@
-{"tags": ["Geophysics Mini-Symposia"], "thumbnail_url": "http://i3.ytimg.com/vi/jv_1-NwW0i4/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/jv_1-NwW0i4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/jv_1-NwW0i4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-31T16:35:19", "whiteboard": "", "video_flv_length": null, "title": "Building a Solver Based on PyClaw for the Solution of the Multi-Layer Shallow Water Equations", "duration": null, "description": "The multi-layer shallow water equations are an active topic for researchers in\ngeophysical fluid dynamics looking for ways to increase the validity of\nshallow water modeling techniques without using a fully three dimensional\nmodel which may be too costly for the domain size being looked at. In this\ntalk we will step through the effort needed to convert a Fortran based solver\nto one using the PyClaw framework, a Python framework targeted at the solution\nof hyperbolic conservation laws. Once the application is converted the ease of\nimplementing parallel and other solver strategies is greatly simplified.\nDiscussion of how this is accomplished and design decisions and future\nextensions to PyClaw will also be presented.\n\n", "state": 1, "category": "SciPy 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Building_a_Solver_Based_on_PyC.mp4?Signature=HM7U5y46Dx%2BYWUBpUU1AP6lU2sc%3D&Expires=1346444626&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-18", "copyright_text": "CC BY-SA", "source_url": "http://youtube.com/watch?v=jv_1-NwW0i4", "video_webm_url": "", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.139", "id": 1217, "related_urls": [], "slug": "building-a-solver-based-on-pyclaw-for-the-solutio", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Kyle Mandli"]}
+{
+    "added": "2012-08-31T16:35:19",
+    "category": "SciPy 2012",
+    "copyright_text": "CC BY-SA",
+    "description": "The multi-layer shallow water equations are an active topic for researchers in\ngeophysical fluid dynamics looking for ways to increase the validity of\nshallow water modeling techniques without using a fully three dimensional\nmodel which may be too costly for the domain size being looked at. In this\ntalk we will step through the effort needed to convert a Fortran based solver\nto one using the PyClaw framework, a Python framework targeted at the solution\nof hyperbolic conservation laws. Once the application is converted the ease of\nimplementing parallel and other solver strategies is greatly simplified.\nDiscussion of how this is accomplished and design decisions and future\nextensions to PyClaw will also be presented.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/jv_1-NwW0i4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/jv_1-NwW0i4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1217,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-07-18",
+    "related_urls": [],
+    "slug": "building-a-solver-based-on-pyclaw-for-the-solutio",
+    "source_url": "http://youtube.com/watch?v=jv_1-NwW0i4",
+    "speakers": [
+        "Kyle Mandli"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "Geophysics Mini-Symposia"
+    ],
+    "thumbnail_url": "http://i3.ytimg.com/vi/jv_1-NwW0i4/hqdefault.jpg",
+    "title": "Building a Solver Based on PyClaw for the Solution of the Multi-Layer Shallow Water Equations",
+    "updated": "2014-04-08T20:28:27.139",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Building_a_Solver_Based_on_PyC.mp4?Signature=HM7U5y46Dx%2BYWUBpUU1AP6lU2sc%3D&Expires=1346444626&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

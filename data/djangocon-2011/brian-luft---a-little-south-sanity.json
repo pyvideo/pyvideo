@@ -1,1 +1,41 @@
-{"tags": ["djangocon", "djangocon2011", "south"], "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-ALittleSouthSanity152-343.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "A Little South Sanity", "duration": null, "description": "A Little South Sanity\n\nPresented by Brian Luft\n\nSouth is a useful tool in agile development environments, but learning to use\nit effectively can take some practice. In this demo-driven talk we'll walk\nthrough some common workflow examples, dissect a couple pitfalls, and call out\nthe relative strengths and weaknesses of South as a tool at each step. Finding\nSouth's sweet spot for your environment will give you the best results.\n\n", "state": 1, "category": "DjangoCon 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/91_a-little-south-sanity.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 80380753, "updated": "2014-04-08T20:28:25.377", "id": 91, "related_urls": [], "slug": "djangocon-2011--a-little-south-sanity", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Brian Luft"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "DjangoCon 2011",
+    "copyright_text": "",
+    "description": "A Little South Sanity\n\nPresented by Brian Luft\n\nSouth is a useful tool in agile development environments, but learning to use\nit effectively can take some practice. In this demo-driven talk we'll walk\nthrough some common workflow examples, dissect a couple pitfalls, and call out\nthe relative strengths and weaknesses of South as a tool at each step. Finding\nSouth's sweet spot for your environment will give you the best results.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 91,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "djangocon-2011--a-little-south-sanity",
+    "source_url": "",
+    "speakers": [
+        "Brian Luft"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "djangocon",
+        "djangocon2011",
+        "south"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-ALittleSouthSanity152-343.jpg",
+    "title": "A Little South Sanity",
+    "updated": "2014-04-08T20:28:25.377",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/91_a-little-south-sanity.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 80380753,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

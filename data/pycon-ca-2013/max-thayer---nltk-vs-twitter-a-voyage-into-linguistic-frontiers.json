@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i1.ytimg.com/vi/l7LosrTyyR4/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/l7LosrTyyR4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/l7LosrTyyR4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-08-01T21:44:58", "whiteboard": "", "video_flv_length": null, "title": "NLTK vs Twitter: A Voyage into Linguistic Frontiers", "duration": 20, "description": "", "state": 1, "category": "PyCon CA 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-08-10", "copyright_text": "CC BY-SA 2.5 CA", "source_url": "http://www.youtube.com/watch?v=l7LosrTyyR4", "video_webm_url": null, "summary": "Language is complicated. We'll show you how to use statistics and geography to do linguistic research without the hassle of semantics using Flask for data collection, the NLTK for data parsing, and d3 for pretty graphs.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.179", "id": 2296, "related_urls": [], "slug": "nltk-vs-twitter-a-voyage-into-linguistic-frontie", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Max Thayer"]}
+{
+    "added": "2013-08-01T21:44:58",
+    "category": "PyCon CA 2013",
+    "copyright_text": "CC BY-SA 2.5 CA",
+    "description": "",
+    "duration": 20,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/l7LosrTyyR4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/l7LosrTyyR4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2296,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-08-10",
+    "related_urls": [],
+    "slug": "nltk-vs-twitter-a-voyage-into-linguistic-frontie",
+    "source_url": "http://www.youtube.com/watch?v=l7LosrTyyR4",
+    "speakers": [
+        "Max Thayer"
+    ],
+    "state": 1,
+    "summary": "Language is complicated. We'll show you how to use statistics and geography to do linguistic research without the hassle of semantics using Flask for data collection, the NLTK for data parsing, and d3 for pretty graphs.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/l7LosrTyyR4/hqdefault.jpg",
+    "title": "NLTK vs Twitter: A Voyage into Linguistic Frontiers",
+    "updated": "2014-04-08T20:28:26.179",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

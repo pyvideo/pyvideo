@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i4.ytimg.com/vi/c5MPg88mdgc/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/c5MPg88mdgc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/c5MPg88mdgc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-06-13T16:51:23", "whiteboard": "", "video_flv_length": null, "title": "Ultimate Language Shootout IV: Haskell or: How a List Comprehension Is Like a Burrito", "duration": 7, "description": "", "state": 1, "category": "ChiPy", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvchipy/Ultimate_Language_Shootout_IV_.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-06-13", "copyright_text": "CC BY-SA", "source_url": "https://www.youtube.com/watch?v=c5MPg88mdgc", "video_webm_url": null, "summary": "It's a compiled, statically typed, lazy, purely functional programming language. About as far as possible from Python? Not quite. The languages have a lot in common and Python has already borrowed a few tricks from Haskell.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.520", "id": 1866, "related_urls": [], "slug": "ultimate-language-shootout-iv-haskell-or-how-a", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Greg Kettler"]}
+{
+    "added": "2013-06-13T16:51:23",
+    "category": "ChiPy",
+    "copyright_text": "CC BY-SA",
+    "description": "",
+    "duration": 7,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/c5MPg88mdgc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/c5MPg88mdgc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1866,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-06-13",
+    "related_urls": [],
+    "slug": "ultimate-language-shootout-iv-haskell-or-how-a",
+    "source_url": "https://www.youtube.com/watch?v=c5MPg88mdgc",
+    "speakers": [
+        "Greg Kettler"
+    ],
+    "state": 1,
+    "summary": "It's a compiled, statically typed, lazy, purely functional programming language. About as far as possible from Python? Not quite. The languages have a lot in common and Python has already borrowed a few tricks from Haskell.",
+    "tags": [],
+    "thumbnail_url": "http://i4.ytimg.com/vi/c5MPg88mdgc/hqdefault.jpg",
+    "title": "Ultimate Language Shootout IV: Haskell or: How a List Comprehension Is Like a Burrito",
+    "updated": "2014-04-08T20:28:26.520",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvchipy/Ultimate_Language_Shootout_IV_.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,43 @@
-{"tags": ["design", "djangocon", "djangocon2011", "ui", "ux"], "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-BenevolentDesignerForLifesKeynoteDesignersMakeItGoToE975-385.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Benevolent Designer For Life's Keynote - Designers Make It Go to Eleven", "duration": null, "description": "Benevolent Designer for Life's Keynote: Designers make it go to eleven\n\nPresented by Idan Gazit\n\nThe open-source world is and always has been focused on code; attention and\nrespect doled out in exchange for patches. As a result, many open-source\nprojects want for design love but don't know how to secure it. We scare off\npotential contributors from the many fields beneath the aegis of \"design\":\nuser experience, user interfaces, usability, interaction design, information\narchitects, graphic design, typography, and other roles assumed by the authors\nof our markup and styling. Django can be a model citizen among open-source\nprojects in changing these attitudes and coaxing contributors out of the\nwoodwork -- not just for the benefit of the framework, but for the\nconstellation of 3rd party apps which make Django great. Other FOSS\ncommunities have made efforts that we can learn from, and the fight to change\nperceptions is less uphill than you might think. This talk will cover: -\nMisconceptions of \"Design.\" What is design, and what do designers do? - A\nbrief trip down memory lane, and how Django came to be relatively designer-\nfriendly. - \"I don't get it: what is the BDesignFL role?\" - Process and tools:\nHow can Django better engage designers, for core's benefit and for the benefit\nof *your projects*. How can we help these contributors get over the \"suck\"\nthreshold? - What parts of core are ripe for love from designers? What 3rd\nparty projects?\n\n", "state": 1, "category": "DjangoCon 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/84_benevolent-designer-for-life-s-keynote-designers-make-it-go-to-eleven.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 105739185, "updated": "2014-04-08T20:28:25.392", "id": 84, "related_urls": [], "slug": "djangocon-2011--benevolent-designer-for-life--39-", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Idan Gazit"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "DjangoCon 2011",
+    "copyright_text": "",
+    "description": "Benevolent Designer for Life's Keynote: Designers make it go to eleven\n\nPresented by Idan Gazit\n\nThe open-source world is and always has been focused on code; attention and\nrespect doled out in exchange for patches. As a result, many open-source\nprojects want for design love but don't know how to secure it. We scare off\npotential contributors from the many fields beneath the aegis of \"design\":\nuser experience, user interfaces, usability, interaction design, information\narchitects, graphic design, typography, and other roles assumed by the authors\nof our markup and styling. Django can be a model citizen among open-source\nprojects in changing these attitudes and coaxing contributors out of the\nwoodwork -- not just for the benefit of the framework, but for the\nconstellation of 3rd party apps which make Django great. Other FOSS\ncommunities have made efforts that we can learn from, and the fight to change\nperceptions is less uphill than you might think. This talk will cover: -\nMisconceptions of \"Design.\" What is design, and what do designers do? - A\nbrief trip down memory lane, and how Django came to be relatively designer-\nfriendly. - \"I don't get it: what is the BDesignFL role?\" - Process and tools:\nHow can Django better engage designers, for core's benefit and for the benefit\nof *your projects*. How can we help these contributors get over the \"suck\"\nthreshold? - What parts of core are ripe for love from designers? What 3rd\nparty projects?\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 84,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "djangocon-2011--benevolent-designer-for-life--39-",
+    "source_url": "",
+    "speakers": [
+        "Idan Gazit"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "design",
+        "djangocon",
+        "djangocon2011",
+        "ui",
+        "ux"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-BenevolentDesignerForLifesKeynoteDesignersMakeItGoToE975-385.jpg",
+    "title": "Benevolent Designer For Life's Keynote - Designers Make It Go to Eleven",
+    "updated": "2014-04-08T20:28:25.392",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/84_benevolent-designer-for-life-s-keynote-designers-make-it-go-to-eleven.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 105739185,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

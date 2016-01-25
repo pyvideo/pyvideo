@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/cRb96NEHW4I/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/cRb96NEHW4I?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/cRb96NEHW4I?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-08-06T18:53:20.078", "whiteboard": "", "video_flv_length": null, "title": "Speed Without Drag", "duration": null, "description": "", "state": 1, "category": "PyData Berlin 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://video.ep14.c3voc.de/20256.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-26", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=cRb96NEHW4I", "video_webm_url": "", "summary": "Speed without drag: making code faster when there's no time to waste A practical walkthrough over the state-of-the-art of low-friction numerical Python enhancing solutions, covering: exhausting CPython, NumPy, Numba, Parakeet, Cython, Theano, Pyston, PyPy/NumPyPy and Blaze.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-06T20:45:49.883", "id": 3067, "related_urls": [], "slug": "speed-without-drag", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Saul Diez-Guerra"]}
+{
+    "added": "2014-08-06T18:53:20.078",
+    "category": "PyData Berlin 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/cRb96NEHW4I?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/cRb96NEHW4I?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3067,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-26",
+    "related_urls": [],
+    "slug": "speed-without-drag",
+    "source_url": "http://www.youtube.com/watch?v=cRb96NEHW4I",
+    "speakers": [
+        "Saul Diez-Guerra"
+    ],
+    "state": 1,
+    "summary": "Speed without drag: making code faster when there's no time to waste A practical walkthrough over the state-of-the-art of low-friction numerical Python enhancing solutions, covering: exhausting CPython, NumPy, Numba, Parakeet, Cython, Theano, Pyston, PyPy/NumPyPy and Blaze.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/cRb96NEHW4I/hqdefault.jpg",
+    "title": "Speed Without Drag",
+    "updated": "2014-08-06T20:45:49.883",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://video.ep14.c3voc.de/20256.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/fTRkm3d6ebw/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/fTRkm3d6ebw' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2014-12-07T21:07:42.489", "whiteboard": "", "video_flv_length": null, "title": "Introducci\u00f3n A Jupyter", "duration": null, "description": "", "state": 1, "category": "PyCon Ar 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-11-28", "copyright_text": "youtube", "source_url": "https://www.youtube.com/watch?v=fTRkm3d6ebw", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-12-07T21:22:59.281", "id": 3363, "related_urls": [], "slug": "introduccion-a-jupyter", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "Spanish", "video_ogv_download_only": false, "speakers": ["Dami\u00e1n Avila"]}
+{
+    "added": "2014-12-07T21:07:42.489",
+    "category": "PyCon Ar 2014",
+    "copyright_text": "youtube",
+    "description": "",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/fTRkm3d6ebw' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3363,
+    "language": "Spanish",
+    "quality_notes": "",
+    "recorded": "2014-11-28",
+    "related_urls": [],
+    "slug": "introduccion-a-jupyter",
+    "source_url": "https://www.youtube.com/watch?v=fTRkm3d6ebw",
+    "speakers": [
+        "Dami\u00e1n Avila"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/fTRkm3d6ebw/hqdefault.jpg",
+    "title": "Introducci\u00f3n A Jupyter",
+    "updated": "2014-12-07T21:22:59.281",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

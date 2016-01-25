@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/St9cL47_1GI/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/St9cL47_1GI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/St9cL47_1GI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-04-13T21:20:23.783", "whiteboard": "", "video_flv_length": null, "title": "Advanced techniques for Web functional testing", "duration": null, "description": "", "state": 1, "category": "PyCon US 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-04-13", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=St9cL47_1GI", "video_webm_url": null, "summary": "This talk will present multiple advanced techniques for Web functional testing. You will learn how to test a wide range of Web front-end components, such as CSS, visuals, responsive designs and user interactions \u2014 all using Python. Various practical tips will also be presented to harness your functional tests in real project workflows.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-13T21:20:23.783", "id": 2660, "related_urls": [], "slug": "advanced-techniques-for-web-functional-testing", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Julien Phalip"]}
+{
+    "added": "2014-04-13T21:20:23.783",
+    "category": "PyCon US 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/St9cL47_1GI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/St9cL47_1GI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2660,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-04-13",
+    "related_urls": [],
+    "slug": "advanced-techniques-for-web-functional-testing",
+    "source_url": "http://www.youtube.com/watch?v=St9cL47_1GI",
+    "speakers": [
+        "Julien Phalip"
+    ],
+    "state": 1,
+    "summary": "This talk will present multiple advanced techniques for Web functional testing. You will learn how to test a wide range of Web front-end components, such as CSS, visuals, responsive designs and user interactions \u2014 all using Python. Various practical tips will also be presented to harness your functional tests in real project workflows.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/St9cL47_1GI/hqdefault.jpg",
+    "title": "Advanced techniques for Web functional testing",
+    "updated": "2014-04-13T21:20:23.783",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

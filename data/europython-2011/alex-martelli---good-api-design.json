@@ -1,1 +1,41 @@
-{"tags": ["api", "design", "interfaces"], "thumbnail_url": "http://i.ytimg.com/vi/bv89IOFvn7o/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/bv89IOFvn7o?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/bv89IOFvn7o?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:43", "whiteboard": "", "video_flv_length": null, "title": "Good API design", "duration": null, "description": "Designing interfaces so that other code can interact with ours (whether our\ncode is a library, framework, application, website\u2026) is a very common and\nclearly crucial activity, but it's fraught with dangers - there's a lot stuff\nwe all keep doing wrong time after time. This talk shows some common\ncategories of API design errors encountered in the wild, with tips on how to\navoid them when you design your next API.\n\nGoals: to show you how to focus resources and attention to help avoid mistakes\nin API design. Prereqs: experience designing and developing software, esp.\nsoftware which needs to interact w/other existing software.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-13", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=bv89IOFvn7o", "video_webm_url": null, "summary": "[EuroPython 2011] Alex Martelli - 20 June 2011 in \"Track Spaghetti\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.824", "id": 1144, "related_urls": [], "slug": "good-api-design-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Alex Martelli"]}
+{
+    "added": "2012-08-30T21:02:43",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "Designing interfaces so that other code can interact with ours (whether our\ncode is a library, framework, application, website\u2026) is a very common and\nclearly crucial activity, but it's fraught with dangers - there's a lot stuff\nwe all keep doing wrong time after time. This talk shows some common\ncategories of API design errors encountered in the wild, with tips on how to\navoid them when you design your next API.\n\nGoals: to show you how to focus resources and attention to help avoid mistakes\nin API design. Prereqs: experience designing and developing software, esp.\nsoftware which needs to interact w/other existing software.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/bv89IOFvn7o?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/bv89IOFvn7o?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1144,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-13",
+    "related_urls": [],
+    "slug": "good-api-design-0",
+    "source_url": "http://www.youtube.com/watch?v=bv89IOFvn7o",
+    "speakers": [
+        "Alex Martelli"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Alex Martelli - 20 June 2011 in \"Track Spaghetti\"\n\n",
+    "tags": [
+        "api",
+        "design",
+        "interfaces"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/bv89IOFvn7o/hqdefault.jpg",
+    "title": "Good API design",
+    "updated": "2014-04-08T20:28:27.824",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

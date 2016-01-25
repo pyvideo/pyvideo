@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/x-kB2o8sd5c/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/x-kB2o8sd5c?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/x-kB2o8sd5c?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-14T09:11:06", "whiteboard": "", "video_flv_length": null, "title": "A Python \u00c6sthetic: Beauty and Why I Python", "duration": null, "description": "", "state": 1, "category": "PyCon CA 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/A_Python_Aesthetic_Beauty_and_Warts_in_Languages_and_in_Code.mp4?Signature=qlajo3DZEbMCl67UYbm6TArXkx0%3D&Expires=1352851954&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-11-10", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=x-kB2o8sd5c", "video_webm_url": "", "summary": "Why did I start using Python in the late 1990s? Was it for any of the reasons\nthat I remain a fan today? In this talk we will explore how Python, even while\ntraining us to avoid and become blind to its rough edges, works to teach us\nnew ways of making programs beautiful. Even novices should learn new things to\nlove about Python by listening to this talk!\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.839", "id": 1599, "related_urls": [], "slug": "a-python-sthetic-beauty-and-why-i-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Brandon Rhodes"]}
+{
+    "added": "2012-11-14T09:11:06",
+    "category": "PyCon CA 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/x-kB2o8sd5c?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/x-kB2o8sd5c?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1599,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-11-10",
+    "related_urls": [],
+    "slug": "a-python-sthetic-beauty-and-why-i-python",
+    "source_url": "https://www.youtube.com/watch?v=x-kB2o8sd5c",
+    "speakers": [
+        "Brandon Rhodes"
+    ],
+    "state": 1,
+    "summary": "Why did I start using Python in the late 1990s? Was it for any of the reasons\nthat I remain a fan today? In this talk we will explore how Python, even while\ntraining us to avoid and become blind to its rough edges, works to teach us\nnew ways of making programs beautiful. Even novices should learn new things to\nlove about Python by listening to this talk!\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/x-kB2o8sd5c/hqdefault.jpg",
+    "title": "A Python \u00c6sthetic: Beauty and Why I Python",
+    "updated": "2014-04-08T20:28:26.839",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/A_Python_Aesthetic_Beauty_and_Warts_in_Languages_and_in_Code.mp4?Signature=qlajo3DZEbMCl67UYbm6TArXkx0%3D&Expires=1352851954&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

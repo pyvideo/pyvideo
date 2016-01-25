@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/VQXG_I0wgeo/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/VQXG_I0wgeo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/VQXG_I0wgeo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-08-14T15:33:05.536", "whiteboard": "needs editing", "video_flv_length": null, "title": "The Curse of the Django Podcast by Elena Williams", "duration": null, "description": "The Django community is full of amazing, enthusiastic and multi-talented individuals who love to take on exciting new extra-curricular projects in their massive amounts of spare time. \r\n\r\nA Django podcast is an excellent example of this kind of project and it is one that has been taken up no less than 5 times so far.\r\n\r\nI am the latest to take up this torch.\r\n\r\nThis has so far been an amazing, educational, exhilarating experience: I have had the honour of gathering the thoughts of some of the best, brightest and most prolific in our community. It's been a load of work but also a load of fun.\r\n\r\nCome hear the story of how this has happened, and come to learn how you can be part of the greater Django information and communication machinery.\r\n\r\nPyCon Australia is the national conference for users of the Python Programming Language. In August 2014, we're heading to Brisbane to bring together students, enthusiasts, and professionals with a love of Python from around Australia, and all around the World. \r\n\r\nAugust 1-5, Brisbane, Queensland, Australia", "state": 1, "category": "PyCon AU 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-08-11", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=VQXG_I0wgeo", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-14T16:33:32.858", "id": 3088, "related_urls": [], "slug": "the-curse-of-the-django-podcast-by-elena-williams", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Elena Williams"]}
+{
+    "added": "2014-08-14T15:33:05.536",
+    "category": "PyCon AU 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "The Django community is full of amazing, enthusiastic and multi-talented individuals who love to take on exciting new extra-curricular projects in their massive amounts of spare time. \r\n\r\nA Django podcast is an excellent example of this kind of project and it is one that has been taken up no less than 5 times so far.\r\n\r\nI am the latest to take up this torch.\r\n\r\nThis has so far been an amazing, educational, exhilarating experience: I have had the honour of gathering the thoughts of some of the best, brightest and most prolific in our community. It's been a load of work but also a load of fun.\r\n\r\nCome hear the story of how this has happened, and come to learn how you can be part of the greater Django information and communication machinery.\r\n\r\nPyCon Australia is the national conference for users of the Python Programming Language. In August 2014, we're heading to Brisbane to bring together students, enthusiasts, and professionals with a love of Python from around Australia, and all around the World. \r\n\r\nAugust 1-5, Brisbane, Queensland, Australia",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/VQXG_I0wgeo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/VQXG_I0wgeo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3088,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-08-11",
+    "related_urls": [],
+    "slug": "the-curse-of-the-django-podcast-by-elena-williams",
+    "source_url": "http://www.youtube.com/watch?v=VQXG_I0wgeo",
+    "speakers": [
+        "Elena Williams"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/VQXG_I0wgeo/hqdefault.jpg",
+    "title": "The Curse of the Django Podcast by Elena Williams",
+    "updated": "2014-08-14T16:33:32.858",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing"
+}

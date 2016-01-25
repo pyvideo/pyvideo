@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/QFPtArm4Wc0/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/QFPtArm4Wc0\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-11-23T19:30:07.220", "whiteboard": "needs editing", "video_flv_length": null, "title": "Orchestration and CI/CD with Ansible and OpenStack", "duration": null, "description": "This project will demonstrate how to leverage CI/CD pipelines, to deploy and rollback applications in the Openstack Cloud. Best-practices allow to automate tasks and achieve high-degree of repeatability and robustness.\r\n\r\nJenkins will be used to implement continuous integration and continuous delivery jobs and pipelines. Packer will create images of disposable systems, being containers and Cloud servers.\r\nAnsible will be used to both create images with Packer, and eventually orchestrate provisioning of systems in staging and production environments in a blue-green fashion.\r\n\r\nDeep knowledge of deployment and workflow allows to continuously refine the process, adapt it to custom requirements, and make it smoother.\r\n\r\nThe following technologies will be presented:\r\n\r\n- Ansible\r\n- Docker on CoreOS cluster\r\n- Git repository\r\n- Jenkins\r\n- Openstack\r\n- Packer\r\n- Vagrant", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-03", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=QFPtArm4Wc0", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-11-23T19:30:07.220", "id": 4048, "related_urls": [], "slug": "orchestration-and-cicd-with-ansible-and-openstac", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Simone Soldateschi"]}
+{
+    "added": "2015-11-23T19:30:07.220",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "This project will demonstrate how to leverage CI/CD pipelines, to deploy and rollback applications in the Openstack Cloud. Best-practices allow to automate tasks and achieve high-degree of repeatability and robustness.\r\n\r\nJenkins will be used to implement continuous integration and continuous delivery jobs and pipelines. Packer will create images of disposable systems, being containers and Cloud servers.\r\nAnsible will be used to both create images with Packer, and eventually orchestrate provisioning of systems in staging and production environments in a blue-green fashion.\r\n\r\nDeep knowledge of deployment and workflow allows to continuously refine the process, adapt it to custom requirements, and make it smoother.\r\n\r\nThe following technologies will be presented:\r\n\r\n- Ansible\r\n- Docker on CoreOS cluster\r\n- Git repository\r\n- Jenkins\r\n- Openstack\r\n- Packer\r\n- Vagrant",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/QFPtArm4Wc0\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 4048,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-03",
+    "related_urls": [],
+    "slug": "orchestration-and-cicd-with-ansible-and-openstac",
+    "source_url": "https://www.youtube.com/watch?v=QFPtArm4Wc0",
+    "speakers": [
+        "Simone Soldateschi"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/QFPtArm4Wc0/hqdefault.jpg",
+    "title": "Orchestration and CI/CD with Ansible and OpenStack",
+    "updated": "2015-11-23T19:30:07.220",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

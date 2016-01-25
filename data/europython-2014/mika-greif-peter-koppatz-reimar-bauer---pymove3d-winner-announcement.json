@@ -1,1 +1,48 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/CJZhdLXw8cI/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/CJZhdLXw8cI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/CJZhdLXw8cI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:36.173", "whiteboard": "needs editing 10011", "video_flv_length": null, "title": "pymove3D Winner Announcement", "duration": null, "description": "Mika Greif, a 13 year old school student gets the first price at the pymove3D contest 2014 by his application Eiszapfenh\u00f6hle (icicle cave).", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-21", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=CJZhdLXw8cI", "video_webm_url": "", "summary": "The winner of the pymove3D competition is announced. The pymove3D competition  ran until May 1st, 2014. The goal was to write a Python program that uses the 3D capabilities of Blender.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-02T13:19:58.981", "id": 3048, "related_urls": [{"url": "https://twitter.com/TFConsult/status/491196373795352576", "description": "photo of prize giving"}, {"url": "http://pymove3d.pysv.org/", "description": "competition site"}], "slug": "pymove3d-winner-announcement", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Mika Greif", "Peter Koppatz", "Reimar Bauer"]}
+{
+    "added": "2014-07-31T00:46:36.173",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "Mika Greif, a 13 year old school student gets the first price at the pymove3D contest 2014 by his application Eiszapfenh\u00f6hle (icicle cave).",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/CJZhdLXw8cI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/CJZhdLXw8cI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3048,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-21",
+    "related_urls": [
+        {
+            "description": "photo of prize giving",
+            "url": "https://twitter.com/TFConsult/status/491196373795352576"
+        },
+        {
+            "description": "competition site",
+            "url": "http://pymove3d.pysv.org/"
+        }
+    ],
+    "slug": "pymove3d-winner-announcement",
+    "source_url": "http://www.youtube.com/watch?v=CJZhdLXw8cI",
+    "speakers": [
+        "Mika Greif",
+        "Peter Koppatz",
+        "Reimar Bauer"
+    ],
+    "state": 1,
+    "summary": "The winner of the pymove3D competition is announced. The pymove3D competition  ran until May 1st, 2014. The goal was to write a Python program that uses the 3D capabilities of Blender.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/CJZhdLXw8cI/hqdefault.jpg",
+    "title": "pymove3D Winner Announcement",
+    "updated": "2014-08-02T13:19:58.981",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing 10011"
+}

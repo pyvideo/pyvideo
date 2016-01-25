@@ -1,1 +1,39 @@
-{"tags": ["Plenary"], "thumbnail_url": "http://i2.ytimg.com/vi/e3lTby5RI54/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/e3lTby5RI54?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/e3lTby5RI54?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-31T16:34:24", "whiteboard": "", "video_flv_length": null, "title": "Matplotlib: Lessons from middle age.  Or, how you too can turn a hundred lines of patch rejection into two hundred thousand lines of code.", "duration": null, "description": "", "state": 1, "category": "SciPy 2012", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://archive.org/download/nextdayvideo/enthought%252Fscipy_2012%252Fmatplotlib_lessons_middle_age.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-18", "copyright_text": "CC BY-SA", "source_url": "https://www.youtube.com/watch?v=e3lTby5RI54", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.147", "id": 1192, "related_urls": [], "slug": "matplotlib-lessons-from-middle-age-or-how-you", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["John Hunter"]}
+{
+    "added": "2012-08-31T16:34:24",
+    "category": "SciPy 2012",
+    "copyright_text": "CC BY-SA",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/e3lTby5RI54?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/e3lTby5RI54?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1192,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-07-18",
+    "related_urls": [],
+    "slug": "matplotlib-lessons-from-middle-age-or-how-you",
+    "source_url": "https://www.youtube.com/watch?v=e3lTby5RI54",
+    "speakers": [
+        "John Hunter"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "Plenary"
+    ],
+    "thumbnail_url": "http://i2.ytimg.com/vi/e3lTby5RI54/hqdefault.jpg",
+    "title": "Matplotlib: Lessons from middle age.  Or, how you too can turn a hundred lines of patch rejection into two hundred thousand lines of code.",
+    "updated": "2014-04-08T20:28:27.147",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://archive.org/download/nextdayvideo/enthought%252Fscipy_2012%252Fmatplotlib_lessons_middle_age.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

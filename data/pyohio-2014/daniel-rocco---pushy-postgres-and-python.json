@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i.ytimg.com/vi/HvMj8srOh-o/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/HvMj8srOh-o?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/HvMj8srOh-o?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-19T02:13:15.599", "whiteboard": "", "video_flv_length": null, "title": "Pushy Postgres and Python", "duration": 3600, "description": "", "state": 1, "category": "PyOhio 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-26", "copyright_text": "CC BY", "source_url": "http://youtu.be/HvMj8srOh-o", "video_webm_url": "http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2842_Pushy_Postgres_and_Python.webm", "summary": "PostgreSQL is widely regarded as a powerful, full-featured, high-performance,\r\nscalable open source relational database management system.  But did you know\r\nthat Postgres has a built in publish-subscribe implementation? This powerful\r\nfeature offers exciting possibilities for distributed, data-centric\r\napplications.\r\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-08-08T21:22:05.280", "id": 2842, "related_urls": [], "slug": "pushy-postgres-and-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Daniel Rocco"]}
+{
+    "added": "2014-07-19T02:13:15.599",
+    "category": "PyOhio 2014",
+    "copyright_text": "CC BY",
+    "description": "",
+    "duration": 3600,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/HvMj8srOh-o?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/HvMj8srOh-o?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2842,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-26",
+    "related_urls": [],
+    "slug": "pushy-postgres-and-python",
+    "source_url": "http://youtu.be/HvMj8srOh-o",
+    "speakers": [
+        "Daniel Rocco"
+    ],
+    "state": 1,
+    "summary": "PostgreSQL is widely regarded as a powerful, full-featured, high-performance,\r\nscalable open source relational database management system.  But did you know\r\nthat Postgres has a built in publish-subscribe implementation? This powerful\r\nfeature offers exciting possibilities for distributed, data-centric\r\napplications.\r\n",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/HvMj8srOh-o/hqdefault.jpg",
+    "title": "Pushy Postgres and Python",
+    "updated": "2014-08-08T21:22:05.280",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2842_Pushy_Postgres_and_Python.webm",
+    "whiteboard": ""
+}

@@ -1,1 +1,42 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/4BbjSXZnjBo/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/4BbjSXZnjBo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/4BbjSXZnjBo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:35.019", "whiteboard": "", "video_flv_length": null, "title": "Pythonista: A full-featured Python environment for iOS devices", "duration": null, "description": "", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-22", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=4BbjSXZnjBo", "video_webm_url": "", "summary": "The [Pythonista][1] app delivers a full-featured Python development experience on an iPad or an iPhone.  This introduction to the app will provide a rapid overview of the Pythonista user experience, features and Community Forum.  Then it will focus on a few source code examples of using the GPS to deliver real-time local weather, use the image library to manipulate images and convert documents, use the gyroscope to understand pitch, yaw, and roll, use Dropbox to backup and restore scripts, images, etc.\r\n\r\n[1]: http://omz-software.com/pythonista", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-02T11:32:29.620", "id": 3038, "related_urls": [{"url": "http://omz-software.com/pythonista", "description": ""}], "slug": "pythonista-a-full-featured-python-environment-fo", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Chris Clauss"]}
+{
+    "added": "2014-07-31T00:46:35.019",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/4BbjSXZnjBo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/4BbjSXZnjBo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3038,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-22",
+    "related_urls": [
+        {
+            "description": "",
+            "url": "http://omz-software.com/pythonista"
+        }
+    ],
+    "slug": "pythonista-a-full-featured-python-environment-fo",
+    "source_url": "http://www.youtube.com/watch?v=4BbjSXZnjBo",
+    "speakers": [
+        "Chris Clauss"
+    ],
+    "state": 1,
+    "summary": "The [Pythonista][1] app delivers a full-featured Python development experience on an iPad or an iPhone.  This introduction to the app will provide a rapid overview of the Pythonista user experience, features and Community Forum.  Then it will focus on a few source code examples of using the GPS to deliver real-time local weather, use the image library to manipulate images and convert documents, use the gyroscope to understand pitch, yaw, and roll, use Dropbox to backup and restore scripts, images, etc.\r\n\r\n[1]: http://omz-software.com/pythonista",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/4BbjSXZnjBo/hqdefault.jpg",
+    "title": "Pythonista: A full-featured Python environment for iOS devices",
+    "updated": "2014-08-02T11:32:29.620",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

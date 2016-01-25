@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/WlgMwSHyXcg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/WlgMwSHyXcg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/WlgMwSHyXcg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-08-14T15:33:06.285", "whiteboard": "needs editing", "video_flv_length": null, "title": "Seeing with Python by Mark Rees", "duration": null, "description": "In 2013 I purchased a Ninja Block (http://ninjablocks.com/) and wanted to add a camera based sensor to it. So began my adventures in computer vision using python. The talk will discuss the various libraries (including PyOpenCV & SimpleCV ) available for python to perform CV tasks like motion detection, object tracking & facial recognition. As my goals for the camera sensor underwent \"feature creep\" the project required it's own dedicated processing power, so a BeagleBone Black & later a Raspberry Pi were purchased and the project became a IoT device. I will also share my experiences with developing python CV solutions ARM based computers. If the demo gods are willing, code examples will be demonstrated.", "state": 1, "category": "PyCon AU 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-08-11", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=WlgMwSHyXcg", "video_webm_url": "", "summary": "", "video_ogv_url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/58-out.ogv", "video_ogv_length": null, "updated": "2014-08-14T16:30:54.810", "id": 3095, "related_urls": [], "slug": "seeing-with-python-by-mark-rees", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Mark Rees"]}
+{
+    "added": "2014-08-14T15:33:06.285",
+    "category": "PyCon AU 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "In 2013 I purchased a Ninja Block (http://ninjablocks.com/) and wanted to add a camera based sensor to it. So began my adventures in computer vision using python. The talk will discuss the various libraries (including PyOpenCV & SimpleCV ) available for python to perform CV tasks like motion detection, object tracking & facial recognition. As my goals for the camera sensor underwent \"feature creep\" the project required it's own dedicated processing power, so a BeagleBone Black & later a Raspberry Pi were purchased and the project became a IoT device. I will also share my experiences with developing python CV solutions ARM based computers. If the demo gods are willing, code examples will be demonstrated.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/WlgMwSHyXcg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/WlgMwSHyXcg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3095,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-08-11",
+    "related_urls": [],
+    "slug": "seeing-with-python-by-mark-rees",
+    "source_url": "http://www.youtube.com/watch?v=WlgMwSHyXcg",
+    "speakers": [
+        "Mark Rees"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/WlgMwSHyXcg/hqdefault.jpg",
+    "title": "Seeing with Python by Mark Rees",
+    "updated": "2014-08-14T16:30:54.810",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/58-out.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing"
+}

@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i1.ytimg.com/vi/_SBwUTx6Y7U/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/_SBwUTx6Y7U?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/_SBwUTx6Y7U?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-26T10:09:17", "whiteboard": "", "video_flv_length": null, "title": " PyOhio 2013 Keynote: Sine Qua Nons", "duration": 75, "description": "", "state": 1, "category": "PyOhio 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvpyohio2013/Keynote.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-27", "copyright_text": "CC BY-SA 2.5 CA", "source_url": "https://www.youtube.com/watch?v=_SBwUTx6Y7U", "video_webm_url": null, "summary": "What are the key features of a modern dynamic language like Python that\r\nlet a programmer make progress even against difficult problems, even on\r\ndays when things are not going well?  Starting simple and then ramping\r\nup to complex, Brandon takes us from how beginners can use a Python\r\ndictionary to pair up matching data, to how to use ctypes to work around\r\nlimitations in the built-in Python SSL module, as he takes us through\r\nthe tools and approaches that for a Python programmer are all part of a\r\nday's work \u2014 the features without which we would not be as productive.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.234", "id": 2258, "related_urls": [], "slug": "keynote-4", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Brandon Rhodes"]}
+{
+    "added": "2013-07-26T10:09:17",
+    "category": "PyOhio 2013",
+    "copyright_text": "CC BY-SA 2.5 CA",
+    "description": "",
+    "duration": 75,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/_SBwUTx6Y7U?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/_SBwUTx6Y7U?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2258,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-27",
+    "related_urls": [],
+    "slug": "keynote-4",
+    "source_url": "https://www.youtube.com/watch?v=_SBwUTx6Y7U",
+    "speakers": [
+        "Brandon Rhodes"
+    ],
+    "state": 1,
+    "summary": "What are the key features of a modern dynamic language like Python that\r\nlet a programmer make progress even against difficult problems, even on\r\ndays when things are not going well?  Starting simple and then ramping\r\nup to complex, Brandon takes us from how beginners can use a Python\r\ndictionary to pair up matching data, to how to use ctypes to work around\r\nlimitations in the built-in Python SSL module, as he takes us through\r\nthe tools and approaches that for a Python programmer are all part of a\r\nday's work \u2014 the features without which we would not be as productive.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/_SBwUTx6Y7U/hqdefault.jpg",
+    "title": " PyOhio 2013 Keynote: Sine Qua Nons",
+    "updated": "2014-04-08T20:28:26.234",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvpyohio2013/Keynote.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

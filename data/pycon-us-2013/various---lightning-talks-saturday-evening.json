@@ -1,1 +1,39 @@
-{"tags": ["lightningtalks"], "thumbnail_url": "http://i.ytimg.com/vi/Ft6-r_vksDI/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Ft6-r_vksDI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Ft6-r_vksDI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-04-12T19:57:15", "whiteboard": "", "video_flv_length": null, "title": "Lightning Talks - Saturday evening", "duration": null, "description": "* [00:00](#t=0m) - Young Coders at PyCon 2013 - Katie Cunningham and Barbara Shaurette \r\n* [05:53](#t=5m53s) - Raspberry Pi connected to sensors - Jack Minardi\r\n* [08:23](#t=8m23s) - Python & ArcGIS for Transit Data Analysers - Amy Smith\r\n* [13:58](#t=13m58s) - Software Version Management - Quinn Weaver\r\n* [19:48](#t=19m48s) - Parts and Scons - Jason Kenny\r\n* [25:13](#t=25m13s) - Debugging Python on Linux with Visual Studio - Steve Dower\r\n* [37:35](#t=37m35s) - Titan Files for App Engine - Mike Fotinakis\r\n* [43:40](#t=43m40s) - Using git as a mercurial client - Dusty Phillips", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-16", "copyright_text": "CC BY-SA", "source_url": "https://www.youtube.com/watch?v=Ft6-r_vksDI", "video_webm_url": "", "summary": "Lightning talks from Saturday evening.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.650", "id": 1855, "related_urls": [], "slug": "saturday-evening-lightning-talks", "quality_notes": "Time code links don't work, yet.", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Various"]}
+{
+    "added": "2013-04-12T19:57:15",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC BY-SA",
+    "description": "* [00:00](#t=0m) - Young Coders at PyCon 2013 - Katie Cunningham and Barbara Shaurette \r\n* [05:53](#t=5m53s) - Raspberry Pi connected to sensors - Jack Minardi\r\n* [08:23](#t=8m23s) - Python & ArcGIS for Transit Data Analysers - Amy Smith\r\n* [13:58](#t=13m58s) - Software Version Management - Quinn Weaver\r\n* [19:48](#t=19m48s) - Parts and Scons - Jason Kenny\r\n* [25:13](#t=25m13s) - Debugging Python on Linux with Visual Studio - Steve Dower\r\n* [37:35](#t=37m35s) - Titan Files for App Engine - Mike Fotinakis\r\n* [43:40](#t=43m40s) - Using git as a mercurial client - Dusty Phillips",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Ft6-r_vksDI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Ft6-r_vksDI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1855,
+    "language": "English",
+    "quality_notes": "Time code links don't work, yet.",
+    "recorded": "2013-03-16",
+    "related_urls": [],
+    "slug": "saturday-evening-lightning-talks",
+    "source_url": "https://www.youtube.com/watch?v=Ft6-r_vksDI",
+    "speakers": [
+        "Various"
+    ],
+    "state": 1,
+    "summary": "Lightning talks from Saturday evening.",
+    "tags": [
+        "lightningtalks"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/Ft6-r_vksDI/hqdefault.jpg",
+    "title": "Lightning Talks - Saturday evening",
+    "updated": "2014-04-08T20:28:26.650",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

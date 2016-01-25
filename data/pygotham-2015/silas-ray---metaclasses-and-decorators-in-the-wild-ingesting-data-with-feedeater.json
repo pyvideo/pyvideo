@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/CqkB9kjBgzo/hqdefault.jpg", "embed": "", "added": "2015-08-10T15:48:01.533", "whiteboard": "", "video_flv_length": null, "title": "Metaclasses and Decorators in the Wild: Ingesting Data With FeedEater", "duration": 1169, "description": "FeedEater is a small library (https://github.com/Suitey/FeedEater) I wrote at TripleMint that we use to manage the interface between data sources with disparate formats and our DB.  This talk runs through the basic principles involved and shows how the pieces fit together.  If you are interested in Python metaprogramming but have never been able to see how to use it practically, this is a good example of using it in the real world.", "state": 1, "category": "PyGotham 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3775_Metaclasses_and_Decorators_in_the_Wild_Ingesting_D.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-16", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/CqkB9kjBgzo", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-18T16:28:38.234", "id": 3775, "related_urls": [], "slug": "metaclasses-and-decorators-in-the-wild-ingesting", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Silas Ray"]}
+{
+    "added": "2015-08-10T15:48:01.533",
+    "category": "PyGotham 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "FeedEater is a small library (https://github.com/Suitey/FeedEater) I wrote at TripleMint that we use to manage the interface between data sources with disparate formats and our DB.  This talk runs through the basic principles involved and shows how the pieces fit together.  If you are interested in Python metaprogramming but have never been able to see how to use it practically, this is a good example of using it in the real world.",
+    "duration": 1169,
+    "embed": "",
+    "id": 3775,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-16",
+    "related_urls": [],
+    "slug": "metaclasses-and-decorators-in-the-wild-ingesting",
+    "source_url": "http://youtu.be/CqkB9kjBgzo",
+    "speakers": [
+        "Silas Ray"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/CqkB9kjBgzo/hqdefault.jpg",
+    "title": "Metaclasses and Decorators in the Wild: Ingesting Data With FeedEater",
+    "updated": "2015-08-18T16:28:38.234",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3775_Metaclasses_and_Decorators_in_the_Wild_Ingesting_D.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

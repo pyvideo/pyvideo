@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/yuxu5Y-N0CY/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/yuxu5Y-N0CY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/yuxu5Y-N0CY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-09-26T00:28:48.706", "whiteboard": "", "video_flv_length": null, "title": "Running in the USA: Analysis of World-Wide GPS Tracks in Running Events", "duration": 1500, "description": "MapMyFitness is an open fitness tracking platform that collects hundreds of thousands of tracks every day from GPS fitness devices around the planet.  Within this massive database of fitness activity lies untold insights into human behavior.  In this talk, I'll show how I use Python-based analysis tools for identifying running events, from 5ks to marathons). Using a combination of Amazon Redshift SQL, scipy, matplotlib & pandas, I'll show how you can glean a variety of insight into running event performance, from weather and training effects on speed, to regional & demographic differences in attendance.", "state": 1, "category": "PyTexas 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-05", "copyright_text": "CC-BY", "source_url": "http://youtu.be/yuxu5Y-N0CY", "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3199_Running_in_the_USA_Analysis_of_WorldWide_GPS_Track.webm", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-10-06T08:41:06.761", "id": 3199, "related_urls": [], "slug": "running-in-the-usa-analysis-of-world-wide-gps-tr", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Kyler Eastman"]}
+{
+    "added": "2014-09-26T00:28:48.706",
+    "category": "PyTexas 2014",
+    "copyright_text": "CC-BY",
+    "description": "MapMyFitness is an open fitness tracking platform that collects hundreds of thousands of tracks every day from GPS fitness devices around the planet.  Within this massive database of fitness activity lies untold insights into human behavior.  In this talk, I'll show how I use Python-based analysis tools for identifying running events, from 5ks to marathons). Using a combination of Amazon Redshift SQL, scipy, matplotlib & pandas, I'll show how you can glean a variety of insight into running event performance, from weather and training effects on speed, to regional & demographic differences in attendance.",
+    "duration": 1500,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/yuxu5Y-N0CY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/yuxu5Y-N0CY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3199,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-05",
+    "related_urls": [],
+    "slug": "running-in-the-usa-analysis-of-world-wide-gps-tr",
+    "source_url": "http://youtu.be/yuxu5Y-N0CY",
+    "speakers": [
+        "Kyler Eastman"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/yuxu5Y-N0CY/hqdefault.jpg",
+    "title": "Running in the USA: Analysis of World-Wide GPS Tracks in Running Events",
+    "updated": "2014-10-06T08:41:06.761",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3199_Running_in_the_USA_Analysis_of_WorldWide_GPS_Track.webm",
+    "whiteboard": ""
+}

@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i.ytimg.com/vi/Dg5TSfLHW3Q/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Dg5TSfLHW3Q?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Dg5TSfLHW3Q?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-10-14T22:37:47.495", "whiteboard": "", "video_flv_length": null, "title": "Deploying test and production systems with Ansible", "duration": 1800, "description": "= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = \r\nJuergen Brendel:\r\nDeploying test and production systems with Ansible\r\n= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = \r\n@ Kiwi PyCon 2014 - Sunday, 14 Sep 2014 - Track 1\r\nhttp://kiwi.pycon.org/\r\n\r\n**Audience level**\r\n\r\nIntermediate\r\n\r\n**Description**\r\n\r\nThis talk presents Ansible as a light-weight, simple and effective configuration management tool. We will see why configuration management is important and how we can use Ansible to automatically deploy and test full production clusters - showcased with a sample Django application - with just a single command and in a number of different environments.\r\n\r\n**Abstract**\r\n\r\nWith modern configuration, deployment and orchestration systems, software developers can easily maintain, bring up and tear down local test systems, staging, demonstration and production systems, which are 100% identical to each other.\r\n\r\nThis presentation will give an introduction to Ansible, a modern, simple and efficient configuration management system. We will see how we can deploy complete clusters (with load balancers, database and some Django application servers), reliably and fully automated, either on dedicated servers, on local virtual machines or in the cloud.\r\n\r\nIf all goes well, there will even be a live demo in which we will bring up a complete cluster or two in different environments, to illustrate the power of this approach.\r\n\r\n**Slides**\r\n\r\nhttps://speakerdeck.com/nzpug/juergen-brendel-deploying-test-and-production-systems-with-ansible", "state": 1, "category": "Kiwi PyCon 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-09-14", "copyright_text": "CC", "source_url": "http://youtu.be/Dg5TSfLHW3Q", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-10-16T00:06:38.943", "id": 3233, "related_urls": [], "slug": "deploying-test-and-production-systems-with-ansibl", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Juergen Brendel"]}
+{
+    "added": "2014-10-14T22:37:47.495",
+    "category": "Kiwi PyCon 2014",
+    "copyright_text": "CC",
+    "description": "= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = \r\nJuergen Brendel:\r\nDeploying test and production systems with Ansible\r\n= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = \r\n@ Kiwi PyCon 2014 - Sunday, 14 Sep 2014 - Track 1\r\nhttp://kiwi.pycon.org/\r\n\r\n**Audience level**\r\n\r\nIntermediate\r\n\r\n**Description**\r\n\r\nThis talk presents Ansible as a light-weight, simple and effective configuration management tool. We will see why configuration management is important and how we can use Ansible to automatically deploy and test full production clusters - showcased with a sample Django application - with just a single command and in a number of different environments.\r\n\r\n**Abstract**\r\n\r\nWith modern configuration, deployment and orchestration systems, software developers can easily maintain, bring up and tear down local test systems, staging, demonstration and production systems, which are 100% identical to each other.\r\n\r\nThis presentation will give an introduction to Ansible, a modern, simple and efficient configuration management system. We will see how we can deploy complete clusters (with load balancers, database and some Django application servers), reliably and fully automated, either on dedicated servers, on local virtual machines or in the cloud.\r\n\r\nIf all goes well, there will even be a live demo in which we will bring up a complete cluster or two in different environments, to illustrate the power of this approach.\r\n\r\n**Slides**\r\n\r\nhttps://speakerdeck.com/nzpug/juergen-brendel-deploying-test-and-production-systems-with-ansible",
+    "duration": 1800,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Dg5TSfLHW3Q?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Dg5TSfLHW3Q?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3233,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-09-14",
+    "related_urls": [],
+    "slug": "deploying-test-and-production-systems-with-ansibl",
+    "source_url": "http://youtu.be/Dg5TSfLHW3Q",
+    "speakers": [
+        "Juergen Brendel"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/Dg5TSfLHW3Q/hqdefault.jpg",
+    "title": "Deploying test and production systems with Ansible",
+    "updated": "2014-10-16T00:06:38.943",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

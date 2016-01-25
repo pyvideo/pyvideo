@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/SdJ0jaLFmRs/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/SdJ0jaLFmRs?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/SdJ0jaLFmRs?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-09-25T23:49:16.221", "whiteboard": "", "video_flv_length": null, "title": "Conducting and Visualizing Set-Theoretic Social Research with Python", "duration": 3000, "description": "In this talk, I will discuss a suite of F/OSS programs (Python/Qt) that I have developed for conducting \"qualitative comparative analysis,\" a social research technique for analyzing subset relationships.  (For example, religious fundamentalists constitute a\r\nrough subset of political conservatives: most religious fundamentalists are politically conservative but most conservatives aren't religious fundamentalists.)\r\n\r\nThe talk will review the process of developing the software, beginning with an R implementation that was ultimately discarded, and outline why I ended up choosing Python and review the consequences of that choice, both pro and con.  I will also discuss my current work on developing new techniques for visualizing subset relationships, including different approaches to presenting Venn and Euler diagrams.\r\nMore generally, I'll assess benefits and disadvantages of using Python for developing academic software.", "state": 1, "category": "PyTexas 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-05", "copyright_text": "CC-BY", "source_url": "http://youtu.be/SdJ0jaLFmRs", "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3148_Conducting_and_Visualizing_SetTheoretic_Social_Res.webm", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-10-06T20:59:25.190", "id": 3148, "related_urls": [], "slug": "conducting-and-visualizing-set-theoretic-social-r", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Claude Rubinson"]}
+{
+    "added": "2014-09-25T23:49:16.221",
+    "category": "PyTexas 2014",
+    "copyright_text": "CC-BY",
+    "description": "In this talk, I will discuss a suite of F/OSS programs (Python/Qt) that I have developed for conducting \"qualitative comparative analysis,\" a social research technique for analyzing subset relationships.  (For example, religious fundamentalists constitute a\r\nrough subset of political conservatives: most religious fundamentalists are politically conservative but most conservatives aren't religious fundamentalists.)\r\n\r\nThe talk will review the process of developing the software, beginning with an R implementation that was ultimately discarded, and outline why I ended up choosing Python and review the consequences of that choice, both pro and con.  I will also discuss my current work on developing new techniques for visualizing subset relationships, including different approaches to presenting Venn and Euler diagrams.\r\nMore generally, I'll assess benefits and disadvantages of using Python for developing academic software.",
+    "duration": 3000,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/SdJ0jaLFmRs?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/SdJ0jaLFmRs?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3148,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-05",
+    "related_urls": [],
+    "slug": "conducting-and-visualizing-set-theoretic-social-r",
+    "source_url": "http://youtu.be/SdJ0jaLFmRs",
+    "speakers": [
+        "Claude Rubinson"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/SdJ0jaLFmRs/hqdefault.jpg",
+    "title": "Conducting and Visualizing Set-Theoretic Social Research with Python",
+    "updated": "2014-10-06T20:59:25.190",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3148_Conducting_and_Visualizing_SetTheoretic_Social_Res.webm",
+    "whiteboard": ""
+}

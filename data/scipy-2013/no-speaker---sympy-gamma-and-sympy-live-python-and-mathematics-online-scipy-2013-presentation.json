@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/Ad_D4i-oYjU/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Ad_D4i-oYjU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Ad_D4i-oYjU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:36", "whiteboard": "needs editing", "video_flv_length": null, "title": "SymPy Gamma and SymPy Live: Python and Mathematics Online; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=Ad_D4i-oYjU", "video_webm_url": null, "summary": "Authors: Li, David, SymPy\n\nTrack: General\n\nSymPy (sympy.org) is a Python library for symbolic mathematics and a computer algebra system. The project also develops two web applications that allow users to experiment with mathematics online, SymPy Gamma and SymPy Live. SymPy Gamma, modeled after Wolfram|Alpha, lets users enter mathematical expressions and see a variety of related computations and visualizations. Meanwhile, SymPy Live provides an online Python shell with features, such as LaTeX equation rendering, designed to aid the manipulation of mathematics with Python.\n\nThis talk will examine the implementation and development of the web applications as well as general experiences contributing to the SymPy project. In particular, the design of Gamma and the implementation of its server will be examined, as well as its features that help users explore mathematics using the SymPy library. For instance, by entering a trigonometric expression, users will receive alternate forms of the input, a plot, a series expansion, and other pertinent information. Furthermore, the purposes and development of SymPy Live will be examined, including the execution of code on Google App Engine and the development of the mobile site and other features during the 2011 Google Code-In contest and afterwards. One such feature is in SymPy's Sphinx documentation, which leverages SymPy Live to let users easily execute and see the results of any code examples in the documentation, and then use the shell to continue exploring the capabilities of this library.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.371", "id": 1996, "related_urls": [], "slug": "sympy-gamma-and-sympy-live-python-and-mathematic", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:36",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Ad_D4i-oYjU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Ad_D4i-oYjU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1996,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [],
+    "slug": "sympy-gamma-and-sympy-live-python-and-mathematic",
+    "source_url": "http://www.youtube.com/watch?v=Ad_D4i-oYjU",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Li, David, SymPy\n\nTrack: General\n\nSymPy (sympy.org) is a Python library for symbolic mathematics and a computer algebra system. The project also develops two web applications that allow users to experiment with mathematics online, SymPy Gamma and SymPy Live. SymPy Gamma, modeled after Wolfram|Alpha, lets users enter mathematical expressions and see a variety of related computations and visualizations. Meanwhile, SymPy Live provides an online Python shell with features, such as LaTeX equation rendering, designed to aid the manipulation of mathematics with Python.\n\nThis talk will examine the implementation and development of the web applications as well as general experiences contributing to the SymPy project. In particular, the design of Gamma and the implementation of its server will be examined, as well as its features that help users explore mathematics using the SymPy library. For instance, by entering a trigonometric expression, users will receive alternate forms of the input, a plot, a series expansion, and other pertinent information. Furthermore, the purposes and development of SymPy Live will be examined, including the execution of code on Google App Engine and the development of the mobile site and other features during the 2011 Google Code-In contest and afterwards. One such feature is in SymPy's Sphinx documentation, which leverages SymPy Live to let users easily execute and see the results of any code examples in the documentation, and then use the shell to continue exploring the capabilities of this library.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/Ad_D4i-oYjU/hqdefault.jpg",
+    "title": "SymPy Gamma and SymPy Live: Python and Mathematics Online; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.371",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/JXjB8yO-M7k/hqdefault.jpg", "embed": "", "added": "2015-06-17T16:46:54.200", "whiteboard": "", "video_flv_length": null, "title": "Hacking Human Language", "duration": 1701, "description": "", "state": 1, "category": "PyCon SE 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-25", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=JXjB8yO-M7k", "video_webm_url": null, "summary": "If you convert words into numbers, you can do interesting things with them. You can compare the topics in a book, make better translations and tell if a sentence is positive or negative. Python libraries like gensim and spaCy make it easy to play with this for fun, profit or social science.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-17T16:46:54.200", "id": 3652, "related_urls": [], "slug": "hacking-human-language", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Hendrik Heuer"]}
+{
+    "added": "2015-06-17T16:46:54.200",
+    "category": "PyCon SE 2015",
+    "copyright_text": "",
+    "description": "",
+    "duration": 1701,
+    "embed": "",
+    "id": 3652,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-05-25",
+    "related_urls": [],
+    "slug": "hacking-human-language",
+    "source_url": "https://www.youtube.com/watch?v=JXjB8yO-M7k",
+    "speakers": [
+        "Hendrik Heuer"
+    ],
+    "state": 1,
+    "summary": "If you convert words into numbers, you can do interesting things with them. You can compare the topics in a book, make better translations and tell if a sentence is positive or negative. Python libraries like gensim and spaCy make it easy to play with this for fun, profit or social science.",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/JXjB8yO-M7k/hqdefault.jpg",
+    "title": "Hacking Human Language",
+    "updated": "2015-06-17T16:46:54.200",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

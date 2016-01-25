@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/jpCG792tVt0/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/jpCG792tVt0?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/jpCG792tVt0?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-04-12T21:30:19.314", "whiteboard": "", "video_flv_length": null, "title": "Mining Social Web APIs with IPython Notebook", "duration": null, "description": "", "state": 1, "category": "PyCon US 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-04-11", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=jpCG792tVt0", "video_webm_url": null, "summary": "Social websites such as Twitter, Facebook, LinkedIn, Google+, and GitHub have vast amounts of valuable insights lurking just beneath the surface, and this workshop minimizes the barriers to exploring and mining this valuable data by presenting turn-key examples from the thoroughly revised 2nd Edition of Mining the Social Web.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-12T21:30:19.314", "id": 2603, "related_urls": [], "slug": "mining-social-web-apis-with-ipython-notebook", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Matthew Russell"]}
+{
+    "added": "2014-04-12T21:30:19.314",
+    "category": "PyCon US 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/jpCG792tVt0?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/jpCG792tVt0?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2603,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-04-11",
+    "related_urls": [],
+    "slug": "mining-social-web-apis-with-ipython-notebook",
+    "source_url": "http://www.youtube.com/watch?v=jpCG792tVt0",
+    "speakers": [
+        "Matthew Russell"
+    ],
+    "state": 1,
+    "summary": "Social websites such as Twitter, Facebook, LinkedIn, Google+, and GitHub have vast amounts of valuable insights lurking just beneath the surface, and this workshop minimizes the barriers to exploring and mining this valuable data by presenting turn-key examples from the thoroughly revised 2nd Edition of Mining the Social Web.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/jpCG792tVt0/hqdefault.jpg",
+    "title": "Mining Social Web APIs with IPython Notebook",
+    "updated": "2014-04-12T21:30:19.314",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

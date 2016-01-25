@@ -1,1 +1,41 @@
-{"tags": ["databases", "pycon", "pycon2010"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010DudeWheresMyDatabase133159.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Dude, Where's My Database? (#133)", "duration": null, "description": "Dude, Where's My Database?\n\n  \nPresented by Eric Florenzano (Django)\n\n  \nThere are so many great open source databases out on the market right now--\nwe're really in the golden age of databases. Fortunately, Python can talk to\nvirtually all of them. With so many databases at our disposal, how do we\nchoose which one to use for our particular use case?\n\n  \nThis talk will go over the many different classes of databases, introduce some\nof the particular implementations for each class of database, and describe the\nstrengths and weaknesses of each. By weighing the pros and cons of each type\nof database, the speaker hopes to dispel the many rumors and misconceptions\nthat people have about what's out there today.\n\n  \n[VIDEO HAS ISSUES: Audio cuts out at about 20 seconds in, then gets out of\nsync until around 3:10.]\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/300_dude-where-s-my-database-133.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": "", "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/300_dude-where-s-my-database-133.ogv", "video_ogv_length": 188382147, "updated": "2014-04-08T20:28:28.109", "id": 300, "related_urls": [], "slug": "dude-wheres-my-database-133", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Eric Florenzano"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Dude, Where's My Database?\n\n  \nPresented by Eric Florenzano (Django)\n\n  \nThere are so many great open source databases out on the market right now--\nwe're really in the golden age of databases. Fortunately, Python can talk to\nvirtually all of them. With so many databases at our disposal, how do we\nchoose which one to use for our particular use case?\n\n  \nThis talk will go over the many different classes of databases, introduce some\nof the particular implementations for each class of database, and describe the\nstrengths and weaknesses of each. By weighing the pros and cons of each type\nof database, the speaker hopes to dispel the many rumors and misconceptions\nthat people have about what's out there today.\n\n  \n[VIDEO HAS ISSUES: Audio cuts out at about 20 seconds in, then gets out of\nsync until around 3:10.]\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 300,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "dude-wheres-my-database-133",
+    "source_url": "",
+    "speakers": [
+        "Eric Florenzano"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "databases",
+        "pycon",
+        "pycon2010"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010DudeWheresMyDatabase133159.png",
+    "title": "Dude, Where's My Database? (#133)",
+    "updated": "2014-04-08T20:28:28.109",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/300_dude-where-s-my-database-133.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 188382147,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/300_dude-where-s-my-database-133.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

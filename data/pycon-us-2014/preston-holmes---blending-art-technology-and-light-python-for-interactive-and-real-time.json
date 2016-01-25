@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/qdATFvkqrvY/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/qdATFvkqrvY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/qdATFvkqrvY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-04-12T21:30:30.345", "whiteboard": "", "video_flv_length": null, "title": "Blending art, technology, and light, Python for interactive and real time", "duration": null, "description": "", "state": 1, "category": "PyCon US 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-04-12", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=qdATFvkqrvY", "video_webm_url": null, "summary": "Blinking colored lights bring out the child in all of us. Color LED lighting technology is becoming more available and affordable. Layers of hardware, lighting protocols, and effects design can make doing anything more complex than blinking these lights tricky. Come learn about LEDs how to control them with Python, and about building real-time control of physical things.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-12T21:30:30.345", "id": 2619, "related_urls": [], "slug": "blending-art-technology-and-light-python-for-i", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Preston Holmes"]}
+{
+    "added": "2014-04-12T21:30:30.345",
+    "category": "PyCon US 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/qdATFvkqrvY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/qdATFvkqrvY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2619,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-04-12",
+    "related_urls": [],
+    "slug": "blending-art-technology-and-light-python-for-i",
+    "source_url": "http://www.youtube.com/watch?v=qdATFvkqrvY",
+    "speakers": [
+        "Preston Holmes"
+    ],
+    "state": 1,
+    "summary": "Blinking colored lights bring out the child in all of us. Color LED lighting technology is becoming more available and affordable. Layers of hardware, lighting protocols, and effects design can make doing anything more complex than blinking these lights tricky. Come learn about LEDs how to control them with Python, and about building real-time control of physical things.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/qdATFvkqrvY/hqdefault.jpg",
+    "title": "Blending art, technology, and light, Python for interactive and real time",
+    "updated": "2014-04-12T21:30:30.345",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

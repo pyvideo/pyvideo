@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "https://i.ytimg.com/vi/ZLv2ROatlik/hqdefault.jpg", "embed": "", "added": "2015-07-22T20:49:28.519", "whiteboard": "", "video_flv_length": null, "title": "Fumbling Forward - Docker Don'ts", "duration": 2715, "description": "Questing for the continuous-deployment grail, I've had plenty of pit and prat falls. Perhaps others can learn from my mistakes and do as I didn't.  This talk will demonstrate how [not] to stitch together Docker, Compose, Machine, Boot2Docker, YAML, CircleCI, EC2, Route53, and likely a few other tools into a simple yet automated code -> commit -> review -> deploy process. \r\n\r\n\r\n", "state": 1, "category": "PyOhio 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3691_Fumbling_Forward_Docker_Donts.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-02", "copyright_text": "CC BY", "source_url": "http://youtu.be/ZLv2ROatlik", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2015-08-11T01:24:28.267", "id": 3691, "related_urls": [], "slug": "fumbling-forward-docker-donts", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Jason M. Green"]}
+{
+    "added": "2015-07-22T20:49:28.519",
+    "category": "PyOhio 2015",
+    "copyright_text": "CC BY",
+    "description": "Questing for the continuous-deployment grail, I've had plenty of pit and prat falls. Perhaps others can learn from my mistakes and do as I didn't.  This talk will demonstrate how [not] to stitch together Docker, Compose, Machine, Boot2Docker, YAML, CircleCI, EC2, Route53, and likely a few other tools into a simple yet automated code -> commit -> review -> deploy process. \r\n\r\n\r\n",
+    "duration": 2715,
+    "embed": "",
+    "id": 3691,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-02",
+    "related_urls": [],
+    "slug": "fumbling-forward-docker-donts",
+    "source_url": "http://youtu.be/ZLv2ROatlik",
+    "speakers": [
+        "Jason M. Green"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/ZLv2ROatlik/hqdefault.jpg",
+    "title": "Fumbling Forward - Docker Don'ts",
+    "updated": "2015-08-11T01:24:28.267",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3691_Fumbling_Forward_Docker_Donts.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

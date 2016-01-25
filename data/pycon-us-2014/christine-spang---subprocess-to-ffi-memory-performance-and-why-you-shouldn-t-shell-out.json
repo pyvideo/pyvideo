@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/YAO7PUZvVPw/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/YAO7PUZvVPw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/YAO7PUZvVPw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-04-13T21:20:15.965", "whiteboard": "", "video_flv_length": null, "title": "Subprocess to FFI: Memory, Performance, and Why You Shouldn't Shell Out", "duration": null, "description": "", "state": 1, "category": "PyCon US 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-04-13", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=YAO7PUZvVPw", "video_webm_url": null, "summary": "Sometimes, the code you need just isn't available in Python, but someone's written some code in another language that solves your problem. What options do you have for interacting with this external code from within your program? We'll examine how to call external binaries, what happens behind the scenes at a systems level, and how these implementation details affect performance and memory usage. In the second part of the talk, we'll discuss the different options for more tightly integrating external code in the form of a C library for better performance and control.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-13T21:20:15.965", "id": 2640, "related_urls": [], "slug": "subprocess-to-ffi-memory-performance-and-why-y", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Christine Spang"]}
+{
+    "added": "2014-04-13T21:20:15.965",
+    "category": "PyCon US 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/YAO7PUZvVPw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/YAO7PUZvVPw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2640,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-04-13",
+    "related_urls": [],
+    "slug": "subprocess-to-ffi-memory-performance-and-why-y",
+    "source_url": "http://www.youtube.com/watch?v=YAO7PUZvVPw",
+    "speakers": [
+        "Christine Spang"
+    ],
+    "state": 1,
+    "summary": "Sometimes, the code you need just isn't available in Python, but someone's written some code in another language that solves your problem. What options do you have for interacting with this external code from within your program? We'll examine how to call external binaries, what happens behind the scenes at a systems level, and how these implementation details affect performance and memory usage. In the second part of the talk, we'll discuss the different options for more tightly integrating external code in the form of a C library for better performance and control.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/YAO7PUZvVPw/hqdefault.jpg",
+    "title": "Subprocess to FFI: Memory, Performance, and Why You Shouldn't Shell Out",
+    "updated": "2014-04-13T21:20:15.965",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

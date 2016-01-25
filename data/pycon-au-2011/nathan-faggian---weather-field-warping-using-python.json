@@ -1,1 +1,40 @@
-{"tags": ["numpy", "prototyping"], "thumbnail_url": "http://i.ytimg.com/vi/LRQJvXtpU90/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/LRQJvXtpU90?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/LRQJvXtpU90?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-19T11:09:27", "whiteboard": "", "video_flv_length": null, "title": "Weather field warping using Python", "duration": null, "description": "", "state": 1, "category": "PyCon AU 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-08-22", "copyright_text": "Creative Commons Attribution license", "source_url": "http://www.youtube.com/watch?v=LRQJvXtpU90", "video_webm_url": "", "summary": "Python is a great language for prototyping computer vision algorithms, the\navailability of libraries such as Numpy and Scipy make for rapid development\nsimilar to that of Matlab, R and IDL. At the Bureau of Meteorology (BoM) we\nare solving the interesting problem of weather field warping. Warping (aka\nnon-linear image registration) is used, for example, to determine what the\npredicted temperature will be hourly if we only have predictions every three\nhours\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.693", "id": 1003, "related_urls": [], "slug": "weather-field-warping-using-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Nathan Faggian"]}
+{
+    "added": "2012-08-19T11:09:27",
+    "category": "PyCon AU 2011",
+    "copyright_text": "Creative Commons Attribution license",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/LRQJvXtpU90?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/LRQJvXtpU90?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1003,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-08-22",
+    "related_urls": [],
+    "slug": "weather-field-warping-using-python",
+    "source_url": "http://www.youtube.com/watch?v=LRQJvXtpU90",
+    "speakers": [
+        "Nathan Faggian"
+    ],
+    "state": 1,
+    "summary": "Python is a great language for prototyping computer vision algorithms, the\navailability of libraries such as Numpy and Scipy make for rapid development\nsimilar to that of Matlab, R and IDL. At the Bureau of Meteorology (BoM) we\nare solving the interesting problem of weather field warping. Warping (aka\nnon-linear image registration) is used, for example, to determine what the\npredicted temperature will be hourly if we only have predictions every three\nhours\n\n",
+    "tags": [
+        "numpy",
+        "prototyping"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/LRQJvXtpU90/hqdefault.jpg",
+    "title": "Weather field warping using Python",
+    "updated": "2014-04-08T20:28:27.693",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

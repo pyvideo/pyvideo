@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/HlpJhqgGL34/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/HlpJhqgGL34\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-10-18T16:10:54.065", "whiteboard": "needs editing", "video_flv_length": null, "title": "Guarding the gate with Zuul", "duration": null, "description": "Zuul is a program that is used to gate the source code repositories of a project so that changes are only merged if they pass tests.\r\n\r\nBy gating we mean a more proactive continuous integration suite whereby tests must pass in order to merge (rather than a traditional CI that just gives a nightly status of the master branch). This means every commit is tested both during review time and before it merges - in case the repositories have changed in the mean time.\r\n\r\nThe result of using a gating system like zuul is that it's much harder to break trunk and your nightly builds should nearly always work.\r\n\r\nZuul can be configured to react to events and run various jobs with success or failure results depending on the scenario. Currently Zuul is only integrated with the gerrit code review platform but there are discussions about extending it to github.\r\n\r\nOne unique and powerful feature in Zuul is its ability to run tests in a predictive manner across multiple programs. Zuul predicts what multiple repositories will look like by the time the present job is finished and arranges the tests to be performed in that order. This stops race conditions when merging code in one repository that depends on code in another repository.\r\n\r\nZuul can manage thousands of jobs across hundreds of projects as evident by being the gate keeper for OpenStack.\r\n\r\nIn this talk we will look at what Zuul is, how to configure it and the internals of how it works.\n\n", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-04", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=HlpJhqgGL34", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-18T16:10:54.065", "id": 3965, "related_urls": [], "slug": "guarding-the-gate-with-zuul", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Joshua Hesketh"]}
+{
+    "added": "2015-10-18T16:10:54.065",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Zuul is a program that is used to gate the source code repositories of a project so that changes are only merged if they pass tests.\r\n\r\nBy gating we mean a more proactive continuous integration suite whereby tests must pass in order to merge (rather than a traditional CI that just gives a nightly status of the master branch). This means every commit is tested both during review time and before it merges - in case the repositories have changed in the mean time.\r\n\r\nThe result of using a gating system like zuul is that it's much harder to break trunk and your nightly builds should nearly always work.\r\n\r\nZuul can be configured to react to events and run various jobs with success or failure results depending on the scenario. Currently Zuul is only integrated with the gerrit code review platform but there are discussions about extending it to github.\r\n\r\nOne unique and powerful feature in Zuul is its ability to run tests in a predictive manner across multiple programs. Zuul predicts what multiple repositories will look like by the time the present job is finished and arranges the tests to be performed in that order. This stops race conditions when merging code in one repository that depends on code in another repository.\r\n\r\nZuul can manage thousands of jobs across hundreds of projects as evident by being the gate keeper for OpenStack.\r\n\r\nIn this talk we will look at what Zuul is, how to configure it and the internals of how it works.\n\n",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/HlpJhqgGL34\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 3965,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-04",
+    "related_urls": [],
+    "slug": "guarding-the-gate-with-zuul",
+    "source_url": "https://www.youtube.com/watch?v=HlpJhqgGL34",
+    "speakers": [
+        "Joshua Hesketh"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/HlpJhqgGL34/hqdefault.jpg",
+    "title": "Guarding the gate with Zuul",
+    "updated": "2015-10-18T16:10:54.065",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

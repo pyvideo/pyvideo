@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i1.ytimg.com/vi/lWKEphKIG8U/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/lWKEphKIG8U?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/lWKEphKIG8U?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:56:32", "whiteboard": "", "video_flv_length": null, "title": "Elasticsearch (Part 1): Indexing and Querying", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Elasticsearch_Part_1_Indexing_.mp4?Signature=VARBFuaiUy2DUD8iwSfUhFLNAqQ%3D&Expires=1363670991&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-15", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=lWKEphKIG8U", "video_webm_url": "", "summary": "Elasticsearch provides an easy path to clusterable full-text search, with synonyms, faceting, and geographic math, but there's a paucity of written wisdom beyond its API docs. This talk, part 1 of a 2-part series, surveys its capabilities and shows how its internal data structures and algorithms work. With the groundwork laid, we explore how to choose efficient indexing and the right queries to make your apps go fast.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.695", "id": 1784, "related_urls": [], "slug": "elasticsearch-part-1-indexing-and-querying", "quality_notes": "The video for the second part was lost.", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Erik Rose"]}
+{
+    "added": "2013-03-13T18:56:32",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/lWKEphKIG8U?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/lWKEphKIG8U?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1784,
+    "language": "English",
+    "quality_notes": "The video for the second part was lost.",
+    "recorded": "2013-03-15",
+    "related_urls": [],
+    "slug": "elasticsearch-part-1-indexing-and-querying",
+    "source_url": "https://www.youtube.com/watch?v=lWKEphKIG8U",
+    "speakers": [
+        "Erik Rose"
+    ],
+    "state": 1,
+    "summary": "Elasticsearch provides an easy path to clusterable full-text search, with synonyms, faceting, and geographic math, but there's a paucity of written wisdom beyond its API docs. This talk, part 1 of a 2-part series, surveys its capabilities and shows how its internal data structures and algorithms work. With the groundwork laid, we explore how to choose efficient indexing and the right queries to make your apps go fast.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/lWKEphKIG8U/hqdefault.jpg",
+    "title": "Elasticsearch (Part 1): Indexing and Querying",
+    "updated": "2014-04-08T20:28:26.695",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Elasticsearch_Part_1_Indexing_.mp4?Signature=VARBFuaiUy2DUD8iwSfUhFLNAqQ%3D&Expires=1363670991&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

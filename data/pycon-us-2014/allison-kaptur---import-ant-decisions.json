@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/aS5kXzbsLLQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/aS5kXzbsLLQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/aS5kXzbsLLQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-04-12T21:29:15.710", "whiteboard": "", "video_flv_length": null, "title": "Import-ant Decisions", "duration": null, "description": "", "state": 1, "category": "PyCon US 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-04-12", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=aS5kXzbsLLQ", "video_webm_url": null, "summary": "Suppose `import` didn't exist, and we had to invent it from scratch. We'll look at the problem - code sharing and reuse across modules - and different ways we could solve it. We'll come up with `import` from parallel universes and then reinvent python's actual implementation. Finally, we'll import - using python's design - without using the `import` keyword.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-12T21:29:15.710", "id": 2567, "related_urls": [], "slug": "import-ant-decisions", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Allison Kaptur"]}
+{
+    "added": "2014-04-12T21:29:15.710",
+    "category": "PyCon US 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/aS5kXzbsLLQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/aS5kXzbsLLQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2567,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-04-12",
+    "related_urls": [],
+    "slug": "import-ant-decisions",
+    "source_url": "http://www.youtube.com/watch?v=aS5kXzbsLLQ",
+    "speakers": [
+        "Allison Kaptur"
+    ],
+    "state": 1,
+    "summary": "Suppose `import` didn't exist, and we had to invent it from scratch. We'll look at the problem - code sharing and reuse across modules - and different ways we could solve it. We'll come up with `import` from parallel universes and then reinvent python's actual implementation. Finally, we'll import - using python's design - without using the `import` keyword.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/aS5kXzbsLLQ/hqdefault.jpg",
+    "title": "Import-ant Decisions",
+    "updated": "2014-04-12T21:29:15.710",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

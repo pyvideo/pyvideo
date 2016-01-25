@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/4XRrLdogkdA/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/4XRrLdogkdA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/4XRrLdogkdA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-09-06T22:33:15", "whiteboard": "", "video_flv_length": null, "title": "Multi-document consistency with MongoDB", "duration": null, "description": "When working with MongoDB, especially if you are coming from (or converting an\napplication) the SQL world, you will probably miss the SQL transaction, which\ngives you, among other things, atomic writes. MongoDB only provides atomic\nwrites to one document. We will show you how you can implement multi-document\nwrites that are, if all writers cooperate, consistent across multiple\ndocuments and either writes all changes completely or fail without writing any\nchanges. Audience: People who are looking at SQL alternatives, but still need\nsome sort of transaction-like consistency. Understanding of parallellism\nissues, race conditions and deadlocks, may be helpful. MongoDB knowledge is\nnot needed. Slides online at:\n[http://www2.openend.se/~iko/ep2012/](http://www2.openend.se/~iko/ep2012/)\n\n", "state": 1, "category": "EuroPython 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-05", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=4XRrLdogkdA", "video_webm_url": null, "summary": "[EuroPython 2012] Anders Hammarquist - 4 JULY 2012 in \"Track Lasagne\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.253", "id": 1290, "related_urls": [], "slug": "multi-document-consistency-with-mongodb", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": null, "video_ogv_download_only": false, "speakers": ["Anders Hammarquist"]}
+{
+    "added": "2012-09-06T22:33:15",
+    "category": "EuroPython 2012",
+    "copyright_text": "Standard YouTube License",
+    "description": "When working with MongoDB, especially if you are coming from (or converting an\napplication) the SQL world, you will probably miss the SQL transaction, which\ngives you, among other things, atomic writes. MongoDB only provides atomic\nwrites to one document. We will show you how you can implement multi-document\nwrites that are, if all writers cooperate, consistent across multiple\ndocuments and either writes all changes completely or fail without writing any\nchanges. Audience: People who are looking at SQL alternatives, but still need\nsome sort of transaction-like consistency. Understanding of parallellism\nissues, race conditions and deadlocks, may be helpful. MongoDB knowledge is\nnot needed. Slides online at:\n[http://www2.openend.se/~iko/ep2012/](http://www2.openend.se/~iko/ep2012/)\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/4XRrLdogkdA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/4XRrLdogkdA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1290,
+    "language": null,
+    "quality_notes": "",
+    "recorded": "2012-07-05",
+    "related_urls": [],
+    "slug": "multi-document-consistency-with-mongodb",
+    "source_url": "http://www.youtube.com/watch?v=4XRrLdogkdA",
+    "speakers": [
+        "Anders Hammarquist"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2012] Anders Hammarquist - 4 JULY 2012 in \"Track Lasagne\"\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/4XRrLdogkdA/hqdefault.jpg",
+    "title": "Multi-document consistency with MongoDB",
+    "updated": "2014-04-08T20:28:27.253",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

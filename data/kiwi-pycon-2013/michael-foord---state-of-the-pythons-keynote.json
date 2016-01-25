@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/IWB_pQacuw4/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/IWB_pQacuw4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/IWB_pQacuw4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-10-19T19:48:57", "whiteboard": "", "video_flv_length": null, "title": "State of the Pythons (Keynote)", "duration": null, "description": "@ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Keynote\r\n\r\n**Slides**\r\n\r\nhttps://speakerdeck.com/nzpug/michael-foord-state-of-the-pythons-keynote", "state": 1, "category": "Kiwi PyCon 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-09-12", "copyright_text": "", "source_url": "http://www.youtube.com/watch?v=IWB_pQacuw4", "video_webm_url": "", "summary": "Keynote", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.109", "id": 2377, "related_urls": [], "slug": "state-of-the-pythons-keynote", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Michael Foord"]}
+{
+    "added": "2013-10-19T19:48:57",
+    "category": "Kiwi PyCon 2013",
+    "copyright_text": "",
+    "description": "@ Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Keynote\r\n\r\n**Slides**\r\n\r\nhttps://speakerdeck.com/nzpug/michael-foord-state-of-the-pythons-keynote",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/IWB_pQacuw4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/IWB_pQacuw4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2377,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-09-12",
+    "related_urls": [],
+    "slug": "state-of-the-pythons-keynote",
+    "source_url": "http://www.youtube.com/watch?v=IWB_pQacuw4",
+    "speakers": [
+        "Michael Foord"
+    ],
+    "state": 1,
+    "summary": "Keynote",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/IWB_pQacuw4/hqdefault.jpg",
+    "title": "State of the Pythons (Keynote)",
+    "updated": "2014-04-08T20:28:26.109",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

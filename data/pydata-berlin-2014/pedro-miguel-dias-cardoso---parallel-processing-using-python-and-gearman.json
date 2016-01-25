@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/FRnP4UIgRI4/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/FRnP4UIgRI4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/FRnP4UIgRI4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-08-06T18:53:20.604", "whiteboard": "", "video_flv_length": null, "title": "Parallel processing using python and gearman", "duration": null, "description": "When talking of parallel processing, some task requires a substantial set-up time. This is the case of Natural Language Processing (NLP) tasks such as classification, where models need to be loaded into memory. In these situations, we can not start a new process for every data set to be handled, but the system needs to be ready to process new incoming data. This talk will look at job queue systems, with particular focus on gearman. We will see how we are using it at Synthesio for NLP tasks; how to set up workers and clients, make it redundant and robust, monitor its activity and adapt to demand.", "state": 1, "category": "PyData Berlin 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://video.ep14.c3voc.de/20234.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-26", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=FRnP4UIgRI4", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-06T20:21:36.786", "id": 3072, "related_urls": [], "slug": "parallel-processing-using-python-and-gearman", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Pedro Miguel Dias Cardoso"]}
+{
+    "added": "2014-08-06T18:53:20.604",
+    "category": "PyData Berlin 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "When talking of parallel processing, some task requires a substantial set-up time. This is the case of Natural Language Processing (NLP) tasks such as classification, where models need to be loaded into memory. In these situations, we can not start a new process for every data set to be handled, but the system needs to be ready to process new incoming data. This talk will look at job queue systems, with particular focus on gearman. We will see how we are using it at Synthesio for NLP tasks; how to set up workers and clients, make it redundant and robust, monitor its activity and adapt to demand.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/FRnP4UIgRI4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/FRnP4UIgRI4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3072,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-26",
+    "related_urls": [],
+    "slug": "parallel-processing-using-python-and-gearman",
+    "source_url": "http://www.youtube.com/watch?v=FRnP4UIgRI4",
+    "speakers": [
+        "Pedro Miguel Dias Cardoso"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/FRnP4UIgRI4/hqdefault.jpg",
+    "title": "Parallel processing using python and gearman",
+    "updated": "2014-08-06T20:21:36.786",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://video.ep14.c3voc.de/20234.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

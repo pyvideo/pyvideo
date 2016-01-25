@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/CXhljKhRVpI/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/CXhljKhRVpI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/CXhljKhRVpI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:28.092", "whiteboard": "", "video_flv_length": null, "title": "How Disqus is using Django as the basis of our Service ...", "duration": null, "description": "", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-24", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=CXhljKhRVpI", "video_webm_url": "", "summary": "Disqus maintains the largest Django app out there. And we love it! It has, however, grown rather large and unwieldy. In the last year Disqus has had an increasing number of smaller services cropping up based on several different platforms. So this talk will be about how we do continuous deployment with our emerging service-based infrastructure.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-07-31T01:25:20.650", "id": 2976, "related_urls": [], "slug": "how-disqus-is-using-django-as-the-basis-of-our-se", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Adam Hitchcock"]}
+{
+    "added": "2014-07-31T00:46:28.092",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/CXhljKhRVpI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/CXhljKhRVpI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2976,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-24",
+    "related_urls": [],
+    "slug": "how-disqus-is-using-django-as-the-basis-of-our-se",
+    "source_url": "http://www.youtube.com/watch?v=CXhljKhRVpI",
+    "speakers": [
+        "Adam Hitchcock"
+    ],
+    "state": 1,
+    "summary": "Disqus maintains the largest Django app out there. And we love it! It has, however, grown rather large and unwieldy. In the last year Disqus has had an increasing number of smaller services cropping up based on several different platforms. So this talk will be about how we do continuous deployment with our emerging service-based infrastructure.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/CXhljKhRVpI/hqdefault.jpg",
+    "title": "How Disqus is using Django as the basis of our Service ...",
+    "updated": "2014-07-31T01:25:20.650",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/UwuMclgqtAQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/UwuMclgqtAQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/UwuMclgqtAQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-10T12:02:04", "whiteboard": "", "video_flv_length": null, "title": "Growing Open Source Seeds", "duration": 45, "description": "", "state": 1, "category": "PyCon AU 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvpyconau2013/Growing_Open_Source_Seeds.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-07", "copyright_text": "CC-BY-SA", "source_url": "https://www.youtube.com/watch?v=UwuMclgqtAQ", "video_webm_url": null, "summary": "This talk will be an in-depth review of the stages that most open source projects go though, and the decisions their maintainers face. Requests will be used as an example \u2014 lessons learned and best practices will be covered.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.254", "id": 2200, "related_urls": [], "slug": "growing-open-source-seeds", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Kenneth Reitz"]}
+{
+    "added": "2013-07-10T12:02:04",
+    "category": "PyCon AU 2013",
+    "copyright_text": "CC-BY-SA",
+    "description": "",
+    "duration": 45,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/UwuMclgqtAQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/UwuMclgqtAQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2200,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-07",
+    "related_urls": [],
+    "slug": "growing-open-source-seeds",
+    "source_url": "https://www.youtube.com/watch?v=UwuMclgqtAQ",
+    "speakers": [
+        "Kenneth Reitz"
+    ],
+    "state": 1,
+    "summary": "This talk will be an in-depth review of the stages that most open source projects go though, and the decisions their maintainers face. Requests will be used as an example \u2014 lessons learned and best practices will be covered.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/UwuMclgqtAQ/hqdefault.jpg",
+    "title": "Growing Open Source Seeds",
+    "updated": "2014-04-08T20:28:26.254",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvpyconau2013/Growing_Open_Source_Seeds.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

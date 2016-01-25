@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/yKaE-zZ4pLY/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/yKaE-zZ4pLY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/yKaE-zZ4pLY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:28.183", "whiteboard": "", "video_flv_length": null, "title": "RISCy Business: Development of a RNAi design and off-target prediction software", "duration": null, "description": "", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-24", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=yKaE-zZ4pLY", "video_webm_url": "", "summary": "RNA interference (RNAi) is a biological mechanism for targeted inhibition of gene expression. It has also been used routinely to discover genes involved in the interaction of plants with pathogenic fungi. To minimize the miss-targeting of unrelated genes and to maximize the RNAi efficiency, we have developed a PyQt based cross- platform software tool called \u201csi-Fi\u201d. Our aim of the talk is to show that also hobby programmers can use Python in a very useful way.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-07-31T23:03:54.110", "id": 2977, "related_urls": [], "slug": "riscy-business-development-of-a-rnai-design-and", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Stefanie L\u00fcck"]}
+{
+    "added": "2014-07-31T00:46:28.183",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/yKaE-zZ4pLY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/yKaE-zZ4pLY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2977,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-24",
+    "related_urls": [],
+    "slug": "riscy-business-development-of-a-rnai-design-and",
+    "source_url": "http://www.youtube.com/watch?v=yKaE-zZ4pLY",
+    "speakers": [
+        "Stefanie L\u00fcck"
+    ],
+    "state": 1,
+    "summary": "RNA interference (RNAi) is a biological mechanism for targeted inhibition of gene expression. It has also been used routinely to discover genes involved in the interaction of plants with pathogenic fungi. To minimize the miss-targeting of unrelated genes and to maximize the RNAi efficiency, we have developed a PyQt based cross- platform software tool called \u201csi-Fi\u201d. Our aim of the talk is to show that also hobby programmers can use Python in a very useful way.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/yKaE-zZ4pLY/hqdefault.jpg",
+    "title": "RISCy Business: Development of a RNAi design and off-target prediction software",
+    "updated": "2014-07-31T23:03:54.110",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

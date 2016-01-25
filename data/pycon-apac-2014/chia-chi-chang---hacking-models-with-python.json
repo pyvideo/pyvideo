@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/PznPp-BbwyU/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/PznPp-BbwyU' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2014-10-26T00:13:23.260", "whiteboard": "", "video_flv_length": null, "title": "Hacking Models with Python", "duration": null, "description": "Although there are several data mining tools in python, you can use them to\r\ndeal with almost every kind of data (numeric, text, image, audio, ...) you met.\r\nBesides, there are also lots of modeling tools in python, you can use them to\r\nbuild the FIRST LIGHTING MODEL to solve the problems.\r\n\r\nHowever, if you want to solve problems deeply, most of time, you need to write\r\ndown the customerized models and solve them by yourself. Instead of using fast\r\nmodeling tools, you need to know more about the essential things in modeling:\r\n\r\n- What is a model ? \r\n- How models solve your problems ?\r\n- What is the connection between models and data ?\r\n- What is the important data ? important model ?\r\n\r\nI deeply believe ... The more the connection between models and data you know, the deeper the problem you can solve.\r\n\r\nOutline:\r\nWhat is Modeling ?  \r\nData, Model, Evaluators  \r\nDirect Problem: Data + Evaluators \u2192 Model  \r\nInverse Problem: Data + Models \u2192 Evaluator  \r\nHacking Models with Metric Learning  \r\nData as a Model & Model as a Data  \r\nDuality between Dimension Reduction and Clustering  \r\n", "state": 1, "category": "PyCon APAC 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-06-26", "copyright_text": "youtube", "source_url": "https://www.youtube.com/watch?v=PznPp-BbwyU", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-10-26T17:38:00.419", "id": 3264, "related_urls": [], "slug": "hacking-models-with-python-pycon-apac-2014", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Chia-Chi Chang"]}
+{
+    "added": "2014-10-26T00:13:23.260",
+    "category": "PyCon APAC 2014",
+    "copyright_text": "youtube",
+    "description": "Although there are several data mining tools in python, you can use them to\r\ndeal with almost every kind of data (numeric, text, image, audio, ...) you met.\r\nBesides, there are also lots of modeling tools in python, you can use them to\r\nbuild the FIRST LIGHTING MODEL to solve the problems.\r\n\r\nHowever, if you want to solve problems deeply, most of time, you need to write\r\ndown the customerized models and solve them by yourself. Instead of using fast\r\nmodeling tools, you need to know more about the essential things in modeling:\r\n\r\n- What is a model ? \r\n- How models solve your problems ?\r\n- What is the connection between models and data ?\r\n- What is the important data ? important model ?\r\n\r\nI deeply believe ... The more the connection between models and data you know, the deeper the problem you can solve.\r\n\r\nOutline:\r\nWhat is Modeling ?  \r\nData, Model, Evaluators  \r\nDirect Problem: Data + Evaluators \u2192 Model  \r\nInverse Problem: Data + Models \u2192 Evaluator  \r\nHacking Models with Metric Learning  \r\nData as a Model & Model as a Data  \r\nDuality between Dimension Reduction and Clustering  \r\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/PznPp-BbwyU' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3264,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-06-26",
+    "related_urls": [],
+    "slug": "hacking-models-with-python-pycon-apac-2014",
+    "source_url": "https://www.youtube.com/watch?v=PznPp-BbwyU",
+    "speakers": [
+        "Chia-Chi Chang"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/PznPp-BbwyU/hqdefault.jpg",
+    "title": "Hacking Models with Python",
+    "updated": "2014-10-26T17:38:00.419",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

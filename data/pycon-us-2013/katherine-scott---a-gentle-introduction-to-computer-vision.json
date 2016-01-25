@@ -1,1 +1,39 @@
-{"tags": ["tutorial"], "thumbnail_url": "http://i.ytimg.com/vi/O4_kWEDd52o/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/O4_kWEDd52o?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/O4_kWEDd52o?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:53:24", "whiteboard": "", "video_flv_length": null, "title": "A Gentle Introduction to Computer Vision", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/A_Gentle_Introduction_to_Compu.mp4?Signature=nkzfLjV1Y9n8H2EMMtQC2dlMUxI%3D&Expires=1363951116&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-14", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=O4_kWEDd52o", "video_webm_url": "", "summary": "Do you want to create a script to warp your photos, scrape your photo archive for images of cats, or create a dart turret that follows your face? This tutorial will show you how to do this and a whole lot more with computer vision. The tutorial will be suitable for all levels of developers and is a great way for python novice\u2019s to explore the world of computer vision.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.756", "id": 1662, "related_urls": [], "slug": "a-gentle-introduction-to-computer-vision", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Katherine Scott"]}
+{
+    "added": "2013-03-13T18:53:24",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/O4_kWEDd52o?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/O4_kWEDd52o?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1662,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-14",
+    "related_urls": [],
+    "slug": "a-gentle-introduction-to-computer-vision",
+    "source_url": "https://www.youtube.com/watch?v=O4_kWEDd52o",
+    "speakers": [
+        "Katherine Scott"
+    ],
+    "state": 1,
+    "summary": "Do you want to create a script to warp your photos, scrape your photo archive for images of cats, or create a dart turret that follows your face? This tutorial will show you how to do this and a whole lot more with computer vision. The tutorial will be suitable for all levels of developers and is a great way for python novice\u2019s to explore the world of computer vision.",
+    "tags": [
+        "tutorial"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/O4_kWEDd52o/hqdefault.jpg",
+    "title": "A Gentle Introduction to Computer Vision",
+    "updated": "2014-04-08T20:28:26.756",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/A_Gentle_Introduction_to_Compu.mp4?Signature=nkzfLjV1Y9n8H2EMMtQC2dlMUxI%3D&Expires=1363951116&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

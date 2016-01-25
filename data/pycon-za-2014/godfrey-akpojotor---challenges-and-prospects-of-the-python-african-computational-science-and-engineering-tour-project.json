@@ -1,1 +1,40 @@
-{"tags": ["pyconza", "pyconza2014"], "thumbnail_url": "http://archive.org/download/pyconza2014-python-african-csae-tour/pyconza2014-python-african-csae-tour.thumbs/13%20a%20Challenges%20and%20Prospects%20of%20the%20Python-_002490.jpg", "embed": "", "added": "2015-08-22T21:43:27.517", "whiteboard": "ia scrape", "video_flv_length": null, "title": "Challenges and Prospects of the Python African Computational Science and Engineering Tour Project", "duration": null, "description": "", "state": 1, "category": "PyCon ZA 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://archive.org/download/pyconza2014-python-african-csae-tour/13%20a%20Challenges%20and%20Prospects%20of%20the%20Python-.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-03", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://archive.org/details/pyconza2014-python-african-csae-tour", "video_webm_url": "", "summary": "Computer and computer based activities have pervaded our teaching/learning process as well as research so much so that the 21st century academic activities in science and engineering (S & E) cannot be fully engaged without some level of computation. An important choice of a programming language especially in a developing country is the ease to learn it and its accessibility.\nPython's unique features and the possibility that any user connected to the internet can download the entire packages into any platform, install it and immediately begin to use it makes it a preferred environment for introducing students and new beginners to elegant and all purpose programming. Therefore in Africa, the Python African Tour project has been launched and I am coordinating its use in computational Science and Engineering (S & E) code-named Python African Computational Science and Engineering Tour (PACSET).", "video_ogv_url": "http://archive.org/download/pyconza2014-python-african-csae-tour/13%20a%20Challenges%20and%20Prospects%20of%20the%20Python-.ogv", "video_ogv_length": null, "updated": "2015-08-22T21:43:27.517", "id": 3837, "related_urls": [], "slug": "challenges-and-prospects-of-the-python-african-co", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Godfrey Akpojotor"]}
+{
+    "added": "2015-08-22T21:43:27.517",
+    "category": "PyCon ZA 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "",
+    "duration": null,
+    "embed": "",
+    "id": 3837,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-03",
+    "related_urls": [],
+    "slug": "challenges-and-prospects-of-the-python-african-co",
+    "source_url": "http://archive.org/details/pyconza2014-python-african-csae-tour",
+    "speakers": [
+        "Godfrey Akpojotor"
+    ],
+    "state": 1,
+    "summary": "Computer and computer based activities have pervaded our teaching/learning process as well as research so much so that the 21st century academic activities in science and engineering (S & E) cannot be fully engaged without some level of computation. An important choice of a programming language especially in a developing country is the ease to learn it and its accessibility.\nPython's unique features and the possibility that any user connected to the internet can download the entire packages into any platform, install it and immediately begin to use it makes it a preferred environment for introducing students and new beginners to elegant and all purpose programming. Therefore in Africa, the Python African Tour project has been launched and I am coordinating its use in computational Science and Engineering (S & E) code-named Python African Computational Science and Engineering Tour (PACSET).",
+    "tags": [
+        "pyconza",
+        "pyconza2014"
+    ],
+    "thumbnail_url": "http://archive.org/download/pyconza2014-python-african-csae-tour/pyconza2014-python-african-csae-tour.thumbs/13%20a%20Challenges%20and%20Prospects%20of%20the%20Python-_002490.jpg",
+    "title": "Challenges and Prospects of the Python African Computational Science and Engineering Tour Project",
+    "updated": "2015-08-22T21:43:27.517",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://archive.org/download/pyconza2014-python-african-csae-tour/13%20a%20Challenges%20and%20Prospects%20of%20the%20Python-.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://archive.org/download/pyconza2014-python-african-csae-tour/13%20a%20Challenges%20and%20Prospects%20of%20the%20Python-.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "ia scrape"
+}

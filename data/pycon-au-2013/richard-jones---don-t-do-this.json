@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/H2yfXnUb1S4/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/H2yfXnUb1S4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/H2yfXnUb1S4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-10T12:02:30", "whiteboard": "", "video_flv_length": null, "title": "Don't Do This", "duration": 30, "description": "", "state": 1, "category": "PyCon AU 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvpyconau2013/Dont_Do_This.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-07", "copyright_text": "CC-BY-SA", "source_url": "https://www.youtube.com/watch?v=H2yfXnUb1S4", "video_webm_url": null, "summary": "In which Richard will tell you about some things you should never (probably ever) do to or in Python. Warranties may be voided.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.250", "id": 2210, "related_urls": [], "slug": "dont-do-this", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Richard Jones"]}
+{
+    "added": "2013-07-10T12:02:30",
+    "category": "PyCon AU 2013",
+    "copyright_text": "CC-BY-SA",
+    "description": "",
+    "duration": 30,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/H2yfXnUb1S4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/H2yfXnUb1S4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2210,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-07",
+    "related_urls": [],
+    "slug": "dont-do-this",
+    "source_url": "https://www.youtube.com/watch?v=H2yfXnUb1S4",
+    "speakers": [
+        "Richard Jones"
+    ],
+    "state": 1,
+    "summary": "In which Richard will tell you about some things you should never (probably ever) do to or in Python. Warranties may be voided.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/H2yfXnUb1S4/hqdefault.jpg",
+    "title": "Don't Do This",
+    "updated": "2014-04-08T20:28:26.250",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvpyconau2013/Dont_Do_This.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

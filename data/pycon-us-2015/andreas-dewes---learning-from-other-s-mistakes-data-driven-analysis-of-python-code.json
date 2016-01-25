@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/rN0kNQLDYCI/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/rN0kNQLDYCI' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:13.583", "whiteboard": "needs editing", "video_flv_length": null, "title": "Learning from other's mistakes: Data-driven analysis of Python code", "duration": null, "description": "Static code analysis is an useful tool that can help to detect bugs early in the software development life cycle. I will explain the basics of static analysis and show the challenges we face when analyzing Python code. I will introduce a data-driven approach to code analysis that makes use of public code and example-based learning and show how it can be applied to analyzing Python code.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-11", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=rN0kNQLDYCI", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:13.583", "id": 3500, "related_urls": [], "slug": "learning-from-others-mistakes-data-driven-analy", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Andreas Dewes"]}
+{
+    "added": "2015-04-16T14:22:13.583",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Static code analysis is an useful tool that can help to detect bugs early in the software development life cycle. I will explain the basics of static analysis and show the challenges we face when analyzing Python code. I will introduce a data-driven approach to code analysis that makes use of public code and example-based learning and show how it can be applied to analyzing Python code.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/rN0kNQLDYCI' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3500,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-11",
+    "related_urls": [],
+    "slug": "learning-from-others-mistakes-data-driven-analy",
+    "source_url": "https://www.youtube.com/watch?v=rN0kNQLDYCI",
+    "speakers": [
+        "Andreas Dewes"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/rN0kNQLDYCI/hqdefault.jpg",
+    "title": "Learning from other's mistakes: Data-driven analysis of Python code",
+    "updated": "2015-04-16T14:22:13.583",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

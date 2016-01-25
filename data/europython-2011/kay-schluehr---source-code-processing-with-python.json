@@ -1,1 +1,40 @@
-{"tags": ["processing", "science"], "thumbnail_url": "http://i.ytimg.com/vi/tjF5jLD31kQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/tjF5jLD31kQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/tjF5jLD31kQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:30", "whiteboard": "", "video_flv_length": null, "title": "Source code processing with Python", "duration": null, "description": "Folklore says that having a problem and trying to solve it with regular\nexpressions gives you two problems. However not applying regular expressions\nto advanced textual search'n replace doesn't solve your problem either. One\nstep above you have large portions of recursively structured text aka \"source\ncode\" and using context free grammars and tools supporting them gives you two\nproblems but not using them also doesn't solve your original problem. Maybe\nyou get uneasy at that point because what I say implies parsers and computing\nscience and what not and you still wake up in the night believing that you\nhave to learn automata theory but you are lucky it was just a nightmare.\nOtherwise you are laughing about the little diatribe against regexps and use\nthem without much deliberation, verifying your SQL input, mining source code\nand do all the other things they are not made for.\n\nIn my talk I'm addressing daily use of grammars outside of the scope of\ncompiler implementation or natural language processing. My talk covers:\n\n  * Search & Replace using grammars\n\n  * CodeTemplates for source code transformation\n\n  * Generative grammars for expression generation\n\nI'm touching this from the lightweight, \"pythonic\" angle and you might wonder\nwhy not everyone uses those techniques already for decades in their daily\nwork. I can't answer this, I wonder about this too.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-13", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=tjF5jLD31kQ", "video_webm_url": null, "summary": "[EuroPython 2011] Kay Schluehr - 24 June 2011 in \"Track Lasagne\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.892", "id": 1099, "related_urls": [], "slug": "source-code-processing-with-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Kay Schluehr"]}
+{
+    "added": "2012-08-30T21:02:30",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "Folklore says that having a problem and trying to solve it with regular\nexpressions gives you two problems. However not applying regular expressions\nto advanced textual search'n replace doesn't solve your problem either. One\nstep above you have large portions of recursively structured text aka \"source\ncode\" and using context free grammars and tools supporting them gives you two\nproblems but not using them also doesn't solve your original problem. Maybe\nyou get uneasy at that point because what I say implies parsers and computing\nscience and what not and you still wake up in the night believing that you\nhave to learn automata theory but you are lucky it was just a nightmare.\nOtherwise you are laughing about the little diatribe against regexps and use\nthem without much deliberation, verifying your SQL input, mining source code\nand do all the other things they are not made for.\n\nIn my talk I'm addressing daily use of grammars outside of the scope of\ncompiler implementation or natural language processing. My talk covers:\n\n  * Search & Replace using grammars\n\n  * CodeTemplates for source code transformation\n\n  * Generative grammars for expression generation\n\nI'm touching this from the lightweight, \"pythonic\" angle and you might wonder\nwhy not everyone uses those techniques already for decades in their daily\nwork. I can't answer this, I wonder about this too.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/tjF5jLD31kQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/tjF5jLD31kQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1099,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-13",
+    "related_urls": [],
+    "slug": "source-code-processing-with-python",
+    "source_url": "http://www.youtube.com/watch?v=tjF5jLD31kQ",
+    "speakers": [
+        "Kay Schluehr"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Kay Schluehr - 24 June 2011 in \"Track Lasagne\"\n\n",
+    "tags": [
+        "processing",
+        "science"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/tjF5jLD31kQ/hqdefault.jpg",
+    "title": "Source code processing with Python",
+    "updated": "2014-04-08T20:28:27.892",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

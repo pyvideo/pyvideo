@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/UURtDfHZrw4/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/UURtDfHZrw4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/UURtDfHZrw4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-09-26T00:28:51.499", "whiteboard": "", "video_flv_length": null, "title": "Python on the Brain: A Quick Dive into NuPIC", "duration": 1500, "description": "At OSCON 2013 Numenta's Jeff Hawkin presented NuPIC, an open source implementation of his theories on how the brain stores information, makes connections between entities, and predicts the future.  In this talk we'll do a quick overview of the neocortical theory, and then dive into an interesting code example of how NuPIC works, and build a simple, fun neocortical prediction app in python.", "state": 1, "category": "PyTexas 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-05", "copyright_text": "CC-BY", "source_url": "http://youtu.be/UURtDfHZrw4", "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3201_Python_on_the_Brain_A_Quick_Dive_into_NuPIC.webm", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-10-06T13:56:12.063", "id": 3201, "related_urls": [], "slug": "python-on-the-brain-a-quick-dive-into-nupic", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Jeff Kramer"]}
+{
+    "added": "2014-09-26T00:28:51.499",
+    "category": "PyTexas 2014",
+    "copyright_text": "CC-BY",
+    "description": "At OSCON 2013 Numenta's Jeff Hawkin presented NuPIC, an open source implementation of his theories on how the brain stores information, makes connections between entities, and predicts the future.  In this talk we'll do a quick overview of the neocortical theory, and then dive into an interesting code example of how NuPIC works, and build a simple, fun neocortical prediction app in python.",
+    "duration": 1500,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/UURtDfHZrw4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/UURtDfHZrw4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3201,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-05",
+    "related_urls": [],
+    "slug": "python-on-the-brain-a-quick-dive-into-nupic",
+    "source_url": "http://youtu.be/UURtDfHZrw4",
+    "speakers": [
+        "Jeff Kramer"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/UURtDfHZrw4/hqdefault.jpg",
+    "title": "Python on the Brain: A Quick Dive into NuPIC",
+    "updated": "2014-10-06T13:56:12.063",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3201_Python_on_the_Brain_A_Quick_Dive_into_NuPIC.webm",
+    "whiteboard": ""
+}

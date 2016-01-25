@@ -1,1 +1,42 @@
-{"tags": ["casestudy", "pyconau", "pyconau2010", "science"], "thumbnail_url": "http://a.images.blip.tv/Pyconau-UsingPythonInAScientificRealtimeDataCollectionNetwork865.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyConAU 2010: Using Python in a scientific real-time data collection network", "duration": null, "description": "Using Python in a scientific real-time data collection network\n\nPresented by Dr. Paul Dyson (Bureau of Meteorology)\n\nPython is being increasingly used within the Solar and Terrestrial Radiation\nNetwork at the Bureau of Meteorology. This Network consists of ten ground\nstations across Australasia that track the sun, measuring the irradiance of\nthe sun and sky. This talk will outline the work of the Network, the changes\nresulting from the introduction of Python in 2005, and advantages and some\ndifficulties of using Python.\n\n", "state": 1, "category": "PyCon AU 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:25.796", "id": 463, "related_urls": [], "slug": "pyconau-2010--using-python-in-a-scientific-real-t", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/463_pyconau-2010-using-python-in-a-scientific-real-time-data-collection-network.flv", "language": "English", "video_ogv_download_only": false, "speakers": ["Dr. Paul Dyson"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon AU 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Using Python in a scientific real-time data collection network\n\nPresented by Dr. Paul Dyson (Bureau of Meteorology)\n\nPython is being increasingly used within the Solar and Terrestrial Radiation\nNetwork at the Bureau of Meteorology. This Network consists of ten ground\nstations across Australasia that track the sun, measuring the irradiance of\nthe sun and sky. This talk will outline the work of the Network, the changes\nresulting from the introduction of Python in 2005, and advantages and some\ndifficulties of using Python.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 463,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyconau-2010--using-python-in-a-scientific-real-t",
+    "source_url": "",
+    "speakers": [
+        "Dr. Paul Dyson"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "casestudy",
+        "pyconau",
+        "pyconau2010",
+        "science"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pyconau-UsingPythonInAScientificRealtimeDataCollectionNetwork865.png",
+    "title": "PyConAU 2010: Using Python in a scientific real-time data collection network",
+    "updated": "2014-04-08T20:28:25.796",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/463_pyconau-2010-using-python-in-a-scientific-real-time-data-collection-network.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/snIHnStehIo/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/snIHnStehIo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/snIHnStehIo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:24.179", "whiteboard": "", "video_flv_length": null, "title": "Concurrent programming with Python and my little experiment", "duration": null, "description": "Concurrent programming in Python may be hard. A lot of solutions exists\r\nthough. Most of them are based on an eventloop. This talk will present\r\nwhat I discovered and tested along the time with code examples, from\r\nasyncore to asyncio, passing by gevent, eventlet, twisted and some new\r\nalternatives like evergreen or gruvi. It will also present my little\r\nexperiment in porting the Go concurrency model in Python named [offset](http://github.com/benoitc/offset),\r\nhow it progressed in 1 year and how it became a fully usable library .\r\n\r\nThis presentation will be an update of the presentation I gave at the FOSDEM 2014. It will introduce to the concurrency concepts and how they are implemented in the different libraries. \r\n", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-25", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=snIHnStehIo", "video_webm_url": "", "summary": "Concurrent programming in Python may be hard. A lot of solutions exists\r\nthough. Most of them are based on an eventloop. This talk will present\r\nwhat I discovered and tested along the time and my little\r\n[experiment](http://github.com/benoitc/offset) in porting the Go\r\nconcurrency model in Python.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-07-31T00:54:56.139", "id": 2941, "related_urls": [], "slug": "concurrent-programming-with-python-and-my-little", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Benoit Chesneau"]}
+{
+    "added": "2014-07-31T00:46:24.179",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "Concurrent programming in Python may be hard. A lot of solutions exists\r\nthough. Most of them are based on an eventloop. This talk will present\r\nwhat I discovered and tested along the time with code examples, from\r\nasyncore to asyncio, passing by gevent, eventlet, twisted and some new\r\nalternatives like evergreen or gruvi. It will also present my little\r\nexperiment in porting the Go concurrency model in Python named [offset](http://github.com/benoitc/offset),\r\nhow it progressed in 1 year and how it became a fully usable library .\r\n\r\nThis presentation will be an update of the presentation I gave at the FOSDEM 2014. It will introduce to the concurrency concepts and how they are implemented in the different libraries. \r\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/snIHnStehIo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/snIHnStehIo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2941,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-25",
+    "related_urls": [],
+    "slug": "concurrent-programming-with-python-and-my-little",
+    "source_url": "http://www.youtube.com/watch?v=snIHnStehIo",
+    "speakers": [
+        "Benoit Chesneau"
+    ],
+    "state": 1,
+    "summary": "Concurrent programming in Python may be hard. A lot of solutions exists\r\nthough. Most of them are based on an eventloop. This talk will present\r\nwhat I discovered and tested along the time and my little\r\n[experiment](http://github.com/benoitc/offset) in porting the Go\r\nconcurrency model in Python.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/snIHnStehIo/hqdefault.jpg",
+    "title": "Concurrent programming with Python and my little experiment",
+    "updated": "2014-07-31T00:54:56.139",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

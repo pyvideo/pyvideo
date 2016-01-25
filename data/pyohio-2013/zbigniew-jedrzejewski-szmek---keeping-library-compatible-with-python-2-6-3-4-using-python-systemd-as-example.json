@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i1.ytimg.com/vi/Hvv-4Z4vDPo/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Hvv-4Z4vDPo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Hvv-4Z4vDPo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-26T10:11:25", "whiteboard": "", "video_flv_length": null, "title": "Keeping library compatible with Python 2.6-3.4  using python-systemd as example", "duration": 60, "description": "", "state": 1, "category": "PyOhio 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-28", "copyright_text": "CC BY-SA 2.5 CA", "source_url": "https://www.youtube.com/watch?v=Hvv-4Z4vDPo", "video_webm_url": null, "summary": "How hard is it to port a library to python 3? How much work is it going forward? Based on two examples (a pure Python, and a C-extension-based library), I want to show how in my experience the work required is modest, without significant impact on old code.  At the same time, keeping Python2 compatibility constrains development under Python 3 because only the common subset of features can be used.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.203", "id": 2279, "related_urls": [], "slug": "keeping-library-compatible-with-python-26-34-u", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Zbigniew J\u0119drzejewski-Szmek"]}
+{
+    "added": "2013-07-26T10:11:25",
+    "category": "PyOhio 2013",
+    "copyright_text": "CC BY-SA 2.5 CA",
+    "description": "",
+    "duration": 60,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Hvv-4Z4vDPo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Hvv-4Z4vDPo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2279,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-28",
+    "related_urls": [],
+    "slug": "keeping-library-compatible-with-python-26-34-u",
+    "source_url": "https://www.youtube.com/watch?v=Hvv-4Z4vDPo",
+    "speakers": [
+        "Zbigniew J\u0119drzejewski-Szmek"
+    ],
+    "state": 1,
+    "summary": "How hard is it to port a library to python 3? How much work is it going forward? Based on two examples (a pure Python, and a C-extension-based library), I want to show how in my experience the work required is modest, without significant impact on old code.  At the same time, keeping Python2 compatibility constrains development under Python 3 because only the common subset of features can be used.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/Hvv-4Z4vDPo/hqdefault.jpg",
+    "title": "Keeping library compatible with Python 2.6-3.4  using python-systemd as example",
+    "updated": "2014-04-08T20:28:26.203",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

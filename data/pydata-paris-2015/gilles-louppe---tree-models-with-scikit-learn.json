@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/GuRfLbAU9Ho/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/GuRfLbAU9Ho' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-22T17:59:38.223", "whiteboard": "needs editing", "video_flv_length": null, "title": "Tree models with scikit-learn", "duration": null, "description": "This talk gives an introduction to tree-based methods, both from a theoretical and practical point of view. It covers decision trees, random forests and boosting estimators, along with concrete examples based on Scikit-Learn about how they work, when they work and why they work.", "state": 1, "category": "PyData Paris 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-13", "copyright_text": "youtube", "source_url": "https://www.youtube.com/watch?v=GuRfLbAU9Ho", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-22T17:59:38.223", "id": 3521, "related_urls": [], "slug": "tree-models-with-scikit-learn", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Gilles Louppe"]}
+{
+    "added": "2015-04-22T17:59:38.223",
+    "category": "PyData Paris 2015",
+    "copyright_text": "youtube",
+    "description": "This talk gives an introduction to tree-based methods, both from a theoretical and practical point of view. It covers decision trees, random forests and boosting estimators, along with concrete examples based on Scikit-Learn about how they work, when they work and why they work.",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/GuRfLbAU9Ho' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3521,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-13",
+    "related_urls": [],
+    "slug": "tree-models-with-scikit-learn",
+    "source_url": "https://www.youtube.com/watch?v=GuRfLbAU9Ho",
+    "speakers": [
+        "Gilles Louppe"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/GuRfLbAU9Ho/hqdefault.jpg",
+    "title": "Tree models with scikit-learn",
+    "updated": "2015-04-22T17:59:38.223",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

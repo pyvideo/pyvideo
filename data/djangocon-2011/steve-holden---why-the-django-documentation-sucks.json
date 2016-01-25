@@ -1,1 +1,41 @@
-{"tags": ["djangocon", "djangocon2011", "docs"], "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-WhyTheDjangoDocumentationSucks196-328.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Why the Django Documentation Sucks", "duration": null, "description": "Why the Django Documentation Sucks\n\nPresented by Steve Holden\n\nDocumentation is normally held to be one of Django's strong points. Steve\nattempts to point out that even the best can stand improvement.\n\n", "state": 1, "category": "DjangoCon 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/87_why-the-django-documentation-sucks.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 201131190, "updated": "2014-04-08T20:28:25.965", "id": 87, "related_urls": [], "slug": "djangocon-2011--why-the-django-documentation-suck", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Steve Holden"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "DjangoCon 2011",
+    "copyright_text": "",
+    "description": "Why the Django Documentation Sucks\n\nPresented by Steve Holden\n\nDocumentation is normally held to be one of Django's strong points. Steve\nattempts to point out that even the best can stand improvement.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 87,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "djangocon-2011--why-the-django-documentation-suck",
+    "source_url": "",
+    "speakers": [
+        "Steve Holden"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "djangocon",
+        "djangocon2011",
+        "docs"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-WhyTheDjangoDocumentationSucks196-328.jpg",
+    "title": "Why the Django Documentation Sucks",
+    "updated": "2014-04-08T20:28:25.965",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/87_why-the-django-documentation-sucks.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 201131190,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

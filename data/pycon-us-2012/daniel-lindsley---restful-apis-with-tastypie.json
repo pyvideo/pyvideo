@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://img.youtube.com/vi/Zv26xHYlc8s/hqdefault.jpg", "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/Zv26xHYlc8s?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/Zv26xHYlc8s?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", "added": "2012-03-12T20:00:32", "whiteboard": "", "video_flv_length": null, "title": "RESTful APIs With Tastypie", "duration": null, "description": "", "state": 1, "category": "PyCon US 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-03-10", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=Zv26xHYlc8s", "video_webm_url": null, "summary": "Providing full-featured REST APIs is an increasingly popular request. Tastypie\nallows you to easily implement a customizable REST API for your Python or\nDjango applications.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.505", "id": 673, "related_urls": [], "slug": "restful-apis-with-tastypie", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Daniel Lindsley"]}
+{
+    "added": "2012-03-12T20:00:32",
+    "category": "PyCon US 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/Zv26xHYlc8s?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/Zv26xHYlc8s?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>",
+    "id": 673,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-03-10",
+    "related_urls": [],
+    "slug": "restful-apis-with-tastypie",
+    "source_url": "https://www.youtube.com/watch?v=Zv26xHYlc8s",
+    "speakers": [
+        "Daniel Lindsley"
+    ],
+    "state": 1,
+    "summary": "Providing full-featured REST APIs is an increasingly popular request. Tastypie\nallows you to easily implement a customizable REST API for your Python or\nDjango applications.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://img.youtube.com/vi/Zv26xHYlc8s/hqdefault.jpg",
+    "title": "RESTful APIs With Tastypie",
+    "updated": "2014-04-08T20:28:27.505",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,42 @@
-{"tags": ["database", "djangocon", "djangocon2010", "multipledatabases"], "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-MultidatabasePatterns241.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Multi-database patterns", "duration": null, "description": "Multi-database patterns\n\nPresented by Malcolm Tredinnick\n\nA tour through four common \"multiple database\" usage patterns and how they can\nbe implemented and utilised with Django. We'll talk about the strengths and\nweaknesses of each pattern and why you might not need any of them.\n\nAbstract\n\nThere are a few good reasons a system might want to interact regularly with\nmultiple databases. \u201cBecause it\u2019s what cool people do\u201d is not one of those\nreasons. Most multi-database usages fall into one of four main classes:\n\n  * Separation by function. All data of one type in one database, all data of another type in some other database. \n  * Separation by sharding. Data of a particular type (e.g. user records) is split across multiple databases, each database holding a shard of the whole data. \n  * Data replication (separation by access). Some pieces of data are synchronized to multiple machines. Writes might go into one or more masters and reads normally come from the slaves. \n  * Data augmentation/shadowing. Data in one database is added to or entirely replaced by data from another database. Can happen during development when reading from a production snapshot whilst trying out changes to some tables or data only against a local database. \n\nObviously, combinations of these classes are possible, such as replicated\nsharded data in a huge site. There are tricks and traps to the way a developer\ntalks to each of these sorts of setups. I'll spend a few minutes showing\ncredible examples of the usage of each as well as when you might be over-\nengineering by going that way. All four access patterns are possible in Django\n1.2, with varying degrees of ease of use and I'll show the type of code\nrequired in each case.\n\n", "state": 1, "category": "DjangoCon 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 215779342, "updated": "2014-04-08T20:28:25.589", "id": 38, "related_urls": [], "slug": "djangocon-2010--multi-database-patterns", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/38_multi-database-patterns.flv", "language": "English", "video_ogv_download_only": false, "speakers": ["Malcolm Tredinnick"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "DjangoCon 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Multi-database patterns\n\nPresented by Malcolm Tredinnick\n\nA tour through four common \"multiple database\" usage patterns and how they can\nbe implemented and utilised with Django. We'll talk about the strengths and\nweaknesses of each pattern and why you might not need any of them.\n\nAbstract\n\nThere are a few good reasons a system might want to interact regularly with\nmultiple databases. \u201cBecause it\u2019s what cool people do\u201d is not one of those\nreasons. Most multi-database usages fall into one of four main classes:\n\n  * Separation by function. All data of one type in one database, all data of another type in some other database. \n  * Separation by sharding. Data of a particular type (e.g. user records) is split across multiple databases, each database holding a shard of the whole data. \n  * Data replication (separation by access). Some pieces of data are synchronized to multiple machines. Writes might go into one or more masters and reads normally come from the slaves. \n  * Data augmentation/shadowing. Data in one database is added to or entirely replaced by data from another database. Can happen during development when reading from a production snapshot whilst trying out changes to some tables or data only against a local database. \n\nObviously, combinations of these classes are possible, such as replicated\nsharded data in a huge site. There are tricks and traps to the way a developer\ntalks to each of these sorts of setups. I'll spend a few minutes showing\ncredible examples of the usage of each as well as when you might be over-\nengineering by going that way. All four access patterns are possible in Django\n1.2, with varying degrees of ease of use and I'll show the type of code\nrequired in each case.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 38,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "djangocon-2010--multi-database-patterns",
+    "source_url": "",
+    "speakers": [
+        "Malcolm Tredinnick"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "database",
+        "djangocon",
+        "djangocon2010",
+        "multipledatabases"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-MultidatabasePatterns241.png",
+    "title": "Multi-database patterns",
+    "updated": "2014-04-08T20:28:25.589",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/38_multi-database-patterns.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": 215779342,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

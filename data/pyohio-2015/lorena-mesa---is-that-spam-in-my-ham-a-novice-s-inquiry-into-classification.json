@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "https://i.ytimg.com/vi/GfmTq1PJkE4/hqdefault.jpg", "embed": "", "added": "2015-07-22T20:49:27.387", "whiteboard": "", "video_flv_length": null, "title": "Is that spam in my ham? A novice's inquiry into classification.", "duration": 1613, "description": "**Supervised learning, machine learning, classifiers!** *Help?* In this talk I define a problem, identifying an email as spam, from the perspective of a beginner and show how Python can help us learn to classify. We will translate knowing spam \"when I see it\" into a basic model and use a Naive Bayes classifier to determine if email is spam. We will train our classifier with examples and practice!", "state": 1, "category": "PyOhio 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3690_Is_that_spam_in_my_ham_A_novices_inquiry_into_clas.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-01", "copyright_text": "CC BY", "source_url": "http://youtu.be/GfmTq1PJkE4", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-09-16T22:41:55.534", "id": 3690, "related_urls": [], "slug": "is-that-spam-in-my-ham-a-novices-inquiry-into-c", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Lorena Mesa"]}
+{
+    "added": "2015-07-22T20:49:27.387",
+    "category": "PyOhio 2015",
+    "copyright_text": "CC BY",
+    "description": "**Supervised learning, machine learning, classifiers!** *Help?* In this talk I define a problem, identifying an email as spam, from the perspective of a beginner and show how Python can help us learn to classify. We will translate knowing spam \"when I see it\" into a basic model and use a Naive Bayes classifier to determine if email is spam. We will train our classifier with examples and practice!",
+    "duration": 1613,
+    "embed": "",
+    "id": 3690,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-01",
+    "related_urls": [],
+    "slug": "is-that-spam-in-my-ham-a-novices-inquiry-into-c",
+    "source_url": "http://youtu.be/GfmTq1PJkE4",
+    "speakers": [
+        "Lorena Mesa"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/GfmTq1PJkE4/hqdefault.jpg",
+    "title": "Is that spam in my ham? A novice's inquiry into classification.",
+    "updated": "2015-09-16T22:41:55.534",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3690_Is_that_spam_in_my_ham_A_novices_inquiry_into_clas.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

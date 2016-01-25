@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/jKfkLVDAwRQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/jKfkLVDAwRQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/jKfkLVDAwRQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-04-12T21:30:18.410", "whiteboard": "", "video_flv_length": null, "title": "Introduction to Regular Expressions", "duration": null, "description": "", "state": 1, "category": "PyCon US 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-04-12", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=jKfkLVDAwRQ", "video_webm_url": null, "summary": "Many developers, including quite a few experienced developers, are absolutely confounded by regular expressions. However, regular expressions aren't as difficult as many believe. In this talk, I will teach regular expressions by starting with the simple and moving toward the complex, so that you too can read and write regular expressions like a hero.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-12T21:30:18.410", "id": 2599, "related_urls": [], "slug": "introduction-to-regular-expressions", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Luke Sneeringer"]}
+{
+    "added": "2014-04-12T21:30:18.410",
+    "category": "PyCon US 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/jKfkLVDAwRQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/jKfkLVDAwRQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2599,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-04-12",
+    "related_urls": [],
+    "slug": "introduction-to-regular-expressions",
+    "source_url": "http://www.youtube.com/watch?v=jKfkLVDAwRQ",
+    "speakers": [
+        "Luke Sneeringer"
+    ],
+    "state": 1,
+    "summary": "Many developers, including quite a few experienced developers, are absolutely confounded by regular expressions. However, regular expressions aren't as difficult as many believe. In this talk, I will teach regular expressions by starting with the simple and moving toward the complex, so that you too can read and write regular expressions like a hero.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/jKfkLVDAwRQ/hqdefault.jpg",
+    "title": "Introduction to Regular Expressions",
+    "updated": "2014-04-12T21:30:18.410",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

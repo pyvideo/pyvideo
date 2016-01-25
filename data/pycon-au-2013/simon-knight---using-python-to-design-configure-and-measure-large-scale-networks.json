@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/EGK5jjyUBCQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/EGK5jjyUBCQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/EGK5jjyUBCQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-13T01:04:31", "whiteboard": "", "video_flv_length": null, "title": "Using Python to design, configure, and measure large-scale networks", "duration": 30, "description": "", "state": 1, "category": "PyCon AU 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvpyconau2013/Using_Python_to_design_configu.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-06", "copyright_text": "CC-BY-SA", "source_url": "https://www.youtube.com/watch?v=EGK5jjyUBCQ", "video_webm_url": null, "summary": "AutoNetkit is an open-source project to automatically build network configuration files for routers including Quagga, Cisco and Juniper, with complicated protocol configurations, all from a simple input graph --- which could even be drawn in a program such as yEd. \r\n\r\nAutoNetkit was started at the University of Adelaide, and developed further at Cisco, with collaborators from both research and industry.\r\nIt is being used at major router vendors, by network operators, and in university teaching, and in research publications including experiments with over 800 virtual routers --- nearly impossible to configure by hand.\r\n\r\n\r\nThis is all powered by Python, and we make significant use of the excellent packages available.\r\n\r\nThis talk will present a brief overview of what the AutoNetkit project is about and why we chose Python.\r\n\r\nI will give an over view of our data model, and how methods such as __lt__ __eq__ __contains__ __getattr__ __setattr__ and __iter__ allow elegant yet expressive network design, such as using list comprehensions.\r\n\r\nI will cover how we use the various modules, including:\r\n- NetworkX graphs\r\n- Netaddr IP addressing\r\n- Mako Templates\r\n- Exscript for scripting deployment\r\n- TextFSM parsing of measurement\r\n- Tornado to serve a browser-based d3.js visualisation framework\r\n- Using IPython notebooks for interactive tutorials\r\n\r\nWe've spent quite a bit of time with Python on this project. This talk will pass on the our favourite Python language features and package we've found along the way.\r\nIt will be both a case study in using Python for a large-scale project, and an overview of useful packages.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.299", "id": 2234, "related_urls": [], "slug": "using-python-to-design-configure-and-measure-la", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Simon Knight"]}
+{
+    "added": "2013-07-13T01:04:31",
+    "category": "PyCon AU 2013",
+    "copyright_text": "CC-BY-SA",
+    "description": "",
+    "duration": 30,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/EGK5jjyUBCQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/EGK5jjyUBCQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2234,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-06",
+    "related_urls": [],
+    "slug": "using-python-to-design-configure-and-measure-la",
+    "source_url": "https://www.youtube.com/watch?v=EGK5jjyUBCQ",
+    "speakers": [
+        "Simon Knight"
+    ],
+    "state": 1,
+    "summary": "AutoNetkit is an open-source project to automatically build network configuration files for routers including Quagga, Cisco and Juniper, with complicated protocol configurations, all from a simple input graph --- which could even be drawn in a program such as yEd. \r\n\r\nAutoNetkit was started at the University of Adelaide, and developed further at Cisco, with collaborators from both research and industry.\r\nIt is being used at major router vendors, by network operators, and in university teaching, and in research publications including experiments with over 800 virtual routers --- nearly impossible to configure by hand.\r\n\r\n\r\nThis is all powered by Python, and we make significant use of the excellent packages available.\r\n\r\nThis talk will present a brief overview of what the AutoNetkit project is about and why we chose Python.\r\n\r\nI will give an over view of our data model, and how methods such as __lt__ __eq__ __contains__ __getattr__ __setattr__ and __iter__ allow elegant yet expressive network design, such as using list comprehensions.\r\n\r\nI will cover how we use the various modules, including:\r\n- NetworkX graphs\r\n- Netaddr IP addressing\r\n- Mako Templates\r\n- Exscript for scripting deployment\r\n- TextFSM parsing of measurement\r\n- Tornado to serve a browser-based d3.js visualisation framework\r\n- Using IPython notebooks for interactive tutorials\r\n\r\nWe've spent quite a bit of time with Python on this project. This talk will pass on the our favourite Python language features and package we've found along the way.\r\nIt will be both a case study in using Python for a large-scale project, and an overview of useful packages.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/EGK5jjyUBCQ/hqdefault.jpg",
+    "title": "Using Python to design, configure, and measure large-scale networks",
+    "updated": "2014-04-08T20:28:26.299",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvpyconau2013/Using_Python_to_design_configu.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "https://i.ytimg.com/vi/4fzAMdLKC5k/hqdefault.jpg", "embed": "", "added": "2015-07-22T20:49:21.629", "whiteboard": "", "video_flv_length": null, "title": "Python Packaging from Init to Deploy", "duration": 2167, "description": "Python packaging really isn't that bad (anymore.) In this talk you'll learn how you can take your beautiful new Python code and share it with the world in a way that everyone benefits. I will cover tools and techniques you can use to get the boring stuff out of the way so you can focus on your code and deploy quickly, frequently, and consistently.", "state": 1, "category": "PyOhio 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3685_Python_Packaging_from_Init_to_Deploy.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-02", "copyright_text": "CC BY", "source_url": "http://youtu.be/4fzAMdLKC5k", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-08T12:54:58.101", "id": 3685, "related_urls": [], "slug": "python-packaging-from-init-to-deploy", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Dave Forgac"]}
+{
+    "added": "2015-07-22T20:49:21.629",
+    "category": "PyOhio 2015",
+    "copyright_text": "CC BY",
+    "description": "Python packaging really isn't that bad (anymore.) In this talk you'll learn how you can take your beautiful new Python code and share it with the world in a way that everyone benefits. I will cover tools and techniques you can use to get the boring stuff out of the way so you can focus on your code and deploy quickly, frequently, and consistently.",
+    "duration": 2167,
+    "embed": "",
+    "id": 3685,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-02",
+    "related_urls": [],
+    "slug": "python-packaging-from-init-to-deploy",
+    "source_url": "http://youtu.be/4fzAMdLKC5k",
+    "speakers": [
+        "Dave Forgac"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/4fzAMdLKC5k/hqdefault.jpg",
+    "title": "Python Packaging from Init to Deploy",
+    "updated": "2015-08-08T12:54:58.101",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3685_Python_Packaging_from_Init_to_Deploy.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

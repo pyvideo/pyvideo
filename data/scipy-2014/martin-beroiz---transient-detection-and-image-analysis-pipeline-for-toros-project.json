@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/Kq-hd69_1FM/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Kq-hd69_1FM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Kq-hd69_1FM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-15T22:45:37.096", "whiteboard": "", "video_flv_length": null, "title": "Transient detection and image analysis pipeline for TOROS project", "duration": null, "description": "In preparation for the [TOROS project](http://toros.phys.utb.edu/TOROS/Welcome.html \\\"TOROS project\\\") designed to survey the southern hemisphere sky in search for transients, we develop a pipeline for image analysis and processing based on Python.\r\n\r\nThe code makes extended use of the open source image processing library OpenCV to align the images astrometrically and makes use of other astronomical specific routines like the Astropy package to deal with FITS files. The design will involve integration with SciDB, Astrometry.net, parallelization and other pythonic astronomical tools.\r\n\r\nThis automated optical transients discovery tool will be tested with real (CSTAR and TORITOS telescopes) and simulated data samples as the input for a machine learning classification tool of light-curves based on AstroML and Scikit-Learn libraries.\r\n\r\nThe project is version controlled using git and we will handle future collaboration among scientist from different countries using the open source project manager Trac. It will be available as an open source project in popular web repositories like github or bitbucket.", "state": 1, "category": "SciPy 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-14", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=Kq-hd69_1FM", "video_webm_url": "", "summary": "TOROS project will be an astronomical survey of the southern hemisphere in search of optical transients counterparts for aLIGO. This project will make extended use of Machine learning techniques to identify interesting transient candidates to aLIGO alerts. It also uses OpenCV library for image aligning and some of the subsequent processing.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-07-15T23:24:43.569", "id": 2770, "related_urls": [], "slug": "transient-detection-and-image-analysis-pipeline-f", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Martin Beroiz"]}
+{
+    "added": "2014-07-15T22:45:37.096",
+    "category": "SciPy 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "In preparation for the [TOROS project](http://toros.phys.utb.edu/TOROS/Welcome.html \\\"TOROS project\\\") designed to survey the southern hemisphere sky in search for transients, we develop a pipeline for image analysis and processing based on Python.\r\n\r\nThe code makes extended use of the open source image processing library OpenCV to align the images astrometrically and makes use of other astronomical specific routines like the Astropy package to deal with FITS files. The design will involve integration with SciDB, Astrometry.net, parallelization and other pythonic astronomical tools.\r\n\r\nThis automated optical transients discovery tool will be tested with real (CSTAR and TORITOS telescopes) and simulated data samples as the input for a machine learning classification tool of light-curves based on AstroML and Scikit-Learn libraries.\r\n\r\nThe project is version controlled using git and we will handle future collaboration among scientist from different countries using the open source project manager Trac. It will be available as an open source project in popular web repositories like github or bitbucket.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Kq-hd69_1FM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Kq-hd69_1FM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2770,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-14",
+    "related_urls": [],
+    "slug": "transient-detection-and-image-analysis-pipeline-f",
+    "source_url": "http://www.youtube.com/watch?v=Kq-hd69_1FM",
+    "speakers": [
+        "Martin Beroiz"
+    ],
+    "state": 1,
+    "summary": "TOROS project will be an astronomical survey of the southern hemisphere in search of optical transients counterparts for aLIGO. This project will make extended use of Machine learning techniques to identify interesting transient candidates to aLIGO alerts. It also uses OpenCV library for image aligning and some of the subsequent processing.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/Kq-hd69_1FM/hqdefault.jpg",
+    "title": "Transient detection and image analysis pipeline for TOROS project",
+    "updated": "2014-07-15T23:24:43.569",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

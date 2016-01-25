@@ -1,1 +1,41 @@
-{"tags": ["neo4j", "pycon", "pycon2010"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010PersistentGraphsInPythonWithNeo4j140164-779.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Persistent Graphs in Python with Neo4j (#140)", "duration": null, "description": "Persistent Graphs in Python with Neo4j\n\n  \nPresented by Tobbias Ivarsson\n\n  \nDatabases that employ a data model other than the relational model are\nincreasingly a hot topic. Neo4j is an open source database where the data\nmodel is a graph. Data in Neo4j is stored as Nodes and Relationships in\nbetween nodes. A lot of the data we model in applications every day is\nactually graph oriented, having a database that persists such data natively is\na huge benefit. In this presentation we will see how to use Neo4j in Python,\nand demonstrate this with a web application in Django.\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/264_persistent-graphs-in-python-with-neo4j-140.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/264_persistent-graphs-in-python-with-neo4j-140.ogv", "video_ogv_length": 170064119, "updated": "2014-04-08T20:28:28.162", "id": 264, "related_urls": [], "slug": "pycon-2010--persistent-graphs-in-python-with-neo4", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Tobbias Ivarsson"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Persistent Graphs in Python with Neo4j\n\n  \nPresented by Tobbias Ivarsson\n\n  \nDatabases that employ a data model other than the relational model are\nincreasingly a hot topic. Neo4j is an open source database where the data\nmodel is a graph. Data in Neo4j is stored as Nodes and Relationships in\nbetween nodes. A lot of the data we model in applications every day is\nactually graph oriented, having a database that persists such data natively is\na huge benefit. In this presentation we will see how to use Neo4j in Python,\nand demonstrate this with a web application in Django.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 264,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--persistent-graphs-in-python-with-neo4",
+    "source_url": "",
+    "speakers": [
+        "Tobbias Ivarsson"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "neo4j",
+        "pycon",
+        "pycon2010"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010PersistentGraphsInPythonWithNeo4j140164-779.jpg",
+    "title": "Persistent Graphs in Python with Neo4j (#140)",
+    "updated": "2014-04-08T20:28:28.162",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/264_persistent-graphs-in-python-with-neo4j-140.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 170064119,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/264_persistent-graphs-in-python-with-neo4j-140.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/mY8B2lXIu6g/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/mY8B2lXIu6g\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-10-18T16:10:58.747", "whiteboard": "needs editing", "video_flv_length": null, "title": "Money, Money, Money - Writing software, in a rich (wo)man's world", "duration": null, "description": "Free software advocates talk about two types of \"Free\": Free as in freedom, and Free as in beer. While Free (as in freedom) software is unquestionably better for users and developers alike, Free (as in beer) software doesn't pay the bills. \r\n\r\nTalk to any prominent open source developer, and amongst the success stories, you'll also hear some consistent troubles - that they've got great ideas and grand plans, but no time to execute; that they're about to burn out due to the pressues of maintaining their project; or that they've had yet another mailing list discussion with someone who doesn't understand they're a volunteer. All of these problems stem from a fundamental disconnect: the discrepancy between the clear demand for a software product, and the ability to convert that demand into time needed to service that demand - and that means money.\r\n\r\nSo is there a way to pay the piper? Or is open source doomed to eek out an existence at the edges of \"a real job\"?\r\n\n\n", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-04", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=mY8B2lXIu6g", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-18T16:10:58.747", "id": 3999, "related_urls": [], "slug": "money-money-money-writing-software-in-a-rich", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Russell Keith-Magee"]}
+{
+    "added": "2015-10-18T16:10:58.747",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Free software advocates talk about two types of \"Free\": Free as in freedom, and Free as in beer. While Free (as in freedom) software is unquestionably better for users and developers alike, Free (as in beer) software doesn't pay the bills. \r\n\r\nTalk to any prominent open source developer, and amongst the success stories, you'll also hear some consistent troubles - that they've got great ideas and grand plans, but no time to execute; that they're about to burn out due to the pressues of maintaining their project; or that they've had yet another mailing list discussion with someone who doesn't understand they're a volunteer. All of these problems stem from a fundamental disconnect: the discrepancy between the clear demand for a software product, and the ability to convert that demand into time needed to service that demand - and that means money.\r\n\r\nSo is there a way to pay the piper? Or is open source doomed to eek out an existence at the edges of \"a real job\"?\r\n\n\n",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/mY8B2lXIu6g\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 3999,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-04",
+    "related_urls": [],
+    "slug": "money-money-money-writing-software-in-a-rich",
+    "source_url": "https://www.youtube.com/watch?v=mY8B2lXIu6g",
+    "speakers": [
+        "Russell Keith-Magee"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/mY8B2lXIu6g/hqdefault.jpg",
+    "title": "Money, Money, Money - Writing software, in a rich (wo)man's world",
+    "updated": "2015-10-18T16:10:58.747",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

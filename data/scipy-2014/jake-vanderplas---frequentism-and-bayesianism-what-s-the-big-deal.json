@@ -1,1 +1,39 @@
-{"tags": ["statistics"], "thumbnail_url": "http://i1.ytimg.com/vi/KhAUfqhLakw/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/KhAUfqhLakw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/KhAUfqhLakw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-09T19:24:49.302", "whiteboard": "", "video_flv_length": null, "title": "Frequentism and Bayesianism: What's the Big Deal?", "duration": null, "description": "In scientific data mining and machine learning, a fundamental division is that of the frequentist and Bayesian approaches to statistics. Often the fodder for impassioned debate among statisticians and other practitioners, the subtle philosophical differences between the two camps can lead to surprisingly different practical approaches to the analysis of scientific data. \r\n\r\nIn this talk I will delve into both the philosophical and practical aspects of Bayesian and frequentist approaches, drawing from a [series of posts](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/) from my blog.\r\n\r\nI'll start by addressing the philosophical differences between frequentism and Bayesianism, which boil down to different definitions of probability. I'll next move briefly into the mathematical details behind the two approaches, at a level which will be informative to a general scientific audience. I'll then show some examples of the two approaches applied to some increasingly more complicated problems using standard Python packages, namely: [NumPy](http://numpy.org), [SciPy](http://scipy.org), [Matplotlib](http://matplotlib.org), and [emcee](http://dan.iel.fm/emcee/).\r\n\r\nWith this combination of philosophy and practical examples, the audience should walk away with a much better understanding of the differences between frequentist and Bayesian approaches to statistical analysis, and especially how the philosophy of each approach affects the practical aspects of computation in data-intensive scientific research.", "state": 1, "category": "SciPy 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-09", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=KhAUfqhLakw", "video_webm_url": null, "summary": "Statistical analysis comes in two main flavors: frequentist and Bayesian. The subtle differences between the two can lead to widely divergent approaches to common data analysis tasks. After a brief discussion of the philosophical distinctions between the views, I\u2019ll utilize well-known Python libraries to demonstrate how this philosophy affects practical approaches to several common analysis tasks.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-07-09T19:24:49.302", "id": 2714, "related_urls": [], "slug": "frequentism-and-bayesianism-whats-the-big-deal", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Jake VanderPlas"]}
+{
+    "added": "2014-07-09T19:24:49.302",
+    "category": "SciPy 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "In scientific data mining and machine learning, a fundamental division is that of the frequentist and Bayesian approaches to statistics. Often the fodder for impassioned debate among statisticians and other practitioners, the subtle philosophical differences between the two camps can lead to surprisingly different practical approaches to the analysis of scientific data. \r\n\r\nIn this talk I will delve into both the philosophical and practical aspects of Bayesian and frequentist approaches, drawing from a [series of posts](http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/) from my blog.\r\n\r\nI'll start by addressing the philosophical differences between frequentism and Bayesianism, which boil down to different definitions of probability. I'll next move briefly into the mathematical details behind the two approaches, at a level which will be informative to a general scientific audience. I'll then show some examples of the two approaches applied to some increasingly more complicated problems using standard Python packages, namely: [NumPy](http://numpy.org), [SciPy](http://scipy.org), [Matplotlib](http://matplotlib.org), and [emcee](http://dan.iel.fm/emcee/).\r\n\r\nWith this combination of philosophy and practical examples, the audience should walk away with a much better understanding of the differences between frequentist and Bayesian approaches to statistical analysis, and especially how the philosophy of each approach affects the practical aspects of computation in data-intensive scientific research.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/KhAUfqhLakw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/KhAUfqhLakw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2714,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-09",
+    "related_urls": [],
+    "slug": "frequentism-and-bayesianism-whats-the-big-deal",
+    "source_url": "http://www.youtube.com/watch?v=KhAUfqhLakw",
+    "speakers": [
+        "Jake VanderPlas"
+    ],
+    "state": 1,
+    "summary": "Statistical analysis comes in two main flavors: frequentist and Bayesian. The subtle differences between the two can lead to widely divergent approaches to common data analysis tasks. After a brief discussion of the philosophical distinctions between the views, I\u2019ll utilize well-known Python libraries to demonstrate how this philosophy affects practical approaches to several common analysis tasks.",
+    "tags": [
+        "statistics"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/KhAUfqhLakw/hqdefault.jpg",
+    "title": "Frequentism and Bayesianism: What's the Big Deal?",
+    "updated": "2014-07-09T19:24:49.302",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

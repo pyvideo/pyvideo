@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "https://i.ytimg.com/vi/EwI-e3WlTew/hqdefault.jpg", "embed": "", "added": "2015-07-22T20:49:44.172", "whiteboard": "", "video_flv_length": null, "title": "REPL-driven development", "duration": 2797, "description": "You know the Read-Evaluate-Print-Loop you get when you type python, ipython or bpython? You should spend more time in it!\r\nThis talk describes development workflows using a REPL and their associated pitfalls. IPython and bpython features useful for writing, testing, debugging and using code will\r\nbe sprinkled throughout.", "state": 1, "category": "PyOhio 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3705_REPLdriven_development.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-02", "copyright_text": "CC BY", "source_url": "http://youtu.be/EwI-e3WlTew", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-05T09:46:10.125", "id": 3705, "related_urls": [], "slug": "repl-driven-development", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Thomas Ballinger"]}
+{
+    "added": "2015-07-22T20:49:44.172",
+    "category": "PyOhio 2015",
+    "copyright_text": "CC BY",
+    "description": "You know the Read-Evaluate-Print-Loop you get when you type python, ipython or bpython? You should spend more time in it!\r\nThis talk describes development workflows using a REPL and their associated pitfalls. IPython and bpython features useful for writing, testing, debugging and using code will\r\nbe sprinkled throughout.",
+    "duration": 2797,
+    "embed": "",
+    "id": 3705,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-02",
+    "related_urls": [],
+    "slug": "repl-driven-development",
+    "source_url": "http://youtu.be/EwI-e3WlTew",
+    "speakers": [
+        "Thomas Ballinger"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/EwI-e3WlTew/hqdefault.jpg",
+    "title": "REPL-driven development",
+    "updated": "2015-08-05T09:46:10.125",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3705_REPLdriven_development.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

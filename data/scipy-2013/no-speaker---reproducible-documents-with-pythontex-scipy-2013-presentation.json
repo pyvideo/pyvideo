@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/G-UDHc2UVOg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/G-UDHc2UVOg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/G-UDHc2UVOg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:37", "whiteboard": "needs editing", "video_flv_length": null, "title": "Reproducible Documents with PythonTeX; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=G-UDHc2UVOg", "video_webm_url": null, "summary": "Authors: Poore, Geoffrey, Union University\n\nTrack: Reproducible Science\n\nWriting a scientific document can be slow and error-prone. When a figure or calculation needs to be modified, the code that created it must be located, edited, and re-executed. When data changes or analysis is tweaked, everything that depends on it must be updated. PythonTeX is a LaTeX package that addresses these issues by allowing Python code to be included within LaTeX documents. Python code may be entered adjacent to the figure or calculation it produces. Built-in utilities may be used to track dependencies.\n\nPythonTeX maximizes performance and efficiency. All code output is cached, so that documents can be compiled without executing code. Code is only re-executed when user-specified criteria are met, such as exit status or modified dependencies. In many cases, dependencies can be detected and tracked automatically. Slow code may be isolated in user-defined sessions, which automatically run in parallel. Errors and warnings are synchronized with the document so that they have meaningful line numbers.\n\nSince PythonTeX documents mix LaTeX and Python code, they are less portable than plain LaTeX documents. PythonTeX includes a conversion utility that creates a new copy of a document in which all Python code is replaced by its output. The result is suitable for journal submission or conversion to other formats such as HTML.\n\nWhile PythonTeX is primarily intended for Python, its design is largely language-independent. Users may easily add support for additional languages.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.363", "id": 2002, "related_urls": [], "slug": "reproducible-documents-with-pythontex-scipy-2013", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:37",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/G-UDHc2UVOg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/G-UDHc2UVOg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2002,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [],
+    "slug": "reproducible-documents-with-pythontex-scipy-2013",
+    "source_url": "http://www.youtube.com/watch?v=G-UDHc2UVOg",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Poore, Geoffrey, Union University\n\nTrack: Reproducible Science\n\nWriting a scientific document can be slow and error-prone. When a figure or calculation needs to be modified, the code that created it must be located, edited, and re-executed. When data changes or analysis is tweaked, everything that depends on it must be updated. PythonTeX is a LaTeX package that addresses these issues by allowing Python code to be included within LaTeX documents. Python code may be entered adjacent to the figure or calculation it produces. Built-in utilities may be used to track dependencies.\n\nPythonTeX maximizes performance and efficiency. All code output is cached, so that documents can be compiled without executing code. Code is only re-executed when user-specified criteria are met, such as exit status or modified dependencies. In many cases, dependencies can be detected and tracked automatically. Slow code may be isolated in user-defined sessions, which automatically run in parallel. Errors and warnings are synchronized with the document so that they have meaningful line numbers.\n\nSince PythonTeX documents mix LaTeX and Python code, they are less portable than plain LaTeX documents. PythonTeX includes a conversion utility that creates a new copy of a document in which all Python code is replaced by its output. The result is suitable for journal submission or conversion to other formats such as HTML.\n\nWhile PythonTeX is primarily intended for Python, its design is largely language-independent. Users may easily add support for additional languages.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/G-UDHc2UVOg/hqdefault.jpg",
+    "title": "Reproducible Documents with PythonTeX; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.363",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

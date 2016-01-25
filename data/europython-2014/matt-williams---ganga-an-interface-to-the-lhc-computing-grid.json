@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/SSdluuVNU3Y/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/SSdluuVNU3Y?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/SSdluuVNU3Y?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:23.767", "whiteboard": "", "video_flv_length": null, "title": "Ganga: an interface to the LHC computing grid", "duration": null, "description": "[Ganga](https://cern.ch/ganga) is a tool, designed and used by the large particle physics experiments at CERN. Written in pure Python, it delivers a clean, usable interface to allow thousands of physicists to interact with the huge computing resources available to them. It provides a single platform with which data analysis tasks can be run on anything from a local machine to being distributed seamlessly to computing centres around the world.\r\n\r\nThe talk will cover the problems faced by physicists when dealing with the computer infrastructure and how Ganga helps to solve this problem. It will focus on how Python has helped create such a tool through its advanced features such as metaclasses and integration into IPython.", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-25", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=SSdluuVNU3Y", "video_webm_url": "", "summary": "Ganga is a tool, designed and used by the large particle physics experiments at CERN. Written in pure Python, it delivers a clean, usable interface to allow thousands of physicists to interact with the huge computing resources available to them.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-07-31T01:02:13.230", "id": 2937, "related_urls": [], "slug": "ganga-an-interface-to-the-lhc-computing-grid", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Matt Williams"]}
+{
+    "added": "2014-07-31T00:46:23.767",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "[Ganga](https://cern.ch/ganga) is a tool, designed and used by the large particle physics experiments at CERN. Written in pure Python, it delivers a clean, usable interface to allow thousands of physicists to interact with the huge computing resources available to them. It provides a single platform with which data analysis tasks can be run on anything from a local machine to being distributed seamlessly to computing centres around the world.\r\n\r\nThe talk will cover the problems faced by physicists when dealing with the computer infrastructure and how Ganga helps to solve this problem. It will focus on how Python has helped create such a tool through its advanced features such as metaclasses and integration into IPython.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/SSdluuVNU3Y?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/SSdluuVNU3Y?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2937,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-25",
+    "related_urls": [],
+    "slug": "ganga-an-interface-to-the-lhc-computing-grid",
+    "source_url": "http://www.youtube.com/watch?v=SSdluuVNU3Y",
+    "speakers": [
+        "Matt Williams"
+    ],
+    "state": 1,
+    "summary": "Ganga is a tool, designed and used by the large particle physics experiments at CERN. Written in pure Python, it delivers a clean, usable interface to allow thousands of physicists to interact with the huge computing resources available to them.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/SSdluuVNU3Y/hqdefault.jpg",
+    "title": "Ganga: an interface to the LHC computing grid",
+    "updated": "2014-07-31T01:02:13.230",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

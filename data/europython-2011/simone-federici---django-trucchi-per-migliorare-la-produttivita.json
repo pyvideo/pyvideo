@@ -1,1 +1,40 @@
-{"tags": ["django", "python,"], "thumbnail_url": "http://i.ytimg.com/vi/TuCYD1qnNcw/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/TuCYD1qnNcw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/TuCYD1qnNcw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:29:54", "whiteboard": "", "video_flv_length": null, "title": "Django: trucchi per migliorare la produttivit\u00e0", "duration": null, "description": "Prover\u00f2 ad illustrare in questi 60 minuti alcuni consigli e best practices, da\nutilizzare nello sviluppo di applicazioni django based.\n\nNon \u00e8 un mero elenco di tools e/o applicazioni, bens\u00ec un bignami di snippets e\ntips architetturali. Tutto sommato l\u2019obbiettivo \u00e8 non sbagliare e andare pi\u00f9\nveloci.\n\nArgomenti trattati: python, users, forms, jquery, virtualenv, distribute,\nbuildbot, ecc\u2026\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-13", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=TuCYD1qnNcw", "video_webm_url": null, "summary": "[EuroPython 2011] Simone Federici - 22 June 2011 in \"Track Italiana Big Mac \"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.817", "id": 1186, "related_urls": [], "slug": "django-trucchi-per-migliorare-la-produttivita", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "Italian", "video_ogv_download_only": false, "speakers": ["Simone Federici"]}
+{
+    "added": "2012-08-30T21:29:54",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "Prover\u00f2 ad illustrare in questi 60 minuti alcuni consigli e best practices, da\nutilizzare nello sviluppo di applicazioni django based.\n\nNon \u00e8 un mero elenco di tools e/o applicazioni, bens\u00ec un bignami di snippets e\ntips architetturali. Tutto sommato l\u2019obbiettivo \u00e8 non sbagliare e andare pi\u00f9\nveloci.\n\nArgomenti trattati: python, users, forms, jquery, virtualenv, distribute,\nbuildbot, ecc\u2026\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/TuCYD1qnNcw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/TuCYD1qnNcw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1186,
+    "language": "Italian",
+    "quality_notes": "",
+    "recorded": "2011-07-13",
+    "related_urls": [],
+    "slug": "django-trucchi-per-migliorare-la-produttivita",
+    "source_url": "http://www.youtube.com/watch?v=TuCYD1qnNcw",
+    "speakers": [
+        "Simone Federici"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Simone Federici - 22 June 2011 in \"Track Italiana Big Mac \"\n\n",
+    "tags": [
+        "django",
+        "python,"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/TuCYD1qnNcw/hqdefault.jpg",
+    "title": "Django: trucchi per migliorare la produttivit\u00e0",
+    "updated": "2014-04-08T20:28:27.817",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

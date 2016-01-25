@@ -1,1 +1,44 @@
-{"tags": ["agile", "architecture", "packaging", "pyconau", "pyconau2010", "testing"], "thumbnail_url": "http://a.images.blip.tv/Pyconau-DontBreakItContinuousIntegrationDeployment397.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyConAU 2010: Don't Break It: Continuous Integration &amp; Deployment", "duration": null, "description": "Don't Break It: Continuous Integration & Deployment\n\nPresented by Benno Rice\n\nSo you've developed your application, it appears to work and you may even have\nsome tests to back that up. Now what?\n\nOne part of software development that tends to receive not nearly enough\nattention is the process of deploying, supporting and maintaining your code in\nproduction. This demonstration will give an overview of using tools such as\nHudson, nose, stdeb and freshen to automate the testing, packaging, deployment\nand verification of production software.\n\n", "state": 1, "category": "PyCon AU 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:25.769", "id": 461, "related_urls": [], "slug": "pyconau-2010--don--39-t-break-it--continuous-inte", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/461_pyconau-2010-don-t-break-it-continuous-integration-amp-deployment.flv", "language": "English", "video_ogv_download_only": false, "speakers": ["Benno Rice"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon AU 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Don't Break It: Continuous Integration & Deployment\n\nPresented by Benno Rice\n\nSo you've developed your application, it appears to work and you may even have\nsome tests to back that up. Now what?\n\nOne part of software development that tends to receive not nearly enough\nattention is the process of deploying, supporting and maintaining your code in\nproduction. This demonstration will give an overview of using tools such as\nHudson, nose, stdeb and freshen to automate the testing, packaging, deployment\nand verification of production software.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 461,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyconau-2010--don--39-t-break-it--continuous-inte",
+    "source_url": "",
+    "speakers": [
+        "Benno Rice"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "agile",
+        "architecture",
+        "packaging",
+        "pyconau",
+        "pyconau2010",
+        "testing"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pyconau-DontBreakItContinuousIntegrationDeployment397.png",
+    "title": "PyConAU 2010: Don't Break It: Continuous Integration &amp; Deployment",
+    "updated": "2014-04-08T20:28:25.769",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/461_pyconau-2010-don-t-break-it-continuous-integration-amp-deployment.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

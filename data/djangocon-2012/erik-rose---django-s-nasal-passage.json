@@ -1,1 +1,41 @@
-{"tags": ["django", "nose", "testing"], "thumbnail_url": "http://i.ytimg.com/vi/NZnnB7l3ZHM/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/NZnnB7l3ZHM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/NZnnB7l3ZHM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-10-08T17:39:52", "whiteboard": "needs editing", "video_flv_length": null, "title": "Django's Nasal Passage", "duration": null, "description": "  * Why nose?\n\n    * Pain points with standard Django testing\n\n    * Extensibility without writing custom, uncombineable testrunner subclasses\n\n    * Rich ecosystem of helpful plugins\n\n  * django-nose\n\n    * Testing just your apps, not all the random installed stuff\n\n    * Test-selection tricks: running just failed tests, running a module, etc.\n\n    * Killing the boilerplate:\n\n      * No more imports into **init**\n\n      * No more class name collisions and accidental shadowing\n\n      * With all this freedom, how best should you organize your tests?\n\n    * Going 4 times faster with fixture bundling\n\n      * Troubleshooting\n\n      * Fixtures are evil\n\n      * Where do I put the factories?\n\n    * Speeding startup with test DB reuse\n\n    * Writing faster TransactionTestCases with hygienic base classes\n\n      * Background on Django's handling of TransactionTestCases\n\n      * How to improve matters\n\n    * Test-only models: what's the best practice?\n\n  * nose-progressive\n\n    * Dots considered harmful. When will my tests be done?\n\n    * Patience is for the dead. Show me my tracebacks as they happen!\n\n    * My terminal is only this big. Don't waste my space.\n\n    * Hiding pointless stack frames\n\n    * Editor round-tripping for quick debugging\n\n  * Splitting into sub-suites\n\n    * An introduction to the attr plugin\n\n    * Have some run only on CI machines, some constantly, others before checkin\n\n    * Choosing tests with regexes\n\n  * Other fun plugins\n\n    * f7u12, for when your tests get angry\n\n    * Coverage\n\n    * xunit, for your continual integration pleasure\n\n    * Profiling\n\n\n\n", "state": 1, "category": "DjangoCon 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-09-06", "copyright_text": "Creative Commons Attribution license (reuse allowed", "source_url": "http://www.youtube.com/watch?v=NZnnB7l3ZHM", "video_webm_url": null, "summary": "Django's testrunner gets you started quickly, but you soon hit your head on\n\nits limitations as your project grows. By trading it for nose, a testing\n\nframework popular in the wider Python community, we can reduce boilerplate,\n\nboost performance, and improve testing UI, with only a few lines of setting\n\nchanges. Re-use your test DBs, integrate with Jenkins, split your suite into\n\npieces, and more.\n\n\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.973", "id": 1406, "related_urls": [], "slug": "djangos-nasal-passage", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Erik Rose"]}
+{
+    "added": "2012-10-08T17:39:52",
+    "category": "DjangoCon 2012",
+    "copyright_text": "Creative Commons Attribution license (reuse allowed",
+    "description": "  * Why nose?\n\n    * Pain points with standard Django testing\n\n    * Extensibility without writing custom, uncombineable testrunner subclasses\n\n    * Rich ecosystem of helpful plugins\n\n  * django-nose\n\n    * Testing just your apps, not all the random installed stuff\n\n    * Test-selection tricks: running just failed tests, running a module, etc.\n\n    * Killing the boilerplate:\n\n      * No more imports into **init**\n\n      * No more class name collisions and accidental shadowing\n\n      * With all this freedom, how best should you organize your tests?\n\n    * Going 4 times faster with fixture bundling\n\n      * Troubleshooting\n\n      * Fixtures are evil\n\n      * Where do I put the factories?\n\n    * Speeding startup with test DB reuse\n\n    * Writing faster TransactionTestCases with hygienic base classes\n\n      * Background on Django's handling of TransactionTestCases\n\n      * How to improve matters\n\n    * Test-only models: what's the best practice?\n\n  * nose-progressive\n\n    * Dots considered harmful. When will my tests be done?\n\n    * Patience is for the dead. Show me my tracebacks as they happen!\n\n    * My terminal is only this big. Don't waste my space.\n\n    * Hiding pointless stack frames\n\n    * Editor round-tripping for quick debugging\n\n  * Splitting into sub-suites\n\n    * An introduction to the attr plugin\n\n    * Have some run only on CI machines, some constantly, others before checkin\n\n    * Choosing tests with regexes\n\n  * Other fun plugins\n\n    * f7u12, for when your tests get angry\n\n    * Coverage\n\n    * xunit, for your continual integration pleasure\n\n    * Profiling\n\n\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/NZnnB7l3ZHM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/NZnnB7l3ZHM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1406,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-09-06",
+    "related_urls": [],
+    "slug": "djangos-nasal-passage",
+    "source_url": "http://www.youtube.com/watch?v=NZnnB7l3ZHM",
+    "speakers": [
+        "Erik Rose"
+    ],
+    "state": 1,
+    "summary": "Django's testrunner gets you started quickly, but you soon hit your head on\n\nits limitations as your project grows. By trading it for nose, a testing\n\nframework popular in the wider Python community, we can reduce boilerplate,\n\nboost performance, and improve testing UI, with only a few lines of setting\n\nchanges. Re-use your test DBs, integrate with Jenkins, split your suite into\n\npieces, and more.\n\n\n\n",
+    "tags": [
+        "django",
+        "nose",
+        "testing"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/NZnnB7l3ZHM/hqdefault.jpg",
+    "title": "Django's Nasal Passage",
+    "updated": "2014-04-08T20:28:26.973",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

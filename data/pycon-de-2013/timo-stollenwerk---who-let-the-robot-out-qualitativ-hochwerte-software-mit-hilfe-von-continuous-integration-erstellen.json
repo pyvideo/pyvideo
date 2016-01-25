@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/hf_Su92HdR8/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/hf_Su92HdR8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/hf_Su92HdR8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-10-17T08:18:28", "whiteboard": "", "video_flv_length": null, "title": "Who let the robot out? Qualitativ hochwerte Software mit Hilfe von Continuous Integration erstellen", "duration": 30, "description": "", "state": 1, "category": "PyCon DE 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-10-15", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=hf_Su92HdR8", "video_webm_url": null, "summary": "Continuous Integration ist Begriff aus der Softwareentwicklung, der den Prozess des fortlaufenden Zusammenf\u00fcgens von Komponenten zu einer Anwendung beschreibt. Das Ziel der kontinuierlichen Integration ist die Steigerung der Softwarequalit\u00e4t. Jede \"Integration\" f\u00fchrt zu einem automatisierten Build-Prozess der verschiedene Software-Tests und Code-Analyseschritte ausf\u00fchrt um Fehler so fr\u00fch wie m\u00f6glich erkennen und beheben zu k\u00f6nnen.\r\n\r\nDieser Vortrag wird die Prinzipien der Kontinuierlichen Integration vorstellen und aufzeigen wie diese f\u00fcr ein Python-Projekt umgesetzt werden k\u00f6nnen. Dabei werden die Erfahrungen aus dem Betrieb des CI-Servers f\u00fcr das Plone Projekt, eines der gr\u00f6\u00dften Python-basierten Open Source Projekte, vorgestellt. Unter anderem werden die folgenden Themen behandelt:\r\n\r\n- Aufsetzen eines Continous Integration Servers mit Travis-CI oder Jenkins\r\n- Einbindung verschiedener Versionskontrollsysteme\r\n- Das Ausf\u00fchren verschiedener Tests und die Analyse der Code-Qualit\u00e4t f\u00fcr jede Integration\r\n- Wie Jenkins verwendet werden kann um automatisch eine Software Dokumentation zu erstellen, die Entwickler zu benachrichtigen, Software Releases zu erstellen und Software zu deployen\r\n- Das Schreiben und kontinuierliche Ausf\u00fchren von funktionalen Akzeptanztests, basierend auf Robot Framework", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.070", "id": 2388, "related_urls": [], "slug": "who-let-the-robot-out-qualitativ-hochwerte-softw", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "German", "video_ogv_download_only": false, "speakers": ["Timo Stollenwerk"]}
+{
+    "added": "2013-10-17T08:18:28",
+    "category": "PyCon DE 2013",
+    "copyright_text": "",
+    "description": "",
+    "duration": 30,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/hf_Su92HdR8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/hf_Su92HdR8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2388,
+    "language": "German",
+    "quality_notes": "",
+    "recorded": "2013-10-15",
+    "related_urls": [],
+    "slug": "who-let-the-robot-out-qualitativ-hochwerte-softw",
+    "source_url": "https://www.youtube.com/watch?v=hf_Su92HdR8",
+    "speakers": [
+        "Timo Stollenwerk"
+    ],
+    "state": 1,
+    "summary": "Continuous Integration ist Begriff aus der Softwareentwicklung, der den Prozess des fortlaufenden Zusammenf\u00fcgens von Komponenten zu einer Anwendung beschreibt. Das Ziel der kontinuierlichen Integration ist die Steigerung der Softwarequalit\u00e4t. Jede \"Integration\" f\u00fchrt zu einem automatisierten Build-Prozess der verschiedene Software-Tests und Code-Analyseschritte ausf\u00fchrt um Fehler so fr\u00fch wie m\u00f6glich erkennen und beheben zu k\u00f6nnen.\r\n\r\nDieser Vortrag wird die Prinzipien der Kontinuierlichen Integration vorstellen und aufzeigen wie diese f\u00fcr ein Python-Projekt umgesetzt werden k\u00f6nnen. Dabei werden die Erfahrungen aus dem Betrieb des CI-Servers f\u00fcr das Plone Projekt, eines der gr\u00f6\u00dften Python-basierten Open Source Projekte, vorgestellt. Unter anderem werden die folgenden Themen behandelt:\r\n\r\n- Aufsetzen eines Continous Integration Servers mit Travis-CI oder Jenkins\r\n- Einbindung verschiedener Versionskontrollsysteme\r\n- Das Ausf\u00fchren verschiedener Tests und die Analyse der Code-Qualit\u00e4t f\u00fcr jede Integration\r\n- Wie Jenkins verwendet werden kann um automatisch eine Software Dokumentation zu erstellen, die Entwickler zu benachrichtigen, Software Releases zu erstellen und Software zu deployen\r\n- Das Schreiben und kontinuierliche Ausf\u00fchren von funktionalen Akzeptanztests, basierend auf Robot Framework",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/hf_Su92HdR8/hqdefault.jpg",
+    "title": "Who let the robot out? Qualitativ hochwerte Software mit Hilfe von Continuous Integration erstellen",
+    "updated": "2014-04-08T20:28:26.070",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/HQe1qdINL-A/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/HQe1qdINL-A?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/HQe1qdINL-A?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:34", "whiteboard": "needs editing", "video_flv_length": null, "title": "Climate Observations from ACIS in pandas; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=HQe1qdINL-A", "video_webm_url": null, "summary": "Authors: Noon, William: Northeast Regional Climate Center\n\nTrack: Meteorology, Climatology, Atmospheric and Oceanic Science\n\nThe Applied Climate Information System (ACIS) has been developed by the Regional Climate Centers (RCCs) and has been providing relevant climate data and products for over a decade. Last year (2012) we release version 2 of our data access protocol and made the system open to general use. http://data.rcc-acis.org\n\nACIS aggregates weather observations reported at over 20,000 stations in North America over the last 100 years. These observations are collected from a number of sources and updated multiple times a day. At any point in time, the system will select the best available data and merge them into a coherent record. The daily/hourly observations are available as well as climate products summarized over various time intervals. http://www.rcc-acis.org\n\nThe ACIS Web Services use standard web requests and formats to defined the requested data product and return the results. This data can be further refined by the user in their prefered analysis environment.\n\nThis talk introduces a pandas data loader for the ACIS Web Services.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.335", "id": 1982, "related_urls": [], "slug": "climate-observations-from-acis-in-pandas-scipy-2", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:34",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/HQe1qdINL-A?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/HQe1qdINL-A?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1982,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [],
+    "slug": "climate-observations-from-acis-in-pandas-scipy-2",
+    "source_url": "http://www.youtube.com/watch?v=HQe1qdINL-A",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Noon, William: Northeast Regional Climate Center\n\nTrack: Meteorology, Climatology, Atmospheric and Oceanic Science\n\nThe Applied Climate Information System (ACIS) has been developed by the Regional Climate Centers (RCCs) and has been providing relevant climate data and products for over a decade. Last year (2012) we release version 2 of our data access protocol and made the system open to general use. http://data.rcc-acis.org\n\nACIS aggregates weather observations reported at over 20,000 stations in North America over the last 100 years. These observations are collected from a number of sources and updated multiple times a day. At any point in time, the system will select the best available data and merge them into a coherent record. The daily/hourly observations are available as well as climate products summarized over various time intervals. http://www.rcc-acis.org\n\nThe ACIS Web Services use standard web requests and formats to defined the requested data product and return the results. This data can be further refined by the user in their prefered analysis environment.\n\nThis talk introduces a pandas data loader for the ACIS Web Services.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/HQe1qdINL-A/hqdefault.jpg",
+    "title": "Climate Observations from ACIS in pandas; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.335",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

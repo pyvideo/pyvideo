@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/mhq2L6xKypE/maxresdefault.jpg", "embed": "", "added": "2015-06-14T17:04:26.641", "whiteboard": "", "video_flv_length": null, "title": "Gradual Typing in Python", "duration": 1533, "description": "Gradual typing in dynamic languages is becoming popular. The implementations for Python, Lua, Clojure and Racket show how a dynamic language can be retrofitted with static type checking. This makes possible to combine the flexibility of these languages with the guarantees of a type checker and can be done in a gradual, non-invasive manner.\nIn this talk we\u2019ll understand what gradual typing is and the benefits it yields, explore the existing implementations for Python and talk about Guido\u2019s plans for the usage of function annotations introduced in Python 3.\n", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-29", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=mhq2L6xKypE", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-14T17:04:26.641", "id": 3622, "related_urls": [], "slug": "gradual-typing-in-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Alejandro G\u00f3mez"]}
+{
+    "added": "2015-06-14T17:04:26.641",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "Gradual typing in dynamic languages is becoming popular. The implementations for Python, Lua, Clojure and Racket show how a dynamic language can be retrofitted with static type checking. This makes possible to combine the flexibility of these languages with the guarantees of a type checker and can be done in a gradual, non-invasive manner.\nIn this talk we\u2019ll understand what gradual typing is and the benefits it yields, explore the existing implementations for Python and talk about Guido\u2019s plans for the usage of function annotations introduced in Python 3.\n",
+    "duration": 1533,
+    "embed": "",
+    "id": 3622,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-05-29",
+    "related_urls": [],
+    "slug": "gradual-typing-in-python",
+    "source_url": "https://www.youtube.com/watch?v=mhq2L6xKypE",
+    "speakers": [
+        "Alejandro G\u00f3mez"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/mhq2L6xKypE/maxresdefault.jpg",
+    "title": "Gradual Typing in Python",
+    "updated": "2015-06-14T17:04:26.641",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

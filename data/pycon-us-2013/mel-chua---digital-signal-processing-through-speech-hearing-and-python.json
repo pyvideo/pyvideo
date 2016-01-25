@@ -1,1 +1,39 @@
-{"tags": ["tutorial"], "thumbnail_url": "http://i1.ytimg.com/vi/P1h_vaX9n5E/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/P1h_vaX9n5E?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/P1h_vaX9n5E?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:53:10", "whiteboard": "", "video_flv_length": null, "title": "Digital signal processing through speech, hearing, and Python", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Digital_signal_processing_thro.mp4?Signature=SeHehAxua9ivr5KZhUuRGZqLLZo%3D&Expires=1364659997&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-13", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=P1h_vaX9n5E", "video_webm_url": "", "summary": "Why do pianos sound different from guitars? How can we visualize how deafness affects a child's speech? These are signal processing questions, traditionally tackled only by upper-level engineering students with MATLAB and differential equations; we're going to do it with algebra and basic Python skills. Based on a signal processing class for audiology graduate students, taught by a deaf musician.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.785", "id": 1653, "related_urls": [], "slug": "digital-signal-processing-through-speech-hearing", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Mel Chua"]}
+{
+    "added": "2013-03-13T18:53:10",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/P1h_vaX9n5E?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/P1h_vaX9n5E?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1653,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-13",
+    "related_urls": [],
+    "slug": "digital-signal-processing-through-speech-hearing",
+    "source_url": "https://www.youtube.com/watch?v=P1h_vaX9n5E",
+    "speakers": [
+        "Mel Chua"
+    ],
+    "state": 1,
+    "summary": "Why do pianos sound different from guitars? How can we visualize how deafness affects a child's speech? These are signal processing questions, traditionally tackled only by upper-level engineering students with MATLAB and differential equations; we're going to do it with algebra and basic Python skills. Based on a signal processing class for audiology graduate students, taught by a deaf musician.",
+    "tags": [
+        "tutorial"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/P1h_vaX9n5E/hqdefault.jpg",
+    "title": "Digital signal processing through speech, hearing, and Python",
+    "updated": "2014-04-08T20:28:26.785",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Digital_signal_processing_thro.mp4?Signature=SeHehAxua9ivr5KZhUuRGZqLLZo%3D&Expires=1364659997&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

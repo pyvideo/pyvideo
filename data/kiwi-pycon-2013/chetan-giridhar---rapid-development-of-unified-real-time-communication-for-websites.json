@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/fB_XzU8sRbU/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/fB_XzU8sRbU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/fB_XzU8sRbU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-10-19T19:48:47", "whiteboard": "", "video_flv_length": null, "title": "Rapid development of Unified Real-time communication for Websites", "duration": null, "description": "@ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 2\r\n\r\n**Audience level**\r\n\r\nIntermediate\r\n\r\n**Abstract**\r\n\r\nOnline shopping or retail industry of the world is worth trillions of dollars. Forrester research estimates that US online industry alone will be worth $279 Billion by 2015!\r\n\r\nGiven the scenario, website customers have an ever-growing need of communicating with customer service representatives in real time with a live chat or media call. Businesses not only view it as an opportunity to act quickly and be flexible in delivering specific product information to customers but also to prevent or recover from service failures & convert leads to sales!\r\n\r\nThough critical, development teams have found it difficult to develop, maintain and integrate instant chat or call in their websites. Scalability and responsiveness of these applications have been a measure cause of anxiety. Unavailability or shortage of ready-to-use frameworks has contributed to longer development cycles and made the task seam out-of-reach. As a result, integration of real time communication in websites is often considered 'good-to-have' and doesn't get the due importance.\r\n\r\nThis talk discusses first hand experiences of development & integration of real-time communication applications in websites. Audiences would get an opportunity to appreciate the concept with the help of a working prototype. The talk also suggests Python modules foe getting the task done in a rapid & customized way.\r\n\r\n**Slides**\r\n\r\nhttps://speakerdeck.com/nzpug/chetan-giridhar-rapid-development-of-unified-real-time-communication-for-websites", "state": 1, "category": "Kiwi PyCon 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-09-12", "copyright_text": "", "source_url": "http://www.youtube.com/watch?v=fB_XzU8sRbU", "video_webm_url": "", "summary": "Development of real time communication channels like instant chat or media calls has been difficult. Integrating it in a scalable and responsive way for websites has been a bigger concern. This talk describes how instant chat or media calls can be developed in a rapid way with Python modules and demonstrates the concept with a working prototype.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.106", "id": 2362, "related_urls": [], "slug": "rapid-development-of-unified-real-time-communicat", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Chetan Giridhar"]}
+{
+    "added": "2013-10-19T19:48:47",
+    "category": "Kiwi PyCon 2013",
+    "copyright_text": "",
+    "description": "@ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 2\r\n\r\n**Audience level**\r\n\r\nIntermediate\r\n\r\n**Abstract**\r\n\r\nOnline shopping or retail industry of the world is worth trillions of dollars. Forrester research estimates that US online industry alone will be worth $279 Billion by 2015!\r\n\r\nGiven the scenario, website customers have an ever-growing need of communicating with customer service representatives in real time with a live chat or media call. Businesses not only view it as an opportunity to act quickly and be flexible in delivering specific product information to customers but also to prevent or recover from service failures & convert leads to sales!\r\n\r\nThough critical, development teams have found it difficult to develop, maintain and integrate instant chat or call in their websites. Scalability and responsiveness of these applications have been a measure cause of anxiety. Unavailability or shortage of ready-to-use frameworks has contributed to longer development cycles and made the task seam out-of-reach. As a result, integration of real time communication in websites is often considered 'good-to-have' and doesn't get the due importance.\r\n\r\nThis talk discusses first hand experiences of development & integration of real-time communication applications in websites. Audiences would get an opportunity to appreciate the concept with the help of a working prototype. The talk also suggests Python modules foe getting the task done in a rapid & customized way.\r\n\r\n**Slides**\r\n\r\nhttps://speakerdeck.com/nzpug/chetan-giridhar-rapid-development-of-unified-real-time-communication-for-websites",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/fB_XzU8sRbU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/fB_XzU8sRbU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2362,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-09-12",
+    "related_urls": [],
+    "slug": "rapid-development-of-unified-real-time-communicat",
+    "source_url": "http://www.youtube.com/watch?v=fB_XzU8sRbU",
+    "speakers": [
+        "Chetan Giridhar"
+    ],
+    "state": 1,
+    "summary": "Development of real time communication channels like instant chat or media calls has been difficult. Integrating it in a scalable and responsive way for websites has been a bigger concern. This talk describes how instant chat or media calls can be developed in a rapid way with Python modules and demonstrates the concept with a working prototype.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/fB_XzU8sRbU/hqdefault.jpg",
+    "title": "Rapid development of Unified Real-time communication for Websites",
+    "updated": "2014-04-08T20:28:26.106",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

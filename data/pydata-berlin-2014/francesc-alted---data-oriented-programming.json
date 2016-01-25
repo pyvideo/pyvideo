@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/KhJSg_rSzj8/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/KhJSg_rSzj8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/KhJSg_rSzj8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-08-06T18:53:20.704", "whiteboard": "", "video_flv_length": null, "title": "Data Oriented Programming", "duration": null, "description": "Computers have traditionally been thought as tools for performing computations with numbers. Of course, its name in English has a lot to do with this conception, but in other languages, like the french 'ordinateur' (which express concepts more like sorting or classifying), one can clearly see the other side of the coin: computers can also be used to extract (usually new) information from data. Storage, reduction, classification, selection, sorting, grouping, among others, are typical operations in this 'alternate' goal of computers, and although carrying out all these tasks does imply doing a lot of computations, it also requires thinking about the computer as a different entity than the view offered by the traditional von Neumann architecture (basically a CPU with memory). In fact, when it is about programming the data handling efficiently, the most interesting part of a computer is the so-called hierarchical storage, where the different levels of caches in CPUs, the RAM memory, the SSD layers (there are several in the market already), the mechanical disks and finally, the network, are pretty much more important than the ALUs (arithmetic and logical units) in CPUs. In data handling, techniques like data deduplication and compression become critical when speaking about dealing with extremely large datasets. Moreover, distributed environments are useful mainly because of its increased storage capacities and I/O bandwidth, rather than for their aggregated computing throughput. During my talk I will describe several programming paradigms that should be taken in account when programming data oriented applications and that are usually different than those required for achieving pure computational throughput. But specially, and in a surprising turnaround, how the amazing amount of computational power in modern CPUs can also be useful for data handling as well.", "state": 1, "category": "PyData Berlin 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://video.ep14.c3voc.de/20260.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-26", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=KhJSg_rSzj8", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-06T19:30:19.871", "id": 3073, "related_urls": [], "slug": "data-oriented-programming", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Francesc Alted"]}
+{
+    "added": "2014-08-06T18:53:20.704",
+    "category": "PyData Berlin 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "Computers have traditionally been thought as tools for performing computations with numbers. Of course, its name in English has a lot to do with this conception, but in other languages, like the french 'ordinateur' (which express concepts more like sorting or classifying), one can clearly see the other side of the coin: computers can also be used to extract (usually new) information from data. Storage, reduction, classification, selection, sorting, grouping, among others, are typical operations in this 'alternate' goal of computers, and although carrying out all these tasks does imply doing a lot of computations, it also requires thinking about the computer as a different entity than the view offered by the traditional von Neumann architecture (basically a CPU with memory). In fact, when it is about programming the data handling efficiently, the most interesting part of a computer is the so-called hierarchical storage, where the different levels of caches in CPUs, the RAM memory, the SSD layers (there are several in the market already), the mechanical disks and finally, the network, are pretty much more important than the ALUs (arithmetic and logical units) in CPUs. In data handling, techniques like data deduplication and compression become critical when speaking about dealing with extremely large datasets. Moreover, distributed environments are useful mainly because of its increased storage capacities and I/O bandwidth, rather than for their aggregated computing throughput. During my talk I will describe several programming paradigms that should be taken in account when programming data oriented applications and that are usually different than those required for achieving pure computational throughput. But specially, and in a surprising turnaround, how the amazing amount of computational power in modern CPUs can also be useful for data handling as well.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/KhJSg_rSzj8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/KhJSg_rSzj8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3073,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-26",
+    "related_urls": [],
+    "slug": "data-oriented-programming",
+    "source_url": "http://www.youtube.com/watch?v=KhJSg_rSzj8",
+    "speakers": [
+        "Francesc Alted"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/KhJSg_rSzj8/hqdefault.jpg",
+    "title": "Data Oriented Programming",
+    "updated": "2014-08-06T19:30:19.871",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://video.ep14.c3voc.de/20260.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

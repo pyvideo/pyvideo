@@ -1,1 +1,39 @@
-{"tags": ["learning"], "thumbnail_url": "http://i.ytimg.com/vi/Dop2EoBwyR4/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Dop2EoBwyR4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Dop2EoBwyR4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:44", "whiteboard": "", "video_flv_length": null, "title": "Fun with Python's newer tools", "duration": null, "description": "Spend ten minutes each learning to work with Counters, named tuples, new\nstring formatting, and the LRU cache. Learn the basic API, see how it works\nunder the hood, enjoy a simple example, and then have fun pushing it to the\nlimit in interesting ways.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-13", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=Dop2EoBwyR4", "video_webm_url": null, "summary": "[EuroPython 2011] Raymond Hettinger - 23 June 2011 in \"Track Spaghetti\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.820", "id": 1146, "related_urls": [], "slug": "fun-with-pythons-newer-tools-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Raymond Hettinger"]}
+{
+    "added": "2012-08-30T21:02:44",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "Spend ten minutes each learning to work with Counters, named tuples, new\nstring formatting, and the LRU cache. Learn the basic API, see how it works\nunder the hood, enjoy a simple example, and then have fun pushing it to the\nlimit in interesting ways.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Dop2EoBwyR4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Dop2EoBwyR4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1146,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-13",
+    "related_urls": [],
+    "slug": "fun-with-pythons-newer-tools-0",
+    "source_url": "http://www.youtube.com/watch?v=Dop2EoBwyR4",
+    "speakers": [
+        "Raymond Hettinger"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Raymond Hettinger - 23 June 2011 in \"Track Spaghetti\"\n\n",
+    "tags": [
+        "learning"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/Dop2EoBwyR4/hqdefault.jpg",
+    "title": "Fun with Python's newer tools",
+    "updated": "2014-04-08T20:28:27.820",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

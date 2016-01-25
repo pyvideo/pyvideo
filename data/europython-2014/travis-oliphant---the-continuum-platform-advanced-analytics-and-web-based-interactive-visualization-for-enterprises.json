@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/rMMTqFgSYlA/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/rMMTqFgSYlA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/rMMTqFgSYlA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:26.022", "whiteboard": "", "video_flv_length": null, "title": "The Continuum Platform: Advanced Analytics and Web-based Interactive Visualization for Enterprises", "duration": null, "description": "", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-24", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=rMMTqFgSYlA", "video_webm_url": "", "summary": "The people at Continuum have been involved in the Python community for decades. As a company our mission is to empower domain experts inside enterprises with the best tools for producing software solutions that deal with large and quickly-changing data. The Continuum Platform brings the world of open source together into one complete, easy-to-manage analytics and visualization platform. In this talk, Dr. Oliphant will review the open source libraries that Continuum is building and contributing to the community as part of this effort, including Numba, Bokeh, Blaze, conda, llvmpy, PyParallel, and DyND, as well as describe the freely available components of the Continuum Platform that anyone can benefit from today: Anaconda, wakari.io, and binstar.org.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-07-31T23:07:14.282", "id": 2957, "related_urls": [], "slug": "the-continuum-platform-advanced-analytics-and-we", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Travis Oliphant"]}
+{
+    "added": "2014-07-31T00:46:26.022",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/rMMTqFgSYlA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/rMMTqFgSYlA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2957,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-24",
+    "related_urls": [],
+    "slug": "the-continuum-platform-advanced-analytics-and-we",
+    "source_url": "http://www.youtube.com/watch?v=rMMTqFgSYlA",
+    "speakers": [
+        "Travis Oliphant"
+    ],
+    "state": 1,
+    "summary": "The people at Continuum have been involved in the Python community for decades. As a company our mission is to empower domain experts inside enterprises with the best tools for producing software solutions that deal with large and quickly-changing data. The Continuum Platform brings the world of open source together into one complete, easy-to-manage analytics and visualization platform. In this talk, Dr. Oliphant will review the open source libraries that Continuum is building and contributing to the community as part of this effort, including Numba, Bokeh, Blaze, conda, llvmpy, PyParallel, and DyND, as well as describe the freely available components of the Continuum Platform that anyone can benefit from today: Anaconda, wakari.io, and binstar.org.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/rMMTqFgSYlA/hqdefault.jpg",
+    "title": "The Continuum Platform: Advanced Analytics and Web-based Interactive Visualization for Enterprises",
+    "updated": "2014-07-31T23:07:14.282",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,40 @@
-{"tags": ["optimization", "tutorial"], "thumbnail_url": "http://i.ytimg.com/vi/nR9dlkn9wk4/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/nR9dlkn9wk4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/nR9dlkn9wk4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:49", "whiteboard": "", "video_flv_length": null, "title": "Advanced Python", "duration": null, "description": "This tutorial will work through a series of real-world examples, showing how\nan understanding of the tools built into the Python interpreter or included in\nthe standard library can be combined to solve difficult problems clearly and\nPythonically. We will also discuss when and how to reach beyond the standard\nlibrary when needed to address difficult algorithmic and optimization\nproblems.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-07", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=nR9dlkn9wk4", "video_webm_url": null, "summary": "[EuroPython 2011] Raymond Hettinger - 21 June 2011 in \"Training Pizza\nMargherita\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.915", "id": 1165, "related_urls": [], "slug": "advanced-python-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Raymond Hettinger"]}
+{
+    "added": "2012-08-30T21:02:49",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "This tutorial will work through a series of real-world examples, showing how\nan understanding of the tools built into the Python interpreter or included in\nthe standard library can be combined to solve difficult problems clearly and\nPythonically. We will also discuss when and how to reach beyond the standard\nlibrary when needed to address difficult algorithmic and optimization\nproblems.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/nR9dlkn9wk4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/nR9dlkn9wk4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1165,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-07",
+    "related_urls": [],
+    "slug": "advanced-python-0",
+    "source_url": "http://www.youtube.com/watch?v=nR9dlkn9wk4",
+    "speakers": [
+        "Raymond Hettinger"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Raymond Hettinger - 21 June 2011 in \"Training Pizza\nMargherita\"\n\n",
+    "tags": [
+        "optimization",
+        "tutorial"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/nR9dlkn9wk4/hqdefault.jpg",
+    "title": "Advanced Python",
+    "updated": "2014-04-08T20:28:27.915",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

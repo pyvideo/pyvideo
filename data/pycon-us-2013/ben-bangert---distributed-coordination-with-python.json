@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i3.ytimg.com/vi/v33PWLK_1HM/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/v33PWLK_1HM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/v33PWLK_1HM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:54:36", "whiteboard": "", "video_flv_length": null, "title": "Distributed Coordination with Python", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Distributed_Coordination_with_.mp4?Signature=J%2Bqr0P8RCHZlM%2FixEYDLHyoE9lE%3D&Expires=1363824370&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-17", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=v33PWLK_1HM", "video_webm_url": "", "summary": "Processes in a cluster can require controlled access to shared resources, tracking available processes, and sharing state. Unfortunately most tools in this category are oriented around Java. In this talk I cover how to use Python to interact with Apache Zookeeper -- a fault-tolerant consistent data-store -- to write coordinated distributed fault-tolerant applications in Python.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.547", "id": 1708, "related_urls": [], "slug": "distributed-coordination-with-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Ben Bangert"]}
+{
+    "added": "2013-03-13T18:54:36",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/v33PWLK_1HM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/v33PWLK_1HM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1708,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-17",
+    "related_urls": [],
+    "slug": "distributed-coordination-with-python",
+    "source_url": "https://www.youtube.com/watch?v=v33PWLK_1HM",
+    "speakers": [
+        "Ben Bangert"
+    ],
+    "state": 1,
+    "summary": "Processes in a cluster can require controlled access to shared resources, tracking available processes, and sharing state. Unfortunately most tools in this category are oriented around Java. In this talk I cover how to use Python to interact with Apache Zookeeper -- a fault-tolerant consistent data-store -- to write coordinated distributed fault-tolerant applications in Python.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i3.ytimg.com/vi/v33PWLK_1HM/hqdefault.jpg",
+    "title": "Distributed Coordination with Python",
+    "updated": "2014-04-08T20:28:26.547",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Distributed_Coordination_with_.mp4?Signature=J%2Bqr0P8RCHZlM%2FixEYDLHyoE9lE%3D&Expires=1363824370&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

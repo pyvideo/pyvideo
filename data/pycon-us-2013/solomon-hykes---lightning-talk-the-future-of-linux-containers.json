@@ -1,1 +1,42 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/9xciauwbsuo/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/9xciauwbsuo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/9xciauwbsuo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-21T19:48:43", "whiteboard": "", "video_flv_length": null, "title": "Lightning Talk - The future of Linux Containers", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/solomon_hykesn_lightening_talk.mp4?Signature=YNUqlTiPuWxeP%2B9AxxF7U9zmQGw%3D&Expires=1363913234&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-15", "copyright_text": "CC BY-SA", "source_url": "https://www.youtube.com/watch?v=9xciauwbsuo", "video_webm_url": "", "summary": "Solomon talks about Linux Containers which they use at dotCloud and how people are interested in how they do it, but it's complicated so until now they haven't talked about it. Until now: Docker.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.711", "id": 1852, "related_urls": [{"url": "http://docker.io/", "description": "docker.io"}], "slug": "the-future-of-linux-containers", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Solomon Hykes"]}
+{
+    "added": "2013-03-21T19:48:43",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC BY-SA",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/9xciauwbsuo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/9xciauwbsuo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1852,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-15",
+    "related_urls": [
+        {
+            "description": "docker.io",
+            "url": "http://docker.io/"
+        }
+    ],
+    "slug": "the-future-of-linux-containers",
+    "source_url": "https://www.youtube.com/watch?v=9xciauwbsuo",
+    "speakers": [
+        "Solomon Hykes"
+    ],
+    "state": 1,
+    "summary": "Solomon talks about Linux Containers which they use at dotCloud and how people are interested in how they do it, but it's complicated so until now they haven't talked about it. Until now: Docker.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/9xciauwbsuo/hqdefault.jpg",
+    "title": "Lightning Talk - The future of Linux Containers",
+    "updated": "2014-04-08T20:28:26.711",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/solomon_hykesn_lightening_talk.mp4?Signature=YNUqlTiPuWxeP%2B9AxxF7U9zmQGw%3D&Expires=1363913234&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

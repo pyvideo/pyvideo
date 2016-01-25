@@ -1,1 +1,46 @@
-{"tags": [], "thumbnail_url": "http://i2.ytimg.com/vi/MrEoE0Py5ZY/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/MrEoE0Py5ZY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/MrEoE0Py5ZY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-10-12T18:15:21", "whiteboard": "", "video_flv_length": null, "title": "MediaGoblin Update", "duration": null, "description": "", "state": 1, "category": "ChiPy", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/chipy/chipy_oct_2012/MediaGoblin_Update.mp4?Signature=7YwMLKLZ1QQS6M7jhRh1XW5F%2BZ0%3D&Expires=1350083294&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-10-11", "copyright_text": "Creative Commons BY-SA 3.0", "source_url": "https://www.youtube.com/watch?v=MrEoE0Py5ZY", "video_webm_url": "", "summary": "GNU MediaGoblin is a free software media publishing system written in Python\nfor images, video, and audio. This talk starts by tricking you into watching\nthe mediagoblin_campaign_pitch video, and then Chris explains how he used\nPython to drive Blender to make the animated effects.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.953", "id": 1418, "related_urls": [{"url": "http://mediagoblin.org/", "description": "GNU MediaGoblin project site"}, {"url": "http://mediagoblin.org/pages/campaign.html", "description": "GNU MediaGoblin undraising campaign (October 2012)"}], "slug": "mediagoblin-update", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Christopher Allan Webber"]}
+{
+    "added": "2012-10-12T18:15:21",
+    "category": "ChiPy",
+    "copyright_text": "Creative Commons BY-SA 3.0",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/MrEoE0Py5ZY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/MrEoE0Py5ZY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1418,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-10-11",
+    "related_urls": [
+        {
+            "description": "GNU MediaGoblin project site",
+            "url": "http://mediagoblin.org/"
+        },
+        {
+            "description": "GNU MediaGoblin undraising campaign (October 2012)",
+            "url": "http://mediagoblin.org/pages/campaign.html"
+        }
+    ],
+    "slug": "mediagoblin-update",
+    "source_url": "https://www.youtube.com/watch?v=MrEoE0Py5ZY",
+    "speakers": [
+        "Christopher Allan Webber"
+    ],
+    "state": 1,
+    "summary": "GNU MediaGoblin is a free software media publishing system written in Python\nfor images, video, and audio. This talk starts by tricking you into watching\nthe mediagoblin_campaign_pitch video, and then Chris explains how he used\nPython to drive Blender to make the animated effects.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i2.ytimg.com/vi/MrEoE0Py5ZY/hqdefault.jpg",
+    "title": "MediaGoblin Update",
+    "updated": "2014-04-08T20:28:26.953",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/chipy/chipy_oct_2012/MediaGoblin_Update.mp4?Signature=7YwMLKLZ1QQS6M7jhRh1XW5F%2BZ0%3D&Expires=1350083294&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,40 @@
-{"tags": ["chef", "deployment"], "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-RealWorldDjangoDeploymentUsingChef158-86.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Real world Django deployment using Chef", "duration": null, "description": "Real world Django deployment using Chef\n\nPresented by Noah Kantrowitz\n\nChef, a popular configuration management tool, is gaining momentum in the\nDjango community. Learn how to deploy Django sites using Chef, be they one\nserver or a thousand.\n\n", "state": 1, "category": "DjangoCon 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/92_real-world-django-deployment-using-chef.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 76742191, "updated": "2014-04-08T20:28:25.889", "id": 92, "related_urls": [], "slug": "djangocon-2011--real-world-django-deployment-usin", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Noah Kantrowitz"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "DjangoCon 2011",
+    "copyright_text": "",
+    "description": "Real world Django deployment using Chef\n\nPresented by Noah Kantrowitz\n\nChef, a popular configuration management tool, is gaining momentum in the\nDjango community. Learn how to deploy Django sites using Chef, be they one\nserver or a thousand.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 92,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "djangocon-2011--real-world-django-deployment-usin",
+    "source_url": "",
+    "speakers": [
+        "Noah Kantrowitz"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "chef",
+        "deployment"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-RealWorldDjangoDeploymentUsingChef158-86.jpg",
+    "title": "Real world Django deployment using Chef",
+    "updated": "2014-04-08T20:28:25.889",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/92_real-world-django-deployment-using-chef.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 76742191,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

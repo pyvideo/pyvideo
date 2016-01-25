@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/UYllUxqjVBo/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/UYllUxqjVBo' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2014-10-26T18:22:37.552", "whiteboard": "", "video_flv_length": null, "title": "Failing With Grace", "duration": null, "description": "One of the biggest challenges of building distributed systems is dealing with failure. In this talk we'll cover a number of approaches and tools to help you build systems that deal with failure as gracefully as possible.", "state": 1, "category": "PyGotham 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-09-16", "copyright_text": "youtube", "source_url": "https://www.youtube.com/watch?v=UYllUxqjVBo", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-10-26T18:22:37.552", "id": 3305, "related_urls": [], "slug": "failing-with-grace", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Sean O'Connor"]}
+{
+    "added": "2014-10-26T18:22:37.552",
+    "category": "PyGotham 2014",
+    "copyright_text": "youtube",
+    "description": "One of the biggest challenges of building distributed systems is dealing with failure. In this talk we'll cover a number of approaches and tools to help you build systems that deal with failure as gracefully as possible.",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/UYllUxqjVBo' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3305,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-09-16",
+    "related_urls": [],
+    "slug": "failing-with-grace",
+    "source_url": "https://www.youtube.com/watch?v=UYllUxqjVBo",
+    "speakers": [
+        "Sean O'Connor"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/UYllUxqjVBo/hqdefault.jpg",
+    "title": "Failing With Grace",
+    "updated": "2014-10-26T18:22:37.552",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

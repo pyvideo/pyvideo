@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/wQxFKxbWcFM/hqdefault.jpg", "embed": "", "added": "2015-09-14T05:46:14.669", "whiteboard": "", "video_flv_length": null, "title": "Build a Better Hat Rack: All Contributions Welcome", "duration": 2040, "description": "We have many ways of reporting and recognising our code contributions in open source projects, but often it is the work we do outside of code commits themselves that get forgotten and unattributed. Hours of code review, documentation, testing; organising of meetups and volunteering at conferences; even just brainstorming and talking about things - how much of these have you done without accreditation?\r\n\r\nDuring this session, we will discuss what it means to contribute to open source projects, what constitutes a non-code contribution, steps we can take to recognise the work of our peers, and how projects can better encourage non-code participation through recognition and acknowledgement.", "state": 1, "category": "Kiwi PyCon 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-09-05", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/wQxFKxbWcFM", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-09-16T04:33:40.480", "id": 3865, "related_urls": [], "slug": "build-a-better-hat-rack-all-contributions-welcom", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Katie McLaughlin"]}
+{
+    "added": "2015-09-14T05:46:14.669",
+    "category": "Kiwi PyCon 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "We have many ways of reporting and recognising our code contributions in open source projects, but often it is the work we do outside of code commits themselves that get forgotten and unattributed. Hours of code review, documentation, testing; organising of meetups and volunteering at conferences; even just brainstorming and talking about things - how much of these have you done without accreditation?\r\n\r\nDuring this session, we will discuss what it means to contribute to open source projects, what constitutes a non-code contribution, steps we can take to recognise the work of our peers, and how projects can better encourage non-code participation through recognition and acknowledgement.",
+    "duration": 2040,
+    "embed": "",
+    "id": 3865,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-09-05",
+    "related_urls": [],
+    "slug": "build-a-better-hat-rack-all-contributions-welcom",
+    "source_url": "http://youtu.be/wQxFKxbWcFM",
+    "speakers": [
+        "Katie McLaughlin"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/wQxFKxbWcFM/hqdefault.jpg",
+    "title": "Build a Better Hat Rack: All Contributions Welcome",
+    "updated": "2015-09-16T04:33:40.480",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

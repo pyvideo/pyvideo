@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/kUIjaHPvaTo/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/kUIjaHPvaTo\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-10-18T16:10:58.124", "whiteboard": "needs editing", "video_flv_length": null, "title": "Slow Down, Compose Yourself", "duration": null, "description": "As your codebase grows, you will have instances where you have code that needs to be reused. Then you think, I can do this with subclassing! Now you have a diamond-tree of problems.\r\n\r\nHere, we\u2019ll talk about a better way of code reuse and introducing alternate behaviour into existing classes \u2014 composition. It\u2019ll improve how you test your code \u2014 making your test runs faster, making it easier to test exceptional cases, and making everything easier to understand.\n\n", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-04", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=kUIjaHPvaTo", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-18T16:10:58.124", "id": 3994, "related_urls": [], "slug": "slow-down-compose-yourself", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Amber \"Hawkie\" Brown"]}
+{
+    "added": "2015-10-18T16:10:58.124",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "As your codebase grows, you will have instances where you have code that needs to be reused. Then you think, I can do this with subclassing! Now you have a diamond-tree of problems.\r\n\r\nHere, we\u2019ll talk about a better way of code reuse and introducing alternate behaviour into existing classes \u2014 composition. It\u2019ll improve how you test your code \u2014 making your test runs faster, making it easier to test exceptional cases, and making everything easier to understand.\n\n",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/kUIjaHPvaTo\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 3994,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-04",
+    "related_urls": [],
+    "slug": "slow-down-compose-yourself",
+    "source_url": "https://www.youtube.com/watch?v=kUIjaHPvaTo",
+    "speakers": [
+        "Amber \"Hawkie\" Brown"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/kUIjaHPvaTo/hqdefault.jpg",
+    "title": "Slow Down, Compose Yourself",
+    "updated": "2015-10-18T16:10:58.124",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

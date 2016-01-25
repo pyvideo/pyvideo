@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i.ytimg.com/vi/IA5-ng6Qvd4/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/IA5-ng6Qvd4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/IA5-ng6Qvd4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-19T02:13:27.059", "whiteboard": "", "video_flv_length": null, "title": "Solving the Heat Equation in Python!", "duration": 7200, "description": "", "state": 1, "category": "PyOhio 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-26", "copyright_text": "CC BY", "source_url": "http://youtu.be/IA5-ng6Qvd4", "video_webm_url": "http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2851_Solving_the_Heat_Equation_in_Python.webm", "summary": "In this talk we will solve two partial differential equations by using a very small subset of numpy, scipy, matplotlib, and python. We will then use a couple of techniques to generate beautiful animations of the solutions we find. The listeners will see how easy it is to get serious work done with only a beginner's knowledge of Python. ", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-08-10T10:12:14.294", "id": 2851, "related_urls": [], "slug": "solving-the-heat-equation-in-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Melvyn Ian Drag"]}
+{
+    "added": "2014-07-19T02:13:27.059",
+    "category": "PyOhio 2014",
+    "copyright_text": "CC BY",
+    "description": "",
+    "duration": 7200,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/IA5-ng6Qvd4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/IA5-ng6Qvd4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2851,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-26",
+    "related_urls": [],
+    "slug": "solving-the-heat-equation-in-python",
+    "source_url": "http://youtu.be/IA5-ng6Qvd4",
+    "speakers": [
+        "Melvyn Ian Drag"
+    ],
+    "state": 1,
+    "summary": "In this talk we will solve two partial differential equations by using a very small subset of numpy, scipy, matplotlib, and python. We will then use a couple of techniques to generate beautiful animations of the solutions we find. The listeners will see how easy it is to get serious work done with only a beginner's knowledge of Python. ",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/IA5-ng6Qvd4/hqdefault.jpg",
+    "title": "Solving the Heat Equation in Python!",
+    "updated": "2014-08-10T10:12:14.294",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://964bdd2f965bbc4ca8f5-3ebaa0e988d98119a4fead51a26da83a.r42.cf2.rackcdn.com/pyohio-2014/2851_Solving_the_Heat_Equation_in_Python.webm",
+    "whiteboard": ""
+}

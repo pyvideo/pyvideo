@@ -1,1 +1,39 @@
-{"tags": ["pygame"], "thumbnail_url": "http://i.ytimg.com/vi/qv-BGCFRP4Q/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/qv-BGCFRP4Q?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/qv-BGCFRP4Q?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-19T11:09:23", "whiteboard": "", "video_flv_length": null, "title": "Infinite 8-bit Platformer", "duration": null, "description": "", "state": 1, "category": "PyCon AU 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-08-22", "copyright_text": "Creative Commons Attribution license", "source_url": "http://www.youtube.com/watch?v=qv-BGCFRP4Q", "video_webm_url": "", "summary": "Infinite 8-bit Platformer is a Free Software multiplayer user-created-content\nplatform video game written in Pygame. It's a bit like a cross between a wiki\nand a game, because the players can also create and edit the levels. In this\ntalk we will look at the development of the game over the last three years,\nincluding what has changed since PyCon 2010. We'll examine the sound,\ngraphics, and networking architecture which is built upon pygame and asyncore\n(PodSixNet).\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.678", "id": 987, "related_urls": [], "slug": "infinite-8-bit-platformer", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Chris McCormick"]}
+{
+    "added": "2012-08-19T11:09:23",
+    "category": "PyCon AU 2011",
+    "copyright_text": "Creative Commons Attribution license",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/qv-BGCFRP4Q?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/qv-BGCFRP4Q?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 987,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-08-22",
+    "related_urls": [],
+    "slug": "infinite-8-bit-platformer",
+    "source_url": "http://www.youtube.com/watch?v=qv-BGCFRP4Q",
+    "speakers": [
+        "Chris McCormick"
+    ],
+    "state": 1,
+    "summary": "Infinite 8-bit Platformer is a Free Software multiplayer user-created-content\nplatform video game written in Pygame. It's a bit like a cross between a wiki\nand a game, because the players can also create and edit the levels. In this\ntalk we will look at the development of the game over the last three years,\nincluding what has changed since PyCon 2010. We'll examine the sound,\ngraphics, and networking architecture which is built upon pygame and asyncore\n(PodSixNet).\n\n",
+    "tags": [
+        "pygame"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/qv-BGCFRP4Q/hqdefault.jpg",
+    "title": "Infinite 8-bit Platformer",
+    "updated": "2014-04-08T20:28:27.678",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

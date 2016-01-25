@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/ikk2Y0Exs5c/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/ikk2Y0Exs5c?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/ikk2Y0Exs5c?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-09-26T00:28:06.484", "whiteboard": "", "video_flv_length": null, "title": "Getting along with Python", "duration": 3000, "description": "So you've finished your introductory course or tutorial on Python, you feel good about your knowledge of the language, and you might have some projects under your belt. What now? \r\nHow about some of the things that aren't really code, which nobody really teaches you in a class or tutorial, which can take years to learn by yourself?\r\nThat's what this talk is about: a few of the most common pain points for Python programmers which can easily be avoided by adopting certain tools and practices \"around\" the coding itself. Not coincidentally, the same tips might also help improve your code and make your life with other Python programmers more harmonious.\r\nMaterial will roughly summarize/follow the contents of http://gawp.sashahart.net, as a general and gently opinionated tour of common practices in the Python community.", "state": 1, "category": "PyTexas 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3169_Getting_along_with_Python.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-04", "copyright_text": "CC-BY", "source_url": "http://youtu.be/ikk2Y0Exs5c", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-10-14T00:55:16.367", "id": 3169, "related_urls": [], "slug": "getting-along-with-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Sasha Hart"]}
+{
+    "added": "2014-09-26T00:28:06.484",
+    "category": "PyTexas 2014",
+    "copyright_text": "CC-BY",
+    "description": "So you've finished your introductory course or tutorial on Python, you feel good about your knowledge of the language, and you might have some projects under your belt. What now? \r\nHow about some of the things that aren't really code, which nobody really teaches you in a class or tutorial, which can take years to learn by yourself?\r\nThat's what this talk is about: a few of the most common pain points for Python programmers which can easily be avoided by adopting certain tools and practices \"around\" the coding itself. Not coincidentally, the same tips might also help improve your code and make your life with other Python programmers more harmonious.\r\nMaterial will roughly summarize/follow the contents of http://gawp.sashahart.net, as a general and gently opinionated tour of common practices in the Python community.",
+    "duration": 3000,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/ikk2Y0Exs5c?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/ikk2Y0Exs5c?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3169,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-04",
+    "related_urls": [],
+    "slug": "getting-along-with-python",
+    "source_url": "http://youtu.be/ikk2Y0Exs5c",
+    "speakers": [
+        "Sasha Hart"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/ikk2Y0Exs5c/hqdefault.jpg",
+    "title": "Getting along with Python",
+    "updated": "2014-10-14T00:55:16.367",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3169_Getting_along_with_Python.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

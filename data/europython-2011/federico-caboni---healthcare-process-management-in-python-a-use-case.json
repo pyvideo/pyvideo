@@ -1,1 +1,41 @@
-{"tags": ["asynchronous", "prototyping", "web"], "thumbnail_url": "http://i.ytimg.com/vi/MsmmrfkLuvY/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/MsmmrfkLuvY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/MsmmrfkLuvY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:42", "whiteboard": "", "video_flv_length": null, "title": "Healthcare process management in Python: a use case", "duration": null, "description": "In this talk I'll describe our successful experience in introducing Python\ninto a system for blood collection tube labeling in laboratory and hospital\nenvironments, based on IHE Technical Frameworks \u2013the industry standard for\nmodeling and streamlining healthcare processes\u2013 and designed to avoid human\nerrors and ensure process traceability.\n\nDuring the talk I will explain why we chose Python in the first place, how\nwe've been able to leverage the language's features and characteristics for\nour specific field and what problems and limitations we faced.\n\nI will show specific instances of Python usage in different parts of the\nproject, including a low-level driver for laboratory automation machinery, an\nasynchronous messaging module, the implementation of IHE-compliant actors and\nthe inevitable end-user web application, implemented with Django.\n\nUsing Python greatly helped us in building our system, allowing very rapid\nprototyping cycles for both hardware and software, but during the talk I'll\nalso point out what we found was missing, and what would be nice to have to\nensure Python has its proper place as a viable platform for designing\nstreamlined healthcare workflows based on established international standards.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-13", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=MsmmrfkLuvY", "video_webm_url": null, "summary": "[EuroPython 2011] Federico Caboni - 24 June 2011 in \"Track Tagliatelle \"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.827", "id": 1142, "related_urls": [], "slug": "healthcare-process-management-in-python-a-use-c-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Federico Caboni"]}
+{
+    "added": "2012-08-30T21:02:42",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "In this talk I'll describe our successful experience in introducing Python\ninto a system for blood collection tube labeling in laboratory and hospital\nenvironments, based on IHE Technical Frameworks \u2013the industry standard for\nmodeling and streamlining healthcare processes\u2013 and designed to avoid human\nerrors and ensure process traceability.\n\nDuring the talk I will explain why we chose Python in the first place, how\nwe've been able to leverage the language's features and characteristics for\nour specific field and what problems and limitations we faced.\n\nI will show specific instances of Python usage in different parts of the\nproject, including a low-level driver for laboratory automation machinery, an\nasynchronous messaging module, the implementation of IHE-compliant actors and\nthe inevitable end-user web application, implemented with Django.\n\nUsing Python greatly helped us in building our system, allowing very rapid\nprototyping cycles for both hardware and software, but during the talk I'll\nalso point out what we found was missing, and what would be nice to have to\nensure Python has its proper place as a viable platform for designing\nstreamlined healthcare workflows based on established international standards.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/MsmmrfkLuvY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/MsmmrfkLuvY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1142,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-13",
+    "related_urls": [],
+    "slug": "healthcare-process-management-in-python-a-use-c-0",
+    "source_url": "http://www.youtube.com/watch?v=MsmmrfkLuvY",
+    "speakers": [
+        "Federico Caboni"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Federico Caboni - 24 June 2011 in \"Track Tagliatelle \"\n\n",
+    "tags": [
+        "asynchronous",
+        "prototyping",
+        "web"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/MsmmrfkLuvY/hqdefault.jpg",
+    "title": "Healthcare process management in Python: a use case",
+    "updated": "2014-04-08T20:28:27.827",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

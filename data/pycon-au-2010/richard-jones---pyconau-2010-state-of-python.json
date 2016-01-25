@@ -1,1 +1,43 @@
-{"tags": ["advocacy", "core", "language", "pyconau", "pyconau2010"], "thumbnail_url": "http://a.images.blip.tv/Pyconau-StateOfPython134-441.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyConAU 2010: State Of Python", "duration": null, "description": "State Of Python\n\nPresented by Richard Jones\n\nThis talk will present a whirlwind update of the state of Python as of June\n2010. It will cover the evolution of the language itself, its variants,\nversions and veracity. It will cover the state of packaging, distributing and\npypi.\n\n", "state": 1, "category": "PyCon AU 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:25.792", "id": 454, "related_urls": [], "slug": "pyconau-2010--state-of-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/454_pyconau-2010-state-of-python.flv", "language": "English", "video_ogv_download_only": false, "speakers": ["Richard Jones"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon AU 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "State Of Python\n\nPresented by Richard Jones\n\nThis talk will present a whirlwind update of the state of Python as of June\n2010. It will cover the evolution of the language itself, its variants,\nversions and veracity. It will cover the state of packaging, distributing and\npypi.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 454,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyconau-2010--state-of-python",
+    "source_url": "",
+    "speakers": [
+        "Richard Jones"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "advocacy",
+        "core",
+        "language",
+        "pyconau",
+        "pyconau2010"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pyconau-StateOfPython134-441.jpg",
+    "title": "PyConAU 2010: State Of Python",
+    "updated": "2014-04-08T20:28:25.792",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-au-2010/454_pyconau-2010-state-of-python.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

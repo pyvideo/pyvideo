@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/0yOhWKs-sAE/hqdefault.jpg", "embed": "", "added": "2015-08-10T15:47:43.190", "whiteboard": "", "video_flv_length": null, "title": "introduction to open and collaborative data analysis with pandas and IPython/Jupyter Notebook", "duration": 2221, "description": "Data munging is typically an involved and noisy process, but pandas -- especially using the notebook format -- make it easy to share and reproduce the process of analyzing data, from munging to analysis and even exploratory visualization! In this talk you'll get a glimpse of the pandas workflow and some tips for getting the most out of its use in the IPython/Jupyter notebook.", "state": 1, "category": "PyGotham 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3760_introduction_to_open_and_collaborative_data_analys.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-16", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/0yOhWKs-sAE", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-09-14T13:15:11.638", "id": 3760, "related_urls": [], "slug": "introduction-to-open-and-collaborative-data-analy", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Melissa Lewis"]}
+{
+    "added": "2015-08-10T15:47:43.190",
+    "category": "PyGotham 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "Data munging is typically an involved and noisy process, but pandas -- especially using the notebook format -- make it easy to share and reproduce the process of analyzing data, from munging to analysis and even exploratory visualization! In this talk you'll get a glimpse of the pandas workflow and some tips for getting the most out of its use in the IPython/Jupyter notebook.",
+    "duration": 2221,
+    "embed": "",
+    "id": 3760,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-16",
+    "related_urls": [],
+    "slug": "introduction-to-open-and-collaborative-data-analy",
+    "source_url": "http://youtu.be/0yOhWKs-sAE",
+    "speakers": [
+        "Melissa Lewis"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/0yOhWKs-sAE/hqdefault.jpg",
+    "title": "introduction to open and collaborative data analysis with pandas and IPython/Jupyter Notebook",
+    "updated": "2015-09-14T13:15:11.638",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3760_introduction_to_open_and_collaborative_data_analys.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

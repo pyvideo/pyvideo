@@ -1,1 +1,44 @@
-{"tags": ["concurrence", "coroutines", "gevent", "greenlets", "pycon", "pycon2011"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011AnOutsidersLookAtCoroutines790-929.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "An outsider's look at co-routines.", "duration": null, "description": "An outsider's look at co-routines.\n\nPresented by Peter Portante\n\nLet's take an outsiders look at coroutines, the underlying concept used by\ngreenlets. First we'll define what they are conceptually, and show some\ntypical use cases. Then we'll take a look at a sampling of the implementations\nout there to see what they are actually doing to implement the concept.\nFinally, we'll show their pluses and minuses, and highlight some features of\npackages that use them.\n\nAbstract\n\nTalk outline:\n\n  * Define what a coroutine is \n    * Coroutine state not known to operating system \n    * Difference between a thread or process \n    * What state is required for tracking \n  * Show how coroutines are used \n    * gevent example \n    * concurrence example \n  * Review two implementations \n    * Greenlets \n    * Python based co-routines using generators \n  * Advantages/Disadvantages \n  * Differentiating features of packages that use them \n    * Concurrence \n    * Gevent \n    * Eventlets \n\n", "state": 1, "category": "PyCon US 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/396_an-outsider-s-look-at-co-routines.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-03-11", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 129516368, "updated": "2014-04-08T20:28:27.945", "id": 396, "related_urls": [], "slug": "pycon-2011--an-outsider--39-s-look-at-co-routines", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Peter Portante"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2011",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "An outsider's look at co-routines.\n\nPresented by Peter Portante\n\nLet's take an outsiders look at coroutines, the underlying concept used by\ngreenlets. First we'll define what they are conceptually, and show some\ntypical use cases. Then we'll take a look at a sampling of the implementations\nout there to see what they are actually doing to implement the concept.\nFinally, we'll show their pluses and minuses, and highlight some features of\npackages that use them.\n\nAbstract\n\nTalk outline:\n\n  * Define what a coroutine is \n    * Coroutine state not known to operating system \n    * Difference between a thread or process \n    * What state is required for tracking \n  * Show how coroutines are used \n    * gevent example \n    * concurrence example \n  * Review two implementations \n    * Greenlets \n    * Python based co-routines using generators \n  * Advantages/Disadvantages \n  * Differentiating features of packages that use them \n    * Concurrence \n    * Gevent \n    * Eventlets \n\n",
+    "duration": null,
+    "embed": "",
+    "id": 396,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-03-11",
+    "related_urls": [],
+    "slug": "pycon-2011--an-outsider--39-s-look-at-co-routines",
+    "source_url": "",
+    "speakers": [
+        "Peter Portante"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "concurrence",
+        "coroutines",
+        "gevent",
+        "greenlets",
+        "pycon",
+        "pycon2011"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011AnOutsidersLookAtCoroutines790-929.jpg",
+    "title": "An outsider's look at co-routines.",
+    "updated": "2014-04-08T20:28:27.945",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/396_an-outsider-s-look-at-co-routines.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 129516368,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

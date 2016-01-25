@@ -1,1 +1,43 @@
-{"tags": ["matplotlib", "numpy", "pandas", "scipy", "sympy"], "thumbnail_url": "http://i1.ytimg.com/vi/A9tv7WBIwyM/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/A9tv7WBIwyM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/A9tv7WBIwyM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-10T22:35:15.511", "whiteboard": "", "video_flv_length": null, "title": "The Wonderful World of Scientific Computing with Python", "duration": null, "description": "Starting out with scientific computing in Python can be daunting: Where do I start? What are the basic packages, and what is the use case for each of them? What are the fundamental ideas I need to understand each package and how it works?\r\n\r\nIn this tutorial, we will use examples of scientific questions and calculations which lead directly to the need for certain computational tools as a gateway to understand the basic structure of the scientific computing ecosystem. The specific packages we will touch on are `numpy`, `matplotlib`, `scipy`, `sympy` and `pandas`, all viewed through the wonderful lens of the IPython Notebook.", "state": 1, "category": "SciPy 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-09", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=A9tv7WBIwyM", "video_webm_url": null, "summary": "We will give an overview of the basics of the scientific computing ecosystem with Python: what does each of the fundamental packages (numpy, matplotlib, scipy, sympy and pandas) \r\ndo, and how does it work? We will use the IPython Notebook in our quest to enter this wonderful world.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-07-10T22:35:15.511", "id": 2744, "related_urls": [], "slug": "the-wonderful-world-of-scientific-computing-with", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["David P. Sanders"]}
+{
+    "added": "2014-07-10T22:35:15.511",
+    "category": "SciPy 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "Starting out with scientific computing in Python can be daunting: Where do I start? What are the basic packages, and what is the use case for each of them? What are the fundamental ideas I need to understand each package and how it works?\r\n\r\nIn this tutorial, we will use examples of scientific questions and calculations which lead directly to the need for certain computational tools as a gateway to understand the basic structure of the scientific computing ecosystem. The specific packages we will touch on are `numpy`, `matplotlib`, `scipy`, `sympy` and `pandas`, all viewed through the wonderful lens of the IPython Notebook.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/A9tv7WBIwyM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/A9tv7WBIwyM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2744,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-09",
+    "related_urls": [],
+    "slug": "the-wonderful-world-of-scientific-computing-with",
+    "source_url": "http://www.youtube.com/watch?v=A9tv7WBIwyM",
+    "speakers": [
+        "David P. Sanders"
+    ],
+    "state": 1,
+    "summary": "We will give an overview of the basics of the scientific computing ecosystem with Python: what does each of the fundamental packages (numpy, matplotlib, scipy, sympy and pandas) \r\ndo, and how does it work? We will use the IPython Notebook in our quest to enter this wonderful world.",
+    "tags": [
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "scipy",
+        "sympy"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/A9tv7WBIwyM/hqdefault.jpg",
+    "title": "The Wonderful World of Scientific Computing with Python",
+    "updated": "2014-07-10T22:35:15.511",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

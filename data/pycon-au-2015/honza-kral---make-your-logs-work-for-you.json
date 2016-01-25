@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/i3rH5cU-Uz4/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/i3rH5cU-Uz4\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-10-18T16:10:57.992", "whiteboard": "needs editing", "video_flv_length": null, "title": "Make your logs work for you", "duration": null, "description": "Any modern business generates a lot of logs - from customer transactions all the way to the technical logs of your servers. Many times these logs are thrown away or just sit uselessly somewhere on disk.\n\nI would like to show you how you can make sense of all that data, how to collect and clean them, store them in a scalable fashion and, finally, explore and search across various systems.\n\nOnce we have all the data in one place I will go over some examples of more advanced analysis (beyond simple, though very useful, counting of things) like finding patterns and trends in your data.\n\nWe will use Elasticsearch, Logstash and Kibana (aka the ELK stack) to achieve that. All tools presented are open source and examples will be using real life use cases.\n\n", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-06", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=i3rH5cU-Uz4", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-18T16:10:57.992", "id": 3993, "related_urls": [], "slug": "make-your-logs-work-for-you", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Honza Kr\u00e1l"]}
+{
+    "added": "2015-10-18T16:10:57.992",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Any modern business generates a lot of logs - from customer transactions all the way to the technical logs of your servers. Many times these logs are thrown away or just sit uselessly somewhere on disk.\n\nI would like to show you how you can make sense of all that data, how to collect and clean them, store them in a scalable fashion and, finally, explore and search across various systems.\n\nOnce we have all the data in one place I will go over some examples of more advanced analysis (beyond simple, though very useful, counting of things) like finding patterns and trends in your data.\n\nWe will use Elasticsearch, Logstash and Kibana (aka the ELK stack) to achieve that. All tools presented are open source and examples will be using real life use cases.\n\n",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/i3rH5cU-Uz4\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 3993,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-06",
+    "related_urls": [],
+    "slug": "make-your-logs-work-for-you",
+    "source_url": "https://www.youtube.com/watch?v=i3rH5cU-Uz4",
+    "speakers": [
+        "Honza Kr\u00e1l"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/i3rH5cU-Uz4/hqdefault.jpg",
+    "title": "Make your logs work for you",
+    "updated": "2015-10-18T16:10:57.992",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

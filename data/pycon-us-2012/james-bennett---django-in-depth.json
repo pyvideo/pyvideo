@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://img.youtube.com/vi/t_ziKY1ayCo/hqdefault.jpg", "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/t_ziKY1ayCo?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/t_ziKY1ayCo?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", "added": "2012-03-12T20:00:05", "whiteboard": "", "video_flv_length": null, "title": "Django in Depth", "duration": null, "description": "", "state": 1, "category": "PyCon US 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-03-07", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=t_ziKY1ayCo", "video_webm_url": null, "summary": "A tutorial that goes beyond all other Django tutorials; we'll dive deep into\nthe guts of the framework, and learn how each commonly-used component -- ORM,\ntemplates, HTTP handling, views and the admin -- work from the bottom up,\ncovering both public and internal APIs in excruciating detail.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.638", "id": 610, "related_urls": [], "slug": "django-in-depth", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["James Bennett"]}
+{
+    "added": "2012-03-12T20:00:05",
+    "category": "PyCon US 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/t_ziKY1ayCo?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/t_ziKY1ayCo?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>",
+    "id": 610,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-03-07",
+    "related_urls": [],
+    "slug": "django-in-depth",
+    "source_url": "https://www.youtube.com/watch?v=t_ziKY1ayCo",
+    "speakers": [
+        "James Bennett"
+    ],
+    "state": 1,
+    "summary": "A tutorial that goes beyond all other Django tutorials; we'll dive deep into\nthe guts of the framework, and learn how each commonly-used component -- ORM,\ntemplates, HTTP handling, views and the admin -- work from the bottom up,\ncovering both public and internal APIs in excruciating detail.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://img.youtube.com/vi/t_ziKY1ayCo/hqdefault.jpg",
+    "title": "Django in Depth",
+    "updated": "2014-04-08T20:28:27.638",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

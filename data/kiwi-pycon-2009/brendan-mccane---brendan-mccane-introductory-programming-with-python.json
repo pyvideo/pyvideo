@@ -1,1 +1,41 @@
-{"tags": ["education", "kiwipycon", "kiwipycon2009"], "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-BrendanMcCaneIntroductoryProgrammingWithPython306-471.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Brendan McCane - Introductory programming with Python", "duration": null, "description": "Introductory programming with Python\n\nPresented by Brendan McCane\n\nAbstract\n\nIn first semester 2009, CS at Otago introduced an introductory programming\ncourse using Python. This talk will describe the course and student outcomes.\n\nOutline\n\nThe talk will cover the following topics: - the problems of teaching and\nlearning programming - does language make a difference? - why Python is a good\nchoice for a first language - the structure of the course - things that worked\nwell, and things that didn't - what students thought about it - impact on\nlearning Java in the second semester - changes for 2010 Note: this is a\npreliminary outline, it's likely that it will change somewhat before the\nconference.\n\n[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n\n", "state": 1, "category": "Kiwi PyCon 2009", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:25.401", "id": 124, "related_urls": [], "slug": "brendan-mccane---introductory-programming-with-py", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/124_brendan-mccane-introductory-programming-with-python.flv", "language": "English", "video_ogv_download_only": false, "speakers": ["Brendan McCane"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "Kiwi PyCon 2009",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Introductory programming with Python\n\nPresented by Brendan McCane\n\nAbstract\n\nIn first semester 2009, CS at Otago introduced an introductory programming\ncourse using Python. This talk will describe the course and student outcomes.\n\nOutline\n\nThe talk will cover the following topics: - the problems of teaching and\nlearning programming - does language make a difference? - why Python is a good\nchoice for a first language - the structure of the course - things that worked\nwell, and things that didn't - what students thought about it - impact on\nlearning Java in the second semester - changes for 2010 Note: this is a\npreliminary outline, it's likely that it will change somewhat before the\nconference.\n\n[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 124,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "brendan-mccane---introductory-programming-with-py",
+    "source_url": "",
+    "speakers": [
+        "Brendan McCane"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "education",
+        "kiwipycon",
+        "kiwipycon2009"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-BrendanMcCaneIntroductoryProgrammingWithPython306-471.jpg",
+    "title": "Brendan McCane - Introductory programming with Python",
+    "updated": "2014-04-08T20:28:25.401",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/124_brendan-mccane-introductory-programming-with-python.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

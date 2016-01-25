@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/Peww9AUH6yM/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Peww9AUH6yM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Peww9AUH6yM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-06-13T16:51:26", "whiteboard": "", "video_flv_length": null, "title": "Ultimate Language Shootout IV: QUASI", "duration": 7, "description": "", "state": 1, "category": "ChiPy", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvchipy/Ultimate_Language_Shootout_IV_.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-06-13", "copyright_text": "CC BY", "source_url": "https://www.youtube.com/watch?v=Peww9AUH6yM", "video_webm_url": null, "summary": "1977 -  A language, the description of which was handed to me on about one hundred and fifty mimeographed eight and one half by eleven sheets.  Robert Sibley handed it to the class to use as our compiler project.  ", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.521", "id": 1867, "related_urls": [], "slug": "ultimate-language-shootout-iv-quasi", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Randy Baxley"]}
+{
+    "added": "2013-06-13T16:51:26",
+    "category": "ChiPy",
+    "copyright_text": "CC BY",
+    "description": "",
+    "duration": 7,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Peww9AUH6yM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Peww9AUH6yM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1867,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-06-13",
+    "related_urls": [],
+    "slug": "ultimate-language-shootout-iv-quasi",
+    "source_url": "https://www.youtube.com/watch?v=Peww9AUH6yM",
+    "speakers": [
+        "Randy Baxley"
+    ],
+    "state": 1,
+    "summary": "1977 -  A language, the description of which was handed to me on about one hundred and fifty mimeographed eight and one half by eleven sheets.  Robert Sibley handed it to the class to use as our compiler project.  ",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/Peww9AUH6yM/hqdefault.jpg",
+    "title": "Ultimate Language Shootout IV: QUASI",
+    "updated": "2014-04-08T20:28:26.521",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvchipy/Ultimate_Language_Shootout_IV_.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

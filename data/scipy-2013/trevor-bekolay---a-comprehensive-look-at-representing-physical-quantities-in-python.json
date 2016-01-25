@@ -1,1 +1,39 @@
-{"tags": ["scipy"], "thumbnail_url": "http://i1.ytimg.com/vi/N-edLdxiM40/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/N-edLdxiM40?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/N-edLdxiM40?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:38", "whiteboard": "", "video_flv_length": null, "title": "A comprehensive look at representing physical quantities in Python", "duration": null, "description": "Authors: Bekolay, Trevor, University of Waterloo\r\n\r\nTrack: General\r\n\r\nCode that properly tracks the units associated with physical quantities is self-documenting and far more robust to unit conversion errors. Unit conversion errors are common in any program that deal with physical quantities, and have been responsible for several expensive and dangerous software errors, like the Mars Climate Orbiter crash. Support for tracking units is lacking in commonly used packages like NumPy and SciPy. As a result, a whole host of packages have been created to fill this gap, with varying implementations. Some build on top of the commonly used scientific packages, adding to their data structures the ability to track units. Others packages track units separately, and store a mapping between units and the data structures containing magnitudes.\r\n\r\nI will discuss why tracking physical quantities is an essential function for any programming language heavily used in science. I will then compare and contrast all of the packages that currently exist for tracking quantities in terms of their functionality, syntax, underlying implementation, and performance. Finally, I will present a possible unification of the existing packages that enables the majority of use cases, and I will discuss where that unified implementation fits into the current scientific Python environment.", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=N-edLdxiM40", "video_webm_url": "", "summary": "Why tracking physical quantities is an essential function for any programming language heavily used in science and a possible unification of the existing packages that enable the majority of use cases.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.323", "id": 2012, "related_urls": [], "slug": "a-comprehensive-look-at-representing-physical-qua", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Trevor Bekolay"]}
+{
+    "added": "2013-07-04T10:08:38",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "Authors: Bekolay, Trevor, University of Waterloo\r\n\r\nTrack: General\r\n\r\nCode that properly tracks the units associated with physical quantities is self-documenting and far more robust to unit conversion errors. Unit conversion errors are common in any program that deal with physical quantities, and have been responsible for several expensive and dangerous software errors, like the Mars Climate Orbiter crash. Support for tracking units is lacking in commonly used packages like NumPy and SciPy. As a result, a whole host of packages have been created to fill this gap, with varying implementations. Some build on top of the commonly used scientific packages, adding to their data structures the ability to track units. Others packages track units separately, and store a mapping between units and the data structures containing magnitudes.\r\n\r\nI will discuss why tracking physical quantities is an essential function for any programming language heavily used in science. I will then compare and contrast all of the packages that currently exist for tracking quantities in terms of their functionality, syntax, underlying implementation, and performance. Finally, I will present a possible unification of the existing packages that enables the majority of use cases, and I will discuss where that unified implementation fits into the current scientific Python environment.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/N-edLdxiM40?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/N-edLdxiM40?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2012,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [],
+    "slug": "a-comprehensive-look-at-representing-physical-qua",
+    "source_url": "http://www.youtube.com/watch?v=N-edLdxiM40",
+    "speakers": [
+        "Trevor Bekolay"
+    ],
+    "state": 1,
+    "summary": "Why tracking physical quantities is an essential function for any programming language heavily used in science and a possible unification of the existing packages that enable the majority of use cases.",
+    "tags": [
+        "scipy"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/N-edLdxiM40/hqdefault.jpg",
+    "title": "A comprehensive look at representing physical quantities in Python",
+    "updated": "2014-04-08T20:28:26.323",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

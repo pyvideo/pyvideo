@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/R5wB2C8vI1c/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/R5wB2C8vI1c?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/R5wB2C8vI1c?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:49", "whiteboard": "needs editing", "video_flv_length": null, "title": "Stuff to do with your genomic intervals; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-01", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=R5wB2C8vI1c", "video_webm_url": null, "summary": "Authors: Pedersen, Brent; University of Colorado\n\nTrack: Bioinformatics\n\nAfter traditional bioinformatic analyses, we are often left with a set of genomic regions; for example: ChIP-Seq peaks, transcription-factor binding sites, differentially methylated regions, or sites of loss-of-heterozygosity. This talk will go over the difficulties commonly encountered at this stage of an investigation and cover some additional analyses, using python libraries, that can help to provide insight into the function of a set of intervals. Some of the libraries covered will be pybedtools, cruzdb, pandas, and shuffler. The focus will be on annotation, exploratory data analysis and calculation of simple enrichment metrics with those tools. The format will be a walk-through (in the IPython notebook) of a set of these analyses that utilizes ENCODE and other publicly available data to annotate an example dataset.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.445", "id": 2078, "related_urls": [], "slug": "stuff-to-do-with-your-genomic-intervals-scipy-20-1", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:49",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/R5wB2C8vI1c?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/R5wB2C8vI1c?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2078,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-01",
+    "related_urls": [],
+    "slug": "stuff-to-do-with-your-genomic-intervals-scipy-20-1",
+    "source_url": "http://www.youtube.com/watch?v=R5wB2C8vI1c",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Pedersen, Brent; University of Colorado\n\nTrack: Bioinformatics\n\nAfter traditional bioinformatic analyses, we are often left with a set of genomic regions; for example: ChIP-Seq peaks, transcription-factor binding sites, differentially methylated regions, or sites of loss-of-heterozygosity. This talk will go over the difficulties commonly encountered at this stage of an investigation and cover some additional analyses, using python libraries, that can help to provide insight into the function of a set of intervals. Some of the libraries covered will be pybedtools, cruzdb, pandas, and shuffler. The focus will be on annotation, exploratory data analysis and calculation of simple enrichment metrics with those tools. The format will be a walk-through (in the IPython notebook) of a set of these analyses that utilizes ENCODE and other publicly available data to annotate an example dataset.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/R5wB2C8vI1c/hqdefault.jpg",
+    "title": "Stuff to do with your genomic intervals; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.445",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

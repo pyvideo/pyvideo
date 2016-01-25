@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/jKf_YoL7aPU/hqdefault.jpg", "embed": "", "added": "2015-08-10T15:48:02.640", "whiteboard": "", "video_flv_length": null, "title": "Teaching Python in Middle School", "duration": 2711, "description": "There is no shortage of interest in bringing coding to the classroom. Schools have a wealth of ed tech products to choose from, and many organizations are willing to fund classrooms in this endeavour. \r\n\r\nSo why aren\u2019t more students learning programming? How are the gender and racial diversity gaps in tech industry being perpetuated in the classroom and what can do about it? Are block-based educational languages drawing students into computer science?\r\n\r\nA programming curriculum writer and teacher discusses the realities of bringing Python into the secondary classroom. We\u2019ll explore the common pitfalls and obstacles that teachers and students must overcome, examine some effective approaches for classrooms with diverse learners, and discuss why Python is a great fit for the classroom.\r\n\r\nBring a device to to collaborate and join the discussion. ", "state": 1, "category": "PyGotham 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3776_Teaching_Python_in_Middle_School.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-15", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/jKf_YoL7aPU", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-24T12:29:12.913", "id": 3776, "related_urls": [], "slug": "teaching-python-in-middle-school", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Meg Winston Ray"]}
+{
+    "added": "2015-08-10T15:48:02.640",
+    "category": "PyGotham 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "There is no shortage of interest in bringing coding to the classroom. Schools have a wealth of ed tech products to choose from, and many organizations are willing to fund classrooms in this endeavour. \r\n\r\nSo why aren\u2019t more students learning programming? How are the gender and racial diversity gaps in tech industry being perpetuated in the classroom and what can do about it? Are block-based educational languages drawing students into computer science?\r\n\r\nA programming curriculum writer and teacher discusses the realities of bringing Python into the secondary classroom. We\u2019ll explore the common pitfalls and obstacles that teachers and students must overcome, examine some effective approaches for classrooms with diverse learners, and discuss why Python is a great fit for the classroom.\r\n\r\nBring a device to to collaborate and join the discussion. ",
+    "duration": 2711,
+    "embed": "",
+    "id": 3776,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-15",
+    "related_urls": [],
+    "slug": "teaching-python-in-middle-school",
+    "source_url": "http://youtu.be/jKf_YoL7aPU",
+    "speakers": [
+        "Meg Winston Ray"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/jKf_YoL7aPU/hqdefault.jpg",
+    "title": "Teaching Python in Middle School",
+    "updated": "2015-08-24T12:29:12.913",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3776_Teaching_Python_in_Middle_School.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/2lrRix3PM4k/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/2lrRix3PM4k?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/2lrRix3PM4k?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-10-19T19:58:54", "whiteboard": "", "video_flv_length": null, "title": "How to Lose Friends and Influence Burnout", "duration": null, "description": "@ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 1\r\n\r\n**Audience level**\r\n\r\nNovice\r\n\r\n**Abstract**\r\n\r\nIt's 4AM, the coffee on your desk is cold, the office is dark, and everyone else has gone home for the day. For the 5th time today you are coming to a dead-end while deploying your web application, and the only thing on your mind is 'Where did it all go wrong?''.\r\n\r\nThis situation is all too common, especially when you are strapped for time due to budgets and deadlines; it is no fun for anybody. Come learn about the huge mistakes I made as a developer, the terrible anti-patterns I worked my way into, but most importantly,what I learnt from while on this path to destruction.\r\n\r\nBe it choosing the right framework, picking the best tool for the job, learning to love the 12 factor, or the pitfalls of concurrency; see what I learnt from a stint as a solo developer in a not so ideal situation.\r\n\r\n**Slides**\r\n\r\nhttps://speakerdeck.com/nzpug/rhys-elsmore-how-to-lose-friends-and-influence-burnout", "state": 1, "category": "Kiwi PyCon 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-09-15", "copyright_text": "", "source_url": "http://www.youtube.com/watch?v=2lrRix3PM4k", "video_webm_url": "", "summary": "It's 4AM, the coffee on your desk is cold, the office is dark, and everyone else has gone home for the day. For the 5th time today you are coming to a dead-end while deploying your web application, and the only thing on your mind is 'Where did it all go wrong?''\r\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.076", "id": 2446, "related_urls": [], "slug": "how-to-lose-friends-and-influence-burnout", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Rhys Elsmore"]}
+{
+    "added": "2013-10-19T19:58:54",
+    "category": "Kiwi PyCon 2013",
+    "copyright_text": "",
+    "description": "@ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 1\r\n\r\n**Audience level**\r\n\r\nNovice\r\n\r\n**Abstract**\r\n\r\nIt's 4AM, the coffee on your desk is cold, the office is dark, and everyone else has gone home for the day. For the 5th time today you are coming to a dead-end while deploying your web application, and the only thing on your mind is 'Where did it all go wrong?''.\r\n\r\nThis situation is all too common, especially when you are strapped for time due to budgets and deadlines; it is no fun for anybody. Come learn about the huge mistakes I made as a developer, the terrible anti-patterns I worked my way into, but most importantly,what I learnt from while on this path to destruction.\r\n\r\nBe it choosing the right framework, picking the best tool for the job, learning to love the 12 factor, or the pitfalls of concurrency; see what I learnt from a stint as a solo developer in a not so ideal situation.\r\n\r\n**Slides**\r\n\r\nhttps://speakerdeck.com/nzpug/rhys-elsmore-how-to-lose-friends-and-influence-burnout",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/2lrRix3PM4k?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/2lrRix3PM4k?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2446,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-09-15",
+    "related_urls": [],
+    "slug": "how-to-lose-friends-and-influence-burnout",
+    "source_url": "http://www.youtube.com/watch?v=2lrRix3PM4k",
+    "speakers": [
+        "Rhys Elsmore"
+    ],
+    "state": 1,
+    "summary": "It's 4AM, the coffee on your desk is cold, the office is dark, and everyone else has gone home for the day. For the 5th time today you are coming to a dead-end while deploying your web application, and the only thing on your mind is 'Where did it all go wrong?''\r\n",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/2lrRix3PM4k/hqdefault.jpg",
+    "title": "How to Lose Friends and Influence Burnout",
+    "updated": "2014-04-08T20:28:26.076",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

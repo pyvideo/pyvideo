@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i.ytimg.com/vi/JKBQ-2uiwcw/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/JKBQ-2uiwcw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/JKBQ-2uiwcw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-10-14T22:35:37.301", "whiteboard": "", "video_flv_length": null, "title": "Seize control of your network with Ryu", "duration": 1800, "description": "= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = \r\nEwen McNeill:\r\nSeize control of your network with Ryu\r\n= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = \r\n@ Kiwi PyCon 2014 - Saturday, 13 Sep 2014 - Track 2 \r\nhttp://kiwi.pycon.org/\r\n\r\n**Audience level**\r\n\r\nIntermediate\r\n\r\n**Description**\r\n\r\nRyu is an OpenFlow Network Controller written in Python, which provides a framework to build your own Software Defined Network (SDN) that can run at full wire speed, using modern network switches. Come learn how to leverage Python to instruct your network to filter, switch, and route traffic precisely the way you desire.\r\n\r\n**Abstract**\r\n\r\nOpenFlow [1] is an industry standard protocol for controlling modern network hardware (and software switches -- such as Open vSwitch [2] in Linux), down to installing specific forwarding or filtering rules (\"flows\") into the hardware forwarding plane. Together with a well written OpenFlow Network Controller it allows you to create an intelligent Software Defined Network (SDN).\r\n\r\nRyu [3] is a OpenFlow Network Controller framework, written in Python, that is already extremely capable and still being rapidly developed (new releases every month). It has been adopted by the OpenStack [4] project amongst many others. Ryu implements the OpenFlow wire protocols and allows you to write event driven \"apps\" as Python modules, each running in their own eventlet. It comes with lots of examples. Your own apps can dictate switch forwarding and filtering policy in advance, or respond to new types of packets as they arrive. This gives you fine grained programmatic control over your network.\r\n\r\nThe talk will provide a brief outline of a how a Software Defined Network using Openflow works, and an introduction to writing your own Ryu \"app\" in Python. Plus plenty of pointers so you can get started experimenting yourself. Become the mad genius taking total control of your network!\r\n\r\n[1] https://www.opennetworking.org/\r\n[2] http://openvswitch.org/\r\n[3] http://osrg.github.io/ryu/\r\n[4] http://www.openstack.org/\r\n\r\n**Slides**\r\n\r\nhttps://speakerdeck.com/nzpug/ewen-mcneill-seize-control-of-your-network-with-ryu", "state": 1, "category": "Kiwi PyCon 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-09-13", "copyright_text": "CC", "source_url": "http://www.youtube.com/watch?v=JKBQ-2uiwcw", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-10-16T00:06:05.802", "id": 3214, "related_urls": [], "slug": "seize-control-of-your-network-with-ryu", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Ewen McNeill"]}
+{
+    "added": "2014-10-14T22:35:37.301",
+    "category": "Kiwi PyCon 2014",
+    "copyright_text": "CC",
+    "description": "= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = \r\nEwen McNeill:\r\nSeize control of your network with Ryu\r\n= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = \r\n@ Kiwi PyCon 2014 - Saturday, 13 Sep 2014 - Track 2 \r\nhttp://kiwi.pycon.org/\r\n\r\n**Audience level**\r\n\r\nIntermediate\r\n\r\n**Description**\r\n\r\nRyu is an OpenFlow Network Controller written in Python, which provides a framework to build your own Software Defined Network (SDN) that can run at full wire speed, using modern network switches. Come learn how to leverage Python to instruct your network to filter, switch, and route traffic precisely the way you desire.\r\n\r\n**Abstract**\r\n\r\nOpenFlow [1] is an industry standard protocol for controlling modern network hardware (and software switches -- such as Open vSwitch [2] in Linux), down to installing specific forwarding or filtering rules (\"flows\") into the hardware forwarding plane. Together with a well written OpenFlow Network Controller it allows you to create an intelligent Software Defined Network (SDN).\r\n\r\nRyu [3] is a OpenFlow Network Controller framework, written in Python, that is already extremely capable and still being rapidly developed (new releases every month). It has been adopted by the OpenStack [4] project amongst many others. Ryu implements the OpenFlow wire protocols and allows you to write event driven \"apps\" as Python modules, each running in their own eventlet. It comes with lots of examples. Your own apps can dictate switch forwarding and filtering policy in advance, or respond to new types of packets as they arrive. This gives you fine grained programmatic control over your network.\r\n\r\nThe talk will provide a brief outline of a how a Software Defined Network using Openflow works, and an introduction to writing your own Ryu \"app\" in Python. Plus plenty of pointers so you can get started experimenting yourself. Become the mad genius taking total control of your network!\r\n\r\n[1] https://www.opennetworking.org/\r\n[2] http://openvswitch.org/\r\n[3] http://osrg.github.io/ryu/\r\n[4] http://www.openstack.org/\r\n\r\n**Slides**\r\n\r\nhttps://speakerdeck.com/nzpug/ewen-mcneill-seize-control-of-your-network-with-ryu",
+    "duration": 1800,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/JKBQ-2uiwcw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/JKBQ-2uiwcw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3214,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-09-13",
+    "related_urls": [],
+    "slug": "seize-control-of-your-network-with-ryu",
+    "source_url": "http://www.youtube.com/watch?v=JKBQ-2uiwcw",
+    "speakers": [
+        "Ewen McNeill"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/JKBQ-2uiwcw/hqdefault.jpg",
+    "title": "Seize control of your network with Ryu",
+    "updated": "2014-10-16T00:06:05.802",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/dXTtcs6DrzY/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/dXTtcs6DrzY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/dXTtcs6DrzY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-06-26T21:37:27", "whiteboard": "", "video_flv_length": null, "title": "Who saved The Onion, from being hacked by \"Syrian Electronic Army\"", "duration": 5, "description": "", "state": 1, "category": "ChiPy", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvchipy/Who_saved_The_Onion_from_being.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-05-09", "copyright_text": "CC BY", "source_url": "https://www.youtube.com/watch?v=dXTtcs6DrzY", "video_webm_url": null, "summary": "Well, this isn't at all Python related (or even all that technical), but at The Onion, we recently had a little run-in with the \"hackers\" from the \"Syrian Electronic Army\", and could talk about some lessons learned from that, if there's any interest.\r\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.527", "id": 1871, "related_urls": [], "slug": "who-saved-the-onion-from-being-hacked-by-syrian", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Sean Bloomfield"]}
+{
+    "added": "2013-06-26T21:37:27",
+    "category": "ChiPy",
+    "copyright_text": "CC BY",
+    "description": "",
+    "duration": 5,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/dXTtcs6DrzY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/dXTtcs6DrzY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1871,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-05-09",
+    "related_urls": [],
+    "slug": "who-saved-the-onion-from-being-hacked-by-syrian",
+    "source_url": "https://www.youtube.com/watch?v=dXTtcs6DrzY",
+    "speakers": [
+        "Sean Bloomfield"
+    ],
+    "state": 1,
+    "summary": "Well, this isn't at all Python related (or even all that technical), but at The Onion, we recently had a little run-in with the \"hackers\" from the \"Syrian Electronic Army\", and could talk about some lessons learned from that, if there's any interest.\r\n",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/dXTtcs6DrzY/hqdefault.jpg",
+    "title": "Who saved The Onion, from being hacked by \"Syrian Electronic Army\"",
+    "updated": "2014-04-08T20:28:26.527",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvchipy/Who_saved_The_Onion_from_being.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

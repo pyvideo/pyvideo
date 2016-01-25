@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/ACXVyvm5eTc/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/ACXVyvm5eTc' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:04.637", "whiteboard": "needs editing", "video_flv_length": null, "title": "Hyperactive: HTTP/2 and Python", "duration": null, "description": "The internet has spoken, HTTP is to get its first serious update in 15 years. In this talk we'll discuss what HTTP/2 is, why it's happening, and how it's going to affect you and everyone you love. We'll briefly talk about how you can get started with HTTP/2, and some interesting projects associated with it, including Hyper, the first Python HTTP/2 library.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-11", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=ACXVyvm5eTc", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:04.637", "id": 3409, "related_urls": [], "slug": "hyperactive-http2-and-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Cory Benfield"]}
+{
+    "added": "2015-04-16T14:22:04.637",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "The internet has spoken, HTTP is to get its first serious update in 15 years. In this talk we'll discuss what HTTP/2 is, why it's happening, and how it's going to affect you and everyone you love. We'll briefly talk about how you can get started with HTTP/2, and some interesting projects associated with it, including Hyper, the first Python HTTP/2 library.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/ACXVyvm5eTc' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3409,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-11",
+    "related_urls": [],
+    "slug": "hyperactive-http2-and-python",
+    "source_url": "https://www.youtube.com/watch?v=ACXVyvm5eTc",
+    "speakers": [
+        "Cory Benfield"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/ACXVyvm5eTc/hqdefault.jpg",
+    "title": "Hyperactive: HTTP/2 and Python",
+    "updated": "2015-04-16T14:22:04.637",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

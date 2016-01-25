@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i4.ytimg.com/vi/kwu9Itn8Ylc/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/kwu9Itn8Ylc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/kwu9Itn8Ylc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:54:17", "whiteboard": "", "video_flv_length": null, "title": "The Magic of Metaprogramming", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/The_Magic_of_Metaprogramming.mp4?Signature=%2BjcZWMxtrxJlyoTsRFIATtbEuHU%3D&Expires=1363653495&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-15", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=kwu9Itn8Ylc", "video_webm_url": "", "summary": "Learn the magic of writing programs that monitor, alter and react to the execution of program code by responding to imports, changes to variables, calls to functions and invocations of the builtins. This talk goes beyond the static world of metaclasses and class decorators.\r\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.737", "id": 1695, "related_urls": [], "slug": "the-magic-of-metaprogramming-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Jeff Rush"]}
+{
+    "added": "2013-03-13T18:54:17",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/kwu9Itn8Ylc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/kwu9Itn8Ylc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1695,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-15",
+    "related_urls": [],
+    "slug": "the-magic-of-metaprogramming-0",
+    "source_url": "https://www.youtube.com/watch?v=kwu9Itn8Ylc",
+    "speakers": [
+        "Jeff Rush"
+    ],
+    "state": 1,
+    "summary": "Learn the magic of writing programs that monitor, alter and react to the execution of program code by responding to imports, changes to variables, calls to functions and invocations of the builtins. This talk goes beyond the static world of metaclasses and class decorators.\r\n",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i4.ytimg.com/vi/kwu9Itn8Ylc/hqdefault.jpg",
+    "title": "The Magic of Metaprogramming",
+    "updated": "2014-04-08T20:28:26.737",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/The_Magic_of_Metaprogramming.mp4?Signature=%2BjcZWMxtrxJlyoTsRFIATtbEuHU%3D&Expires=1363653495&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

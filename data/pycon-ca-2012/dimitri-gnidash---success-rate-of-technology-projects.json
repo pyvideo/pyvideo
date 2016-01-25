@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i2.ytimg.com/vi/YpuIndUXHwo/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/YpuIndUXHwo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/YpuIndUXHwo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-14T09:10:57", "whiteboard": "", "video_flv_length": null, "title": "Success Rate of Technology Projects", "duration": null, "description": "", "state": 1, "category": "PyCon CA 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Success_Rate_of_Technology_Projects.mp4?Signature=%2FakrGZ6zrEMwBejXXUu6xr9U%2BOk%3D&Expires=1352840515&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-11-11", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=YpuIndUXHwo", "video_webm_url": "", "summary": "Why do some projects fail and some succeed? Is it about technology and quality\nof developers?\n\nI will be advocating that the success or failure of a given technology project\nwill be dependent on factors frequently outside of control of development\nteam.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.835", "id": 1596, "related_urls": [], "slug": "success-rate-of-technology-projects", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Dimitri Gnidash"]}
+{
+    "added": "2012-11-14T09:10:57",
+    "category": "PyCon CA 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/YpuIndUXHwo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/YpuIndUXHwo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1596,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-11-11",
+    "related_urls": [],
+    "slug": "success-rate-of-technology-projects",
+    "source_url": "https://www.youtube.com/watch?v=YpuIndUXHwo",
+    "speakers": [
+        "Dimitri Gnidash"
+    ],
+    "state": 1,
+    "summary": "Why do some projects fail and some succeed? Is it about technology and quality\nof developers?\n\nI will be advocating that the success or failure of a given technology project\nwill be dependent on factors frequently outside of control of development\nteam.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i2.ytimg.com/vi/YpuIndUXHwo/hqdefault.jpg",
+    "title": "Success Rate of Technology Projects",
+    "updated": "2014-04-08T20:28:26.835",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Success_Rate_of_Technology_Projects.mp4?Signature=%2FakrGZ6zrEMwBejXXUu6xr9U%2BOk%3D&Expires=1352840515&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

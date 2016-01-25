@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "https://i.ytimg.com/vi/LX-PZLwpNJ0/hqdefault.jpg", "embed": "", "added": "2015-07-22T20:49:46.429", "whiteboard": "", "video_flv_length": null, "title": "Teaching a Computer to Fight Itself (Implementing an OGRE AI)", "duration": 3261, "description": "OGRE is an asymmetric board game pitting a futuristic fighting force of infantry and armor against a single, massive, artificially intelligent cyber tank.  Figuring out a winning strategy was difficult, so I taught my computer how to play the game, and learn to play it better using Python.\r\n\r\nSource code available at: https://github.com/gar0u/ogre-ai", "state": 1, "category": "PyOhio 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3707_Teaching_a_Computer_to_Fight_Itself_Implementing_a.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-01", "copyright_text": "CC BY", "source_url": "http://youtu.be/LX-PZLwpNJ0", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-02T13:30:19.689", "id": 3707, "related_urls": [], "slug": "teaching-a-computer-to-fight-itself-implementing", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["William Hutton"]}
+{
+    "added": "2015-07-22T20:49:46.429",
+    "category": "PyOhio 2015",
+    "copyright_text": "CC BY",
+    "description": "OGRE is an asymmetric board game pitting a futuristic fighting force of infantry and armor against a single, massive, artificially intelligent cyber tank.  Figuring out a winning strategy was difficult, so I taught my computer how to play the game, and learn to play it better using Python.\r\n\r\nSource code available at: https://github.com/gar0u/ogre-ai",
+    "duration": 3261,
+    "embed": "",
+    "id": 3707,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-01",
+    "related_urls": [],
+    "slug": "teaching-a-computer-to-fight-itself-implementing",
+    "source_url": "http://youtu.be/LX-PZLwpNJ0",
+    "speakers": [
+        "William Hutton"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/LX-PZLwpNJ0/hqdefault.jpg",
+    "title": "Teaching a Computer to Fight Itself (Implementing an OGRE AI)",
+    "updated": "2015-08-02T13:30:19.689",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3707_Teaching_a_Computer_to_Fight_Itself_Implementing_a.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/Fxsq3BciYdo/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/Fxsq3BciYdo\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-10-18T16:10:53.693", "whiteboard": "needs editing", "video_flv_length": null, "title": "Docker + Python", "duration": null, "description": "Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. This allows for rapidly deployable apps, which will run on any docker environment with the ability to rapidly scale.\r\n\r\nAs Docker is based on Linux containers, these are very lightweight and allow resource isolation. With added tools to provide workflow automation and image management, Docker can provide a complete toolset to manage your application environment.\r\n\r\nAimed at newcomers to the technology, this talk will cover the basics of what Docker is, how it compares to other technologies and with why it's useful for Python applications. There will be practical demos and examples of real world Python deployments included.\n\n", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-04", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=Fxsq3BciYdo", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-18T16:10:53.693", "id": 3962, "related_urls": [], "slug": "docker-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Tim Butler"]}
+{
+    "added": "2015-10-18T16:10:53.693",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. This allows for rapidly deployable apps, which will run on any docker environment with the ability to rapidly scale.\r\n\r\nAs Docker is based on Linux containers, these are very lightweight and allow resource isolation. With added tools to provide workflow automation and image management, Docker can provide a complete toolset to manage your application environment.\r\n\r\nAimed at newcomers to the technology, this talk will cover the basics of what Docker is, how it compares to other technologies and with why it's useful for Python applications. There will be practical demos and examples of real world Python deployments included.\n\n",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/Fxsq3BciYdo\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 3962,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-04",
+    "related_urls": [],
+    "slug": "docker-python",
+    "source_url": "https://www.youtube.com/watch?v=Fxsq3BciYdo",
+    "speakers": [
+        "Tim Butler"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/Fxsq3BciYdo/hqdefault.jpg",
+    "title": "Docker + Python",
+    "updated": "2015-10-18T16:10:53.693",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

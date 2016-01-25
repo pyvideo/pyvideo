@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/DakC_lRNw9E/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/DakC_lRNw9E?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/DakC_lRNw9E?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-14T09:09:43", "whiteboard": "", "video_flv_length": null, "title": "How to Solve a Problem Like Santa Claus", "duration": null, "description": "", "state": 1, "category": "PyCon CA 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/How_to_Solve_a_Problem_Like_Santa_Claus.mp4?Signature=nSRFpxdJMzP8YZgYS1Q8NL6Ckp4%3D&Expires=1352836950&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-11-11", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=DakC_lRNw9E", "video_webm_url": "", "summary": "The Santa Claus Problem is a conceptually simple but notoriously tough\nconcurrency problem. For 20 years, the problem has been used to highlight new\nconcurrency features. Polyphonic C# sports an elegant solution using join\npatterns. I prototyped a version of join patterns for Stackless Python. Rather\nthan hack Stackless Python's C code base, I use PyPy's stackless.py module and\ngreenlets!\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.820", "id": 1577, "related_urls": [], "slug": "how-to-solve-a-problem-like-santa-claus", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Andrew Francis"]}
+{
+    "added": "2012-11-14T09:09:43",
+    "category": "PyCon CA 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/DakC_lRNw9E?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/DakC_lRNw9E?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1577,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-11-11",
+    "related_urls": [],
+    "slug": "how-to-solve-a-problem-like-santa-claus",
+    "source_url": "https://www.youtube.com/watch?v=DakC_lRNw9E",
+    "speakers": [
+        "Andrew Francis"
+    ],
+    "state": 1,
+    "summary": "The Santa Claus Problem is a conceptually simple but notoriously tough\nconcurrency problem. For 20 years, the problem has been used to highlight new\nconcurrency features. Polyphonic C# sports an elegant solution using join\npatterns. I prototyped a version of join patterns for Stackless Python. Rather\nthan hack Stackless Python's C code base, I use PyPy's stackless.py module and\ngreenlets!\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/DakC_lRNw9E/hqdefault.jpg",
+    "title": "How to Solve a Problem Like Santa Claus",
+    "updated": "2014-04-08T20:28:26.820",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/How_to_Solve_a_Problem_Like_Santa_Claus.mp4?Signature=nSRFpxdJMzP8YZgYS1Q8NL6Ckp4%3D&Expires=1352836950&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

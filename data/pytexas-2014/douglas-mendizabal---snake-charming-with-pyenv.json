@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/hx9lElBTXng/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/hx9lElBTXng?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/hx9lElBTXng?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-09-26T00:28:23.016", "whiteboard": "", "video_flv_length": null, "title": "Snake charming with pyenv", "duration": 1500, "description": "In this talk we'll discuss how to use pyenv to manage multiple versions of python to allow you to develop and test your code in Python 2, Python 3, pypy, etc.", "state": 1, "category": "PyTexas 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-04", "copyright_text": "CC-BY", "source_url": "http://youtu.be/hx9lElBTXng", "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3181_Snake_charming_with_pyenv.webm", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-10-05T14:13:36.206", "id": 3181, "related_urls": [], "slug": "snake-charming-with-pyenv", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Douglas Mendiz\u00e1bal"]}
+{
+    "added": "2014-09-26T00:28:23.016",
+    "category": "PyTexas 2014",
+    "copyright_text": "CC-BY",
+    "description": "In this talk we'll discuss how to use pyenv to manage multiple versions of python to allow you to develop and test your code in Python 2, Python 3, pypy, etc.",
+    "duration": 1500,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/hx9lElBTXng?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/hx9lElBTXng?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3181,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-04",
+    "related_urls": [],
+    "slug": "snake-charming-with-pyenv",
+    "source_url": "http://youtu.be/hx9lElBTXng",
+    "speakers": [
+        "Douglas Mendiz\u00e1bal"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/hx9lElBTXng/hqdefault.jpg",
+    "title": "Snake charming with pyenv",
+    "updated": "2014-10-05T14:13:36.206",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3181_Snake_charming_with_pyenv.webm",
+    "whiteboard": ""
+}

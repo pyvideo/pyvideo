@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/KI0m0tFEAnY/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/KI0m0tFEAnY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/KI0m0tFEAnY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-09-26T00:28:00.625", "whiteboard": "", "video_flv_length": null, "title": "Unlocking Data Trapped in Audio and Video Files", "duration": 1500, "description": "As more and more apps record audio and video files we need to start thinking about what to do with those files.  Playing them back isn't enough.  Media files are full of data that developers can start exploiting thanks to an emergent category of signal and natural language processing APIs.\r\n\r\nThere are only 3 options for processing the words embedded in these files:\r\n\r\n1. Transcribe them yourself, manually.\r\n2. Find a transcript made by someone else.\r\n3. Use a library that extracts the words for you.   \r\n\r\nAs the developer of a python library that automates the extraction and processing of words in media files, I'll demonstrate how easy it is to make audio and video libraries fully searchable, create a word cloud of keywords from a recorded phone call, and extract topics from news broadcast.  \r\n\r\nI'll show coding examples as well as products using this API.", "state": 1, "category": "PyTexas 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-04", "copyright_text": "CC-BY", "source_url": "http://youtu.be/KI0m0tFEAnY", "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3165_Unlocking_Data_Trapped_in_Audio_and_Video_Files.webm", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-10-12T22:50:16.711", "id": 3165, "related_urls": [], "slug": "unlocking-data-trapped-in-audio-and-video-files", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Paul Murphy"]}
+{
+    "added": "2014-09-26T00:28:00.625",
+    "category": "PyTexas 2014",
+    "copyright_text": "CC-BY",
+    "description": "As more and more apps record audio and video files we need to start thinking about what to do with those files.  Playing them back isn't enough.  Media files are full of data that developers can start exploiting thanks to an emergent category of signal and natural language processing APIs.\r\n\r\nThere are only 3 options for processing the words embedded in these files:\r\n\r\n1. Transcribe them yourself, manually.\r\n2. Find a transcript made by someone else.\r\n3. Use a library that extracts the words for you.   \r\n\r\nAs the developer of a python library that automates the extraction and processing of words in media files, I'll demonstrate how easy it is to make audio and video libraries fully searchable, create a word cloud of keywords from a recorded phone call, and extract topics from news broadcast.  \r\n\r\nI'll show coding examples as well as products using this API.",
+    "duration": 1500,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/KI0m0tFEAnY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/KI0m0tFEAnY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3165,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-04",
+    "related_urls": [],
+    "slug": "unlocking-data-trapped-in-audio-and-video-files",
+    "source_url": "http://youtu.be/KI0m0tFEAnY",
+    "speakers": [
+        "Paul Murphy"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/KI0m0tFEAnY/hqdefault.jpg",
+    "title": "Unlocking Data Trapped in Audio and Video Files",
+    "updated": "2014-10-12T22:50:16.711",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3165_Unlocking_Data_Trapped_in_Audio_and_Video_Files.webm",
+    "whiteboard": ""
+}

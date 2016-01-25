@@ -1,1 +1,43 @@
-{"tags": ["pycon", "pycon2011", "security", "tuf", "updates"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011TUFSecureSoftwareUpdatesInPython643-944.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "TUF: Secure Software Updates in Python", "duration": null, "description": "TUF: Secure Software Updates in Python\n\nPresented by Geremy Condra\n\nFrom an attacker's point of view there are few entry points with as much to\noffer as a vulnerable software updater, yet history tells us that such\nvulnerabilities are common. In this talk we'll demonstrate a number of\nattacks, explain how common approaches fail to defend against them, and\ndemonstrate a pure Python library (TUF) that provides both robust protection\nand extreme ease of use.\n\nAbstract\n\nVulnerabilities in software update systems expose users to huge range of\npotential security risks, including:\n\n  * Freeze attacks, \n  * Mix-and-match attacks, \n  * Rollback attacks, and \n  * Endless data attacks \n\nIn the first part of this talk, we'll demonstrate each of these against real-\nworld software updaters and explain how commonly used countermeasures fail in\napplication. We'll then move on to the second part of the talk, demonstrating\nTUF, its internals, and the mechanisms it uses to additionally defend against\nkey compromise. Finally, we'll demonstrate how easy it is to integrate TUF\ninto your application and its lifecycle.\n\n", "state": 1, "category": "PyCon US 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/412_tuf-secure-software-updates-in-python.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-03-11", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 147096471, "updated": "2014-04-08T20:28:28.053", "id": 412, "related_urls": [], "slug": "pycon-2011--tuf--secure-software-updates-in-pytho", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Geremy Condra"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2011",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "TUF: Secure Software Updates in Python\n\nPresented by Geremy Condra\n\nFrom an attacker's point of view there are few entry points with as much to\noffer as a vulnerable software updater, yet history tells us that such\nvulnerabilities are common. In this talk we'll demonstrate a number of\nattacks, explain how common approaches fail to defend against them, and\ndemonstrate a pure Python library (TUF) that provides both robust protection\nand extreme ease of use.\n\nAbstract\n\nVulnerabilities in software update systems expose users to huge range of\npotential security risks, including:\n\n  * Freeze attacks, \n  * Mix-and-match attacks, \n  * Rollback attacks, and \n  * Endless data attacks \n\nIn the first part of this talk, we'll demonstrate each of these against real-\nworld software updaters and explain how commonly used countermeasures fail in\napplication. We'll then move on to the second part of the talk, demonstrating\nTUF, its internals, and the mechanisms it uses to additionally defend against\nkey compromise. Finally, we'll demonstrate how easy it is to integrate TUF\ninto your application and its lifecycle.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 412,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-03-11",
+    "related_urls": [],
+    "slug": "pycon-2011--tuf--secure-software-updates-in-pytho",
+    "source_url": "",
+    "speakers": [
+        "Geremy Condra"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "pycon",
+        "pycon2011",
+        "security",
+        "tuf",
+        "updates"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011TUFSecureSoftwareUpdatesInPython643-944.jpg",
+    "title": "TUF: Secure Software Updates in Python",
+    "updated": "2014-04-08T20:28:28.053",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/412_tuf-secure-software-updates-in-python.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 147096471,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

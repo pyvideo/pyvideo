@@ -1,1 +1,42 @@
-{"tags": ["community", "pycon", "pycon2010", "teaching"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010ThinkGloballyHackLocallyTeachingPythonInYourC847.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Think Globally, Hack Locally - Teaching Python in Your Community (#122)", "duration": null, "description": "Think Globally, Hack Locally - Teaching Python in Your Community\n\n  \nPresented by Leigh Honeywell (HackLab.TO)\n\n  \nFor over a year, HackLabTO ([http://hacklab.to](http://hacklab.to/)), a\nhackerspace in Toronto, has been the home of an informal Python class / hack\nnight every Thursday evening. Our participants represent a diverse cross-\nsection of the lab's community, and include everyone from complete beginners\nwho hadn't written code since BASIC in high school, to seasoned veterans. Come\nhear about our successes and failures, and learn how to start such an event in\nyour local community.\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/323_think-globally-hack-locally-teaching-python-in-your-community-122.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/323_think-globally-hack-locally-teaching-python-in-your-community-122.ogv", "video_ogv_length": 165040205, "updated": "2014-04-08T20:28:28.220", "id": 323, "related_urls": [], "slug": "pycon-2010--think-globally--hack-locally---teachi", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Leigh Honeywell"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Think Globally, Hack Locally - Teaching Python in Your Community\n\n  \nPresented by Leigh Honeywell (HackLab.TO)\n\n  \nFor over a year, HackLabTO ([http://hacklab.to](http://hacklab.to/)), a\nhackerspace in Toronto, has been the home of an informal Python class / hack\nnight every Thursday evening. Our participants represent a diverse cross-\nsection of the lab's community, and include everyone from complete beginners\nwho hadn't written code since BASIC in high school, to seasoned veterans. Come\nhear about our successes and failures, and learn how to start such an event in\nyour local community.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 323,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--think-globally--hack-locally---teachi",
+    "source_url": "",
+    "speakers": [
+        "Leigh Honeywell"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "community",
+        "pycon",
+        "pycon2010",
+        "teaching"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010ThinkGloballyHackLocallyTeachingPythonInYourC847.png",
+    "title": "Think Globally, Hack Locally - Teaching Python in Your Community (#122)",
+    "updated": "2014-04-08T20:28:28.220",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/323_think-globally-hack-locally-teaching-python-in-your-community-122.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 165040205,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/323_think-globally-hack-locally-teaching-python-in-your-community-122.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

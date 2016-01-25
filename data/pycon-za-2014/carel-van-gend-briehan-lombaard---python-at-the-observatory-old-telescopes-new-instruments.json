@@ -1,1 +1,40 @@
-{"tags": ["pyconza", "pyconza2014"], "thumbnail_url": "http://archive.org/download/pyconza2014-python-at-the-observatory/pyconza2014-python-at-the-observatory.thumbs/15%20Python%20at%20the%20Observatory%20-_002130.jpg", "embed": "", "added": "2015-08-22T21:43:27.834", "whiteboard": "ia scrape", "video_flv_length": null, "title": "Python at the Observatory - Old telescopes, new instruments", "duration": null, "description": "Astronomy in South Africa has a long and illustrious history. In addition to the premier, 10-m Southern Africa Large Telescope (SALT) , there are a number of small- and medium-sized telescopes hosted at the South African Astronomical Observatory that still produce a great deal of valuable data. We'd like to show how we're using new instruments and the nimbleness of Python to bring seventy-year-old telescopes into the 21st century.\nOur long-term goal is to have the telescopes and associated instruments be remotely operable, easy to use, and robust enough that valuable data is reliably captured and stored. In addition, we want to make it as easy as possible to update and improve the software which controls the instruments.\nWe have developed a distributed framework to control the instruments. Drivers for individual components may be written in whichever language is most suitable (we've used C, C++ and Python where appropriate). These drivers communicate over a TCP/IP socket with a Python controller process, and on top of that is a Python/Flask driven web interface.\nWe plan to adapt the framework to new instruments (such as a wide-field camera for the 1.9- and 1-m telescopes), under-development instruments (such as an upgrade to the Cassegrain spectrograph on the 1.9-m telescope), and retrofit to older instruments as feasible.\nAs a demonstration of the new framework, we will present our work of migrating the control software for the Sutherland High-speed Optical Camera (SHOC) from being a disparate collection of proprietary, Windows-based software, to a unified, open, web accessible system. SHOC is a high-speed, accurately-timed, imaging instrument that can be mounted on the 1.9-, 1-, and 0.75-m telescopes in Sutherland, control of which includes that for a camera, a global positioning system (GPS), and a filter wheel.", "state": 1, "category": "PyCon ZA 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://archive.org/download/pyconza2014-python-at-the-observatory/15%20Python%20at%20the%20Observatory%20-.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-03", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://archive.org/details/pyconza2014-python-at-the-observatory", "video_webm_url": "", "summary": "We'd like to show how we're using new instruments and the nimbleness of Python to bring seventy-year-old telescopes into the 21st century.\nOur long-term goal is to have the telescopes and associated instruments be remotely operable, easy to use, and robust enough that valuable data is reliably captured and stored.", "video_ogv_url": "http://archive.org/download/pyconza2014-python-at-the-observatory/15%20Python%20at%20the%20Observatory%20-.ogv", "video_ogv_length": null, "updated": "2015-08-22T21:43:27.834", "id": 3838, "related_urls": [], "slug": "python-at-the-observatory-old-telescopes-new-i", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Carel van Gend; Briehan Lombaard"]}
+{
+    "added": "2015-08-22T21:43:27.834",
+    "category": "PyCon ZA 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "Astronomy in South Africa has a long and illustrious history. In addition to the premier, 10-m Southern Africa Large Telescope (SALT) , there are a number of small- and medium-sized telescopes hosted at the South African Astronomical Observatory that still produce a great deal of valuable data. We'd like to show how we're using new instruments and the nimbleness of Python to bring seventy-year-old telescopes into the 21st century.\nOur long-term goal is to have the telescopes and associated instruments be remotely operable, easy to use, and robust enough that valuable data is reliably captured and stored. In addition, we want to make it as easy as possible to update and improve the software which controls the instruments.\nWe have developed a distributed framework to control the instruments. Drivers for individual components may be written in whichever language is most suitable (we've used C, C++ and Python where appropriate). These drivers communicate over a TCP/IP socket with a Python controller process, and on top of that is a Python/Flask driven web interface.\nWe plan to adapt the framework to new instruments (such as a wide-field camera for the 1.9- and 1-m telescopes), under-development instruments (such as an upgrade to the Cassegrain spectrograph on the 1.9-m telescope), and retrofit to older instruments as feasible.\nAs a demonstration of the new framework, we will present our work of migrating the control software for the Sutherland High-speed Optical Camera (SHOC) from being a disparate collection of proprietary, Windows-based software, to a unified, open, web accessible system. SHOC is a high-speed, accurately-timed, imaging instrument that can be mounted on the 1.9-, 1-, and 0.75-m telescopes in Sutherland, control of which includes that for a camera, a global positioning system (GPS), and a filter wheel.",
+    "duration": null,
+    "embed": "",
+    "id": 3838,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-03",
+    "related_urls": [],
+    "slug": "python-at-the-observatory-old-telescopes-new-i",
+    "source_url": "http://archive.org/details/pyconza2014-python-at-the-observatory",
+    "speakers": [
+        "Carel van Gend; Briehan Lombaard"
+    ],
+    "state": 1,
+    "summary": "We'd like to show how we're using new instruments and the nimbleness of Python to bring seventy-year-old telescopes into the 21st century.\nOur long-term goal is to have the telescopes and associated instruments be remotely operable, easy to use, and robust enough that valuable data is reliably captured and stored.",
+    "tags": [
+        "pyconza",
+        "pyconza2014"
+    ],
+    "thumbnail_url": "http://archive.org/download/pyconza2014-python-at-the-observatory/pyconza2014-python-at-the-observatory.thumbs/15%20Python%20at%20the%20Observatory%20-_002130.jpg",
+    "title": "Python at the Observatory - Old telescopes, new instruments",
+    "updated": "2015-08-22T21:43:27.834",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://archive.org/download/pyconza2014-python-at-the-observatory/15%20Python%20at%20the%20Observatory%20-.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://archive.org/download/pyconza2014-python-at-the-observatory/15%20Python%20at%20the%20Observatory%20-.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "ia scrape"
+}

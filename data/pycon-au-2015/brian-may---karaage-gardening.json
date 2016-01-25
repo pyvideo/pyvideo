@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/9yiiwcntx5M/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/9yiiwcntx5M\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-11-23T19:30:05.189", "whiteboard": "needs editing", "video_flv_length": null, "title": "Karaage Gardening", "duration": null, "description": "Karaage is an open source Python/Django application for managing users and projects on HPC clusters. It is being used in production in a number of sites across Australia. This talk will discuss turning a messy legacy software base into a modern software platform that is much a cleaner mess (\"gardening\"). I will also talk about some of the lessons learnt along the way, including things that went well, and things that could have been handled better.", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-04", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=9yiiwcntx5M", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-11-23T19:30:05.189", "id": 4040, "related_urls": [], "slug": "karaage-gardening", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Brian May"]}
+{
+    "added": "2015-11-23T19:30:05.189",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Karaage is an open source Python/Django application for managing users and projects on HPC clusters. It is being used in production in a number of sites across Australia. This talk will discuss turning a messy legacy software base into a modern software platform that is much a cleaner mess (\"gardening\"). I will also talk about some of the lessons learnt along the way, including things that went well, and things that could have been handled better.",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/9yiiwcntx5M\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 4040,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-04",
+    "related_urls": [],
+    "slug": "karaage-gardening",
+    "source_url": "https://www.youtube.com/watch?v=9yiiwcntx5M",
+    "speakers": [
+        "Brian May"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/9yiiwcntx5M/hqdefault.jpg",
+    "title": "Karaage Gardening",
+    "updated": "2015-11-23T19:30:05.189",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

@@ -1,1 +1,39 @@
-{"tags": ["General"], "thumbnail_url": "http://i1.ytimg.com/vi/8d8d_3-8ae4/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/8d8d_3-8ae4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/8d8d_3-8ae4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-31T16:34:31", "whiteboard": "", "video_flv_length": null, "title": "Self-driving Lego Mindstorms Robot", "duration": null, "description": "In this talk, I'll describe the workings of my personal hobby project - a\nself-driving lego mindstorms robot! The body of the robot is built with Lego\nMindstorms. An Android smartphone is used to capture the view in front of the\nrobot. A user first teaches the robot how to drive; this is done by making the\nrobot go around the track a small number of times. The image data, along with\nthe user action is used to train a Neural Network. At run-time, images of what\nis in front of the robot are fed into the neural network and the appropriate\ndriving action is selected. This project showcases the power of python's\nlibraries, as they enabled me to put together a sophisticated working system\nin a very short amount of time. Specifically, I made use of the Python Image\nLibrary to downsample images, as well as the PyBrain neural network library.\nThe robot was controlled using the nxt-python library. A high-level\ndescription + videos are available here: [http://slowping.com/2012/self-\ndriving-lego-mindstorms-robot/](http://slowping.com/2012/self-driving-lego-\nmindstorms-robot/)\n\n", "state": 1, "category": "SciPy 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Selfdriving_Lego_Mindstorms_Robot.mp4?Signature=PpTlQqIOsIzppARCWX1sRa3JXPE%3D&Expires=1346380091&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-18", "copyright_text": "CC BY-SA", "source_url": "http://youtube.com/watch?v=8d8d_3-8ae4", "video_webm_url": "", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.160", "id": 1195, "related_urls": [], "slug": "self-driving-lego-mindstorms-robot", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Iqbal Mohomed"]}
+{
+    "added": "2012-08-31T16:34:31",
+    "category": "SciPy 2012",
+    "copyright_text": "CC BY-SA",
+    "description": "In this talk, I'll describe the workings of my personal hobby project - a\nself-driving lego mindstorms robot! The body of the robot is built with Lego\nMindstorms. An Android smartphone is used to capture the view in front of the\nrobot. A user first teaches the robot how to drive; this is done by making the\nrobot go around the track a small number of times. The image data, along with\nthe user action is used to train a Neural Network. At run-time, images of what\nis in front of the robot are fed into the neural network and the appropriate\ndriving action is selected. This project showcases the power of python's\nlibraries, as they enabled me to put together a sophisticated working system\nin a very short amount of time. Specifically, I made use of the Python Image\nLibrary to downsample images, as well as the PyBrain neural network library.\nThe robot was controlled using the nxt-python library. A high-level\ndescription + videos are available here: [http://slowping.com/2012/self-\ndriving-lego-mindstorms-robot/](http://slowping.com/2012/self-driving-lego-\nmindstorms-robot/)\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/8d8d_3-8ae4?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/8d8d_3-8ae4?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1195,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-07-18",
+    "related_urls": [],
+    "slug": "self-driving-lego-mindstorms-robot",
+    "source_url": "http://youtube.com/watch?v=8d8d_3-8ae4",
+    "speakers": [
+        "Iqbal Mohomed"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "General"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/8d8d_3-8ae4/hqdefault.jpg",
+    "title": "Self-driving Lego Mindstorms Robot",
+    "updated": "2014-04-08T20:28:27.160",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Selfdriving_Lego_Mindstorms_Robot.mp4?Signature=PpTlQqIOsIzppARCWX1sRa3JXPE%3D&Expires=1346380091&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

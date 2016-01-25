@@ -1,1 +1,40 @@
-{"tags": ["tdd", "testing"], "thumbnail_url": "http://i.ytimg.com/vi/XXHknWKuG2U/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/XXHknWKuG2U?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/XXHknWKuG2U?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-19T11:09:27", "whiteboard": "", "video_flv_length": null, "title": "Behaviour Driven Development", "duration": null, "description": "", "state": 1, "category": "PyCon AU 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-08-22", "copyright_text": "Creative Commons Attribution license", "source_url": "http://www.youtube.com/watch?v=XXHknWKuG2U", "video_webm_url": "", "summary": "Writing software in an organisation or for ourselves, many people feel that\nthey \"should\" somehow be doing Test Driven Development (TDD) because\n\"everybody else\" is and it's cool, somewhere between necessary and useful and\nthey heard testing was good. When informed that must of TDD isn't about\ntesting (despite the name!), confusion reigns. Behaviour Driven Development is\na different way of approaching the \"how to validate your code\" problem.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.668", "id": 1004, "related_urls": [], "slug": "behaviour-driven-development", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Malcolm Tredinnick"]}
+{
+    "added": "2012-08-19T11:09:27",
+    "category": "PyCon AU 2011",
+    "copyright_text": "Creative Commons Attribution license",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/XXHknWKuG2U?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/XXHknWKuG2U?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1004,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-08-22",
+    "related_urls": [],
+    "slug": "behaviour-driven-development",
+    "source_url": "http://www.youtube.com/watch?v=XXHknWKuG2U",
+    "speakers": [
+        "Malcolm Tredinnick"
+    ],
+    "state": 1,
+    "summary": "Writing software in an organisation or for ourselves, many people feel that\nthey \"should\" somehow be doing Test Driven Development (TDD) because\n\"everybody else\" is and it's cool, somewhere between necessary and useful and\nthey heard testing was good. When informed that must of TDD isn't about\ntesting (despite the name!), confusion reigns. Behaviour Driven Development is\na different way of approaching the \"how to validate your code\" problem.\n\n",
+    "tags": [
+        "tdd",
+        "testing"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/XXHknWKuG2U/hqdefault.jpg",
+    "title": "Behaviour Driven Development",
+    "updated": "2014-04-08T20:28:27.668",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

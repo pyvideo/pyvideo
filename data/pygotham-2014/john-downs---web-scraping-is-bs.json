@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/9K8OGLlaLBo/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/9K8OGLlaLBo' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2014-10-26T18:22:34.608", "whiteboard": "", "video_flv_length": null, "title": "Web Scraping is BS", "duration": null, "description": "Learn to read unstructured data from web pages and put them into a useful format", "state": 1, "category": "PyGotham 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-09-17", "copyright_text": "youtube", "source_url": "https://www.youtube.com/watch?v=9K8OGLlaLBo", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-10-26T18:22:34.608", "id": 3290, "related_urls": [], "slug": "web-scraping-is-bs", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["John Downs"]}
+{
+    "added": "2014-10-26T18:22:34.608",
+    "category": "PyGotham 2014",
+    "copyright_text": "youtube",
+    "description": "Learn to read unstructured data from web pages and put them into a useful format",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/9K8OGLlaLBo' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3290,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-09-17",
+    "related_urls": [],
+    "slug": "web-scraping-is-bs",
+    "source_url": "https://www.youtube.com/watch?v=9K8OGLlaLBo",
+    "speakers": [
+        "John Downs"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/9K8OGLlaLBo/hqdefault.jpg",
+    "title": "Web Scraping is BS",
+    "updated": "2014-10-26T18:22:34.608",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

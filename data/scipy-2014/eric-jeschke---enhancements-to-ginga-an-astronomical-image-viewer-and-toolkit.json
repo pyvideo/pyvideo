@@ -1,1 +1,39 @@
-{"tags": ["astronomy"], "thumbnail_url": "http://i1.ytimg.com/vi/wa_0SuVckGQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/wa_0SuVckGQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/wa_0SuVckGQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-15T22:45:37.832", "whiteboard": "", "video_flv_length": null, "title": "Enhancements to Ginga: an Astronomical Image Viewer and Toolkit", "duration": null, "description": "Ginga is an open-source astronomical image viewer and toolkit written in python and [hosted on Github](https://github.com/ejeschke/ginga).  It uses and inter-operates with several key scientific python packages: numpy, scipy, astropy and matplotlib.\r\n\r\nIn this talk/poster we describe and illustrate recent enhancements to the package since the introductory talk at SciPy 2013, including:\r\n\r\n\r\n* modular/pluggable interfaces for world coordinate systems, image file I/O and star and image catalogs\r\n* support for rendering into matplotlib figures\r\n* support for image mosaicing\r\n* support for image overlays\r\n* customizable user-interface bindings\r\n* improved documentation\r\n* self contained Mac OS X packages\r\n\r\nDuring the talk we will demonstrate the mosaicing plugin that is being used with several instruments at Subaru Telescope in Hawaii, including the new Hyper Suprime-Cam wide-field camera with 116 separate 4Kx2K CCDs.\r\n\r\nThe talk/poster may be of interest to anyone developing code in python needing to display scientific image (CCD or CMOS) data and astronomers interested in python-based quick look and analysis tools.\r\n", "state": 1, "category": "SciPy 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-14", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=wa_0SuVckGQ", "video_webm_url": "", "summary": "We describe recent developments in the Ginga package, a open-source astronomical image viewer and toolkit written in python and hosted on Github.  The package was introduced to the scientific python community at SciPy 2013 and has received a number of enhancements since then based on user feedback.  The talk includes an image mosaicing demo of a wide-field camera exposure with 116 4Kx2K CCDs.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-07-15T22:59:53.756", "id": 2777, "related_urls": [], "slug": "enhancements-to-ginga-an-astronomical-image-view", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Eric Jeschke"]}
+{
+    "added": "2014-07-15T22:45:37.832",
+    "category": "SciPy 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "Ginga is an open-source astronomical image viewer and toolkit written in python and [hosted on Github](https://github.com/ejeschke/ginga).  It uses and inter-operates with several key scientific python packages: numpy, scipy, astropy and matplotlib.\r\n\r\nIn this talk/poster we describe and illustrate recent enhancements to the package since the introductory talk at SciPy 2013, including:\r\n\r\n\r\n* modular/pluggable interfaces for world coordinate systems, image file I/O and star and image catalogs\r\n* support for rendering into matplotlib figures\r\n* support for image mosaicing\r\n* support for image overlays\r\n* customizable user-interface bindings\r\n* improved documentation\r\n* self contained Mac OS X packages\r\n\r\nDuring the talk we will demonstrate the mosaicing plugin that is being used with several instruments at Subaru Telescope in Hawaii, including the new Hyper Suprime-Cam wide-field camera with 116 separate 4Kx2K CCDs.\r\n\r\nThe talk/poster may be of interest to anyone developing code in python needing to display scientific image (CCD or CMOS) data and astronomers interested in python-based quick look and analysis tools.\r\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/wa_0SuVckGQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/wa_0SuVckGQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2777,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-14",
+    "related_urls": [],
+    "slug": "enhancements-to-ginga-an-astronomical-image-view",
+    "source_url": "http://www.youtube.com/watch?v=wa_0SuVckGQ",
+    "speakers": [
+        "Eric Jeschke"
+    ],
+    "state": 1,
+    "summary": "We describe recent developments in the Ginga package, a open-source astronomical image viewer and toolkit written in python and hosted on Github.  The package was introduced to the scientific python community at SciPy 2013 and has received a number of enhancements since then based on user feedback.  The talk includes an image mosaicing demo of a wide-field camera exposure with 116 4Kx2K CCDs.",
+    "tags": [
+        "astronomy"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/wa_0SuVckGQ/hqdefault.jpg",
+    "title": "Enhancements to Ginga: an Astronomical Image Viewer and Toolkit",
+    "updated": "2014-07-15T22:59:53.756",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

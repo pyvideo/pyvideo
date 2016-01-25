@@ -1,1 +1,37 @@
-{"tags": ["conference"], "thumbnail_url": "http://i.ytimg.com/vi/B7MD6-nSfrU/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/B7MD6-nSfrU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/B7MD6-nSfrU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-19T11:09:21", "whiteboard": "needs to be broken down", "video_flv_length": null, "title": "Lightning talks: Sunday and Conference Close", "duration": null, "description": "", "state": 1, "category": "PyCon AU 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-08-23", "copyright_text": "Creative Commons Attribution license", "source_url": "http://www.youtube.com/watch?v=B7MD6-nSfrU", "video_webm_url": "", "summary": "Lightning talks Sunday.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.663", "id": 977, "related_urls": [], "slug": "lightning-talks-sunday-and-conference-close", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2012-08-19T11:09:21",
+    "category": "PyCon AU 2011",
+    "copyright_text": "Creative Commons Attribution license",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/B7MD6-nSfrU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/B7MD6-nSfrU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 977,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-08-23",
+    "related_urls": [],
+    "slug": "lightning-talks-sunday-and-conference-close",
+    "source_url": "http://www.youtube.com/watch?v=B7MD6-nSfrU",
+    "speakers": [],
+    "state": 1,
+    "summary": "Lightning talks Sunday.\n\n",
+    "tags": [
+        "conference"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/B7MD6-nSfrU/hqdefault.jpg",
+    "title": "Lightning talks: Sunday and Conference Close",
+    "updated": "2014-04-08T20:28:27.663",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs to be broken down"
+}

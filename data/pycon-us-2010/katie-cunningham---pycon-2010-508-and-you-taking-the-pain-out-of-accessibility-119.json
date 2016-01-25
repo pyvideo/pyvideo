@@ -1,1 +1,41 @@
-{"tags": ["accessibility", "pycon", "pycon2010"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010508AndYouTakingThePainOutOfAccessibility119246.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Pycon 2010: 508 and You: Taking the Pain out of Accessibility (#119)", "duration": null, "description": "508 and You: Taking the Pain out of Accessibility\n\n  \nPresented by Katie A Cunningham (NASA/Indyne)\n\n  \nThinking about scoring a government contract, but haven't heard of 508\ncompliance yet? Interested in making your site accessible to people with\ndisabilities? Never thought about compliance, but want to know why it's a good\nidea?\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": "", "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/312_pycon-2010-508-and-you-taking-the-pain-out-of-accessibility-119.ogv", "video_ogv_length": 187217226, "updated": "2014-04-08T20:28:28.170", "id": 312, "related_urls": [], "slug": "pycon-2010--508-and-you--taking-the-pain-out-of-a", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Katie Cunningham"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "508 and You: Taking the Pain out of Accessibility\n\n  \nPresented by Katie A Cunningham (NASA/Indyne)\n\n  \nThinking about scoring a government contract, but haven't heard of 508\ncompliance yet? Interested in making your site accessible to people with\ndisabilities? Never thought about compliance, but want to know why it's a good\nidea?\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 312,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--508-and-you--taking-the-pain-out-of-a",
+    "source_url": "",
+    "speakers": [
+        "Katie Cunningham"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "accessibility",
+        "pycon",
+        "pycon2010"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010508AndYouTakingThePainOutOfAccessibility119246.png",
+    "title": "Pycon 2010: 508 and You: Taking the Pain out of Accessibility (#119)",
+    "updated": "2014-04-08T20:28:28.170",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 187217226,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/312_pycon-2010-508-and-you-taking-the-pain-out-of-accessibility-119.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

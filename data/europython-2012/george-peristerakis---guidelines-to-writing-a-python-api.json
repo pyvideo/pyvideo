@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/Skdz5tTAHK0/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Skdz5tTAHK0?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Skdz5tTAHK0?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-09-06T22:33:12", "whiteboard": "", "video_flv_length": null, "title": "Guidelines to writing a Python API", "duration": null, "description": "The talk will address the design and implementation of APIs using Python. The\ngoal is show how Python can help design clean and consist API from the\nengineering point of view. The talk will be divided into 3 parts. 1. The\nmotivation behind writing a API. 2. Show design patterns that help design the\nfoundations of an API 3. Show an example of building an API (e-commerce\nmodule)\n\n", "state": 1, "category": "EuroPython 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-06", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=Skdz5tTAHK0", "video_webm_url": null, "summary": "[EuroPython 2012] George Peristerakis - 5 JULY 2012 in \"Track Lasagne\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.202", "id": 1276, "related_urls": [], "slug": "guidelines-to-writing-a-python-api", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": null, "video_ogv_download_only": false, "speakers": ["George Peristerakis"]}
+{
+    "added": "2012-09-06T22:33:12",
+    "category": "EuroPython 2012",
+    "copyright_text": "Standard YouTube License",
+    "description": "The talk will address the design and implementation of APIs using Python. The\ngoal is show how Python can help design clean and consist API from the\nengineering point of view. The talk will be divided into 3 parts. 1. The\nmotivation behind writing a API. 2. Show design patterns that help design the\nfoundations of an API 3. Show an example of building an API (e-commerce\nmodule)\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Skdz5tTAHK0?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Skdz5tTAHK0?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1276,
+    "language": null,
+    "quality_notes": "",
+    "recorded": "2012-07-06",
+    "related_urls": [],
+    "slug": "guidelines-to-writing-a-python-api",
+    "source_url": "http://www.youtube.com/watch?v=Skdz5tTAHK0",
+    "speakers": [
+        "George Peristerakis"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2012] George Peristerakis - 5 JULY 2012 in \"Track Lasagne\"\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/Skdz5tTAHK0/hqdefault.jpg",
+    "title": "Guidelines to writing a Python API",
+    "updated": "2014-04-08T20:28:27.202",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

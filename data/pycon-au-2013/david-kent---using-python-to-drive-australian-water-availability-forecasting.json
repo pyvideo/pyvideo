@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/Gr9MPKTLXpY/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Gr9MPKTLXpY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Gr9MPKTLXpY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-13T01:04:36", "whiteboard": "", "video_flv_length": null, "title": "Using Python to drive Australian water availability forecasting", "duration": 30, "description": "", "state": 1, "category": "PyCon AU 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvpyconau2013/Using_Python_to_drive_Australi.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-07", "copyright_text": "CC-BY-SA", "source_url": "https://www.youtube.com/watch?v=Gr9MPKTLXpY", "video_webm_url": null, "summary": "With Andrew MacDonald and Daehyok Shin\r\n\r\nThe Australian Bureau of Meteorology provides water availability forecasts to the public and to key stakeholders at different time-scales across the nation. A number of the systems driving these forecasts make extensive use of Python. Python is used throughout the forecasting process - from data ingestion and management, to hydrological modelling and data analysis through to graphical product generation. A wide variety of packages are used heavily. These include NumPy, SciPy, Matplotlib, PyTables and Pandas. Such a suite of scientific computing packages for Python enables us to complete the development of fully automated systems quickly even with limited resources.\r\n\r\nThis presentation will give an overview of the systems used by the Bureau in the generation of water availability forecasts and highlight the wide variety of tasks and processes enabled by Python. In particular, we will introduce the Hydrologic Reference Stations (HRS) toolkit and the Water Availability Forecasts for Australian Rivers (WAFARi) system. The HRS toolkit analyses time-series of streamflow data and produces a huge number of products describing mean state, trends and variability in that data, which are released at http://bom.gov.au/water/hrs. WAFARi is used to generate probabilistic seasonal streamflow forecasts along with a suite of graphical products for each of those forecasts. The system is being used to update streamflow forecasts available at http://bom/gov.au/water/ssf every month.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.271", "id": 2236, "related_urls": [], "slug": "using-python-to-drive-australian-water-availabili", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["David Kent"]}
+{
+    "added": "2013-07-13T01:04:36",
+    "category": "PyCon AU 2013",
+    "copyright_text": "CC-BY-SA",
+    "description": "",
+    "duration": 30,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Gr9MPKTLXpY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Gr9MPKTLXpY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2236,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-07",
+    "related_urls": [],
+    "slug": "using-python-to-drive-australian-water-availabili",
+    "source_url": "https://www.youtube.com/watch?v=Gr9MPKTLXpY",
+    "speakers": [
+        "David Kent"
+    ],
+    "state": 1,
+    "summary": "With Andrew MacDonald and Daehyok Shin\r\n\r\nThe Australian Bureau of Meteorology provides water availability forecasts to the public and to key stakeholders at different time-scales across the nation. A number of the systems driving these forecasts make extensive use of Python. Python is used throughout the forecasting process - from data ingestion and management, to hydrological modelling and data analysis through to graphical product generation. A wide variety of packages are used heavily. These include NumPy, SciPy, Matplotlib, PyTables and Pandas. Such a suite of scientific computing packages for Python enables us to complete the development of fully automated systems quickly even with limited resources.\r\n\r\nThis presentation will give an overview of the systems used by the Bureau in the generation of water availability forecasts and highlight the wide variety of tasks and processes enabled by Python. In particular, we will introduce the Hydrologic Reference Stations (HRS) toolkit and the Water Availability Forecasts for Australian Rivers (WAFARi) system. The HRS toolkit analyses time-series of streamflow data and produces a huge number of products describing mean state, trends and variability in that data, which are released at http://bom.gov.au/water/hrs. WAFARi is used to generate probabilistic seasonal streamflow forecasts along with a suite of graphical products for each of those forecasts. The system is being used to update streamflow forecasts available at http://bom/gov.au/water/ssf every month.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/Gr9MPKTLXpY/hqdefault.jpg",
+    "title": "Using Python to drive Australian water availability forecasting",
+    "updated": "2014-04-08T20:28:26.271",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvpyconau2013/Using_Python_to_drive_Australi.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

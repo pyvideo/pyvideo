@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/9B0JBnFj7cg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/9B0JBnFj7cg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/9B0JBnFj7cg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:34", "whiteboard": "needs editing", "video_flv_length": null, "title": "Optimizing Geographic Processing and Analysis for Big Data; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-01", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=9B0JBnFj7cg", "video_webm_url": null, "summary": "Authors: Brittain, Carissa, GeoDecisions; Gleason, Jason, GeoDecisions\n\nTrack: GIS - Geospatial Data Analysis\n\nConsidering performance becomes more and more important as the size of datasets increase. Many factors, some outside a developer's control, can seriously impact performance; sometimes to the point that a processing script or database becomes unusable. The example discussed here is an arcpy geoprocessing script that required more than 26 hrs to process and load 24 hrs of wind velocity data from across the United States. Changing the script to apply basic optimization strategies reduced that processing time to under an hour. Benchmark tests and database inspection while applying each strategy showed the results of each change and allowed for calculating each change's impact on the final performance. Understanding and applying even basic optimization methods can have a large return on effort when working with large datasets and can have a significant impact on processing time.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.422", "id": 1986, "related_urls": [], "slug": "optimizing-geographic-processing-and-analysis-for-", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:34",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/9B0JBnFj7cg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/9B0JBnFj7cg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1986,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-01",
+    "related_urls": [],
+    "slug": "optimizing-geographic-processing-and-analysis-for-",
+    "source_url": "http://www.youtube.com/watch?v=9B0JBnFj7cg",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Brittain, Carissa, GeoDecisions; Gleason, Jason, GeoDecisions\n\nTrack: GIS - Geospatial Data Analysis\n\nConsidering performance becomes more and more important as the size of datasets increase. Many factors, some outside a developer's control, can seriously impact performance; sometimes to the point that a processing script or database becomes unusable. The example discussed here is an arcpy geoprocessing script that required more than 26 hrs to process and load 24 hrs of wind velocity data from across the United States. Changing the script to apply basic optimization strategies reduced that processing time to under an hour. Benchmark tests and database inspection while applying each strategy showed the results of each change and allowed for calculating each change's impact on the final performance. Understanding and applying even basic optimization methods can have a large return on effort when working with large datasets and can have a significant impact on processing time.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/9B0JBnFj7cg/hqdefault.jpg",
+    "title": "Optimizing Geographic Processing and Analysis for Big Data; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.422",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

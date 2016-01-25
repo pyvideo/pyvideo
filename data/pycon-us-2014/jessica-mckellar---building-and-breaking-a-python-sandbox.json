@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/sL_syMmRkoU/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/sL_syMmRkoU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/sL_syMmRkoU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-04-12T21:29:53.213", "whiteboard": "", "video_flv_length": null, "title": "Building and breaking a Python sandbox", "duration": null, "description": "", "state": 1, "category": "PyCon US 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-04-12", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=sL_syMmRkoU", "video_webm_url": null, "summary": "What does it take to make a Python sandbox that can run untrusted code? Learn some surprising language features and experience security challenges first-hand as we work through building a Python sandbox from scratch. You'll leave this talk with renewed appreciation for the dynamic nature of Python, some sneaky language tricks, and a solid background in classes of sandboxing security issues.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-12T21:29:53.213", "id": 2585, "related_urls": [], "slug": "building-and-breaking-a-python-sandbox", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Jessica McKellar"]}
+{
+    "added": "2014-04-12T21:29:53.213",
+    "category": "PyCon US 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/sL_syMmRkoU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/sL_syMmRkoU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2585,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-04-12",
+    "related_urls": [],
+    "slug": "building-and-breaking-a-python-sandbox",
+    "source_url": "http://www.youtube.com/watch?v=sL_syMmRkoU",
+    "speakers": [
+        "Jessica McKellar"
+    ],
+    "state": 1,
+    "summary": "What does it take to make a Python sandbox that can run untrusted code? Learn some surprising language features and experience security challenges first-hand as we work through building a Python sandbox from scratch. You'll leave this talk with renewed appreciation for the dynamic nature of Python, some sneaky language tricks, and a solid background in classes of sandboxing security issues.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/sL_syMmRkoU/hqdefault.jpg",
+    "title": "Building and breaking a Python sandbox",
+    "updated": "2014-04-12T21:29:53.213",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

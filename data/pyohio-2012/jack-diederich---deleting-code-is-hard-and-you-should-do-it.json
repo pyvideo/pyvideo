@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i2.ytimg.com/vi/Ajln82vwycs/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Ajln82vwycs?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Ajln82vwycs?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-10-01T13:14:29", "whiteboard": "", "video_flv_length": null, "title": "Deleting Code Is Hard And You Should Do It", "duration": null, "description": "", "state": 1, "category": "PyOhio 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Deleting_Code_Is_Hard_And_You_Should_Do_It.mp4?Signature=6OV5naqLAOPAS62DXVd1hA6%2FHD0%3D&Expires=1346595913&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-29", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=Ajln82vwycs", "video_webm_url": "", "summary": "Adding code is easy. Everyone gets their start by cut-n-pasting some else's\ncode. But every line of code you don't need is a burden. Delete that s++t.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.057", "id": 1378, "related_urls": [], "slug": "deleting-code-is-hard-and-you-should-do-it", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Jack Diederich"]}
+{
+    "added": "2012-10-01T13:14:29",
+    "category": "PyOhio 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Ajln82vwycs?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Ajln82vwycs?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1378,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-07-29",
+    "related_urls": [],
+    "slug": "deleting-code-is-hard-and-you-should-do-it",
+    "source_url": "https://www.youtube.com/watch?v=Ajln82vwycs",
+    "speakers": [
+        "Jack Diederich"
+    ],
+    "state": 1,
+    "summary": "Adding code is easy. Everyone gets their start by cut-n-pasting some else's\ncode. But every line of code you don't need is a burden. Delete that s++t.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i2.ytimg.com/vi/Ajln82vwycs/hqdefault.jpg",
+    "title": "Deleting Code Is Hard And You Should Do It",
+    "updated": "2014-04-08T20:28:27.057",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Deleting_Code_Is_Hard_And_You_Should_Do_It.mp4?Signature=6OV5naqLAOPAS62DXVd1hA6%2FHD0%3D&Expires=1346595913&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/1q7FBxy1Rds/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/1q7FBxy1Rds?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/1q7FBxy1Rds?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-08-14T15:33:10.570", "whiteboard": "needs editing", "video_flv_length": null, "title": "Graphs, Networks and Python:  The Power of Interconnection by Lachlan Blackhall", "duration": null, "description": "Graph and network structures are everywhere and can be found in social, biological and technological networks that impact us on a daily basis. Understanding, and exploiting, graphical structures creates opportunities for obtaining new analytic insights, implementing new computational paradigms, and better defining the relationship between objects of any sort.\r\n\r\nPython provides access to these graph and network structures using the fantastic NetworkX library (http://networkx.github.io/) .  In this presentation we will give an introduction to the NetworkX library, showing how easy it is to build and exploit simple graphical and network structures.\r\n\r\nFrom that starting point we will then discuss a number of more complicated, real world examples of how the NetworkX library can be used to:\r\n - Analyse social networks to extract valuable information about people / entities within those networks.\r\n - Implement reconfigurable processing pipelines (something we refer to as computational graphs) for data capture, processing and analytics.\r\n - Easily track the relationship between Python objects in a variety of other interesting and useful scenarios.\r\n\r\nThis presentation will be targeted at intermediate developers and no prior experience with graphs, networks or NetworkX is required. This presentation will offer an easy introduction to the world of networks and graphs in Python and will illustrate real world uses of this powerful and useful paradigm.", "state": 1, "category": "PyCon AU 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-08-09", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=1q7FBxy1Rds", "video_webm_url": "", "summary": "", "video_ogv_url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/29-out.ogv", "video_ogv_length": null, "updated": "2014-08-14T19:04:19.532", "id": 3132, "related_urls": [], "slug": "graphs-networks-and-python-the-power-of-interc", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Lachlan Blackhall"]}
+{
+    "added": "2014-08-14T15:33:10.570",
+    "category": "PyCon AU 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "Graph and network structures are everywhere and can be found in social, biological and technological networks that impact us on a daily basis. Understanding, and exploiting, graphical structures creates opportunities for obtaining new analytic insights, implementing new computational paradigms, and better defining the relationship between objects of any sort.\r\n\r\nPython provides access to these graph and network structures using the fantastic NetworkX library (http://networkx.github.io/) .  In this presentation we will give an introduction to the NetworkX library, showing how easy it is to build and exploit simple graphical and network structures.\r\n\r\nFrom that starting point we will then discuss a number of more complicated, real world examples of how the NetworkX library can be used to:\r\n - Analyse social networks to extract valuable information about people / entities within those networks.\r\n - Implement reconfigurable processing pipelines (something we refer to as computational graphs) for data capture, processing and analytics.\r\n - Easily track the relationship between Python objects in a variety of other interesting and useful scenarios.\r\n\r\nThis presentation will be targeted at intermediate developers and no prior experience with graphs, networks or NetworkX is required. This presentation will offer an easy introduction to the world of networks and graphs in Python and will illustrate real world uses of this powerful and useful paradigm.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/1q7FBxy1Rds?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/1q7FBxy1Rds?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3132,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-08-09",
+    "related_urls": [],
+    "slug": "graphs-networks-and-python-the-power-of-interc",
+    "source_url": "http://www.youtube.com/watch?v=1q7FBxy1Rds",
+    "speakers": [
+        "Lachlan Blackhall"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/1q7FBxy1Rds/hqdefault.jpg",
+    "title": "Graphs, Networks and Python:  The Power of Interconnection by Lachlan Blackhall",
+    "updated": "2014-08-14T19:04:19.532",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/29-out.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing"
+}

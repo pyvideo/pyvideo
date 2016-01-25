@@ -1,1 +1,42 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/d65TtqGp-9Q/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/d65TtqGp-9Q?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/d65TtqGp-9Q?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:34.191", "whiteboard": "", "video_flv_length": null, "title": "Marconi - OpenStack Queuing and Notification Service", "duration": null, "description": "Similar to other message bus frameworks, Marconi's main goals are: performance, availability, durability, fault-tolerance and scalability.\r\nBesides providing support for queuing and notification services through OpenStack, Marconi aims to ease the design of distributed systems and allow for asynchronous work distribution without creating yet another message broker.\r\nThis talk aims to give the audience a broad look at Marconi\u2019s architecture, design, technologies used, development process, and discuss the issues it adresses.", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-22", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=d65TtqGp-9Q", "video_webm_url": "", "summary": "Marconi is a multi-tenant cloud queuing system written in Python as part of the OpenStack project. \r\nMarconi aims to ease the design of distributed systems and allow for asynchronous work distribution without creating yet another message broker. This talk is a broad look at Marconi's design and the technologies used.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-02T11:24:17.060", "id": 3030, "related_urls": [{"url": "https://wiki.openstack.org/wiki/Marconi", "description": ""}], "slug": "marconi-openstack-queuing-and-notification-serv", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Yeela Kaplan"]}
+{
+    "added": "2014-07-31T00:46:34.191",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "Similar to other message bus frameworks, Marconi's main goals are: performance, availability, durability, fault-tolerance and scalability.\r\nBesides providing support for queuing and notification services through OpenStack, Marconi aims to ease the design of distributed systems and allow for asynchronous work distribution without creating yet another message broker.\r\nThis talk aims to give the audience a broad look at Marconi\u2019s architecture, design, technologies used, development process, and discuss the issues it adresses.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/d65TtqGp-9Q?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/d65TtqGp-9Q?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3030,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-22",
+    "related_urls": [
+        {
+            "description": "",
+            "url": "https://wiki.openstack.org/wiki/Marconi"
+        }
+    ],
+    "slug": "marconi-openstack-queuing-and-notification-serv",
+    "source_url": "http://www.youtube.com/watch?v=d65TtqGp-9Q",
+    "speakers": [
+        "Yeela Kaplan"
+    ],
+    "state": 1,
+    "summary": "Marconi is a multi-tenant cloud queuing system written in Python as part of the OpenStack project. \r\nMarconi aims to ease the design of distributed systems and allow for asynchronous work distribution without creating yet another message broker. This talk is a broad look at Marconi's design and the technologies used.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/d65TtqGp-9Q/hqdefault.jpg",
+    "title": "Marconi - OpenStack Queuing and Notification Service",
+    "updated": "2014-08-02T11:24:17.060",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

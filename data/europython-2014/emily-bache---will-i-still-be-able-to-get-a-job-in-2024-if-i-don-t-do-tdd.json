@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/loWnONmVtpM/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/loWnONmVtpM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/loWnONmVtpM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:35.594", "whiteboard": "", "video_flv_length": null, "title": "Will I still be able to get a job in 2024 if I don't do TDD", "duration": null, "description": "TDD hasn't yet been embraced by everyone,\r\nbut is it just a matter of time? Ten years from now, will a non-TDD\r\npracticing developer experience the horror of being labelled a\r\ntechnology adoption 'laggard', and be left working exclusively on\r\ndreadfully boring legacy systems?\r\n\r\nIt could be a smart move to get down to your nearest Coding Dojo and\r\npractice TDD on some Code Katas. On the other hand, the thing with\r\ndisruptive technologies is that even they can become disrupted when\r\nsomething better comes along. What about Property-Based Testing?\r\nApproval Testing? Outside-In Development?\r\n\r\nIn this talk, I'd like to look at the chasm-crossing potential of TDD\r\nand some related technologies. My aim is that both you and I will still\r\nbe able to get a good job in 2024.", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-22", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=loWnONmVtpM", "video_webm_url": "", "summary": "Geoffrey Moores's book \"Crossing the chasm\" outlines the difficulties\r\nfaced by a new, disruptive technology, when adoption moves from\r\ninnovators and visionaries into the mainstream. Test Driven Development\r\nis clearly a disruptive technology, that changes the way you approach\r\nsoftware design and testing.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-02T11:52:00.953", "id": 3043, "related_urls": [], "slug": "will-i-still-be-able-to-get-a-job-in-2024-if-i-do", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Emily Bache"]}
+{
+    "added": "2014-07-31T00:46:35.594",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "TDD hasn't yet been embraced by everyone,\r\nbut is it just a matter of time? Ten years from now, will a non-TDD\r\npracticing developer experience the horror of being labelled a\r\ntechnology adoption 'laggard', and be left working exclusively on\r\ndreadfully boring legacy systems?\r\n\r\nIt could be a smart move to get down to your nearest Coding Dojo and\r\npractice TDD on some Code Katas. On the other hand, the thing with\r\ndisruptive technologies is that even they can become disrupted when\r\nsomething better comes along. What about Property-Based Testing?\r\nApproval Testing? Outside-In Development?\r\n\r\nIn this talk, I'd like to look at the chasm-crossing potential of TDD\r\nand some related technologies. My aim is that both you and I will still\r\nbe able to get a good job in 2024.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/loWnONmVtpM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/loWnONmVtpM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3043,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-22",
+    "related_urls": [],
+    "slug": "will-i-still-be-able-to-get-a-job-in-2024-if-i-do",
+    "source_url": "http://www.youtube.com/watch?v=loWnONmVtpM",
+    "speakers": [
+        "Emily Bache"
+    ],
+    "state": 1,
+    "summary": "Geoffrey Moores's book \"Crossing the chasm\" outlines the difficulties\r\nfaced by a new, disruptive technology, when adoption moves from\r\ninnovators and visionaries into the mainstream. Test Driven Development\r\nis clearly a disruptive technology, that changes the way you approach\r\nsoftware design and testing.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/loWnONmVtpM/hqdefault.jpg",
+    "title": "Will I still be able to get a job in 2024 if I don't do TDD",
+    "updated": "2014-08-02T11:52:00.953",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

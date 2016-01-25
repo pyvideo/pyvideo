@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/NOGXdKbB-gQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/NOGXdKbB-gQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/NOGXdKbB-gQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-08-06T18:53:21.622", "whiteboard": "", "video_flv_length": null, "title": "Extract Transform Load using mETL", "duration": null, "description": "mETL is an ETL package written in Python which was developed to load elective data for Central European University. Program can be used in a more general way, it can be used to load practically any kind of data to any target. Code is open source and available for anyone who want to use it. The main advantage to configurable via Yaml files and You have the possibility to write any transformation in Python and You can use it natively from any framework as well. We are using this tool in production for many of our clients and It is really stable and reliable. The project has a few contributors all around the world right now and I hope many developer will join soon. I really want to show you how you can use it in your daily work. In this tutorial We will see the most common situations: - Installation - Write simple Yaml configration files to load CSV, JSON, XML into MySQL or PostgreSQL Database, or convert CSV to JSON, etc. - Add tranformations on your fields - Filter records based on condition - Walk through a directory to feed the tool - How the mapping works - Generate Yaml configurations automatically from data source - Migrate a database to another database", "state": 1, "category": "PyData Berlin 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://video.ep14.c3voc.de/20253.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-26", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=NOGXdKbB-gQ", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-06T19:39:45.995", "id": 3082, "related_urls": [], "slug": "extract-transform-load-using-metl", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Bence Faludi"]}
+{
+    "added": "2014-08-06T18:53:21.622",
+    "category": "PyData Berlin 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "mETL is an ETL package written in Python which was developed to load elective data for Central European University. Program can be used in a more general way, it can be used to load practically any kind of data to any target. Code is open source and available for anyone who want to use it. The main advantage to configurable via Yaml files and You have the possibility to write any transformation in Python and You can use it natively from any framework as well. We are using this tool in production for many of our clients and It is really stable and reliable. The project has a few contributors all around the world right now and I hope many developer will join soon. I really want to show you how you can use it in your daily work. In this tutorial We will see the most common situations: - Installation - Write simple Yaml configration files to load CSV, JSON, XML into MySQL or PostgreSQL Database, or convert CSV to JSON, etc. - Add tranformations on your fields - Filter records based on condition - Walk through a directory to feed the tool - How the mapping works - Generate Yaml configurations automatically from data source - Migrate a database to another database",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/NOGXdKbB-gQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/NOGXdKbB-gQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3082,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-26",
+    "related_urls": [],
+    "slug": "extract-transform-load-using-metl",
+    "source_url": "http://www.youtube.com/watch?v=NOGXdKbB-gQ",
+    "speakers": [
+        "Bence Faludi"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/NOGXdKbB-gQ/hqdefault.jpg",
+    "title": "Extract Transform Load using mETL",
+    "updated": "2014-08-06T19:39:45.995",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://video.ep14.c3voc.de/20253.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

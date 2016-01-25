@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i3.ytimg.com/vi/VWe5dosKL6g/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/VWe5dosKL6g?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/VWe5dosKL6g?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-14T09:09:17", "whiteboard": "", "video_flv_length": null, "title": "Distributed, Real-time Web Apps with Stack.io", "duration": null, "description": "", "state": 1, "category": "PyCon CA 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Distributed_Realtime_Web_Apps_with_Stackio.mp4?Signature=npRM9Vpzuy2OAvDt3MVCVV7LjtY%3D&Expires=1352842110&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-11-11", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=VWe5dosKL6g", "video_webm_url": "", "summary": "Stack.io[1] is an open-source tool to quickly build real-time web apps. By\ndirectly linking clients to back-end services via WebSockets, Stack.io helps\ndecompose complex code into a set of simple components in Python or Node.js.\nIt augments standard RPC with bi-directional streaming, and provides a layer\nof auth and service discovery on top.\n\n[1]:\n[https://github.com/dotcloud/stack.io](https://github.com/dotcloud/stack.io)\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.813", "id": 1571, "related_urls": [], "slug": "distributed-real-time-web-apps-with-stackio", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Gabriel Grant"]}
+{
+    "added": "2012-11-14T09:09:17",
+    "category": "PyCon CA 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/VWe5dosKL6g?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/VWe5dosKL6g?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1571,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-11-11",
+    "related_urls": [],
+    "slug": "distributed-real-time-web-apps-with-stackio",
+    "source_url": "https://www.youtube.com/watch?v=VWe5dosKL6g",
+    "speakers": [
+        "Gabriel Grant"
+    ],
+    "state": 1,
+    "summary": "Stack.io[1] is an open-source tool to quickly build real-time web apps. By\ndirectly linking clients to back-end services via WebSockets, Stack.io helps\ndecompose complex code into a set of simple components in Python or Node.js.\nIt augments standard RPC with bi-directional streaming, and provides a layer\nof auth and service discovery on top.\n\n[1]:\n[https://github.com/dotcloud/stack.io](https://github.com/dotcloud/stack.io)\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i3.ytimg.com/vi/VWe5dosKL6g/hqdefault.jpg",
+    "title": "Distributed, Real-time Web Apps with Stack.io",
+    "updated": "2014-04-08T20:28:26.813",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Distributed_Realtime_Web_Apps_with_Stackio.mp4?Signature=npRM9Vpzuy2OAvDt3MVCVV7LjtY%3D&Expires=1352842110&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/OjCz8yTloUI/hqdefault.jpg", "embed": "", "added": "2015-07-05T19:09:52.847", "whiteboard": "", "video_flv_length": null, "title": "Snakes, Ponies and Balloons: Stories of Teaching Django to Thousands of Women", "duration": 1566, "description": "Django Girls is a workshop for total beginners into the world of web building. Started by two Polish girls in Berlin and now organized all over the world in 45 cities, Django Girls aim to inspire women to fell in love with programming. Ola will share with you how she went from not knowing anything about teaching programming or feminism, to knowing a little bit more thanks to thousands of people who participated in the workshop formula Django Girls created. You'll learn the secrets of explaining the Internet, servers or Django ORM to people who never done this before. And how to find 100+ women who want to learn to code just about anywhere. This talk is your introduction to the world of getting girls excited about snakes, ponies and balloons.", "state": 1, "category": "Django Birthday", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-07-11", "copyright_text": "", "source_url": "http://youtu.be/OjCz8yTloUI", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-07-12T10:26:45.311", "id": 3666, "related_urls": [], "slug": "snakes-ponies-and-balloons-stories-of-teaching", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Ola Sitarska"]}
+{
+    "added": "2015-07-05T19:09:52.847",
+    "category": "Django Birthday",
+    "copyright_text": "",
+    "description": "Django Girls is a workshop for total beginners into the world of web building. Started by two Polish girls in Berlin and now organized all over the world in 45 cities, Django Girls aim to inspire women to fell in love with programming. Ola will share with you how she went from not knowing anything about teaching programming or feminism, to knowing a little bit more thanks to thousands of people who participated in the workshop formula Django Girls created. You'll learn the secrets of explaining the Internet, servers or Django ORM to people who never done this before. And how to find 100+ women who want to learn to code just about anywhere. This talk is your introduction to the world of getting girls excited about snakes, ponies and balloons.",
+    "duration": 1566,
+    "embed": "",
+    "id": 3666,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-07-11",
+    "related_urls": [],
+    "slug": "snakes-ponies-and-balloons-stories-of-teaching",
+    "source_url": "http://youtu.be/OjCz8yTloUI",
+    "speakers": [
+        "Ola Sitarska"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/OjCz8yTloUI/hqdefault.jpg",
+    "title": "Snakes, Ponies and Balloons: Stories of Teaching Django to Thousands of Women",
+    "updated": "2015-07-12T10:26:45.311",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

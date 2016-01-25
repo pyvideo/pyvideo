@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://img.youtube.com/vi/hvPYuqzTPIk/hqdefault.jpg", "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/hvPYuqzTPIk?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/hvPYuqzTPIk?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", "added": "2012-03-12T20:00:10", "whiteboard": "", "video_flv_length": null, "title": "Fake It Til You Make It: Unit Testing Patterns With Mocks and Fakes", "duration": null, "description": "", "state": 1, "category": "PyCon US 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-03-09", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=hvPYuqzTPIk", "video_webm_url": null, "summary": "In this talk, aimed at intermediate Pythonistas, we'll have a look at some\ncommon, simple patterns in code, and the testing patterns that go with them.\nWe'll also discover what makes some code more testable than others, and how\nmocks and fakes can help isolate the code to be tested (and why you want to do\nthat). Finally, we'll touch on some tools to help make writing and running\ntests easier.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.582", "id": 646, "related_urls": [], "slug": "fake-it-til-you-make-it-unit-testing-patterns-wi", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Brian K. Jones"]}
+{
+    "added": "2012-03-12T20:00:10",
+    "category": "PyCon US 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/hvPYuqzTPIk?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/hvPYuqzTPIk?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>",
+    "id": 646,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-03-09",
+    "related_urls": [],
+    "slug": "fake-it-til-you-make-it-unit-testing-patterns-wi",
+    "source_url": "https://www.youtube.com/watch?v=hvPYuqzTPIk",
+    "speakers": [
+        "Brian K. Jones"
+    ],
+    "state": 1,
+    "summary": "In this talk, aimed at intermediate Pythonistas, we'll have a look at some\ncommon, simple patterns in code, and the testing patterns that go with them.\nWe'll also discover what makes some code more testable than others, and how\nmocks and fakes can help isolate the code to be tested (and why you want to do\nthat). Finally, we'll touch on some tools to help make writing and running\ntests easier.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://img.youtube.com/vi/hvPYuqzTPIk/hqdefault.jpg",
+    "title": "Fake It Til You Make It: Unit Testing Patterns With Mocks and Fakes",
+    "updated": "2014-04-08T20:28:27.582",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

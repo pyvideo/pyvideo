@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/BkaIUvM5GXo/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/BkaIUvM5GXo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/BkaIUvM5GXo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:31.069", "whiteboard": "", "video_flv_length": null, "title": "Performance Python for Numerical Algorithms", "duration": null, "description": "This talk is about several approaches to implement high performing numerical algorithms and applications in Python. It introduces into approaches like multi-threading, parallelization (CPU/GPU), dynamic compiling, high throughput IO operations.\r\n\r\nThe approach is a practical one in that every approach is illustrated by specific Python examples.\r\n\r\nThe talk uses, among others, the following libraries:\r\n\r\n* NumPy\r\n* numexpr\r\n* IPython.Parallel\r\n* Numba\r\n* NumbaPro\r\n* PyTables", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-23", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=BkaIUvM5GXo", "video_webm_url": "", "summary": "This talk is about several approaches to implement high performing numerical algorithms and applications in Python. It introduces into approaches like vectorization, multi-threading, parallelization (CPU/GPU), dynamic compiling, high throughput IO operations. The approach is a practical one in that every approach is illustrated by specific Python examples.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-01T08:09:11.995", "id": 3001, "related_urls": [], "slug": "performance-python-for-numerical-algorithms", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Yves Hilpisch"]}
+{
+    "added": "2014-07-31T00:46:31.069",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "This talk is about several approaches to implement high performing numerical algorithms and applications in Python. It introduces into approaches like multi-threading, parallelization (CPU/GPU), dynamic compiling, high throughput IO operations.\r\n\r\nThe approach is a practical one in that every approach is illustrated by specific Python examples.\r\n\r\nThe talk uses, among others, the following libraries:\r\n\r\n* NumPy\r\n* numexpr\r\n* IPython.Parallel\r\n* Numba\r\n* NumbaPro\r\n* PyTables",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/BkaIUvM5GXo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/BkaIUvM5GXo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3001,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-23",
+    "related_urls": [],
+    "slug": "performance-python-for-numerical-algorithms",
+    "source_url": "http://www.youtube.com/watch?v=BkaIUvM5GXo",
+    "speakers": [
+        "Yves Hilpisch"
+    ],
+    "state": 1,
+    "summary": "This talk is about several approaches to implement high performing numerical algorithms and applications in Python. It introduces into approaches like vectorization, multi-threading, parallelization (CPU/GPU), dynamic compiling, high throughput IO operations. The approach is a practical one in that every approach is illustrated by specific Python examples.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/BkaIUvM5GXo/hqdefault.jpg",
+    "title": "Performance Python for Numerical Algorithms",
+    "updated": "2014-08-01T08:09:11.995",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/kjZHjvrAS74/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/kjZHjvrAS74' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:12.888", "whiteboard": "needs editing", "video_flv_length": null, "title": "Serialization formats are not toys", "duration": null, "description": "It\u2019s not in the OWASP Top 10, but you don\u2019t have to look far to hear stories of security vulnerabilities involving deserialization of user input. In this talk I\u2019ll go over what the threat is and how you might be making yourself vulnerable. I\u2019ll cover the features (not bugs: features) of XML, YAML, and JSON that make them surprisingly dangerous, and how to protect your code from them.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-12", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=kjZHjvrAS74", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:12.888", "id": 3492, "related_urls": [], "slug": "serialization-formats-are-not-toys", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Tom Eastman"]}
+{
+    "added": "2015-04-16T14:22:12.888",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "It\u2019s not in the OWASP Top 10, but you don\u2019t have to look far to hear stories of security vulnerabilities involving deserialization of user input. In this talk I\u2019ll go over what the threat is and how you might be making yourself vulnerable. I\u2019ll cover the features (not bugs: features) of XML, YAML, and JSON that make them surprisingly dangerous, and how to protect your code from them.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/kjZHjvrAS74' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3492,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-12",
+    "related_urls": [],
+    "slug": "serialization-formats-are-not-toys",
+    "source_url": "https://www.youtube.com/watch?v=kjZHjvrAS74",
+    "speakers": [
+        "Tom Eastman"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/kjZHjvrAS74/hqdefault.jpg",
+    "title": "Serialization formats are not toys",
+    "updated": "2015-04-16T14:22:12.888",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

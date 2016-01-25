@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i2.ytimg.com/vi/AFgzYRA_kys/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/AFgzYRA_kys?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/AFgzYRA_kys?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-14T09:03:08", "whiteboard": "", "video_flv_length": null, "title": "Configuration management with ZooKeeper", "duration": null, "description": "", "state": 1, "category": "PyCon CA 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Configuration_management_with_ZooKeeper.mp4?Signature=xxLecx4Tl0lP%2Bm49FstLzNNtCLo%3D&Expires=1352680286&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-11-10", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=AFgzYRA_kys", "video_webm_url": "", "summary": "This talk is about Jones, a robust configuration management interface for\nZookeeper. It will cover what ZooKeeper is, and how it works. I'll talk about\nthe problems of configuration management and how it can be solved using the\nprimitives available in ZooKeeper. If there's time I will go in to additional\nuse cases of ZooKeeper.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.842", "id": 1567, "related_urls": [], "slug": "configuration-management-with-zookeeper", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Matthew Hooker"]}
+{
+    "added": "2012-11-14T09:03:08",
+    "category": "PyCon CA 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/AFgzYRA_kys?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/AFgzYRA_kys?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1567,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-11-10",
+    "related_urls": [],
+    "slug": "configuration-management-with-zookeeper",
+    "source_url": "https://www.youtube.com/watch?v=AFgzYRA_kys",
+    "speakers": [
+        "Matthew Hooker"
+    ],
+    "state": 1,
+    "summary": "This talk is about Jones, a robust configuration management interface for\nZookeeper. It will cover what ZooKeeper is, and how it works. I'll talk about\nthe problems of configuration management and how it can be solved using the\nprimitives available in ZooKeeper. If there's time I will go in to additional\nuse cases of ZooKeeper.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i2.ytimg.com/vi/AFgzYRA_kys/hqdefault.jpg",
+    "title": "Configuration management with ZooKeeper",
+    "updated": "2014-04-08T20:28:26.842",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Configuration_management_with_ZooKeeper.mp4?Signature=xxLecx4Tl0lP%2Bm49FstLzNNtCLo%3D&Expires=1352680286&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

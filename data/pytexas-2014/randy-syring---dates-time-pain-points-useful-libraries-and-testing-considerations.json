@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/GZl-13bbq60/3.jpg", "embed": "", "added": "2014-09-26T00:27:55.128", "whiteboard": "", "video_flv_length": null, "title": "Dates & Time: pain points, useful libraries, and testing considerations", "duration": 1500, "description": "Date & Time handling in Python has it's ups & downs.  In this talk, we will cover:\r\n\r\n* some of the pain points and weaknesses in the Python standard library\r\n* two libraries I have found helpful: dateutils and arrow\r\n* best practices for working with timezones\r\n* best practices for testing code that deals with dates and time", "state": 1, "category": "PyTexas 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-04", "copyright_text": "CC-BY", "source_url": "http://youtu.be/GZl-13bbq60", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-11-19T16:48:41.852", "id": 3161, "related_urls": [], "slug": "dates-time-pain-points-useful-libraries-and", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Randy Syring"]}
+{
+    "added": "2014-09-26T00:27:55.128",
+    "category": "PyTexas 2014",
+    "copyright_text": "CC-BY",
+    "description": "Date & Time handling in Python has it's ups & downs.  In this talk, we will cover:\r\n\r\n* some of the pain points and weaknesses in the Python standard library\r\n* two libraries I have found helpful: dateutils and arrow\r\n* best practices for working with timezones\r\n* best practices for testing code that deals with dates and time",
+    "duration": 1500,
+    "embed": "",
+    "id": 3161,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-04",
+    "related_urls": [],
+    "slug": "dates-time-pain-points-useful-libraries-and",
+    "source_url": "http://youtu.be/GZl-13bbq60",
+    "speakers": [
+        "Randy Syring"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/GZl-13bbq60/3.jpg",
+    "title": "Dates & Time: pain points, useful libraries, and testing considerations",
+    "updated": "2014-11-19T16:48:41.852",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

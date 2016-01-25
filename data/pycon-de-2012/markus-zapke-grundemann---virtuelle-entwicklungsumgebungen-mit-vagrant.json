@@ -1,1 +1,41 @@
-{"tags": [" vagrant", "virtual box", " virtuelle maschinen"], "thumbnail_url": "http://i2.ytimg.com/vi/uvhoW5M4fK8/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/uvhoW5M4fK8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/uvhoW5M4fK8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-02T06:16:05", "whiteboard": "", "video_flv_length": null, "title": "Virtuelle Entwicklungsumgebungen mit Vagrant", "duration": null, "description": "", "state": 1, "category": "PyCon DE 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Virtuelle_Entwicklungs.mp4?Signature=FWi08bDPAMbAjNRfLnk7LOVVG%2BY%3D&Expires=1352070837&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-10-31", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=uvhoW5M4fK8", "video_webm_url": "", "summary": "Oft ben\u00f6tigt man f\u00fcr verschiedene Projekte ganz unterschiedliche Bibliotheken,\nDienste und Werkzeuge. Alle Abh\u00e4ngigkeiten auf einer Maschine zu installieren\nkann schnell anstrengend bis unm\u00f6glich werden. Hier kommt Vagrant ins Spiel:\nMit Hilfe von Vagrant kann man einfach und schnell Virtuelle Maschinen als\nEntwicklungsumgebungen erstellen, konfigurieren und benutzen.\n\nDurch die Nutzung von (vorhandenen) Provisioning Tools wie Chef oder Puppet\nkann man vorhandene Konfigurationen von Produktiv-System zum Setup der\nVirtuellen Maschinen nutzen. Au\u00dferdem lassen sich mit Vagrant auch komplexe\nCluster-Setups auf dem eigenen Rechner aufbauen.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.926", "id": 1446, "related_urls": [], "slug": "virtuelle-entwicklungsumgebungen-mit-vagrant", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "German", "video_ogv_download_only": false, "speakers": ["Markus Zapke-Gr\u00fcndemann"]}
+{
+    "added": "2012-11-02T06:16:05",
+    "category": "PyCon DE 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/uvhoW5M4fK8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/uvhoW5M4fK8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1446,
+    "language": "German",
+    "quality_notes": "",
+    "recorded": "2012-10-31",
+    "related_urls": [],
+    "slug": "virtuelle-entwicklungsumgebungen-mit-vagrant",
+    "source_url": "https://www.youtube.com/watch?v=uvhoW5M4fK8",
+    "speakers": [
+        "Markus Zapke-Gr\u00fcndemann"
+    ],
+    "state": 1,
+    "summary": "Oft ben\u00f6tigt man f\u00fcr verschiedene Projekte ganz unterschiedliche Bibliotheken,\nDienste und Werkzeuge. Alle Abh\u00e4ngigkeiten auf einer Maschine zu installieren\nkann schnell anstrengend bis unm\u00f6glich werden. Hier kommt Vagrant ins Spiel:\nMit Hilfe von Vagrant kann man einfach und schnell Virtuelle Maschinen als\nEntwicklungsumgebungen erstellen, konfigurieren und benutzen.\n\nDurch die Nutzung von (vorhandenen) Provisioning Tools wie Chef oder Puppet\nkann man vorhandene Konfigurationen von Produktiv-System zum Setup der\nVirtuellen Maschinen nutzen. Au\u00dferdem lassen sich mit Vagrant auch komplexe\nCluster-Setups auf dem eigenen Rechner aufbauen.\n\n",
+    "tags": [
+        " vagrant",
+        "virtual box",
+        " virtuelle maschinen"
+    ],
+    "thumbnail_url": "http://i2.ytimg.com/vi/uvhoW5M4fK8/hqdefault.jpg",
+    "title": "Virtuelle Entwicklungsumgebungen mit Vagrant",
+    "updated": "2014-04-08T20:28:26.926",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Virtuelle_Entwicklungs.mp4?Signature=FWi08bDPAMbAjNRfLnk7LOVVG%2BY%3D&Expires=1352070837&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

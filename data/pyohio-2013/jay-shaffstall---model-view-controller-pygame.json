@@ -1,1 +1,39 @@
-{"tags": ["tutorial"], "thumbnail_url": "http://i1.ytimg.com/vi/als46qthn4k/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/als46qthn4k?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/als46qthn4k?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-26T10:12:13", "whiteboard": "", "video_flv_length": null, "title": "Model-View-Controller & Pygame", "duration": 120, "description": "", "state": 1, "category": "PyOhio 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-27", "copyright_text": "CC BY-SA 2.5 CA", "source_url": "https://www.youtube.com/watch?v=als46qthn4k", "video_webm_url": null, "summary": "The presentation starts by introducing the Model-View-Controller (MVC) architecture.  We\u2019ll develop a complete MVC program with two separate views, a text based view and a Pygame based view.   If you\u2019re experienced with Python but new to MVC, come prepared to code!  If you\u2019re new to Python, you can follow along with the concepts and get the source code to the example after the conference.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.228", "id": 2287, "related_urls": [], "slug": "model-view-controller-pygame", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Jay Shaffstall"]}
+{
+    "added": "2013-07-26T10:12:13",
+    "category": "PyOhio 2013",
+    "copyright_text": "CC BY-SA 2.5 CA",
+    "description": "",
+    "duration": 120,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/als46qthn4k?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/als46qthn4k?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2287,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-27",
+    "related_urls": [],
+    "slug": "model-view-controller-pygame",
+    "source_url": "https://www.youtube.com/watch?v=als46qthn4k",
+    "speakers": [
+        "Jay Shaffstall"
+    ],
+    "state": 1,
+    "summary": "The presentation starts by introducing the Model-View-Controller (MVC) architecture.  We\u2019ll develop a complete MVC program with two separate views, a text based view and a Pygame based view.   If you\u2019re experienced with Python but new to MVC, come prepared to code!  If you\u2019re new to Python, you can follow along with the concepts and get the source code to the example after the conference.",
+    "tags": [
+        "tutorial"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/als46qthn4k/hqdefault.jpg",
+    "title": "Model-View-Controller & Pygame",
+    "updated": "2014-04-08T20:28:26.228",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,39 @@
-{"tags": ["climate"], "thumbnail_url": "http://i1.ytimg.com/vi/yqMqTr3LB7o/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/yqMqTr3LB7o?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/yqMqTr3LB7o?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-09T19:24:52.440", "whiteboard": "", "video_flv_length": null, "title": "Python Backends for Climate Science Web Apps", "duration": null, "description": "NIWA has developed two tools dedicated respectively to the reconstruction of the climates of the past and to the rapid and flexible development of climate services connected to a widely used meteorological database. \r\n\r\n**PICT (Past Interpretation of Climate Tool** allows the user, given a climate proxy or set of proxies, to reconstruct likely anomalies associated with specific proxy epochs. The tool implements the concept of climate analogs, and reconstruct paleo-climate anomalies in terms of mean atmospheric circulation and sea-surface-temperatures, as well as in terms of the possible changes in the probabilities of synoptic weather regimes (or 'attractors' in the climate system). The whole backend of this application has been exclusively developed using Python with Numpy, scipy, pandas and matplotlib scientific libraries. We present a brief overview of the underlying science before exposing the choices made in designing the python-based compute and data visualisation layer. \r\n\r\n**Clidesc** is an application layer, running in the browser, built on top of **CLIDE**, an open-source database specialized in handling meteorological data in real-time and facilitating its long-term storage. It has been developed using open standards, and facilitate the rapid development of climate services (data analysis and visualisations developed to increase climate intelligence and early warning systems). Clidesc is currently being deployed in several Pacific Islands National Meteorological services. Services can be developed using either R or Python. Development in Python is based on Anaconda and psycopg2, which provides the interface with the postgresql-based Clide database. We present the context and rationale for using open-standards, and give examples of how a user with minimum python knowledge can use templates to rapidly implement a new service tailored to her needs. ", "state": 1, "category": "SciPy 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-09", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=yqMqTr3LB7o", "video_webm_url": null, "summary": "We present two web applications:  (PICT: Past Interpretation of Climate Tool), a paleo-climates reconstruction tool and CLIDESC, a climate services layer built on top of the Clide database, a database system used widely in the National Meteorological services across the Pacific. Both these tools have been developed at NIWA in New Zealand. ", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-07-09T19:24:52.440", "id": 2722, "related_urls": [], "slug": "python-backends-for-climate-science-web-apps", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Nicolas Fauchereau"]}
+{
+    "added": "2014-07-09T19:24:52.440",
+    "category": "SciPy 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "NIWA has developed two tools dedicated respectively to the reconstruction of the climates of the past and to the rapid and flexible development of climate services connected to a widely used meteorological database. \r\n\r\n**PICT (Past Interpretation of Climate Tool** allows the user, given a climate proxy or set of proxies, to reconstruct likely anomalies associated with specific proxy epochs. The tool implements the concept of climate analogs, and reconstruct paleo-climate anomalies in terms of mean atmospheric circulation and sea-surface-temperatures, as well as in terms of the possible changes in the probabilities of synoptic weather regimes (or 'attractors' in the climate system). The whole backend of this application has been exclusively developed using Python with Numpy, scipy, pandas and matplotlib scientific libraries. We present a brief overview of the underlying science before exposing the choices made in designing the python-based compute and data visualisation layer. \r\n\r\n**Clidesc** is an application layer, running in the browser, built on top of **CLIDE**, an open-source database specialized in handling meteorological data in real-time and facilitating its long-term storage. It has been developed using open standards, and facilitate the rapid development of climate services (data analysis and visualisations developed to increase climate intelligence and early warning systems). Clidesc is currently being deployed in several Pacific Islands National Meteorological services. Services can be developed using either R or Python. Development in Python is based on Anaconda and psycopg2, which provides the interface with the postgresql-based Clide database. We present the context and rationale for using open-standards, and give examples of how a user with minimum python knowledge can use templates to rapidly implement a new service tailored to her needs. ",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/yqMqTr3LB7o?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/yqMqTr3LB7o?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2722,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-09",
+    "related_urls": [],
+    "slug": "python-backends-for-climate-science-web-apps",
+    "source_url": "http://www.youtube.com/watch?v=yqMqTr3LB7o",
+    "speakers": [
+        "Nicolas Fauchereau"
+    ],
+    "state": 1,
+    "summary": "We present two web applications:  (PICT: Past Interpretation of Climate Tool), a paleo-climates reconstruction tool and CLIDESC, a climate services layer built on top of the Clide database, a database system used widely in the National Meteorological services across the Pacific. Both these tools have been developed at NIWA in New Zealand. ",
+    "tags": [
+        "climate"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/yqMqTr3LB7o/hqdefault.jpg",
+    "title": "Python Backends for Climate Science Web Apps",
+    "updated": "2014-07-09T19:24:52.440",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

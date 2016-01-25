@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/COGP71Lgms4/maxresdefault.jpg", "embed": "", "added": "2015-06-14T17:02:23.484", "whiteboard": "", "video_flv_length": null, "title": "Da e Verso Odoo importazione e sincronizzazione dei dati", "duration": 1252, "description": "\u201cDa e Verso Odoo: XML-RPC,  Erppeek e Python\u201d\nimportazione e sincronizzazione dei dati\ncome affrontare le necessit\u00e0 di importazione dei dati a seguito di una prima installazione, la sincronizzazione in ambienti dove sono presenti database da allineare.\n", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-29", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=COGP71Lgms4", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-14T17:02:23.484", "id": 3593, "related_urls": [], "slug": "da-e-verso-odoo-importazione-e-sincronizzazione-d", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "Italian", "video_ogv_download_only": false, "speakers": ["Francesco Apruzzese"]}
+{
+    "added": "2015-06-14T17:02:23.484",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "\u201cDa e Verso Odoo: XML-RPC,  Erppeek e Python\u201d\nimportazione e sincronizzazione dei dati\ncome affrontare le necessit\u00e0 di importazione dei dati a seguito di una prima installazione, la sincronizzazione in ambienti dove sono presenti database da allineare.\n",
+    "duration": 1252,
+    "embed": "",
+    "id": 3593,
+    "language": "Italian",
+    "quality_notes": "",
+    "recorded": "2015-05-29",
+    "related_urls": [],
+    "slug": "da-e-verso-odoo-importazione-e-sincronizzazione-d",
+    "source_url": "https://www.youtube.com/watch?v=COGP71Lgms4",
+    "speakers": [
+        "Francesco Apruzzese"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/COGP71Lgms4/maxresdefault.jpg",
+    "title": "Da e Verso Odoo importazione e sincronizzazione dei dati",
+    "updated": "2015-06-14T17:02:23.484",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

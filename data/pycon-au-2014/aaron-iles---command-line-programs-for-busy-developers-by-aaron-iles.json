@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/D5l4JNt2ozI/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/D5l4JNt2ozI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/D5l4JNt2ozI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-08-14T15:33:10.211", "whiteboard": "needs editing", "video_flv_length": null, "title": "Command line programs for busy developers by Aaron Iles", "duration": null, "description": "Command line interface tools are the new web framework. In addition to the\r\nPython standard library's getopt, optparse and argparse there is a bewildering\r\narray of packages available on the Python Packaging Index. Packages like Click,\r\nCliff, Docopt, Invoke all provide different mechanics for creating command line\r\napplications. When all you want to do is expose a command line and get back to\r\ncreating functionality, it\u2019s hard to know which alternative to reach for.\r\n\r\nThis presentation will have two parts, the first half will be a brief survey\r\nof popular modules. Strengths, weaknesses and design philosophies will be\r\ncompared by creating command line processing for the same example program.\r\n\r\nThe second half will go into more depth on a specific package, Begins. This\r\npackage was authored by the presenter to minimise the disruption developers\r\nexperience when breaking flow to implement command line processing. The\r\naudience will be shown how a single line of code can create a complex command\r\nline interface. It will also be shown how a handful of decorators from the\r\nBegins API can eliminate boilerplate code and create powerful, complex\r\napplications.", "state": 1, "category": "PyCon AU 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-08-07", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=D5l4JNt2ozI", "video_webm_url": "", "summary": "", "video_ogv_url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/57-out.ogv", "video_ogv_length": null, "updated": "2014-08-14T19:13:06.361", "id": 3129, "related_urls": [], "slug": "command-line-programs-for-busy-developers-by-aaro", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Aaron Iles"]}
+{
+    "added": "2014-08-14T15:33:10.211",
+    "category": "PyCon AU 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "Command line interface tools are the new web framework. In addition to the\r\nPython standard library's getopt, optparse and argparse there is a bewildering\r\narray of packages available on the Python Packaging Index. Packages like Click,\r\nCliff, Docopt, Invoke all provide different mechanics for creating command line\r\napplications. When all you want to do is expose a command line and get back to\r\ncreating functionality, it\u2019s hard to know which alternative to reach for.\r\n\r\nThis presentation will have two parts, the first half will be a brief survey\r\nof popular modules. Strengths, weaknesses and design philosophies will be\r\ncompared by creating command line processing for the same example program.\r\n\r\nThe second half will go into more depth on a specific package, Begins. This\r\npackage was authored by the presenter to minimise the disruption developers\r\nexperience when breaking flow to implement command line processing. The\r\naudience will be shown how a single line of code can create a complex command\r\nline interface. It will also be shown how a handful of decorators from the\r\nBegins API can eliminate boilerplate code and create powerful, complex\r\napplications.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/D5l4JNt2ozI?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/D5l4JNt2ozI?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3129,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-08-07",
+    "related_urls": [],
+    "slug": "command-line-programs-for-busy-developers-by-aaro",
+    "source_url": "http://www.youtube.com/watch?v=D5l4JNt2ozI",
+    "speakers": [
+        "Aaron Iles"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/D5l4JNt2ozI/hqdefault.jpg",
+    "title": "Command line programs for busy developers by Aaron Iles",
+    "updated": "2014-08-14T19:13:06.361",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/57-out.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing"
+}

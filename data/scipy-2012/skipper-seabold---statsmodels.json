@@ -1,1 +1,39 @@
-{"tags": ["advanced"], "thumbnail_url": "http://i3.ytimg.com/vi/RWRsxhUzpxk/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/RWRsxhUzpxk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/RWRsxhUzpxk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-31T16:34:42", "whiteboard": "", "video_flv_length": null, "title": "statsmodels", "duration": null, "description": "This tutorial will give users an overview of the capabilities of statsmodels,\nincluding how to conduct exploratory data analysis, fit statistical models,\nand check that the modeling assumptions are met.\n\nThe use of Python in data analysis and statistics is growing rapidly. It is\nnot uncommon now for researchers to conduct data cleaning steps in Python and\nthen move to some other software to estimate statistical models. Statsmodels,\nhowever, is a Python module that attempts to bridge this gap and allow users\nto estimate statistical models, perform statistical tests, and conduct data\nexploration in Python. Researchers across fields such as economics and the\nsocial sciences to finance and engineering may find that statsmodels meets\ntheir needs for statistical computing and data analysis in Python.\n\nAll examples in this tutorial will use real data. Attendees are expected to\nhave some familiarity with statistical methods.\n\nWith this knowledge attendees will be ready to jump in and use Python for\napplied statistical analysis and will have an idea how they can extend\nstatsmodels for their own needs.\n\n", "state": 1, "category": "SciPy 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/statsmodels.mp4?Signature=33EXalpD4sobT5zT3ZjQbB%2FlZO0%3D&Expires=1346381343&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-17", "copyright_text": "CC BY-SA", "source_url": "http://youtube.com/watch?v=RWRsxhUzpxk", "video_webm_url": "", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.171", "id": 1200, "related_urls": [], "slug": "statsmodels", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Skipper Seabold"]}
+{
+    "added": "2012-08-31T16:34:42",
+    "category": "SciPy 2012",
+    "copyright_text": "CC BY-SA",
+    "description": "This tutorial will give users an overview of the capabilities of statsmodels,\nincluding how to conduct exploratory data analysis, fit statistical models,\nand check that the modeling assumptions are met.\n\nThe use of Python in data analysis and statistics is growing rapidly. It is\nnot uncommon now for researchers to conduct data cleaning steps in Python and\nthen move to some other software to estimate statistical models. Statsmodels,\nhowever, is a Python module that attempts to bridge this gap and allow users\nto estimate statistical models, perform statistical tests, and conduct data\nexploration in Python. Researchers across fields such as economics and the\nsocial sciences to finance and engineering may find that statsmodels meets\ntheir needs for statistical computing and data analysis in Python.\n\nAll examples in this tutorial will use real data. Attendees are expected to\nhave some familiarity with statistical methods.\n\nWith this knowledge attendees will be ready to jump in and use Python for\napplied statistical analysis and will have an idea how they can extend\nstatsmodels for their own needs.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/RWRsxhUzpxk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/RWRsxhUzpxk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1200,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-07-17",
+    "related_urls": [],
+    "slug": "statsmodels",
+    "source_url": "http://youtube.com/watch?v=RWRsxhUzpxk",
+    "speakers": [
+        "Skipper Seabold"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "advanced"
+    ],
+    "thumbnail_url": "http://i3.ytimg.com/vi/RWRsxhUzpxk/hqdefault.jpg",
+    "title": "statsmodels",
+    "updated": "2014-04-08T20:28:27.171",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/statsmodels.mp4?Signature=33EXalpD4sobT5zT3ZjQbB%2FlZO0%3D&Expires=1346381343&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/PKAdehPHOMo/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/PKAdehPHOMo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/PKAdehPHOMo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-14T09:11:09", "whiteboard": "", "video_flv_length": null, "title": "The SQLAlchemy Session - In Depth ", "duration": null, "description": "", "state": 1, "category": "PyCon CA 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/The_SQLAlchemy_Session_In_Depth.mp4?Signature=HNxazBjOr4lsTYW6g5DjNvTAM9E%3D&Expires=1352834532&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-11-10", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=PKAdehPHOMo", "video_webm_url": "", "summary": "A detailed walkthrough of SQLAlchemy's Session, describing the rationale for\nits existence, its driving philosophies, and finally a walkthrough of Session\nlifecycle through the use of an animated diagram. We'll cover how the\nrelational database refers to database rows within a transaction, and how the\nSession has over the years developed a tight, proxied integration with this\nlifecycle.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.868", "id": 1600, "related_urls": [], "slug": "the-sqlalchemy-session-in-depth", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Mike Bayer"]}
+{
+    "added": "2012-11-14T09:11:09",
+    "category": "PyCon CA 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/PKAdehPHOMo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/PKAdehPHOMo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1600,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-11-10",
+    "related_urls": [],
+    "slug": "the-sqlalchemy-session-in-depth",
+    "source_url": "https://www.youtube.com/watch?v=PKAdehPHOMo",
+    "speakers": [
+        "Mike Bayer"
+    ],
+    "state": 1,
+    "summary": "A detailed walkthrough of SQLAlchemy's Session, describing the rationale for\nits existence, its driving philosophies, and finally a walkthrough of Session\nlifecycle through the use of an animated diagram. We'll cover how the\nrelational database refers to database rows within a transaction, and how the\nSession has over the years developed a tight, proxied integration with this\nlifecycle.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/PKAdehPHOMo/hqdefault.jpg",
+    "title": "The SQLAlchemy Session - In Depth ",
+    "updated": "2014-04-08T20:28:26.868",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/The_SQLAlchemy_Session_In_Depth.mp4?Signature=HNxazBjOr4lsTYW6g5DjNvTAM9E%3D&Expires=1352834532&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

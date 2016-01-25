@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/pDap8df_O4U/hqdefault.jpg", "embed": "", "added": "2015-08-10T15:47:40.916", "whiteboard": "", "video_flv_length": null, "title": "Mr. CKAN Goes to Washington", "duration": 1697, "description": "Open source projects face different problems at every level of their growth. For projects like CKAN success can be almost as frustrating as obscurity. A python backed open data platform, CKAN is used all over the world to catalogue and distribute public data. The United Nations uses it, the Whitehouse uses it, governments large and small hire developers to customize and fine tune their installations. Why then does so little of that work make it back into CKAN core? This talk explores the problems that mid-size open source projects face getting in-house professional developers to contribute back, and what project maintainers can do to encourage those using their code to share their improvements.", "state": 1, "category": "PyGotham 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3758_Mr_CKAN_Goes_to_Washington.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-16", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/pDap8df_O4U", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-09-14T13:15:09.836", "id": 3758, "related_urls": [], "slug": "mr-ckan-goes-to-washington", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Marianne Bellotti"]}
+{
+    "added": "2015-08-10T15:47:40.916",
+    "category": "PyGotham 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "Open source projects face different problems at every level of their growth. For projects like CKAN success can be almost as frustrating as obscurity. A python backed open data platform, CKAN is used all over the world to catalogue and distribute public data. The United Nations uses it, the Whitehouse uses it, governments large and small hire developers to customize and fine tune their installations. Why then does so little of that work make it back into CKAN core? This talk explores the problems that mid-size open source projects face getting in-house professional developers to contribute back, and what project maintainers can do to encourage those using their code to share their improvements.",
+    "duration": 1697,
+    "embed": "",
+    "id": 3758,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-16",
+    "related_urls": [],
+    "slug": "mr-ckan-goes-to-washington",
+    "source_url": "http://youtu.be/pDap8df_O4U",
+    "speakers": [
+        "Marianne Bellotti"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/pDap8df_O4U/hqdefault.jpg",
+    "title": "Mr. CKAN Goes to Washington",
+    "updated": "2015-09-14T13:15:09.836",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3758_Mr_CKAN_Goes_to_Washington.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

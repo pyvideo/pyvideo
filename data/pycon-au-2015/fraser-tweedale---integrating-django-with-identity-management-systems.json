@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/HhcotmeioT8/hqdefault.jpg", "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/HhcotmeioT8\" frameborder=\"0\" allowfullscreen></iframe>", "added": "2015-11-23T19:30:05.756", "whiteboard": "needs editing", "video_flv_length": null, "title": "Integrating Django with Identity Management Systems", "duration": null, "description": "Most Django developers are familiar with authentication and\r\nauthorisation on the open web, but the requirements and technologies\r\nused inside companies and large organisations are different:\r\n\r\n- Identities and groups are probably stored in an external identity\r\n  management system's directory rather than in an application's\r\n  database tables.\r\n\r\n- Authorisation decisions will be based on group membership and\r\n  policies that are defined outside the application.\r\n\r\n- Users may be expected or required to use a *single sign-on*\r\n  technology such as Kerberos or SAML to authenticate to applications.\r\n\r\nThis talk will familiarise the audience with these technologies\r\nand demonstrate how Django applications can be integrated\r\nwith an identity management system to meet business\r\nrequirements while providing a positive user experience.  Particular\r\ntechnologies covered will include:\r\n\r\n- FreeIPA: an open-source identity management solution, for defining\r\n  users, groups and authorisation policies\r\n\r\n- mod_auth_gssapi / mod_auth_kerb: Apache modules for Kerberos\r\n  authentication\r\n\r\n- mod_lookup_identity: Apache module to retrieve user information\r\n  from a directory\r\n\r\nThe talk will conclude with discussion about upcoming Kerberos\r\nfeatures, techniques for dealing with multiple authentication\r\nmethods, and progress in making identity management integration\r\neasier for Django developers.\r\n\r\nPeople developing or deploying Django applications in business\r\nenvironments or for large open source projects with centralised\r\nidentity management will get the most out of this talk.", "state": 1, "category": "PyCon AU 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-04", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=HhcotmeioT8", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-11-23T19:30:05.756", "id": 4042, "related_urls": [], "slug": "integrating-django-with-identity-management-syste", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Fraser Tweedale"]}
+{
+    "added": "2015-11-23T19:30:05.756",
+    "category": "PyCon AU 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Most Django developers are familiar with authentication and\r\nauthorisation on the open web, but the requirements and technologies\r\nused inside companies and large organisations are different:\r\n\r\n- Identities and groups are probably stored in an external identity\r\n  management system's directory rather than in an application's\r\n  database tables.\r\n\r\n- Authorisation decisions will be based on group membership and\r\n  policies that are defined outside the application.\r\n\r\n- Users may be expected or required to use a *single sign-on*\r\n  technology such as Kerberos or SAML to authenticate to applications.\r\n\r\nThis talk will familiarise the audience with these technologies\r\nand demonstrate how Django applications can be integrated\r\nwith an identity management system to meet business\r\nrequirements while providing a positive user experience.  Particular\r\ntechnologies covered will include:\r\n\r\n- FreeIPA: an open-source identity management solution, for defining\r\n  users, groups and authorisation policies\r\n\r\n- mod_auth_gssapi / mod_auth_kerb: Apache modules for Kerberos\r\n  authentication\r\n\r\n- mod_lookup_identity: Apache module to retrieve user information\r\n  from a directory\r\n\r\nThe talk will conclude with discussion about upcoming Kerberos\r\nfeatures, techniques for dealing with multiple authentication\r\nmethods, and progress in making identity management integration\r\neasier for Django developers.\r\n\r\nPeople developing or deploying Django applications in business\r\nenvironments or for large open source projects with centralised\r\nidentity management will get the most out of this talk.",
+    "duration": null,
+    "embed": "<iframe width=\"640\" height=\"360\" src=\"//www.youtube.com/embed/HhcotmeioT8\" frameborder=\"0\" allowfullscreen></iframe>",
+    "id": 4042,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-04",
+    "related_urls": [],
+    "slug": "integrating-django-with-identity-management-syste",
+    "source_url": "https://www.youtube.com/watch?v=HhcotmeioT8",
+    "speakers": [
+        "Fraser Tweedale"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/HhcotmeioT8/hqdefault.jpg",
+    "title": "Integrating Django with Identity Management Systems",
+    "updated": "2015-11-23T19:30:05.756",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

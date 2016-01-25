@@ -1,1 +1,39 @@
-{"tags": ["Room 215"], "thumbnail_url": "https://i.ytimg.com/vi/3u6ZH4ntp-0/hqdefault.jpg", "embed": "", "added": "2015-09-30T02:46:00.580", "whiteboard": "", "video_flv_length": null, "title": "The Road to Continuous Deployment", "duration": 2334, "description": "How do we get work from a developer's laptop to a production server?\nHow do we do this repeatedly? How do we avoid releasing bad patches? How do we get changes out as fast as possible? And what happens to requests during a deploy? If you want continuous deployment, you have to solve these problems.\n\nHow do you handle configuration, so that the same code can run in multiple environment? From a developers laptop, to QA environments, to production. What about the quirks of each machine in production?\n\nThis talk will look at the path Yola took, with Jenkins, yoconfigurator, yodeploy. It's by no means a complete solution, but it's good enough that I rarely find myself working on it, these days.\n\nWe will cover the pros and cons of each path one can take. The whole platform architecture is really affected by this. We can talk about: Bare hardware, virtualization, containerization, build systems, linux distributions packages, language package ecosystems, configuration management systems, notifications, secret distribution, and much more.", "state": 1, "category": "PyCon ZA 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-10-02", "copyright_text": "", "source_url": "http://youtu.be/3u6ZH4ntp-0", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-03T09:07:27.212", "id": 3935, "related_urls": [], "slug": "the-road-to-continuous-deploys", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Stefano Rivera"]}
+{
+    "added": "2015-09-30T02:46:00.580",
+    "category": "PyCon ZA 2015",
+    "copyright_text": "",
+    "description": "How do we get work from a developer's laptop to a production server?\nHow do we do this repeatedly? How do we avoid releasing bad patches? How do we get changes out as fast as possible? And what happens to requests during a deploy? If you want continuous deployment, you have to solve these problems.\n\nHow do you handle configuration, so that the same code can run in multiple environment? From a developers laptop, to QA environments, to production. What about the quirks of each machine in production?\n\nThis talk will look at the path Yola took, with Jenkins, yoconfigurator, yodeploy. It's by no means a complete solution, but it's good enough that I rarely find myself working on it, these days.\n\nWe will cover the pros and cons of each path one can take. The whole platform architecture is really affected by this. We can talk about: Bare hardware, virtualization, containerization, build systems, linux distributions packages, language package ecosystems, configuration management systems, notifications, secret distribution, and much more.",
+    "duration": 2334,
+    "embed": "",
+    "id": 3935,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-10-02",
+    "related_urls": [],
+    "slug": "the-road-to-continuous-deploys",
+    "source_url": "http://youtu.be/3u6ZH4ntp-0",
+    "speakers": [
+        "Stefano Rivera"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "Room 215"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/3u6ZH4ntp-0/hqdefault.jpg",
+    "title": "The Road to Continuous Deployment",
+    "updated": "2015-10-03T09:07:27.212",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

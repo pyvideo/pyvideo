@@ -1,1 +1,42 @@
-{"tags": ["basic", "djangocon", "djangocon2011", "learning"], "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-TeachingDjangoToComrades893-851.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Teaching Django to Comrades", "duration": null, "description": "Teaching Django to Comrades\n\nPresented by Issac Kelly\n\nInevitably you're going to run into somebody who wants to learn Django, or\nmaybe both Python and Django. This talk will help you make it less painful for\nthem.\n\n", "state": 1, "category": "DjangoCon 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/81_teaching-django-to-comrades.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 73288429, "updated": "2014-04-08T20:28:25.931", "id": 81, "related_urls": [], "slug": "djangocon-2011--teaching-django-to-comrades", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Issac Kelly"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "DjangoCon 2011",
+    "copyright_text": "",
+    "description": "Teaching Django to Comrades\n\nPresented by Issac Kelly\n\nInevitably you're going to run into somebody who wants to learn Django, or\nmaybe both Python and Django. This talk will help you make it less painful for\nthem.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 81,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "djangocon-2011--teaching-django-to-comrades",
+    "source_url": "",
+    "speakers": [
+        "Issac Kelly"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "basic",
+        "djangocon",
+        "djangocon2011",
+        "learning"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-TeachingDjangoToComrades893-851.jpg",
+    "title": "Teaching Django to Comrades",
+    "updated": "2014-04-08T20:28:25.931",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/81_teaching-django-to-comrades.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 73288429,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

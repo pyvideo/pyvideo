@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/L7R4HUQ-eQ0/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/L7R4HUQ-eQ0' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:07.187", "whiteboard": "needs editing", "video_flv_length": null, "title": "Machine Learning with Scikit-Learn (I)", "duration": null, "description": "This tutorial will offer an introduction to the core concepts of machine learning and the Scikit-Learn package. We will introduce the scikit-learn API, and use it to explore the basic categories of machine learning problems and related topics such as feature selection and model validation, and practice applying these tools to real-world data sets.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-09", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=L7R4HUQ-eQ0", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:07.187", "id": 3429, "related_urls": [], "slug": "machine-learning-with-scikit-learn-i", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Jake VanderPlas"]}
+{
+    "added": "2015-04-16T14:22:07.187",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "This tutorial will offer an introduction to the core concepts of machine learning and the Scikit-Learn package. We will introduce the scikit-learn API, and use it to explore the basic categories of machine learning problems and related topics such as feature selection and model validation, and practice applying these tools to real-world data sets.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/L7R4HUQ-eQ0' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3429,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-09",
+    "related_urls": [],
+    "slug": "machine-learning-with-scikit-learn-i",
+    "source_url": "https://www.youtube.com/watch?v=L7R4HUQ-eQ0",
+    "speakers": [
+        "Jake VanderPlas"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/L7R4HUQ-eQ0/hqdefault.jpg",
+    "title": "Machine Learning with Scikit-Learn (I)",
+    "updated": "2015-04-16T14:22:07.187",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

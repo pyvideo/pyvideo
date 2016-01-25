@@ -1,1 +1,39 @@
-{"tags": ["Room 215"], "thumbnail_url": "https://i.ytimg.com/vi/lXhypJUbxVM/hqdefault.jpg", "embed": "", "added": "2015-09-30T02:44:36.400", "whiteboard": "", "video_flv_length": null, "title": "OpenCanary: a new Python-based honeypot", "duration": 2466, "description": "Honeypots: a great idea tempered by over a decade of glorious misapplication resulting in a slow relegation to the realm of academia and slightly dubious research. But it doesn\u2019t have to be that way. In August 2015 we released OpenCanary, the Open Source version of our commercial Python-based honeypot. \r\n\r\nTraditional honeypots aim to reveal attacker tools, techniques and procedures, by entrapping attackers through emulation (or instrumentation) of common protocols and services. They are typically installed standalone, and seldom updated. We argue that this honeypot approach is outdated; current organisations struggle far more with <em>identifying breaches</em> than identifying the version of some generic rootkit installed post-breach. \r\n\r\nOpenCanary changes that, treating the honeypot as an internal distributed sensor rather than a standalone alert generator. Each event reported is a high-quality indicator of investigation-worthy activity, and each OpenCanary instance feeds event data to a correlator which produces single alerts even in the face of network-wide scans. With such a high signal-to-noise ratio, every alert requires investigation. This is in contrast to the stream of alerts produced by tools such as anti-virus, network IDS or traditional honeypots.\r\n\r\nOpenCanary wound up relying on Python for the majority of the code. The Python eco-system provided support that sped up development and, more importantly, deployment. However it didn\u2019t take us the full distance.\r\n\r\nIn this talk, we provide a brief background on honeypots, discuss the design of OpenCanary, delve into the challenges experienced and our plans for the project. Along the way, we\u2019ll demo the trivially installable OpenCanary, configure a few fake services and provide an outsider\u2019s view of developing in Python.", "state": 1, "category": "PyCon ZA 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-10-01", "copyright_text": "", "source_url": "http://youtu.be/lXhypJUbxVM", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-04T10:23:04.984", "id": 3927, "related_urls": [], "slug": "opencanary-a-new-python-based-honeypot", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Azhar Desai"]}
+{
+    "added": "2015-09-30T02:44:36.400",
+    "category": "PyCon ZA 2015",
+    "copyright_text": "",
+    "description": "Honeypots: a great idea tempered by over a decade of glorious misapplication resulting in a slow relegation to the realm of academia and slightly dubious research. But it doesn\u2019t have to be that way. In August 2015 we released OpenCanary, the Open Source version of our commercial Python-based honeypot. \r\n\r\nTraditional honeypots aim to reveal attacker tools, techniques and procedures, by entrapping attackers through emulation (or instrumentation) of common protocols and services. They are typically installed standalone, and seldom updated. We argue that this honeypot approach is outdated; current organisations struggle far more with <em>identifying breaches</em> than identifying the version of some generic rootkit installed post-breach. \r\n\r\nOpenCanary changes that, treating the honeypot as an internal distributed sensor rather than a standalone alert generator. Each event reported is a high-quality indicator of investigation-worthy activity, and each OpenCanary instance feeds event data to a correlator which produces single alerts even in the face of network-wide scans. With such a high signal-to-noise ratio, every alert requires investigation. This is in contrast to the stream of alerts produced by tools such as anti-virus, network IDS or traditional honeypots.\r\n\r\nOpenCanary wound up relying on Python for the majority of the code. The Python eco-system provided support that sped up development and, more importantly, deployment. However it didn\u2019t take us the full distance.\r\n\r\nIn this talk, we provide a brief background on honeypots, discuss the design of OpenCanary, delve into the challenges experienced and our plans for the project. Along the way, we\u2019ll demo the trivially installable OpenCanary, configure a few fake services and provide an outsider\u2019s view of developing in Python.",
+    "duration": 2466,
+    "embed": "",
+    "id": 3927,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-10-01",
+    "related_urls": [],
+    "slug": "opencanary-a-new-python-based-honeypot",
+    "source_url": "http://youtu.be/lXhypJUbxVM",
+    "speakers": [
+        "Azhar Desai"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "Room 215"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/lXhypJUbxVM/hqdefault.jpg",
+    "title": "OpenCanary: a new Python-based honeypot",
+    "updated": "2015-10-04T10:23:04.984",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

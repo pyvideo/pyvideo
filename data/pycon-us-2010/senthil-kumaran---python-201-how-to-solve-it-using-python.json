@@ -1,1 +1,44 @@
-{"tags": ["pycon", "pycon2010", "python-basics", "testing", "tutorial", "xml"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010Python201HowToSolveItUsingPython440-675.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Python 201: How to Solve It Using Python", "duration": null, "description": "Python 201: How to Solve it using Python\n\nPresented by Senthil Kumaran\n\nOne good way to develop applications is to divide the problem into smaller\nmanageable chunks and the build those. Once we identify and define those\nsmaller piece of tasks, our problem becomes incredibly easy.\n\nBut we are still faced with the question of what is the best way to do that\nsmaller task in Python? This tutorial will answer those questions.\n\nIn this tutorial, we will identify the commonly occurring tasks that would fit\ninto to bigger problems and learn how do we solve it using Python.\n\nThe aim of the tutorial is help you develop the correct intuition when\ndeveloping applications using Python.\n\nIntended Audience\n\nBeginning to intermediate Python Programmers. Familiarity with Python's syntax\nand usage is assumed.\n\nThis tutorial will use Python 3.1 examples (with changes from Python 2.6\nexplained, when it is required).\n\nThe source code and the handout will contain the snippets written in both\nPython 2.6 and Python 3.1.\n\nClass Outline\n\n  * Outline of the Tutorial and a Brief Overview of Standard Library. \n  * Lets start with Strings. \n  * Files - We deal with them often. \n  * Date time related tasks. \n  * Dealing with Database stuff. \n  * Process Handling. \n  * Processing XMLs. \n  * Web Programming \n  * Programming tasks. \n  * Unit Testing \n  * How to Convert Python 2 to Python 3. \n\nRequirements\n\nAttendees are welcome to bring their laptops with Python installed ( version\n3.1 and version 2.6 both installed).\n\nSome snippets will be using Twisted Matrix Framework, those who would like to\ntry those recipes, would like to have Twisted Package installed for their\nPython Distribution.\n\n[VIDEO HAS ISSUES: Some missing sections of video due to technical issues\n(approx 3 mins in)]\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/253_python-201-how-to-solve-it-using-python.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/253_python-201-how-to-solve-it-using-python.ogv", "video_ogv_length": 1023524470, "updated": "2014-04-08T20:28:28.180", "id": 253, "related_urls": [], "slug": "pycon-2010--python-201--how-to-solve-it-using-pyt", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Senthil Kumaran"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Python 201: How to Solve it using Python\n\nPresented by Senthil Kumaran\n\nOne good way to develop applications is to divide the problem into smaller\nmanageable chunks and the build those. Once we identify and define those\nsmaller piece of tasks, our problem becomes incredibly easy.\n\nBut we are still faced with the question of what is the best way to do that\nsmaller task in Python? This tutorial will answer those questions.\n\nIn this tutorial, we will identify the commonly occurring tasks that would fit\ninto to bigger problems and learn how do we solve it using Python.\n\nThe aim of the tutorial is help you develop the correct intuition when\ndeveloping applications using Python.\n\nIntended Audience\n\nBeginning to intermediate Python Programmers. Familiarity with Python's syntax\nand usage is assumed.\n\nThis tutorial will use Python 3.1 examples (with changes from Python 2.6\nexplained, when it is required).\n\nThe source code and the handout will contain the snippets written in both\nPython 2.6 and Python 3.1.\n\nClass Outline\n\n  * Outline of the Tutorial and a Brief Overview of Standard Library. \n  * Lets start with Strings. \n  * Files - We deal with them often. \n  * Date time related tasks. \n  * Dealing with Database stuff. \n  * Process Handling. \n  * Processing XMLs. \n  * Web Programming \n  * Programming tasks. \n  * Unit Testing \n  * How to Convert Python 2 to Python 3. \n\nRequirements\n\nAttendees are welcome to bring their laptops with Python installed ( version\n3.1 and version 2.6 both installed).\n\nSome snippets will be using Twisted Matrix Framework, those who would like to\ntry those recipes, would like to have Twisted Package installed for their\nPython Distribution.\n\n[VIDEO HAS ISSUES: Some missing sections of video due to technical issues\n(approx 3 mins in)]\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 253,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--python-201--how-to-solve-it-using-pyt",
+    "source_url": "",
+    "speakers": [
+        "Senthil Kumaran"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "pycon",
+        "pycon2010",
+        "python-basics",
+        "testing",
+        "tutorial",
+        "xml"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010Python201HowToSolveItUsingPython440-675.jpg",
+    "title": "Python 201: How to Solve It Using Python",
+    "updated": "2014-04-08T20:28:28.180",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/253_python-201-how-to-solve-it-using-python.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 1023524470,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/253_python-201-how-to-solve-it-using-python.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

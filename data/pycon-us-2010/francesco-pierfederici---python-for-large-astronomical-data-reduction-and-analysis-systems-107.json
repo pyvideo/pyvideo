@@ -1,1 +1,43 @@
-{"tags": ["astronomy", "casestudy", "concurrency", "pycon", "pycon2010"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010PythonForLargeAstronomicalDataReductionAndAnaly443-396.jpg", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Python for Large Astronomical Data Reduction and Analysis Systems (#107)", "duration": null, "description": "Python for Large Astronomical Data Reduction and Analysis Systems\n\nPresented by Francesco Pierfederici (Harvard-Smithsonian Center for\nAstrophysics)\n\nWe describe how Python is used in a large astronomy project to automatically\nprocess data from several telescopes in both the hemispheres. We introduce the\ngeneral problem and discuss challenges and lessons learned.\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/282_python-for-large-astronomical-data-reduction-and-analysis-systems-107.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/282_python-for-large-astronomical-data-reduction-and-analysis-systems-107.ogv", "video_ogv_length": 140468272, "updated": "2014-04-08T20:28:28.183", "id": 282, "related_urls": [], "slug": "pycon-2010--python-for-large-astronomical-data-re", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Francesco Pierfederici"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Python for Large Astronomical Data Reduction and Analysis Systems\n\nPresented by Francesco Pierfederici (Harvard-Smithsonian Center for\nAstrophysics)\n\nWe describe how Python is used in a large astronomy project to automatically\nprocess data from several telescopes in both the hemispheres. We introduce the\ngeneral problem and discuss challenges and lessons learned.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 282,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--python-for-large-astronomical-data-re",
+    "source_url": "",
+    "speakers": [
+        "Francesco Pierfederici"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "astronomy",
+        "casestudy",
+        "concurrency",
+        "pycon",
+        "pycon2010"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010PythonForLargeAstronomicalDataReductionAndAnaly443-396.jpg",
+    "title": "Python for Large Astronomical Data Reduction and Analysis Systems (#107)",
+    "updated": "2014-04-08T20:28:28.183",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/282_python-for-large-astronomical-data-reduction-and-analysis-systems-107.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 140468272,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/282_python-for-large-astronomical-data-reduction-and-analysis-systems-107.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

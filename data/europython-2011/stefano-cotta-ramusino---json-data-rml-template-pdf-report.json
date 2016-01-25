@@ -1,1 +1,41 @@
-{"tags": ["internationalization", "json", "matplotlib"], "thumbnail_url": "http://i.ytimg.com/vi/9Cq_Zmr0OgM/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/9Cq_Zmr0OgM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/9Cq_Zmr0OgM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:40", "whiteboard": "", "video_flv_length": null, "title": "JSON data + RML template = PDF report", "duration": null, "description": "The main problem with reports generated in Python is how to separate the\ncontent from the style using ReportLab library, because all informations\nshould be saved in a single source file that, by example, is impossible to\nunderstand for your graphic designer.\n\nSo the solution: just modularizes all components you need and identify simple\ncontainer formats for your data input (JSON) and document template (ReportLab\nRML).\n\nNow with the power of Genshi and XInclude we will create dynamic templates\nthat include specific snippets (e.g., to generate on the fly a decent graph\nwith matplotlib or cairoplot to fill some lacks of ReportLab) and we will\ndetach the stylesheet from the template structure.\n\nAnd at the end you can also have the internationalization service in the PDF\nreport generation!\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-13", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=9Cq_Zmr0OgM", "video_webm_url": null, "summary": "[EuroPython 2011] Stefano Cotta Ramusino - 23 June 2011 in \"Track Ravioli\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.840", "id": 1132, "related_urls": [], "slug": "json-data-rml-template-pdf-report-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Stefano Cotta Ramusino"]}
+{
+    "added": "2012-08-30T21:02:40",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "The main problem with reports generated in Python is how to separate the\ncontent from the style using ReportLab library, because all informations\nshould be saved in a single source file that, by example, is impossible to\nunderstand for your graphic designer.\n\nSo the solution: just modularizes all components you need and identify simple\ncontainer formats for your data input (JSON) and document template (ReportLab\nRML).\n\nNow with the power of Genshi and XInclude we will create dynamic templates\nthat include specific snippets (e.g., to generate on the fly a decent graph\nwith matplotlib or cairoplot to fill some lacks of ReportLab) and we will\ndetach the stylesheet from the template structure.\n\nAnd at the end you can also have the internationalization service in the PDF\nreport generation!\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/9Cq_Zmr0OgM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/9Cq_Zmr0OgM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1132,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-13",
+    "related_urls": [],
+    "slug": "json-data-rml-template-pdf-report-0",
+    "source_url": "http://www.youtube.com/watch?v=9Cq_Zmr0OgM",
+    "speakers": [
+        "Stefano Cotta Ramusino"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Stefano Cotta Ramusino - 23 June 2011 in \"Track Ravioli\"\n\n",
+    "tags": [
+        "internationalization",
+        "json",
+        "matplotlib"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/9Cq_Zmr0OgM/hqdefault.jpg",
+    "title": "JSON data + RML template = PDF report",
+    "updated": "2014-04-08T20:28:27.840",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

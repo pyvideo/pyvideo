@@ -1,1 +1,42 @@
-{"tags": ["dict", "dictionaries", "pyohio", "pyohio2010"], "thumbnail_url": "http://a.images.blip.tv/Pyohio-BuildingYourOwnKindOfDictionary566.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyOhio 2010: Building your own kind of dictionary", "duration": null, "description": "Building your own kind of dictionary\n\nPresented by W. Matthew Wilson\n\nMy talk is based on a project that seemed very simple at first. I wanted an\nobject like the regular python dictionary, but with a few small tweaks:\n\n  * values for some keys should be restricted to elements of a set \n  * values for some keys should be restricted to instances of a type \n\nFor example, pretend I want a dictionary called favorites, and I want the\nvalue for the \"color\" key to be any instance of my Color class. Meanwhile, for\nthe \"movie\" key, I want to make sure that the value belongs to my set of\nmovies.\n\nIn the talk, I'll walk through how I used tests to validate my different\nimplementations until I came up with a winner.\n\nUnlike my talk last year on metaclass tomfoolery, and the year before that on\nfun with decorators (and decorator factories) I'm hoping to make this talk\nstraightforward and friendly to beginning programmers.\n\nYou'll see:\n\n  * how I use tests to solve a real-world problem \n  * a few little gotchas with the super keyword \n  * a little about how python works under the hood. \n\n", "state": 1, "category": "PyOhio 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 103598535, "updated": "2014-04-08T20:28:25.824", "id": 505, "related_urls": [], "slug": "pyohio-2010--building-your-own-kind-of-dictionary", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/505_pyohio-2010-building-your-own-kind-of-dictionary.flv", "language": "English", "video_ogv_download_only": false, "speakers": ["W. Matthew Wilson"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyOhio 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Building your own kind of dictionary\n\nPresented by W. Matthew Wilson\n\nMy talk is based on a project that seemed very simple at first. I wanted an\nobject like the regular python dictionary, but with a few small tweaks:\n\n  * values for some keys should be restricted to elements of a set \n  * values for some keys should be restricted to instances of a type \n\nFor example, pretend I want a dictionary called favorites, and I want the\nvalue for the \"color\" key to be any instance of my Color class. Meanwhile, for\nthe \"movie\" key, I want to make sure that the value belongs to my set of\nmovies.\n\nIn the talk, I'll walk through how I used tests to validate my different\nimplementations until I came up with a winner.\n\nUnlike my talk last year on metaclass tomfoolery, and the year before that on\nfun with decorators (and decorator factories) I'm hoping to make this talk\nstraightforward and friendly to beginning programmers.\n\nYou'll see:\n\n  * how I use tests to solve a real-world problem \n  * a few little gotchas with the super keyword \n  * a little about how python works under the hood. \n\n",
+    "duration": null,
+    "embed": "",
+    "id": 505,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyohio-2010--building-your-own-kind-of-dictionary",
+    "source_url": "",
+    "speakers": [
+        "W. Matthew Wilson"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "dict",
+        "dictionaries",
+        "pyohio",
+        "pyohio2010"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pyohio-BuildingYourOwnKindOfDictionary566.png",
+    "title": "PyOhio 2010: Building your own kind of dictionary",
+    "updated": "2014-04-08T20:28:25.824",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/505_pyohio-2010-building-your-own-kind-of-dictionary.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": 103598535,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

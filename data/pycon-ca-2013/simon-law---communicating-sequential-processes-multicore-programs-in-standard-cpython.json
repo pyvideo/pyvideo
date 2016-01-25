@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i1.ytimg.com/vi/nTjZLhQ39GE/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/nTjZLhQ39GE?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/nTjZLhQ39GE?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-08-01T21:46:44", "whiteboard": "", "video_flv_length": null, "title": "Communicating Sequential Processes: Multicore Programs in Standard CPython", "duration": 20, "description": "", "state": 1, "category": "PyCon CA 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-08-10", "copyright_text": "CC BY-SA 2.5 CA", "source_url": "http://www.youtube.com/watch?v=nTjZLhQ39GE", "video_webm_url": null, "summary": "We live in a multicore world now: your cellphone has more CPUs now than your desktop did a decade ago.\r\n\r\nTraditionally, Python programs have been sequential. With  Communicating Sequential Processes (CSP), you can transform your CPython programs into concurrent programs.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.167", "id": 2318, "related_urls": [], "slug": "communicating-sequential-processes-multicore-pro", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Simon Law"]}
+{
+    "added": "2013-08-01T21:46:44",
+    "category": "PyCon CA 2013",
+    "copyright_text": "CC BY-SA 2.5 CA",
+    "description": "",
+    "duration": 20,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/nTjZLhQ39GE?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/nTjZLhQ39GE?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2318,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-08-10",
+    "related_urls": [],
+    "slug": "communicating-sequential-processes-multicore-pro",
+    "source_url": "http://www.youtube.com/watch?v=nTjZLhQ39GE",
+    "speakers": [
+        "Simon Law"
+    ],
+    "state": 1,
+    "summary": "We live in a multicore world now: your cellphone has more CPUs now than your desktop did a decade ago.\r\n\r\nTraditionally, Python programs have been sequential. With  Communicating Sequential Processes (CSP), you can transform your CPython programs into concurrent programs.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/nTjZLhQ39GE/hqdefault.jpg",
+    "title": "Communicating Sequential Processes: Multicore Programs in Standard CPython",
+    "updated": "2014-04-08T20:28:26.167",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,44 @@
-{"tags": ["ec2", "flask", "gae", "googleappengine", "pyohio", "pyohio2011"], "thumbnail_url": "http://a.images.blip.tv/Pyohio-DjangoAndGoogleAppEngineWhyImUsingFlaskAndAmazonEC2522.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyOhio 2011: Django and Google App Engine: Why I'm using Flask and Amazon EC2", "duration": null, "description": "Django and Google App Engine: Why I'm Using Flask and Amazon EC2\n\nPresented by Ben Rousch\n\nI'm a lazy coder, but not the good kind of lazy. I dove into Django so I could\nhave one web framework that would work on many kind of hosting setups and for\nany kind of web project. With some modifications, I could even use the laziest\napplication host, Google App Engine. Some of these decisions didn't work out,\nso I'll share some of the lessons I've learned the past year or so.\n\n", "state": 1, "category": "PyOhio 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/543_pyohio-2011-django-and-google-app-engine-why-i-m-using-flask-and-amazon-ec2.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution 2.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 232171693, "updated": "2014-04-08T20:28:25.856", "id": 543, "related_urls": [], "slug": "pyohio-2011--django-and-google-app-engine--why-i-", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Ben Rousch"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyOhio 2011",
+    "copyright_text": "Creative Commons Attribution 2.0",
+    "description": "Django and Google App Engine: Why I'm Using Flask and Amazon EC2\n\nPresented by Ben Rousch\n\nI'm a lazy coder, but not the good kind of lazy. I dove into Django so I could\nhave one web framework that would work on many kind of hosting setups and for\nany kind of web project. With some modifications, I could even use the laziest\napplication host, Google App Engine. Some of these decisions didn't work out,\nso I'll share some of the lessons I've learned the past year or so.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 543,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyohio-2011--django-and-google-app-engine--why-i-",
+    "source_url": "",
+    "speakers": [
+        "Ben Rousch"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "ec2",
+        "flask",
+        "gae",
+        "googleappengine",
+        "pyohio",
+        "pyohio2011"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pyohio-DjangoAndGoogleAppEngineWhyImUsingFlaskAndAmazonEC2522.png",
+    "title": "PyOhio 2011: Django and Google App Engine: Why I'm using Flask and Amazon EC2",
+    "updated": "2014-04-08T20:28:25.856",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/543_pyohio-2011-django-and-google-app-engine-why-i-m-using-flask-and-amazon-ec2.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 232171693,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

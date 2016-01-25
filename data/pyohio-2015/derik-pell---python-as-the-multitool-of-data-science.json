@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "https://i.ytimg.com/vi/rJGme8MboSg/hqdefault.jpg", "embed": "", "added": "2015-07-22T20:49:53.351", "whiteboard": "", "video_flv_length": null, "title": "Python as the multitool of data science", "duration": 3091, "description": "Python has lead the way in making data science more accessible with a number of solid data driven libraries. This talk will be a high introduction to familiarize people interested in data science with some of the more common Python tools such as pandas for data munging and analysis, numpy for scientific computing, scikit-learn for machine learning and matplotlib for visualizing your data.", "state": 1, "category": "PyOhio 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3713_Python_as_the_multitool_of_data_science.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-01", "copyright_text": "CC BY", "source_url": "http://youtu.be/rJGme8MboSg", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-09-16T22:42:06.426", "id": 3713, "related_urls": [], "slug": "python-as-the-multitool-of-data-science", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Derik Pell"]}
+{
+    "added": "2015-07-22T20:49:53.351",
+    "category": "PyOhio 2015",
+    "copyright_text": "CC BY",
+    "description": "Python has lead the way in making data science more accessible with a number of solid data driven libraries. This talk will be a high introduction to familiarize people interested in data science with some of the more common Python tools such as pandas for data munging and analysis, numpy for scientific computing, scikit-learn for machine learning and matplotlib for visualizing your data.",
+    "duration": 3091,
+    "embed": "",
+    "id": 3713,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-01",
+    "related_urls": [],
+    "slug": "python-as-the-multitool-of-data-science",
+    "source_url": "http://youtu.be/rJGme8MboSg",
+    "speakers": [
+        "Derik Pell"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/rJGme8MboSg/hqdefault.jpg",
+    "title": "Python as the multitool of data science",
+    "updated": "2015-09-16T22:42:06.426",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3713_Python_as_the_multitool_of_data_science.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

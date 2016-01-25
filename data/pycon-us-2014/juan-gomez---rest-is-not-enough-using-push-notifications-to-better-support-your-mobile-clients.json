@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/WSWaEMn_zpo/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/WSWaEMn_zpo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/WSWaEMn_zpo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-04-13T21:20:22.929", "whiteboard": "", "video_flv_length": null, "title": "REST is not enough: Using Push Notifications to better support your mobile clients", "duration": null, "description": "", "state": 1, "category": "PyCon US 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-04-13", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=WSWaEMn_zpo", "video_webm_url": null, "summary": "This talk will introduce you to Push Notifications, a very powerful way for your Python service to communicate information to mobile devices. You will learn how Push Notifications work, their advantages and disadvantages and how you can implement them on your Python projects.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-13T21:20:22.929", "id": 2656, "related_urls": [], "slug": "rest-is-not-enough-using-push-notifications-to-b", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Juan Gomez"]}
+{
+    "added": "2014-04-13T21:20:22.929",
+    "category": "PyCon US 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/WSWaEMn_zpo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/WSWaEMn_zpo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2656,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-04-13",
+    "related_urls": [],
+    "slug": "rest-is-not-enough-using-push-notifications-to-b",
+    "source_url": "http://www.youtube.com/watch?v=WSWaEMn_zpo",
+    "speakers": [
+        "Juan Gomez"
+    ],
+    "state": 1,
+    "summary": "This talk will introduce you to Push Notifications, a very powerful way for your Python service to communicate information to mobile devices. You will learn how Push Notifications work, their advantages and disadvantages and how you can implement them on your Python projects.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/WSWaEMn_zpo/hqdefault.jpg",
+    "title": "REST is not enough: Using Push Notifications to better support your mobile clients",
+    "updated": "2014-04-13T21:20:22.929",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

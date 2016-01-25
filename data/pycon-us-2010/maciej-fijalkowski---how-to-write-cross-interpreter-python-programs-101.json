@@ -1,1 +1,40 @@
-{"tags": ["pycon", "pycon2010"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010HowToWriteCrossinterpreterPythonPrograms101432.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "How to write cross-interpreter Python programs (#101)", "duration": null, "description": "How to write cross-interpreter Python programs\n\n  \nPresented by Maciej Fijalkowski (merlinux GmbH, pypy)\n\n  \nThis talk will cover basics about writing cross-interpreter python programs.\nWhat to do and most of all what not to do. This will help you if you want at\nsome point in time to run program on for example Java platform or faster\npython interpreter, but also if you want to keep it running between CPython\nreleases.\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/311_how-to-write-cross-interpreter-python-programs-101.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": "", "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/311_how-to-write-cross-interpreter-python-programs-101.ogv", "video_ogv_length": 89924085, "updated": "2014-04-08T20:28:28.126", "id": 311, "related_urls": [], "slug": "pycon-2010--how-to-write-cross-interpreter-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Maciej Fijalkowski"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "How to write cross-interpreter Python programs\n\n  \nPresented by Maciej Fijalkowski (merlinux GmbH, pypy)\n\n  \nThis talk will cover basics about writing cross-interpreter python programs.\nWhat to do and most of all what not to do. This will help you if you want at\nsome point in time to run program on for example Java platform or faster\npython interpreter, but also if you want to keep it running between CPython\nreleases.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 311,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--how-to-write-cross-interpreter-python",
+    "source_url": "",
+    "speakers": [
+        "Maciej Fijalkowski"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "pycon",
+        "pycon2010"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010HowToWriteCrossinterpreterPythonPrograms101432.png",
+    "title": "How to write cross-interpreter Python programs (#101)",
+    "updated": "2014-04-08T20:28:28.126",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/311_how-to-write-cross-interpreter-python-programs-101.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 89924085,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/311_how-to-write-cross-interpreter-python-programs-101.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

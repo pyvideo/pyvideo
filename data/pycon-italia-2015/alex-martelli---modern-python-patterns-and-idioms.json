@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/LeuChRCByZc/maxresdefault.jpg", "embed": "", "added": "2015-06-14T17:02:20.707", "whiteboard": "", "video_flv_length": null, "title": "Modern Python Patterns and Idioms", "duration": 1538, "description": "Python itself has grown to encompass some classic idioms, such as Decorate-Sort-Undecorate, AKA DSU, begetting the widespread key= argument to most functions related to ordering \u2013 but not quite all of them: heapq, for example, still mostly lacks key= \u2013 so, we also show what idioms to use with this and similar modules.\r\n\r\nLists have long been one of Python\u2019s strengths, and they\u2019re of course still precious \u2013 but many kinds of specialized containers have emerged, and it\u2019s important to know how to choose among them, and when and how to roll your own. More important still, iterators have grown into prominence, and very often they\u2019ll be the best choice \u2013 and they come with a large set of relevant patterns and idioms.\r\n\r\nThe tectonic shift that\u2019s taking us from classic to modern Python goes even deeper \u2013 even the dominance of good old duck typing is threatened! Specifically, in many cases, we use, instead, goose typing \u2013 checking against an abstract base class \u2013 and, as type annotations slowly emerge, they reinforce this general tendency.\r\n\r\nThese, and a miscellanea of smaller patterns and idioms (concerning I/O, best uses of dicts and other specialized mappings, async operations, testing, \u2026), are fast becoming indispensable parts of the Proficient Pythonista\u2019s repertoire.", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-06-09", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=LeuChRCByZc", "video_webm_url": "", "summary": "As Python grows, the problem spaces we address keep shifting, and best practices for software development mature, so does the set of best-of-breed patterns and idioms change: some classics fading, new stars emerging. This talk helps fill the gap between yesterday\u2019s good old Python, and tomorrow\u2019s glittering vistas.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2015-06-14T17:31:49.296", "id": 3565, "related_urls": [], "slug": "modern-python-patterns-and-idioms", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Alex Martelli"]}
+{
+    "added": "2015-06-14T17:02:20.707",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "Python itself has grown to encompass some classic idioms, such as Decorate-Sort-Undecorate, AKA DSU, begetting the widespread key= argument to most functions related to ordering \u2013 but not quite all of them: heapq, for example, still mostly lacks key= \u2013 so, we also show what idioms to use with this and similar modules.\r\n\r\nLists have long been one of Python\u2019s strengths, and they\u2019re of course still precious \u2013 but many kinds of specialized containers have emerged, and it\u2019s important to know how to choose among them, and when and how to roll your own. More important still, iterators have grown into prominence, and very often they\u2019ll be the best choice \u2013 and they come with a large set of relevant patterns and idioms.\r\n\r\nThe tectonic shift that\u2019s taking us from classic to modern Python goes even deeper \u2013 even the dominance of good old duck typing is threatened! Specifically, in many cases, we use, instead, goose typing \u2013 checking against an abstract base class \u2013 and, as type annotations slowly emerge, they reinforce this general tendency.\r\n\r\nThese, and a miscellanea of smaller patterns and idioms (concerning I/O, best uses of dicts and other specialized mappings, async operations, testing, \u2026), are fast becoming indispensable parts of the Proficient Pythonista\u2019s repertoire.",
+    "duration": 1538,
+    "embed": "",
+    "id": 3565,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-06-09",
+    "related_urls": [],
+    "slug": "modern-python-patterns-and-idioms",
+    "source_url": "https://www.youtube.com/watch?v=LeuChRCByZc",
+    "speakers": [
+        "Alex Martelli"
+    ],
+    "state": 1,
+    "summary": "As Python grows, the problem spaces we address keep shifting, and best practices for software development mature, so does the set of best-of-breed patterns and idioms change: some classics fading, new stars emerging. This talk helps fill the gap between yesterday\u2019s good old Python, and tomorrow\u2019s glittering vistas.",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/LeuChRCByZc/maxresdefault.jpg",
+    "title": "Modern Python Patterns and Idioms",
+    "updated": "2015-06-14T17:31:49.296",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

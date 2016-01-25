@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/BkGw-o2jgjc/hqdefault.jpg", "embed": "", "added": "2015-06-17T16:46:53.405", "whiteboard": "", "video_flv_length": null, "title": "Bulding an interpreter in RPython", "duration": 1800, "description": "", "state": 1, "category": "PyCon SE 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-25", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=BkGw-o2jgjc", "video_webm_url": null, "summary": "RPython is a language and toolchain for building interpreters, most prominently PyPy, a Python interpreter. But RPython is a powerful tool for writing interpreters for many dynamic languages. We'll learn how to write a simple interpreter in RPython by implementing a parser, bytecode compiler and VM for a small language.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-17T16:46:53.405", "id": 3643, "related_urls": [], "slug": "bulding-an-interpreter-in-rpython", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Julian Berman"]}
+{
+    "added": "2015-06-17T16:46:53.405",
+    "category": "PyCon SE 2015",
+    "copyright_text": "",
+    "description": "",
+    "duration": 1800,
+    "embed": "",
+    "id": 3643,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-05-25",
+    "related_urls": [],
+    "slug": "bulding-an-interpreter-in-rpython",
+    "source_url": "https://www.youtube.com/watch?v=BkGw-o2jgjc",
+    "speakers": [
+        "Julian Berman"
+    ],
+    "state": 1,
+    "summary": "RPython is a language and toolchain for building interpreters, most prominently PyPy, a Python interpreter. But RPython is a powerful tool for writing interpreters for many dynamic languages. We'll learn how to write a simple interpreter in RPython by implementing a parser, bytecode compiler and VM for a small language.",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/BkGw-o2jgjc/hqdefault.jpg",
+    "title": "Bulding an interpreter in RPython",
+    "updated": "2015-06-17T16:46:53.405",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

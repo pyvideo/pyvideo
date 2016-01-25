@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/tTRESSioRiI/maxresdefault.jpg", "embed": "", "added": "2015-06-17T16:46:52.589", "whiteboard": "", "video_flv_length": null, "title": "Test Driven Development with Python and Django", "duration": 2050, "description": "", "state": 1, "category": "PyCon SE 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-25", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=tTRESSioRiI", "video_webm_url": null, "summary": "TDD can be tricky and many developers out there fail to perceive it's real value. This talk will show TDD's benefits and applications with real world examples.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-17T16:46:52.589", "id": 3634, "related_urls": [], "slug": "test-driven-development-with-python-and-django", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Flavia Missi"]}
+{
+    "added": "2015-06-17T16:46:52.589",
+    "category": "PyCon SE 2015",
+    "copyright_text": "",
+    "description": "",
+    "duration": 2050,
+    "embed": "",
+    "id": 3634,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-05-25",
+    "related_urls": [],
+    "slug": "test-driven-development-with-python-and-django",
+    "source_url": "https://www.youtube.com/watch?v=tTRESSioRiI",
+    "speakers": [
+        "Flavia Missi"
+    ],
+    "state": 1,
+    "summary": "TDD can be tricky and many developers out there fail to perceive it's real value. This talk will show TDD's benefits and applications with real world examples.",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/tTRESSioRiI/maxresdefault.jpg",
+    "title": "Test Driven Development with Python and Django",
+    "updated": "2015-06-17T16:46:52.589",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

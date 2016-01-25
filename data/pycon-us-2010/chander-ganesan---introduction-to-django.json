@@ -1,1 +1,41 @@
-{"tags": ["pycon", "pycon2010", "tutorial"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010IntroductionToDjango732.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Introduction to Django", "duration": null, "description": "Introduction to Django\n\nPresented by Chander Ganesan\n\nThe Django framework is a fast, flexible, easy to learn, and easy to use\nframework for designing and deploying web sites and services using Python. In\nthis session, we'll cover the fundamentals of development with Django,\ngenerate a Django data model, and put together a simple web site using the\nframework.\n\nIntended Audience\n\nBeginner to Intermediate Python programmers\n\nClass Outline\n\n  * Django Overview and Basic Introduction (~ 5 min) \n  * Downloading & Installing Dango (~ 10 min) \n  * Creating a new project (~ 5 min) \n  * Choosing a database (~ 5 min) \n  * Creating a new application (~ 5 min) \n  * Installing & Using Django contrib applications (~ 7 min) \n  * Overview of Django flow (i.e., URLconf expression, view function, HTTPResponse object, etc.) (~7 min) \n  * Generating Simple Dango Views (~ 5 min) \n  * Configuring a URLConf for basic views (~ 5 min) \n  * Creating Django Templates (template syntax, common filters and tags, loops, etc) (~ 10 min) \n  * Creating & using Template Context objects (~ 5 min) \n  * Introduction to Django Models (~ 10 min) \n  * Defining basic Django models (~ 15 min) \n  * Understanding basic model fields & options (~ 15 min) \n  * Generating & Reviewing Model SQL (~ 5 min) \n  * Adding data to a model (~ 7 min) \n  * Simple data retrieval using models (~ 7 min) \n  * Working with QUerySets (filters, slicing, ordering, common methods) (~ 10 min) \n  * Overview of Q objects (~ 5 min) \n  * Using the Admin interface (~ 10 min) \n  * Using Generic views (~ 10 min) \n  * Access control with sessions & users (~ 10 min) \n\nRequirements\n\n  * Attendees wishing to try the examples should have Python 2.6 pre-installed ([http://www.python.org](http://www.python.org)) \n  * Attendees should have Django pre-downloaded or pre-installed. ([http://www.djangoproject.com](http://www.djangoproject.com)) \n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/255_introduction-to-django.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/255_introduction-to-django.ogv", "video_ogv_length": 965199376, "updated": "2014-04-08T20:28:28.132", "id": 255, "related_urls": [], "slug": "pycon-2010--introduction-to-django", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Chander Ganesan"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Introduction to Django\n\nPresented by Chander Ganesan\n\nThe Django framework is a fast, flexible, easy to learn, and easy to use\nframework for designing and deploying web sites and services using Python. In\nthis session, we'll cover the fundamentals of development with Django,\ngenerate a Django data model, and put together a simple web site using the\nframework.\n\nIntended Audience\n\nBeginner to Intermediate Python programmers\n\nClass Outline\n\n  * Django Overview and Basic Introduction (~ 5 min) \n  * Downloading & Installing Dango (~ 10 min) \n  * Creating a new project (~ 5 min) \n  * Choosing a database (~ 5 min) \n  * Creating a new application (~ 5 min) \n  * Installing & Using Django contrib applications (~ 7 min) \n  * Overview of Django flow (i.e., URLconf expression, view function, HTTPResponse object, etc.) (~7 min) \n  * Generating Simple Dango Views (~ 5 min) \n  * Configuring a URLConf for basic views (~ 5 min) \n  * Creating Django Templates (template syntax, common filters and tags, loops, etc) (~ 10 min) \n  * Creating & using Template Context objects (~ 5 min) \n  * Introduction to Django Models (~ 10 min) \n  * Defining basic Django models (~ 15 min) \n  * Understanding basic model fields & options (~ 15 min) \n  * Generating & Reviewing Model SQL (~ 5 min) \n  * Adding data to a model (~ 7 min) \n  * Simple data retrieval using models (~ 7 min) \n  * Working with QUerySets (filters, slicing, ordering, common methods) (~ 10 min) \n  * Overview of Q objects (~ 5 min) \n  * Using the Admin interface (~ 10 min) \n  * Using Generic views (~ 10 min) \n  * Access control with sessions & users (~ 10 min) \n\nRequirements\n\n  * Attendees wishing to try the examples should have Python 2.6 pre-installed ([http://www.python.org](http://www.python.org)) \n  * Attendees should have Django pre-downloaded or pre-installed. ([http://www.djangoproject.com](http://www.djangoproject.com)) \n\n",
+    "duration": null,
+    "embed": "",
+    "id": 255,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--introduction-to-django",
+    "source_url": "",
+    "speakers": [
+        "Chander Ganesan"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "pycon",
+        "pycon2010",
+        "tutorial"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010IntroductionToDjango732.png",
+    "title": "Introduction to Django",
+    "updated": "2014-04-08T20:28:28.132",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/255_introduction-to-django.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 965199376,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/255_introduction-to-django.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

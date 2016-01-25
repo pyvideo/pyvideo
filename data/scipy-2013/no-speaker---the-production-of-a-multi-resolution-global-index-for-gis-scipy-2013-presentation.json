@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/bQTdFnZfkts/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/bQTdFnZfkts?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/bQTdFnZfkts?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:34", "whiteboard": "needs editing", "video_flv_length": null, "title": "The Production of a Multi-Resolution Global Index for GIS; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-01", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=bQTdFnZfkts", "video_webm_url": null, "summary": "The Production of a Multi-Resolution Global Index for Geographic Information Systems\n\nAuthors: MacManus, Kytt, Columbia University CIESIN\n\nTrack: GIS - Geospatial Data Analysis\n\nIn order to efficiently access geographic information at the pixel level, at a global scale, it is useful to develop an indexing system with nested location information. Considering a 1 sq. km image resolution, the number of global pixels covering land exceeds 200 million. This talk will summarize the steps taken to produce a global multi-resolution raster indexing system using the Geospatial Data Abstraction Library (GDAL) 1.9, and NumPy. The implications of presenting this data to a user community reliant on Microsoft Office technologies will also be discussed.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.451", "id": 1985, "related_urls": [], "slug": "the-production-of-a-multi-resolution-global-index-", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:34",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/bQTdFnZfkts?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/bQTdFnZfkts?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1985,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-01",
+    "related_urls": [],
+    "slug": "the-production-of-a-multi-resolution-global-index-",
+    "source_url": "http://www.youtube.com/watch?v=bQTdFnZfkts",
+    "speakers": [],
+    "state": 1,
+    "summary": "The Production of a Multi-Resolution Global Index for Geographic Information Systems\n\nAuthors: MacManus, Kytt, Columbia University CIESIN\n\nTrack: GIS - Geospatial Data Analysis\n\nIn order to efficiently access geographic information at the pixel level, at a global scale, it is useful to develop an indexing system with nested location information. Considering a 1 sq. km image resolution, the number of global pixels covering land exceeds 200 million. This talk will summarize the steps taken to produce a global multi-resolution raster indexing system using the Geospatial Data Abstraction Library (GDAL) 1.9, and NumPy. The implications of presenting this data to a user community reliant on Microsoft Office technologies will also be discussed.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/bQTdFnZfkts/hqdefault.jpg",
+    "title": "The Production of a Multi-Resolution Global Index for GIS; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.451",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

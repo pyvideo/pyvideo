@@ -1,1 +1,39 @@
-{"tags": ["poster"], "thumbnail_url": "http://i.ytimg.com/vi/EGQBKRax-sE/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/EGQBKRax-sE?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/EGQBKRax-sE?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:57:27", "whiteboard": "", "video_flv_length": null, "title": "Why Pyramid is awesome: the example of Facebook applications", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-17", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=EGQBKRax-sE", "video_webm_url": null, "summary": "Beside the friends, walls and photos, Facebook is a platform where anybody can build applications or games taking advantage of the huge user base and connections between people.  Any web-capable language or framework can be used to do that, but this poster will show you why Pyramid is a most excellent choice.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.615", "id": 1820, "related_urls": [], "slug": "why-pyramid-is-awesome-to-build-facebook-applicat", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["\u00c9ric Araujo"]}
+{
+    "added": "2013-03-13T18:57:27",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/EGQBKRax-sE?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/EGQBKRax-sE?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1820,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-17",
+    "related_urls": [],
+    "slug": "why-pyramid-is-awesome-to-build-facebook-applicat",
+    "source_url": "https://www.youtube.com/watch?v=EGQBKRax-sE",
+    "speakers": [
+        "\u00c9ric Araujo"
+    ],
+    "state": 1,
+    "summary": "Beside the friends, walls and photos, Facebook is a platform where anybody can build applications or games taking advantage of the huge user base and connections between people.  Any web-capable language or framework can be used to do that, but this poster will show you why Pyramid is a most excellent choice.",
+    "tags": [
+        "poster"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/EGQBKRax-sE/hqdefault.jpg",
+    "title": "Why Pyramid is awesome: the example of Facebook applications",
+    "updated": "2014-04-08T20:28:26.615",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

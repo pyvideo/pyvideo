@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/_hyomYxqlsk/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/_hyomYxqlsk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/_hyomYxqlsk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2015-03-24T18:21:03.724", "whiteboard": "", "video_flv_length": null, "title": "How my Dog Sends Selfies", "duration": 2251, "description": "A presentation about writing Python on the\r\nArduina Yun", "state": 1, "category": "Chicago Djangonauts", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-03-26", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/_hyomYxqlsk", "video_webm_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chicago-djangonauts/3382_how_my_dog_sends_selfies.webm", "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-03-27T14:30:20.360", "id": 3382, "related_urls": [], "slug": "how-my-dog-sends-selfies", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Greg Baugues"]}
+{
+    "added": "2015-03-24T18:21:03.724",
+    "category": "Chicago Djangonauts",
+    "copyright_text": "CC BY-SA",
+    "description": "A presentation about writing Python on the\r\nArduina Yun",
+    "duration": 2251,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/_hyomYxqlsk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/_hyomYxqlsk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3382,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-03-26",
+    "related_urls": [],
+    "slug": "how-my-dog-sends-selfies",
+    "source_url": "http://youtu.be/_hyomYxqlsk",
+    "speakers": [
+        "Greg Baugues"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/_hyomYxqlsk/hqdefault.jpg",
+    "title": "How my Dog Sends Selfies",
+    "updated": "2015-03-27T14:30:20.360",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chicago-djangonauts/3382_how_my_dog_sends_selfies.webm",
+    "whiteboard": ""
+}

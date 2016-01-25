@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/vaA0ohGKARY/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/vaA0ohGKARY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/vaA0ohGKARY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-09-06T22:33:16", "whiteboard": "", "video_flv_length": null, "title": "Faster python programs through optimization part 2", "duration": null, "description": "Objective This tutorial provides an overview of techniques to improve the\nperformance of Python programs. The focus is on concepts such as profiling,\ndiffrence of data structures and algorithms as well as a selection of tools an\nlibraries that help to speed up Python. Intended Audience Python programmers\nwho would like concepts to improve performance. Audience Level Programmers\nwith good Python knowledge. Prerequisites Please bring your laptop with the\noperating system of your choice (Linux, Mac OS X, Windows). In addition to\nPython 2.6 or 2.7, we need: RunSnakeRun ([http://www.vrplumber.com/programming\n/runsnakerun](http://www.vrplumber.com/programming/runsnakerun)) Guppy_PE\nframework ([http://guppy-pe.sourceforge.net](http://guppy-pe.sourceforge.net))\n(<= Python 2.6 ) lineprofiler ([http://packages.python.org/line_profiler/](htt\np://packages.python.org/line_profiler/)) pympler\n([http://code.google.com/p/pympler/](http://code.google.com/p/pympler/)) psyco\n([http://psyco.sourceforge.net](http://psyco.sourceforge.net), Python 2.6\nonly, version 1.5.2 or higher) pypy ([http://pypy.org](http://pypy.org)) and\nNumPy ([http://numpy.scipy.org](http://numpy.scipy.org), version 1.2 or\nhigher). Method This is a hands-on course. Students are strongly encouraged to\nwork along with the trainer at the interactive prompt. There will be exercises\nthe students need to do on their own. Experience shows that this active\ninvolvement is essential for an effective learning. Outline How fast is fast\nenough? Optimization guidelines Premature optimization Optimization rules\nSeven steps for incremental optimization Optimization strategy Measuring in\nstones Profiling CPU usage Profiling memory usage Algorithms and Anti-patterns\nString concatenation List and generator comprehensions The right data\nstructure Caching The example Testing speed Pure Python Meet Psyco, the JIT\nUsing PyPy NumPy for numeric arrays Using multiple CPUs with multiprocessing\nCombination of optimization strategies Results of different example\nimplementations I taught this tutorial multiple times and will update the\ncontent as I regularly do.\n\n", "state": 1, "category": "EuroPython 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-05", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=vaA0ohGKARY", "video_webm_url": null, "summary": "[EuroPython 2012] M Mollerv- 4 JULY 2012 in \"Track Pizza Margherita\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.240", "id": 1292, "related_urls": [], "slug": "faster-python-programs-through-optimization-part", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": null, "video_ogv_download_only": false, "speakers": ["M Mollerv"]}
+{
+    "added": "2012-09-06T22:33:16",
+    "category": "EuroPython 2012",
+    "copyright_text": "Standard YouTube License",
+    "description": "Objective This tutorial provides an overview of techniques to improve the\nperformance of Python programs. The focus is on concepts such as profiling,\ndiffrence of data structures and algorithms as well as a selection of tools an\nlibraries that help to speed up Python. Intended Audience Python programmers\nwho would like concepts to improve performance. Audience Level Programmers\nwith good Python knowledge. Prerequisites Please bring your laptop with the\noperating system of your choice (Linux, Mac OS X, Windows). In addition to\nPython 2.6 or 2.7, we need: RunSnakeRun ([http://www.vrplumber.com/programming\n/runsnakerun](http://www.vrplumber.com/programming/runsnakerun)) Guppy_PE\nframework ([http://guppy-pe.sourceforge.net](http://guppy-pe.sourceforge.net))\n(<= Python 2.6 ) lineprofiler ([http://packages.python.org/line_profiler/](htt\np://packages.python.org/line_profiler/)) pympler\n([http://code.google.com/p/pympler/](http://code.google.com/p/pympler/)) psyco\n([http://psyco.sourceforge.net](http://psyco.sourceforge.net), Python 2.6\nonly, version 1.5.2 or higher) pypy ([http://pypy.org](http://pypy.org)) and\nNumPy ([http://numpy.scipy.org](http://numpy.scipy.org), version 1.2 or\nhigher). Method This is a hands-on course. Students are strongly encouraged to\nwork along with the trainer at the interactive prompt. There will be exercises\nthe students need to do on their own. Experience shows that this active\ninvolvement is essential for an effective learning. Outline How fast is fast\nenough? Optimization guidelines Premature optimization Optimization rules\nSeven steps for incremental optimization Optimization strategy Measuring in\nstones Profiling CPU usage Profiling memory usage Algorithms and Anti-patterns\nString concatenation List and generator comprehensions The right data\nstructure Caching The example Testing speed Pure Python Meet Psyco, the JIT\nUsing PyPy NumPy for numeric arrays Using multiple CPUs with multiprocessing\nCombination of optimization strategies Results of different example\nimplementations I taught this tutorial multiple times and will update the\ncontent as I regularly do.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/vaA0ohGKARY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/vaA0ohGKARY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1292,
+    "language": null,
+    "quality_notes": "",
+    "recorded": "2012-07-05",
+    "related_urls": [],
+    "slug": "faster-python-programs-through-optimization-part",
+    "source_url": "http://www.youtube.com/watch?v=vaA0ohGKARY",
+    "speakers": [
+        "M Mollerv"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2012] M Mollerv- 4 JULY 2012 in \"Track Pizza Margherita\"\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/vaA0ohGKARY/hqdefault.jpg",
+    "title": "Faster python programs through optimization part 2",
+    "updated": "2014-04-08T20:28:27.240",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

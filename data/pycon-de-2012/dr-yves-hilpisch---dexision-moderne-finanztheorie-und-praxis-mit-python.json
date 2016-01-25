@@ -1,1 +1,44 @@
-{"tags": [" bewertung von derivaten", "dexision", " finanzen", " on demand", " scientific python", " simulation"], "thumbnail_url": "http://i4.ytimg.com/vi/gsxAmno6noo/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/gsxAmno6noo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/gsxAmno6noo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-01T05:09:43", "whiteboard": "", "video_flv_length": null, "title": "DEXISION -- Moderne Finanztheorie und -praxis mit Python", "duration": null, "description": "", "state": 1, "category": "PyCon DE 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_DEXISION_Moderne_Finanztheorie_und_praxis_mit_Python.mp4?Signature=1XtL7WHSvOrn%2FeCrrwDl1HYoqa4%3D&Expires=1351778243&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-10-30", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=gsxAmno6noo", "video_webm_url": "", "summary": "DEXISION ist eine kommerzielle Bewertungsl\u00f6sung f\u00fcr Finanzderivate. Sie wurde\ndurch die Visixion GmbH im Wesentlichen auf Basis von Python entwickelt. Der\nVortrag zeigt, wie moderne, Web-basierte Finanzl\u00f6sungen mittels Python zu\nimplementieren sind. Aspekte wie Effizienz in der Entwicklung, Performance,\nErweiterbarkeit, Wartbarkeit und Sicherheit sind dabei von besonderer\nBedeutung.\n\nDie Architektur von DEXISION fu\u00dft auf einem LAMP-Stack und es kommen dabei nur\nOpen Source-Komponenten zum Einsatz. Unseres Wissens nach ist DEXISION nach\nwie vor die einzige kommerzielle Finanzl\u00f6sung dieser Art, die in allen\nBereichn -- auch bei rechenintensiven Simulationsaufgaben -- voll auf Python\nsetzt.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.931", "id": 1420, "related_urls": [], "slug": "dexision-moderne-finanztheorie-und-praxis-mit", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "German", "video_ogv_download_only": false, "speakers": ["Dr. Yves Hilpisch"]}
+{
+    "added": "2012-11-01T05:09:43",
+    "category": "PyCon DE 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/gsxAmno6noo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/gsxAmno6noo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1420,
+    "language": "German",
+    "quality_notes": "",
+    "recorded": "2012-10-30",
+    "related_urls": [],
+    "slug": "dexision-moderne-finanztheorie-und-praxis-mit",
+    "source_url": "https://www.youtube.com/watch?v=gsxAmno6noo",
+    "speakers": [
+        "Dr. Yves Hilpisch"
+    ],
+    "state": 1,
+    "summary": "DEXISION ist eine kommerzielle Bewertungsl\u00f6sung f\u00fcr Finanzderivate. Sie wurde\ndurch die Visixion GmbH im Wesentlichen auf Basis von Python entwickelt. Der\nVortrag zeigt, wie moderne, Web-basierte Finanzl\u00f6sungen mittels Python zu\nimplementieren sind. Aspekte wie Effizienz in der Entwicklung, Performance,\nErweiterbarkeit, Wartbarkeit und Sicherheit sind dabei von besonderer\nBedeutung.\n\nDie Architektur von DEXISION fu\u00dft auf einem LAMP-Stack und es kommen dabei nur\nOpen Source-Komponenten zum Einsatz. Unseres Wissens nach ist DEXISION nach\nwie vor die einzige kommerzielle Finanzl\u00f6sung dieser Art, die in allen\nBereichn -- auch bei rechenintensiven Simulationsaufgaben -- voll auf Python\nsetzt.\n\n",
+    "tags": [
+        " bewertung von derivaten",
+        "dexision",
+        " finanzen",
+        " on demand",
+        " scientific python",
+        " simulation"
+    ],
+    "thumbnail_url": "http://i4.ytimg.com/vi/gsxAmno6noo/hqdefault.jpg",
+    "title": "DEXISION -- Moderne Finanztheorie und -praxis mit Python",
+    "updated": "2014-04-08T20:28:26.931",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_DEXISION_Moderne_Finanztheorie_und_praxis_mit_Python.mp4?Signature=1XtL7WHSvOrn%2FeCrrwDl1HYoqa4%3D&Expires=1351778243&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

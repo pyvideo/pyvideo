@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/PYYfVqtcWQY/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/PYYfVqtcWQY' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:08.167", "whiteboard": "needs editing", "video_flv_length": null, "title": "Schemas for the Real World", "duration": null, "description": "Development challenges us to code for users\u2019 personal world. Users give push-back to ill-fitted assumptions about their own name, gender, sexual orientation, important relationships, & other attributes that are individually meaningful. We'll explore how to develop software that brings real world into focus & that allows individuals to authentically reflect their personhood & physical world.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-12", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=PYYfVqtcWQY", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:08.167", "id": 3440, "related_urls": [], "slug": "schemas-for-the-real-world-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Carina C. Zona"]}
+{
+    "added": "2015-04-16T14:22:08.167",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "Development challenges us to code for users\u2019 personal world. Users give push-back to ill-fitted assumptions about their own name, gender, sexual orientation, important relationships, & other attributes that are individually meaningful. We'll explore how to develop software that brings real world into focus & that allows individuals to authentically reflect their personhood & physical world.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/PYYfVqtcWQY' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3440,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-12",
+    "related_urls": [],
+    "slug": "schemas-for-the-real-world-0",
+    "source_url": "https://www.youtube.com/watch?v=PYYfVqtcWQY",
+    "speakers": [
+        "Carina C. Zona"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/PYYfVqtcWQY/hqdefault.jpg",
+    "title": "Schemas for the Real World",
+    "updated": "2015-04-16T14:22:08.167",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

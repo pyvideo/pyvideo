@@ -1,1 +1,39 @@
-{"tags": ["Room 211"], "thumbnail_url": "https://i.ytimg.com/vi/s041lMgOlgs/hqdefault.jpg", "embed": "", "added": "2015-09-30T02:44:56.562", "whiteboard": "", "video_flv_length": null, "title": "An Introduction to Image Classification", "duration": 4279, "description": "In this tutorial, two main areas will be covered using Textural Images Dataset:\r\n<ol>\r\n<li>Textural Features Methods: (Grey Level Co-occurrence Matrix(GLCM), Local Binary Pattern(LBP) and Local Directional Pattern(LDP))</li>\r\n<li>Classification using Support Vector Machine (SVM) and Naive Bayes(NB).</li>\r\n</ol>\r\n\r\nBoth Features Extraction and Classification will be implemented using Python.\r\n\r\nTexture is a very important factor in computer vision; it represents the first level of spatial properties that can be extracted from digital image. Texture can be defined as relationship between gray level in neighboring pixels.\r\n", "state": 1, "category": "PyCon ZA 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-10-01", "copyright_text": "", "source_url": "http://youtu.be/s041lMgOlgs", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-03T09:07:15.175", "id": 3929, "related_urls": [], "slug": "an-introduction-to-machine-learning-in-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Abuobayda Shabat"]}
+{
+    "added": "2015-09-30T02:44:56.562",
+    "category": "PyCon ZA 2015",
+    "copyright_text": "",
+    "description": "In this tutorial, two main areas will be covered using Textural Images Dataset:\r\n<ol>\r\n<li>Textural Features Methods: (Grey Level Co-occurrence Matrix(GLCM), Local Binary Pattern(LBP) and Local Directional Pattern(LDP))</li>\r\n<li>Classification using Support Vector Machine (SVM) and Naive Bayes(NB).</li>\r\n</ol>\r\n\r\nBoth Features Extraction and Classification will be implemented using Python.\r\n\r\nTexture is a very important factor in computer vision; it represents the first level of spatial properties that can be extracted from digital image. Texture can be defined as relationship between gray level in neighboring pixels.\r\n",
+    "duration": 4279,
+    "embed": "",
+    "id": 3929,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-10-01",
+    "related_urls": [],
+    "slug": "an-introduction-to-machine-learning-in-python",
+    "source_url": "http://youtu.be/s041lMgOlgs",
+    "speakers": [
+        "Abuobayda Shabat"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "Room 211"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/s041lMgOlgs/hqdefault.jpg",
+    "title": "An Introduction to Image Classification",
+    "updated": "2015-10-03T09:07:15.175",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

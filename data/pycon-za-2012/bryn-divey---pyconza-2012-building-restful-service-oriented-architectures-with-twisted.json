@@ -1,1 +1,40 @@
-{"tags": ["pyconza", "pyconza2012"], "thumbnail_url": "http://archive.org/download/pyconza2012-RESTful_twisted/pyconza2012-RESTful_twisted.thumbs/PYCONZ-CASPIA-JUDEMW-SHARIN_000001.jpg", "embed": "", "added": "2015-09-19T18:55:57.859", "whiteboard": "ia scrape", "video_flv_length": null, "title": "PyConZA 2012: Building RESTful, service-oriented architectures with Twisted", "duration": null, "description": "", "state": 1, "category": "PyCon ZA 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-10-04", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://archive.org/details/pyconza2012-RESTful_twisted", "video_webm_url": "", "summary": "Building RESTful, service-oriented architectures with Twisted: Bryn Divey's talk at PyConZA 2012", "video_ogv_url": "http://archive.org/download/pyconza2012-RESTful_twisted/pyconza2012-RESTful_twisted.ogv", "video_ogv_length": null, "updated": "2015-09-19T19:00:46.404", "id": 3879, "related_urls": [], "slug": "pyconza-2012-building-restful-service-oriented", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Bryn Divey"]}
+{
+    "added": "2015-09-19T18:55:57.859",
+    "category": "PyCon ZA 2012",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "",
+    "duration": null,
+    "embed": "",
+    "id": 3879,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-10-04",
+    "related_urls": [],
+    "slug": "pyconza-2012-building-restful-service-oriented",
+    "source_url": "http://archive.org/details/pyconza2012-RESTful_twisted",
+    "speakers": [
+        "Bryn Divey"
+    ],
+    "state": 1,
+    "summary": "Building RESTful, service-oriented architectures with Twisted: Bryn Divey's talk at PyConZA 2012",
+    "tags": [
+        "pyconza",
+        "pyconza2012"
+    ],
+    "thumbnail_url": "http://archive.org/download/pyconza2012-RESTful_twisted/pyconza2012-RESTful_twisted.thumbs/PYCONZ-CASPIA-JUDEMW-SHARIN_000001.jpg",
+    "title": "PyConZA 2012: Building RESTful, service-oriented architectures with Twisted",
+    "updated": "2015-09-19T19:00:46.404",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://archive.org/download/pyconza2012-RESTful_twisted/pyconza2012-RESTful_twisted.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "ia scrape"
+}

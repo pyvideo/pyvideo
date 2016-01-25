@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i4.ytimg.com/vi/gTIhUoa4G14/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/gTIhUoa4G14?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/gTIhUoa4G14?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:56:19", "whiteboard": "", "video_flv_length": null, "title": "Community Event Planning", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Community_Event_Planning.mp4?Signature=MjfDzFK8AiQw3u%2FodtIrVFQLyYI%3D&Expires=1363668674&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-16", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=gTIhUoa4G14", "video_webm_url": null, "summary": "Hosting in-person events is a great way to develop and grow your local Python community. If you\u2019ve ever thought about hosting a code sprint, hackathon, (un)conference or workshop, this talk is for you. I\u2019ll present quick overview of what you need to know to get started planning a successful event. Event planning workbook included.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.630", "id": 1775, "related_urls": [], "slug": "community-event-planning", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Christie Koehler"]}
+{
+    "added": "2013-03-13T18:56:19",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/gTIhUoa4G14?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/gTIhUoa4G14?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1775,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-16",
+    "related_urls": [],
+    "slug": "community-event-planning",
+    "source_url": "https://www.youtube.com/watch?v=gTIhUoa4G14",
+    "speakers": [
+        "Christie Koehler"
+    ],
+    "state": 1,
+    "summary": "Hosting in-person events is a great way to develop and grow your local Python community. If you\u2019ve ever thought about hosting a code sprint, hackathon, (un)conference or workshop, this talk is for you. I\u2019ll present quick overview of what you need to know to get started planning a successful event. Event planning workbook included.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i4.ytimg.com/vi/gTIhUoa4G14/hqdefault.jpg",
+    "title": "Community Event Planning",
+    "updated": "2014-04-08T20:28:26.630",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Community_Event_Planning.mp4?Signature=MjfDzFK8AiQw3u%2FodtIrVFQLyYI%3D&Expires=1363668674&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

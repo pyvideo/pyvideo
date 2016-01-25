@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/HAoAstK95UE/maxresdefault.jpg", "embed": "", "added": "2015-07-31T17:40:39.426", "whiteboard": "", "video_flv_length": null, "title": "Depsolver, une librairie pour la gestion de d\u00e9pendences", "duration": 1690, "description": "", "state": 1, "category": "PyCon FR 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-11-30", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=HAoAstK95UE", "video_webm_url": null, "summary": "Les outils \"easy_install/pip\" sont devenus populaires en partie gr\u00e2ce \u00e0 l'incorporation d'un syst\u00e8me de d\u00e9pendances. Depsolver est une librairie con\u00e7ue pour r\u00e9soudre les probl\u00e8mes de d\u00e9pendance plus complexes que pip et easy_install ne peuvent pas r\u00e9soudre. La librairie est pure python, et con\u00e7ue pour \u00eatre r\u00e9utilisable par de futures syst\u00e8mes d'installations (python ou autre).", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-07-31T17:40:39.426", "id": 3740, "related_urls": [], "slug": "depsolver-une-librairie-pour-la-gestion-de-depen", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "French", "video_ogv_download_only": false, "speakers": ["David Cournapeau"]}
+{
+    "added": "2015-07-31T17:40:39.426",
+    "category": "PyCon FR 2013",
+    "copyright_text": "",
+    "description": "",
+    "duration": 1690,
+    "embed": "",
+    "id": 3740,
+    "language": "French",
+    "quality_notes": "",
+    "recorded": "2013-11-30",
+    "related_urls": [],
+    "slug": "depsolver-une-librairie-pour-la-gestion-de-depen",
+    "source_url": "https://www.youtube.com/watch?v=HAoAstK95UE",
+    "speakers": [
+        "David Cournapeau"
+    ],
+    "state": 1,
+    "summary": "Les outils \"easy_install/pip\" sont devenus populaires en partie gr\u00e2ce \u00e0 l'incorporation d'un syst\u00e8me de d\u00e9pendances. Depsolver est une librairie con\u00e7ue pour r\u00e9soudre les probl\u00e8mes de d\u00e9pendance plus complexes que pip et easy_install ne peuvent pas r\u00e9soudre. La librairie est pure python, et con\u00e7ue pour \u00eatre r\u00e9utilisable par de futures syst\u00e8mes d'installations (python ou autre).",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/HAoAstK95UE/maxresdefault.jpg",
+    "title": "Depsolver, une librairie pour la gestion de d\u00e9pendences",
+    "updated": "2015-07-31T17:40:39.426",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

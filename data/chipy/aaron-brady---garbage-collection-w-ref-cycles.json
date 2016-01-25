@@ -1,1 +1,50 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/VCeENPxyZJw/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/VCeENPxyZJw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/VCeENPxyZJw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-01-08T18:25:25.285", "whiteboard": "", "video_flv_length": null, "title": "Garbage Collection w/ Ref. Cycles", "duration": 30, "description": "", "state": 1, "category": "ChiPy", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/2555_Garbage_Collection_w_Ref_Cycles.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-01-09", "copyright_text": "CC BY-NC", "source_url": "https://www.youtube.com/watch?v=VCeENPxyZJw", "video_webm_url": "", "summary": "Reference counting is very useful but it has an odd problem.  We employ a technique from graphs to approach it.  The solution works but it's a bit slow.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:25.967", "id": 2555, "related_urls": [{"url": "http://home.comcast.net/~castironpi-misc/irc-0084%20reference%20cycle%20breaker.py", "description": "The module that was the subject of the talk"}, {"url": "http://home.comcast.net/~castironpi-misc/irc-0084%20reference%20cycles.png", "description": "The sloppy diagram for practice"}, {"url": "http://home.comcast.net/~castironpi-misc/projects.html", "description": "Author's other projects"}], "slug": "garbage-collection-w-ref-cycles", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Aaron Brady"]}
+{
+    "added": "2014-01-08T18:25:25.285",
+    "category": "ChiPy",
+    "copyright_text": "CC BY-NC",
+    "description": "",
+    "duration": 30,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/VCeENPxyZJw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/VCeENPxyZJw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2555,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-01-09",
+    "related_urls": [
+        {
+            "description": "The module that was the subject of the talk",
+            "url": "http://home.comcast.net/~castironpi-misc/irc-0084%20reference%20cycle%20breaker.py"
+        },
+        {
+            "description": "The sloppy diagram for practice",
+            "url": "http://home.comcast.net/~castironpi-misc/irc-0084%20reference%20cycles.png"
+        },
+        {
+            "description": "Author's other projects",
+            "url": "http://home.comcast.net/~castironpi-misc/projects.html"
+        }
+    ],
+    "slug": "garbage-collection-w-ref-cycles",
+    "source_url": "https://www.youtube.com/watch?v=VCeENPxyZJw",
+    "speakers": [
+        "Aaron Brady"
+    ],
+    "state": 1,
+    "summary": "Reference counting is very useful but it has an odd problem.  We employ a technique from graphs to approach it.  The solution works but it's a bit slow.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/VCeENPxyZJw/hqdefault.jpg",
+    "title": "Garbage Collection w/ Ref. Cycles",
+    "updated": "2014-04-08T20:28:25.967",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/2555_Garbage_Collection_w_Ref_Cycles.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

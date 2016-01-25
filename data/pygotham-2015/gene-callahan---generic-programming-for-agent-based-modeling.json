@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/wmsANLFZQqE/hqdefault.jpg", "embed": "", "added": "2015-08-10T15:48:09.296", "whiteboard": "", "video_flv_length": null, "title": "Generic Programming for Agent-Based Modeling", "duration": 1494, "description": "How to use the techniques of generic programming in the context of agent-based modeling.", "state": 1, "category": "PyGotham 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3781_Generic_Programming_for_AgentBased_Modeling.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-15", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/wmsANLFZQqE", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-09-14T13:15:20.274", "id": 3781, "related_urls": [], "slug": "generic-programming-for-agent-based-modeling", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Gene Callahan"]}
+{
+    "added": "2015-08-10T15:48:09.296",
+    "category": "PyGotham 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "How to use the techniques of generic programming in the context of agent-based modeling.",
+    "duration": 1494,
+    "embed": "",
+    "id": 3781,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-15",
+    "related_urls": [],
+    "slug": "generic-programming-for-agent-based-modeling",
+    "source_url": "http://youtu.be/wmsANLFZQqE",
+    "speakers": [
+        "Gene Callahan"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/wmsANLFZQqE/hqdefault.jpg",
+    "title": "Generic Programming for Agent-Based Modeling",
+    "updated": "2015-09-14T13:15:20.274",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3781_Generic_Programming_for_AgentBased_Modeling.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

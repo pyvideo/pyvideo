@@ -1,1 +1,40 @@
-{"tags": ["bottlenecks", "performance"], "thumbnail_url": "http://i.ytimg.com/vi/eOkxLCCbU9w/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/eOkxLCCbU9w?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/eOkxLCCbU9w?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-01-15T14:29:51", "whiteboard": "", "video_flv_length": null, "title": "Web Server Bottlenecks And Performance Tuning", "duration": null, "description": "A benchmark of a hello world application is often what developers use to make\nthe all important decision of what web hosting infrastructure they use. Worse\nis that in many cases this is the only sort of performance testing or\nmonitoring they will ever do. When it comes to their production applications\nthey are usually flying blind and have no idea of how it is performing and\nwhat they need to do to tune their web application stack.\n\nThis talk will provide an overview as to where in your overall request\nhandling pipeline the main overheads are going to arise. It will then zoom in\nand discuss different limiting factors or bottlenecks which can arise within\nyour WSGI server stack and system that can directly affect the performance of\nyour Python web application.\n\nSuch factors that will be discussed will include:\n\n  * Use of threads vs processes.\n  * Number of processors available.\n  * Python global interpreter lock (GIL)\n  * Amount of memory available.\n  * Slow HTTP browsers/clients.\n  * Browser keep alive connections.\n  * Need to handle static assets.\n\nFrom this will be provided some general guidelines of what is a good\nconfiguration/architecture to use for different types of Python web\napplications.\n\nThe importance of continuous production monitoring will also be covered,\nensuring that you know when the performance of your system is dropping off due\nto changing traffic patterns as well as code changes you have made in your\nactual web application.\n\n", "state": 1, "category": "PyCon AU 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-08-22", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=eOkxLCCbU9w", "video_webm_url": null, "summary": "A benchmark of a hello world application is often what developers use to make\nthe all important decision of what web hosting infrastructure they use. Worse\nis that in many cases this is the only sort of performance testing or monitor\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.042", "id": 1633, "related_urls": [], "slug": "web-server-bottlenecks-and-performance-tuning-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Graham Dumpleton"]}
+{
+    "added": "2013-01-15T14:29:51",
+    "category": "PyCon AU 2012",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "A benchmark of a hello world application is often what developers use to make\nthe all important decision of what web hosting infrastructure they use. Worse\nis that in many cases this is the only sort of performance testing or\nmonitoring they will ever do. When it comes to their production applications\nthey are usually flying blind and have no idea of how it is performing and\nwhat they need to do to tune their web application stack.\n\nThis talk will provide an overview as to where in your overall request\nhandling pipeline the main overheads are going to arise. It will then zoom in\nand discuss different limiting factors or bottlenecks which can arise within\nyour WSGI server stack and system that can directly affect the performance of\nyour Python web application.\n\nSuch factors that will be discussed will include:\n\n  * Use of threads vs processes.\n  * Number of processors available.\n  * Python global interpreter lock (GIL)\n  * Amount of memory available.\n  * Slow HTTP browsers/clients.\n  * Browser keep alive connections.\n  * Need to handle static assets.\n\nFrom this will be provided some general guidelines of what is a good\nconfiguration/architecture to use for different types of Python web\napplications.\n\nThe importance of continuous production monitoring will also be covered,\nensuring that you know when the performance of your system is dropping off due\nto changing traffic patterns as well as code changes you have made in your\nactual web application.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/eOkxLCCbU9w?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/eOkxLCCbU9w?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1633,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-08-22",
+    "related_urls": [],
+    "slug": "web-server-bottlenecks-and-performance-tuning-0",
+    "source_url": "http://www.youtube.com/watch?v=eOkxLCCbU9w",
+    "speakers": [
+        "Graham Dumpleton"
+    ],
+    "state": 1,
+    "summary": "A benchmark of a hello world application is often what developers use to make\nthe all important decision of what web hosting infrastructure they use. Worse\nis that in many cases this is the only sort of performance testing or monitor\n\n",
+    "tags": [
+        "bottlenecks",
+        "performance"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/eOkxLCCbU9w/hqdefault.jpg",
+    "title": "Web Server Bottlenecks And Performance Tuning",
+    "updated": "2014-04-08T20:28:27.042",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

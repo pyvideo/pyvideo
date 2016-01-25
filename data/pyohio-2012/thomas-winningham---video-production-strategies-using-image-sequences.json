@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i3.ytimg.com/vi/NgEcwYE_Fzo/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/NgEcwYE_Fzo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/NgEcwYE_Fzo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-10-01T13:13:38", "whiteboard": "", "video_flv_length": null, "title": "Video Production Strategies Using Image Sequences", "duration": null, "description": "", "state": 1, "category": "PyOhio 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Video_Production_Strategies_Using_Image_Sequences.mp4?Signature=tnDVms00QJDdWJj%2BDJwYojsa65E%3D&Expires=1346557642&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-28", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=NgEcwYE_Fzo", "video_webm_url": "", "summary": "Major production houses sometimes work with digital video not in non-linear\neditor format, but as large collections of image sequences in folders. Using\nPython to produce video this way can be very simple and natural once you\nstarting thinking in image sequences. Using a series of small scripts, I'll\ndemonstrate using PyCairo or PySVG as well as ImageMagick and FFMPEG to make\n1080P HD video.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.089", "id": 1355, "related_urls": [], "slug": "video-production-strategies-using-image-sequences", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Thomas Winningham"]}
+{
+    "added": "2012-10-01T13:13:38",
+    "category": "PyOhio 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/NgEcwYE_Fzo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/NgEcwYE_Fzo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1355,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-07-28",
+    "related_urls": [],
+    "slug": "video-production-strategies-using-image-sequences",
+    "source_url": "https://www.youtube.com/watch?v=NgEcwYE_Fzo",
+    "speakers": [
+        "Thomas Winningham"
+    ],
+    "state": 1,
+    "summary": "Major production houses sometimes work with digital video not in non-linear\neditor format, but as large collections of image sequences in folders. Using\nPython to produce video this way can be very simple and natural once you\nstarting thinking in image sequences. Using a series of small scripts, I'll\ndemonstrate using PyCairo or PySVG as well as ImageMagick and FFMPEG to make\n1080P HD video.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i3.ytimg.com/vi/NgEcwYE_Fzo/hqdefault.jpg",
+    "title": "Video Production Strategies Using Image Sequences",
+    "updated": "2014-04-08T20:28:27.089",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Video_Production_Strategies_Using_Image_Sequences.mp4?Signature=tnDVms00QJDdWJj%2BDJwYojsa65E%3D&Expires=1346557642&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,41 @@
-{"tags": ["poster"], "thumbnail_url": "http://i.ytimg.com/vi/U38CQ0oGARk/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/U38CQ0oGARk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/U38CQ0oGARk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:56:59", "whiteboard": "", "video_flv_length": null, "title": "Fusing Online and Face-to-Face Social Networks with Python and RFIDs", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-17", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=U38CQ0oGARk", "video_webm_url": null, "summary": "We describe the architecture of an application designed to enhance social interactions at conference gatherings by integrating data from online social networks and from wearable proximity sensors. The pipeline that processes the stream of sensor data and provides proximity-based services is implemented in Python and Twisted, and has been demonstrated to scale to thousands of simultaneous users.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.548", "id": 1802, "related_urls": [], "slug": "fusing-online-and-face-to-face-social-networks-wi", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Andre Panisson", "Ciro Cattuto", "Marco Quaggiotto"]}
+{
+    "added": "2013-03-13T18:56:59",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/U38CQ0oGARk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/U38CQ0oGARk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1802,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-17",
+    "related_urls": [],
+    "slug": "fusing-online-and-face-to-face-social-networks-wi",
+    "source_url": "https://www.youtube.com/watch?v=U38CQ0oGARk",
+    "speakers": [
+        "Andre Panisson",
+        "Ciro Cattuto",
+        "Marco Quaggiotto"
+    ],
+    "state": 1,
+    "summary": "We describe the architecture of an application designed to enhance social interactions at conference gatherings by integrating data from online social networks and from wearable proximity sensors. The pipeline that processes the stream of sensor data and provides proximity-based services is implemented in Python and Twisted, and has been demonstrated to scale to thousands of simultaneous users.",
+    "tags": [
+        "poster"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/U38CQ0oGARk/hqdefault.jpg",
+    "title": "Fusing Online and Face-to-Face Social Networks with Python and RFIDs",
+    "updated": "2014-04-08T20:28:26.548",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

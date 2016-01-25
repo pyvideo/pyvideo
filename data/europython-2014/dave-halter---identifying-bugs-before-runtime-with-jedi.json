@@ -1,1 +1,42 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/DfVHSw0iOsk/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/DfVHSw0iOsk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/DfVHSw0iOsk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:29.796", "whiteboard": "", "video_flv_length": null, "title": "Identifying Bugs Before Runtime With Jedi", "duration": null, "description": "Jedi is an autocompletion library for Python that has gained quite a following over the last year. There are a couple of plugins for the most popular editors (VIM, Sublime, Emacs, etc.) and mainstream IDEs like Spyder are switching to Jedi.\r\n\r\nJedi basically tries to redefine the boundaries of autocompletion in dynamic languages. Most people still think that there's no hope for decent autocompletion in Python. This talk will try to argue the opposite, that decent autocompletion is very close.\r\n\r\nWhile the first part will be about Jedi, the second part of this talk will discuss the future of dynamic analysis. Dynamic Analysis is what I call the parts that static analysis doesn't cover. The hope is to generate a kind of \"compiler\" that doesn't execute code but reports additional bugs in your code (AttributeErrors and the like). \r\n\r\nI still have to work out the details of the presentation. I also have to add that Jedi I'm currently working full-time on Jedi and that there's going to be some major improvements until the conference. Autocompletion and static/dynamic analysis as well as refactoring are hugely important tools for a dynamic language IMHO, because they can improve the only big disadvantage compared to static languages: Finding bugs before running your tool.", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-23", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=DfVHSw0iOsk", "video_webm_url": "", "summary": "Finding bugs before runtime has been an incredibly tedious task in Python. Jedi is an autocompletion library with interesting capabilities: It understands a lot of the dynamic features of Python. I will show you how we can use the force of (the) Jedi to identify bugs in your Python code. It's not just another pylint. It's way better.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-08-01T07:53:39.266", "id": 2990, "related_urls": [{"url": "https://github.com/davidhalter/jedi", "description": ""}], "slug": "identifying-bugs-before-runtime-with-jedi", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Dave Halter"]}
+{
+    "added": "2014-07-31T00:46:29.796",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "Jedi is an autocompletion library for Python that has gained quite a following over the last year. There are a couple of plugins for the most popular editors (VIM, Sublime, Emacs, etc.) and mainstream IDEs like Spyder are switching to Jedi.\r\n\r\nJedi basically tries to redefine the boundaries of autocompletion in dynamic languages. Most people still think that there's no hope for decent autocompletion in Python. This talk will try to argue the opposite, that decent autocompletion is very close.\r\n\r\nWhile the first part will be about Jedi, the second part of this talk will discuss the future of dynamic analysis. Dynamic Analysis is what I call the parts that static analysis doesn't cover. The hope is to generate a kind of \"compiler\" that doesn't execute code but reports additional bugs in your code (AttributeErrors and the like). \r\n\r\nI still have to work out the details of the presentation. I also have to add that Jedi I'm currently working full-time on Jedi and that there's going to be some major improvements until the conference. Autocompletion and static/dynamic analysis as well as refactoring are hugely important tools for a dynamic language IMHO, because they can improve the only big disadvantage compared to static languages: Finding bugs before running your tool.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/DfVHSw0iOsk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/DfVHSw0iOsk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2990,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-23",
+    "related_urls": [
+        {
+            "description": "",
+            "url": "https://github.com/davidhalter/jedi"
+        }
+    ],
+    "slug": "identifying-bugs-before-runtime-with-jedi",
+    "source_url": "http://www.youtube.com/watch?v=DfVHSw0iOsk",
+    "speakers": [
+        "Dave Halter"
+    ],
+    "state": 1,
+    "summary": "Finding bugs before runtime has been an incredibly tedious task in Python. Jedi is an autocompletion library with interesting capabilities: It understands a lot of the dynamic features of Python. I will show you how we can use the force of (the) Jedi to identify bugs in your Python code. It's not just another pylint. It's way better.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/DfVHSw0iOsk/hqdefault.jpg",
+    "title": "Identifying Bugs Before Runtime With Jedi",
+    "updated": "2014-08-01T07:53:39.266",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

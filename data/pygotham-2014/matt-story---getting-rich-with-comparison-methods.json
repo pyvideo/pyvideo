@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/RcVQveUjq8U/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/RcVQveUjq8U' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2014-10-26T18:22:36.967", "whiteboard": "", "video_flv_length": null, "title": "Getting Rich with Comparison Methods", "duration": null, "description": "Matt's obsession with Python's rich comparison methods started about 6 years ago with a gnarly bug and some bad assumptions. A few long nights and a lot of reading later, the docs corrected my assumption:\r\n\r\nThere are no implied relationships among the comparison operators. The truth of x==y does not imply that x!=y is false.\r\nMind == blown and mind != blown. In Getting Rich with Comparison Methods we'll start by learning how to avoid common and costly bugs in your rich comparison methods, learn a bit about which methods are executed in comparisons and why, and then go beyond symmetrical comparisons exploring some of the ways we can take full advantage of asymmetrical comparison methods.", "state": 1, "category": "PyGotham 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-09-17", "copyright_text": "youtube", "source_url": "https://www.youtube.com/watch?v=RcVQveUjq8U", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-10-26T18:22:36.967", "id": 3302, "related_urls": [], "slug": "getting-rich-with-comparison-methods", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Matt Story"]}
+{
+    "added": "2014-10-26T18:22:36.967",
+    "category": "PyGotham 2014",
+    "copyright_text": "youtube",
+    "description": "Matt's obsession with Python's rich comparison methods started about 6 years ago with a gnarly bug and some bad assumptions. A few long nights and a lot of reading later, the docs corrected my assumption:\r\n\r\nThere are no implied relationships among the comparison operators. The truth of x==y does not imply that x!=y is false.\r\nMind == blown and mind != blown. In Getting Rich with Comparison Methods we'll start by learning how to avoid common and costly bugs in your rich comparison methods, learn a bit about which methods are executed in comparisons and why, and then go beyond symmetrical comparisons exploring some of the ways we can take full advantage of asymmetrical comparison methods.",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/RcVQveUjq8U' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3302,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-09-17",
+    "related_urls": [],
+    "slug": "getting-rich-with-comparison-methods",
+    "source_url": "https://www.youtube.com/watch?v=RcVQveUjq8U",
+    "speakers": [
+        "Matt Story"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/RcVQveUjq8U/hqdefault.jpg",
+    "title": "Getting Rich with Comparison Methods",
+    "updated": "2014-10-26T18:22:36.967",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

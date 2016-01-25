@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/I0vOG5WTicU/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/I0vOG5WTicU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/I0vOG5WTicU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-10-19T19:48:56", "whiteboard": "", "video_flv_length": null, "title": "Publishing Theology with Python", "duration": null, "description": "@ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 2\r\n\r\n**Audience level**\r\n\r\nIntermediate\r\n\r\n**Abstract**\r\n\r\nPython tools are used for publishing a large corpus of theological literature. Python is used to help convert the existing literature from its original, poorly styled, MS Word format to docutils source format. Solutions are presented to various domain-specific problems, including making the documents bible-version independent. The paver tool is used to manage the conversion process from docutils to the various output formats. Some rejected alternative publishing technologies are covered, as well as a future road map.\r\n\r\n**Slides**\r\n\r\nhttps://speakerdeck.com/nzpug/carl-cerecke-publishing-theology-with-python", "state": 1, "category": "Kiwi PyCon 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-09-12", "copyright_text": "", "source_url": "http://www.youtube.com/watch?v=I0vOG5WTicU", "video_webm_url": "", "summary": "How to use python tools to represent and publish a large corpus of theological literature.\r\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.103", "id": 2365, "related_urls": [], "slug": "publishing-theology-with-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Carl Cerecke"]}
+{
+    "added": "2013-10-19T19:48:56",
+    "category": "Kiwi PyCon 2013",
+    "copyright_text": "",
+    "description": "@ Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 2\r\n\r\n**Audience level**\r\n\r\nIntermediate\r\n\r\n**Abstract**\r\n\r\nPython tools are used for publishing a large corpus of theological literature. Python is used to help convert the existing literature from its original, poorly styled, MS Word format to docutils source format. Solutions are presented to various domain-specific problems, including making the documents bible-version independent. The paver tool is used to manage the conversion process from docutils to the various output formats. Some rejected alternative publishing technologies are covered, as well as a future road map.\r\n\r\n**Slides**\r\n\r\nhttps://speakerdeck.com/nzpug/carl-cerecke-publishing-theology-with-python",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/I0vOG5WTicU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/I0vOG5WTicU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2365,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-09-12",
+    "related_urls": [],
+    "slug": "publishing-theology-with-python",
+    "source_url": "http://www.youtube.com/watch?v=I0vOG5WTicU",
+    "speakers": [
+        "Carl Cerecke"
+    ],
+    "state": 1,
+    "summary": "How to use python tools to represent and publish a large corpus of theological literature.\r\n",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/I0vOG5WTicU/hqdefault.jpg",
+    "title": "Publishing Theology with Python",
+    "updated": "2014-04-08T20:28:26.103",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

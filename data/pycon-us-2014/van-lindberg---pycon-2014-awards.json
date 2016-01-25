@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "", "embed": "", "added": "2014-05-27T15:26:06.968", "whiteboard": "", "video_flv_length": null, "title": "PyCon 2014 Awards", "duration": null, "description": "", "state": 1, "category": "PyCon US 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2014/pycon2014_awards.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-04-13", "copyright_text": "", "source_url": "", "video_webm_url": "", "summary": "The awards portion of Van Lindberg's keynote at PyCon 2014.", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2014/pycon2014_awards.ogv", "video_ogv_length": null, "updated": "2014-05-27T15:26:29.461", "id": 2702, "related_urls": [], "slug": "pycon-2014-awards", "quality_notes": "Video looks lousy.", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Van Lindberg"]}
+{
+    "added": "2014-05-27T15:26:06.968",
+    "category": "PyCon US 2014",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "",
+    "id": 2702,
+    "language": "English",
+    "quality_notes": "Video looks lousy.",
+    "recorded": "2014-04-13",
+    "related_urls": [],
+    "slug": "pycon-2014-awards",
+    "source_url": "",
+    "speakers": [
+        "Van Lindberg"
+    ],
+    "state": 1,
+    "summary": "The awards portion of Van Lindberg's keynote at PyCon 2014.",
+    "tags": [],
+    "thumbnail_url": "",
+    "title": "PyCon 2014 Awards",
+    "updated": "2014-05-27T15:26:29.461",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2014/pycon2014_awards.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2014/pycon2014_awards.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

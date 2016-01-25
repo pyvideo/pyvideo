@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/gj5i_19Bftk/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/gj5i_19Bftk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/gj5i_19Bftk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:41", "whiteboard": "needs editing", "video_flv_length": null, "title": "Matplotlib: past, present and future; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=gj5i_19Bftk", "video_webm_url": null, "summary": "Authors: Michael Droettboom\n\nTrack: Reproducible Science\n\nThis talk will be a general \"state of the project address\" for matplotlib, the popular plotting library in the scientific Python stack. It will provide an update about new features added to matplotlib over the course of the last year, outline some ongoing planned work, and describe some challenges to move into the future. The new features include a web browser backend, \"sketch\" style, and numerous other bugfixes and improvements. Also discussed will be the challenges and lessons learned moving to Python 3. Our new \"MEP\" (matplotlib enhancement proposal) method will be introduced, and the ongoing MEPs will be discussed, such as moving to properties, updating the docstrings, etc. Some of the more pie-in-the-sky plans (such as styling and serializing) will be discussed. It is hoped that this overview will be useful for those who use matplotlib, but don't necessarily follow its mailing list in detail, and also serve as a call to arms for assistance for the project.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.352", "id": 2036, "related_urls": [], "slug": "matplotlib-past-present-and-future-scipy-2013", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:41",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/gj5i_19Bftk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/gj5i_19Bftk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2036,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [],
+    "slug": "matplotlib-past-present-and-future-scipy-2013",
+    "source_url": "http://www.youtube.com/watch?v=gj5i_19Bftk",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Michael Droettboom\n\nTrack: Reproducible Science\n\nThis talk will be a general \"state of the project address\" for matplotlib, the popular plotting library in the scientific Python stack. It will provide an update about new features added to matplotlib over the course of the last year, outline some ongoing planned work, and describe some challenges to move into the future. The new features include a web browser backend, \"sketch\" style, and numerous other bugfixes and improvements. Also discussed will be the challenges and lessons learned moving to Python 3. Our new \"MEP\" (matplotlib enhancement proposal) method will be introduced, and the ongoing MEPs will be discussed, such as moving to properties, updating the docstrings, etc. Some of the more pie-in-the-sky plans (such as styling and serializing) will be discussed. It is hoped that this overview will be useful for those who use matplotlib, but don't necessarily follow its mailing list in detail, and also serve as a call to arms for assistance for the project.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/gj5i_19Bftk/hqdefault.jpg",
+    "title": "Matplotlib: past, present and future; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.352",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

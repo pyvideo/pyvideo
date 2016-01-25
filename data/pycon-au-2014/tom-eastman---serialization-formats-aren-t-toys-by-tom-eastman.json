@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/LrW-HSHP0ws/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/LrW-HSHP0ws?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/LrW-HSHP0ws?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-08-14T15:33:09.981", "whiteboard": "needs editing", "video_flv_length": null, "title": "Serialization formats aren't toys by Tom Eastman", "duration": null, "description": "Do you have an API? \r\n\r\nDo you accept input from users? Do you accept it in XML? What about YAML? Or maybe JSON? How safe are you?\r\n\r\nAre you sure?\r\n\r\nIt\u2019s not in the OWASP Top 10, but you don\u2019t have to look far to hear stories of security vulnerabilities involving deserialization of user input. Why do they keep happening?\r\n\r\nIn this talk I\u2019ll go over what the threat is, how you are making yourself vulnerable and how to mitigate the problem. I\u2019ll cover the features (not bugs, features) of formats like XML, YAML, and JSON that make them surprisingly dangerous, and how to protect your code from them.\r\n\r\nBecause here\u2019s the thing: If you are using, say, a compliant, properly implemented XML parser to parse your XML, you are NOT safe. Possibly quite the opposite.", "state": 1, "category": "PyCon AU 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-08-07", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=LrW-HSHP0ws", "video_webm_url": "", "summary": "", "video_ogv_url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/63-out.ogv", "video_ogv_length": null, "updated": "2014-08-14T19:18:24.020", "id": 3128, "related_urls": [], "slug": "serialization-formats-arent-toys-by-tom-eastman", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Tom Eastman"]}
+{
+    "added": "2014-08-14T15:33:09.981",
+    "category": "PyCon AU 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "Do you have an API? \r\n\r\nDo you accept input from users? Do you accept it in XML? What about YAML? Or maybe JSON? How safe are you?\r\n\r\nAre you sure?\r\n\r\nIt\u2019s not in the OWASP Top 10, but you don\u2019t have to look far to hear stories of security vulnerabilities involving deserialization of user input. Why do they keep happening?\r\n\r\nIn this talk I\u2019ll go over what the threat is, how you are making yourself vulnerable and how to mitigate the problem. I\u2019ll cover the features (not bugs, features) of formats like XML, YAML, and JSON that make them surprisingly dangerous, and how to protect your code from them.\r\n\r\nBecause here\u2019s the thing: If you are using, say, a compliant, properly implemented XML parser to parse your XML, you are NOT safe. Possibly quite the opposite.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/LrW-HSHP0ws?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/LrW-HSHP0ws?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3128,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-08-07",
+    "related_urls": [],
+    "slug": "serialization-formats-arent-toys-by-tom-eastman",
+    "source_url": "http://www.youtube.com/watch?v=LrW-HSHP0ws",
+    "speakers": [
+        "Tom Eastman"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/LrW-HSHP0ws/hqdefault.jpg",
+    "title": "Serialization formats aren't toys by Tom Eastman",
+    "updated": "2014-08-14T19:18:24.020",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/63-out.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing"
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/51RpDZKShiw/hqdefault.jpg", "embed": "", "added": "2015-08-10T15:48:35.134", "whiteboard": "", "video_flv_length": null, "title": "SQLAlchemy ORM for Beginners", "duration": 3087, "description": "We'll explore how to get started with SQLAlchemy ORM. We'll learn how to build data models, connect to databases, how the session works, and perform CRUD operations.", "state": 1, "category": "PyGotham 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3802_SQLAlchemy_ORM_for_Beginners.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-16", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/51RpDZKShiw", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-18T13:48:17.429", "id": 3802, "related_urls": [], "slug": "sqlalchemy-orm-for-beginners", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Jason Myers"]}
+{
+    "added": "2015-08-10T15:48:35.134",
+    "category": "PyGotham 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "We'll explore how to get started with SQLAlchemy ORM. We'll learn how to build data models, connect to databases, how the session works, and perform CRUD operations.",
+    "duration": 3087,
+    "embed": "",
+    "id": 3802,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-16",
+    "related_urls": [],
+    "slug": "sqlalchemy-orm-for-beginners",
+    "source_url": "http://youtu.be/51RpDZKShiw",
+    "speakers": [
+        "Jason Myers"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/51RpDZKShiw/hqdefault.jpg",
+    "title": "SQLAlchemy ORM for Beginners",
+    "updated": "2015-08-18T13:48:17.429",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3802_SQLAlchemy_ORM_for_Beginners.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

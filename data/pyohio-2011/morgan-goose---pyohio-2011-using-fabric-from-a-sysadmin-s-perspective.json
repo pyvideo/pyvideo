@@ -1,1 +1,41 @@
-{"tags": ["fabric", "pyohio", "pyohio2011"], "thumbnail_url": "http://a.images.blip.tv/Pyohio-UsingFabricFromASysadminsPerspective251.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyOhio 2011: Using Fabric - from a sysadmin's perspective", "duration": null, "description": "Using Fabric -- from a sysadmin's perspective\n\nPresented by Morgan Goose\n\nFabric is a great tool written in python for python devs. It allows you to\nscript remote interactions on a remote server and only requires ssh and a\nshell on the remote host. It's commonly pigeonholed into a deployment tool,\nbut it can but used for more than just websites.\n\n", "state": 1, "category": "PyOhio 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/547_pyohio-2011-using-fabric-from-a-sysadmin-s-perspective.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution 2.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 209937660, "updated": "2014-04-08T20:28:25.882", "id": 547, "related_urls": [], "slug": "pyohio-2011--using-fabric---from-a-sysadmin--39-s", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Morgan Goose"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyOhio 2011",
+    "copyright_text": "Creative Commons Attribution 2.0",
+    "description": "Using Fabric -- from a sysadmin's perspective\n\nPresented by Morgan Goose\n\nFabric is a great tool written in python for python devs. It allows you to\nscript remote interactions on a remote server and only requires ssh and a\nshell on the remote host. It's commonly pigeonholed into a deployment tool,\nbut it can but used for more than just websites.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 547,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyohio-2011--using-fabric---from-a-sysadmin--39-s",
+    "source_url": "",
+    "speakers": [
+        "Morgan Goose"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "fabric",
+        "pyohio",
+        "pyohio2011"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pyohio-UsingFabricFromASysadminsPerspective251.png",
+    "title": "PyOhio 2011: Using Fabric - from a sysadmin's perspective",
+    "updated": "2014-04-08T20:28:25.882",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/547_pyohio-2011-using-fabric-from-a-sysadmin-s-perspective.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 209937660,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

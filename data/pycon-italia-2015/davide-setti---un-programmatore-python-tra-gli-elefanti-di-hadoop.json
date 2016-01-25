@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/HSJVNFr0GzY/maxresdefault.jpg", "embed": "", "added": "2015-06-14T17:04:24.802", "whiteboard": "", "video_flv_length": null, "title": "Un programmatore python tra gli elefanti (di Hadoop)", "duration": 2215, "description": "Una vita idilliaca tra list comprehension e generator, senza preoccuparti troppo dei tipi. Sei felice. E poi arriva lui. Hadoop. Ma tu non devi abbatterti. C\u2019\u00e8 speranza. Come sopravvivere in un ecosistema Java?\nL\u2019obiettivo di questo talk \u00e8 di introdurre Hadoop e come \u00e8 possibile utilizzare Python, quando ha senso farlo. Verranno introdotti:\n\nHadoop MapReduce e HDFS\nHadoop Streaming\nPig\nYARN\nSpark\n\nNon si vuole proporre un uso forzato di Python dove non ha senso, ma solo suggerire in base all\u2019esperienza maturata quando \u00e8 utile e quali sono i limiti.\n", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-29", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=HSJVNFr0GzY", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-14T17:04:24.802", "id": 3603, "related_urls": [], "slug": "un-programmatore-python-tra-gli-elefanti-di-hado", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "Italian", "video_ogv_download_only": false, "speakers": ["Davide Setti"]}
+{
+    "added": "2015-06-14T17:04:24.802",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "Una vita idilliaca tra list comprehension e generator, senza preoccuparti troppo dei tipi. Sei felice. E poi arriva lui. Hadoop. Ma tu non devi abbatterti. C\u2019\u00e8 speranza. Come sopravvivere in un ecosistema Java?\nL\u2019obiettivo di questo talk \u00e8 di introdurre Hadoop e come \u00e8 possibile utilizzare Python, quando ha senso farlo. Verranno introdotti:\n\nHadoop MapReduce e HDFS\nHadoop Streaming\nPig\nYARN\nSpark\n\nNon si vuole proporre un uso forzato di Python dove non ha senso, ma solo suggerire in base all\u2019esperienza maturata quando \u00e8 utile e quali sono i limiti.\n",
+    "duration": 2215,
+    "embed": "",
+    "id": 3603,
+    "language": "Italian",
+    "quality_notes": "",
+    "recorded": "2015-05-29",
+    "related_urls": [],
+    "slug": "un-programmatore-python-tra-gli-elefanti-di-hado",
+    "source_url": "https://www.youtube.com/watch?v=HSJVNFr0GzY",
+    "speakers": [
+        "Davide Setti"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/HSJVNFr0GzY/maxresdefault.jpg",
+    "title": "Un programmatore python tra gli elefanti (di Hadoop)",
+    "updated": "2015-06-14T17:04:24.802",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

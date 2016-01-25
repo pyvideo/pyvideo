@@ -1,1 +1,39 @@
-{"tags": ["backup"], "thumbnail_url": "http://i.ytimg.com/vi/t4eycS8ayFA/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/t4eycS8ayFA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/t4eycS8ayFA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:28:35", "whiteboard": "", "video_flv_length": null, "title": "Scrivere un tool parallelo e distribuito per backup multi-terabyte", "duration": null, "description": "Una trattazione sull'uso di Python per implementare un tool per il backup\ngiornaliero di un data warehouse di oltre 50 terabyte, basato sulla tecnologia\nGreenplum Database.\n\nQuesto intervento racconta la nostra esperienza, dalla raccolta dei requisiti\nutente alla prima release del tool, descrivendo i principali problemi\nincontrati e i moduli Python usati per risolverli, usando metodologie agili\nper lo sviluppo.\n\nSebbene l'applicazione non sia disponibile come progetto open-source, questo\nintervento fornisce degli spunti di valore a proposito dello sviluppo di\napplicazioni distribuite e parallele usando Python.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-13", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=t4eycS8ayFA", "video_webm_url": null, "summary": "[EuroPython 2011] Marco Nenciarini - 23 June 2011 in \"Track Italiana Big Mac \"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.886", "id": 1180, "related_urls": [], "slug": "scrivere-un-tool-parallelo-e-distribuito-per-back", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "Italian", "video_ogv_download_only": false, "speakers": ["Marco Nenciarini"]}
+{
+    "added": "2012-08-30T21:28:35",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "Una trattazione sull'uso di Python per implementare un tool per il backup\ngiornaliero di un data warehouse di oltre 50 terabyte, basato sulla tecnologia\nGreenplum Database.\n\nQuesto intervento racconta la nostra esperienza, dalla raccolta dei requisiti\nutente alla prima release del tool, descrivendo i principali problemi\nincontrati e i moduli Python usati per risolverli, usando metodologie agili\nper lo sviluppo.\n\nSebbene l'applicazione non sia disponibile come progetto open-source, questo\nintervento fornisce degli spunti di valore a proposito dello sviluppo di\napplicazioni distribuite e parallele usando Python.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/t4eycS8ayFA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/t4eycS8ayFA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1180,
+    "language": "Italian",
+    "quality_notes": "",
+    "recorded": "2011-07-13",
+    "related_urls": [],
+    "slug": "scrivere-un-tool-parallelo-e-distribuito-per-back",
+    "source_url": "http://www.youtube.com/watch?v=t4eycS8ayFA",
+    "speakers": [
+        "Marco Nenciarini"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Marco Nenciarini - 23 June 2011 in \"Track Italiana Big Mac \"\n\n",
+    "tags": [
+        "backup"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/t4eycS8ayFA/hqdefault.jpg",
+    "title": "Scrivere un tool parallelo e distribuito per backup multi-terabyte",
+    "updated": "2014-04-08T20:28:27.886",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

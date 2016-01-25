@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/sTVSCoylluc/maxresdefault.jpg", "embed": "", "added": "2015-06-17T16:46:53.930", "whiteboard": "", "video_flv_length": null, "title": "Puppet and Python", "duration": 1513, "description": "", "state": 1, "category": "PyCon SE 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-25", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=sTVSCoylluc", "video_webm_url": null, "summary": "Building tooling around Puppet, but in Python! People forget that even though a tool like Puppet is written in Ruby or PuppetDB in Clojure, as long as we have an API to talk to we can build anything we need by layering in some Python.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-17T16:46:53.930", "id": 3649, "related_urls": [], "slug": "puppet-and-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Daniele Sluijters"]}
+{
+    "added": "2015-06-17T16:46:53.930",
+    "category": "PyCon SE 2015",
+    "copyright_text": "",
+    "description": "",
+    "duration": 1513,
+    "embed": "",
+    "id": 3649,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-05-25",
+    "related_urls": [],
+    "slug": "puppet-and-python",
+    "source_url": "https://www.youtube.com/watch?v=sTVSCoylluc",
+    "speakers": [
+        "Daniele Sluijters"
+    ],
+    "state": 1,
+    "summary": "Building tooling around Puppet, but in Python! People forget that even though a tool like Puppet is written in Ruby or PuppetDB in Clojure, as long as we have an API to talk to we can build anything we need by layering in some Python.",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/sTVSCoylluc/maxresdefault.jpg",
+    "title": "Puppet and Python",
+    "updated": "2015-06-17T16:46:53.930",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/-Wx3FToSPT8/maxresdefault.jpg", "embed": "", "added": "2015-07-31T17:40:38.489", "whiteboard": "", "video_flv_length": null, "title": "Le packaging : o\u00f9 est est-on ?", "duration": 1670, "description": "", "state": 1, "category": "PyCon FR 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-11-30", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=-Wx3FToSPT8", "video_webm_url": null, "summary": "Wheel, pypi, setuptools... l'actualit\u00e9 du packaging a \u00e9t\u00e9 riche en 2013. Petit \u00e9tat des lieux.\n\n- Pourquoi utiliser le nouveau format wheel ?\n- Que s'est-il pass\u00e9 cette ann\u00e9e pour que l'installation de package python soit plus simple, fiable et rapide ?\n- Distribute ou setuptools ?\n\nLe packaging s'est peut-\u00eatre enfin simplifi\u00e9 cette ann\u00e9e, nous verrons pourquoi et comment en profiter.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-07-31T17:40:38.489", "id": 3733, "related_urls": [], "slug": "le-packaging-ou-est-est-on", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "French", "video_ogv_download_only": false, "speakers": ["Christophe de Vienne"]}
+{
+    "added": "2015-07-31T17:40:38.489",
+    "category": "PyCon FR 2013",
+    "copyright_text": "",
+    "description": "",
+    "duration": 1670,
+    "embed": "",
+    "id": 3733,
+    "language": "French",
+    "quality_notes": "",
+    "recorded": "2013-11-30",
+    "related_urls": [],
+    "slug": "le-packaging-ou-est-est-on",
+    "source_url": "https://www.youtube.com/watch?v=-Wx3FToSPT8",
+    "speakers": [
+        "Christophe de Vienne"
+    ],
+    "state": 1,
+    "summary": "Wheel, pypi, setuptools... l'actualit\u00e9 du packaging a \u00e9t\u00e9 riche en 2013. Petit \u00e9tat des lieux.\n\n- Pourquoi utiliser le nouveau format wheel ?\n- Que s'est-il pass\u00e9 cette ann\u00e9e pour que l'installation de package python soit plus simple, fiable et rapide ?\n- Distribute ou setuptools ?\n\nLe packaging s'est peut-\u00eatre enfin simplifi\u00e9 cette ann\u00e9e, nous verrons pourquoi et comment en profiter.",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/-Wx3FToSPT8/maxresdefault.jpg",
+    "title": "Le packaging : o\u00f9 est est-on ?",
+    "updated": "2015-07-31T17:40:38.489",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

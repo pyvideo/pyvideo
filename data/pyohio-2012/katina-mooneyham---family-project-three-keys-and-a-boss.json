@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i3.ytimg.com/vi/ZHgZA_6X9iQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/ZHgZA_6X9iQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/ZHgZA_6X9iQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-10-01T13:14:00", "whiteboard": "", "video_flv_length": null, "title": "Family Project: Three Keys and a Boss", "duration": null, "description": "", "state": 1, "category": "PyOhio 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Family_Project_Three_Keys_and_a_Boss.mp4?Signature=9W74cuJY6jeFo1XbnUj7v4d30ws%3D&Expires=1346582878&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-28", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=ZHgZA_6X9iQ", "video_webm_url": "", "summary": "One family's project experience programming with Python. From conception\nthrough programming through execution.\n\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:27.080", "id": 1365, "related_urls": [], "slug": "family-project-three-keys-and-a-boss", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Katina Mooneyham"]}
+{
+    "added": "2012-10-01T13:14:00",
+    "category": "PyOhio 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/ZHgZA_6X9iQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/ZHgZA_6X9iQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1365,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-07-28",
+    "related_urls": [],
+    "slug": "family-project-three-keys-and-a-boss",
+    "source_url": "https://www.youtube.com/watch?v=ZHgZA_6X9iQ",
+    "speakers": [
+        "Katina Mooneyham"
+    ],
+    "state": 1,
+    "summary": "One family's project experience programming with Python. From conception\nthrough programming through execution.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i3.ytimg.com/vi/ZHgZA_6X9iQ/hqdefault.jpg",
+    "title": "Family Project: Three Keys and a Boss",
+    "updated": "2014-04-08T20:28:27.080",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Family_Project_Three_Keys_and_a_Boss.mp4?Signature=9W74cuJY6jeFo1XbnUj7v4d30ws%3D&Expires=1346582878&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

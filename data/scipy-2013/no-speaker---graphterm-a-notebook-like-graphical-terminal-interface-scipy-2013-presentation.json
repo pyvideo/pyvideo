@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/nO0ceHmTlDQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/nO0ceHmTlDQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/nO0ceHmTlDQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:56", "whiteboard": "needs editing", "video_flv_length": null, "title": "GraphTerm: A notebook-like graphical terminal interface; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-01", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=nO0ceHmTlDQ", "video_webm_url": null, "summary": "GraphTerm: A notebook-like graphical terminal interface for collaboration and inline data visualization\n\nAuthors: Ramalingam Saravanan, Texas A&M University\n\nTrack: Reproducible Science\n\nThe notebook interface, which blends text and graphics, has been in use for a number of years in commercial mathematical software and is now finding more widespread usage in scientific Python with the availability browser-based front-ends like the Sage and IPython notebooks. This talk will describe a new open-source Python project, GraphTerm, that takes a slightly different approach to blending text and graphics to create a notebook-like interface. Rather than operating at the application level, it works at the unix shell level by extending the command line interface to incorporate elements of the graphical user interface. The xterm terminal escape sequences are augmented to allow any program to interactively display inline graphics (or other HTML content) simply by writing to standard output.\n\nGraphTerm is designed to be a drop-in replacement for the standard unix terminal, with additional features for multiplexing sessions and easy deployment in the cloud. The interface aims to be tablet-friendly, with features like clickable/tappable directory listings for navigating folders etc. The user can switch, as needed, between standard a-line-at-a-time shell mode and the notebook mode, where multiple lines of code are entered in cells, allowing for in-place editing and re-execution. Multiple users can share terminal sessions for collaborative computing.\n\nGraphTerm is implemented in Python, using the Tornado web framework for the server component and HTML+Javascript for the browser client. The presentation will discuss the architecture of GraphTerm as well as provide specific usage examples, such as inline visualization of meteorological data using matplotlib, and collaborative presentations using Landslide, a python-based slideshow tool.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.401", "id": 2115, "related_urls": [], "slug": "graphterm-a-notebook-like-graphical-terminal-int-1", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:56",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/nO0ceHmTlDQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/nO0ceHmTlDQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2115,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-01",
+    "related_urls": [],
+    "slug": "graphterm-a-notebook-like-graphical-terminal-int-1",
+    "source_url": "http://www.youtube.com/watch?v=nO0ceHmTlDQ",
+    "speakers": [],
+    "state": 1,
+    "summary": "GraphTerm: A notebook-like graphical terminal interface for collaboration and inline data visualization\n\nAuthors: Ramalingam Saravanan, Texas A&M University\n\nTrack: Reproducible Science\n\nThe notebook interface, which blends text and graphics, has been in use for a number of years in commercial mathematical software and is now finding more widespread usage in scientific Python with the availability browser-based front-ends like the Sage and IPython notebooks. This talk will describe a new open-source Python project, GraphTerm, that takes a slightly different approach to blending text and graphics to create a notebook-like interface. Rather than operating at the application level, it works at the unix shell level by extending the command line interface to incorporate elements of the graphical user interface. The xterm terminal escape sequences are augmented to allow any program to interactively display inline graphics (or other HTML content) simply by writing to standard output.\n\nGraphTerm is designed to be a drop-in replacement for the standard unix terminal, with additional features for multiplexing sessions and easy deployment in the cloud. The interface aims to be tablet-friendly, with features like clickable/tappable directory listings for navigating folders etc. The user can switch, as needed, between standard a-line-at-a-time shell mode and the notebook mode, where multiple lines of code are entered in cells, allowing for in-place editing and re-execution. Multiple users can share terminal sessions for collaborative computing.\n\nGraphTerm is implemented in Python, using the Tornado web framework for the server component and HTML+Javascript for the browser client. The presentation will discuss the architecture of GraphTerm as well as provide specific usage examples, such as inline visualization of meteorological data using matplotlib, and collaborative presentations using Landslide, a python-based slideshow tool.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/nO0ceHmTlDQ/hqdefault.jpg",
+    "title": "GraphTerm: A notebook-like graphical terminal interface; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.401",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

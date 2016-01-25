@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/X3ImPHjAmUQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/X3ImPHjAmUQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/X3ImPHjAmUQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-09-26T00:28:45.747", "whiteboard": "", "video_flv_length": null, "title": "Snakes in Sheets", "duration": 3000, "description": "Microsoft Excel continues to be popular across many industries where data analysis is fundamental to success. It marries powerful organization and presentation functionality to sift through large datasets. However, the default scripting language for Excel, VBA, is often cumbersome to use. Python is maturing as a quantitative scripting language with a growing scientific community around it, so it makes great sense to marry Excel\u2019s user interface with Python\u2019s extensive data acquisition and analysis libraries.\r\n\r\nThis talk introduces you to Pyinex, an open source project to embed a Python interpreter within an Excel addin. It directly exposes Python user defined functions as Excel worksheet functions, allows users to call arbitrary Python code from within Excel, and provides an interactive Python session all from within the same process space. Pyinex brings to Excel all the goodies of Python\u2014data analysis using SciPy, NumPy, Pandas and more; integration with databases, web services, and other network resources; rapid function prototyping; extensive library support; and so much more.\r\n\r\nThis talk will demonstrate the capabilities of Pyinex and give an overview of how it works internally.  The aim is to present the tool for both end-users and developers to inspire the audience thinking of new use cases and spark conversation on how to further improve the project.\r\n", "state": 1, "category": "PyTexas 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3197_Snakes_in_Sheets.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-05", "copyright_text": "CC-BY", "source_url": "http://www.youtube.com/watch?v=X3ImPHjAmUQ", "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3197_Snakes_in_Sheets.webm", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-10-09T11:29:56.308", "id": 3197, "related_urls": [], "slug": "snakes-in-sheets", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Abhipray Sahoo"]}
+{
+    "added": "2014-09-26T00:28:45.747",
+    "category": "PyTexas 2014",
+    "copyright_text": "CC-BY",
+    "description": "Microsoft Excel continues to be popular across many industries where data analysis is fundamental to success. It marries powerful organization and presentation functionality to sift through large datasets. However, the default scripting language for Excel, VBA, is often cumbersome to use. Python is maturing as a quantitative scripting language with a growing scientific community around it, so it makes great sense to marry Excel\u2019s user interface with Python\u2019s extensive data acquisition and analysis libraries.\r\n\r\nThis talk introduces you to Pyinex, an open source project to embed a Python interpreter within an Excel addin. It directly exposes Python user defined functions as Excel worksheet functions, allows users to call arbitrary Python code from within Excel, and provides an interactive Python session all from within the same process space. Pyinex brings to Excel all the goodies of Python\u2014data analysis using SciPy, NumPy, Pandas and more; integration with databases, web services, and other network resources; rapid function prototyping; extensive library support; and so much more.\r\n\r\nThis talk will demonstrate the capabilities of Pyinex and give an overview of how it works internally.  The aim is to present the tool for both end-users and developers to inspire the audience thinking of new use cases and spark conversation on how to further improve the project.\r\n",
+    "duration": 3000,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/X3ImPHjAmUQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/X3ImPHjAmUQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3197,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-05",
+    "related_urls": [],
+    "slug": "snakes-in-sheets",
+    "source_url": "http://www.youtube.com/watch?v=X3ImPHjAmUQ",
+    "speakers": [
+        "Abhipray Sahoo"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/X3ImPHjAmUQ/hqdefault.jpg",
+    "title": "Snakes in Sheets",
+    "updated": "2014-10-09T11:29:56.308",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3197_Snakes_in_Sheets.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3197_Snakes_in_Sheets.webm",
+    "whiteboard": ""
+}

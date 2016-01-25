@@ -1,1 +1,46 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/cj-DTFmIUjE/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/cj-DTFmIUjE?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/cj-DTFmIUjE?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-01-08T18:25:22.844", "whiteboard": "", "video_flv_length": null, "title": "Lexical Graphs with Natural Language Processing using NLTK", "duration": 45, "description": "", "state": 1, "category": "ChiPy", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/2554_Lexical_Graphs_with_Natural_Language_Processing_us.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-01-09", "copyright_text": "CC BY", "source_url": "https://www.youtube.com/watch?v=cj-DTFmIUjE", "video_webm_url": "", "summary": "Brian will talk about his experiences using Python and NLTK http://nltk.org/ to run language comparisons to generate lexical difference graphs like the one mentioned in the \"Lexical Distance Among the Languages of Europe\" article. http://bit.ly/1cS46Ba\r\n\r\nThe focus will be on the NLTK and how its internals work to process a language. This talk will be his best one ever.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:25.969", "id": 2554, "related_urls": [{"url": "https://docs.google.com/presentation/d/1f9hskRQ62jejWeByALfF5I_3d5vWrDnrWQqZqGyxqnM/edit#slide=id.p", "description": "Slides"}, {"url": "http://nbviewer.ipython.org/github/brianray/chipy_nlp/blob/master/docs/NPL%20ChiPy%20Jan%202014.ipynb", "description": "ipython notebook"}], "slug": "lexical-graphs-with-natural-language-processing-u", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Brian Ray"]}
+{
+    "added": "2014-01-08T18:25:22.844",
+    "category": "ChiPy",
+    "copyright_text": "CC BY",
+    "description": "",
+    "duration": 45,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/cj-DTFmIUjE?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/cj-DTFmIUjE?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2554,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-01-09",
+    "related_urls": [
+        {
+            "description": "Slides",
+            "url": "https://docs.google.com/presentation/d/1f9hskRQ62jejWeByALfF5I_3d5vWrDnrWQqZqGyxqnM/edit#slide=id.p"
+        },
+        {
+            "description": "ipython notebook",
+            "url": "http://nbviewer.ipython.org/github/brianray/chipy_nlp/blob/master/docs/NPL%20ChiPy%20Jan%202014.ipynb"
+        }
+    ],
+    "slug": "lexical-graphs-with-natural-language-processing-u",
+    "source_url": "https://www.youtube.com/watch?v=cj-DTFmIUjE",
+    "speakers": [
+        "Brian Ray"
+    ],
+    "state": 1,
+    "summary": "Brian will talk about his experiences using Python and NLTK http://nltk.org/ to run language comparisons to generate lexical difference graphs like the one mentioned in the \"Lexical Distance Among the Languages of Europe\" article. http://bit.ly/1cS46Ba\r\n\r\nThe focus will be on the NLTK and how its internals work to process a language. This talk will be his best one ever.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/cj-DTFmIUjE/hqdefault.jpg",
+    "title": "Lexical Graphs with Natural Language Processing using NLTK",
+    "updated": "2014-04-08T20:28:25.969",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/chipy/2554_Lexical_Graphs_with_Natural_Language_Processing_us.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

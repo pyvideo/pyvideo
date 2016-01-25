@@ -1,1 +1,39 @@
-{"tags": ["Room 215"], "thumbnail_url": "https://i.ytimg.com/vi/cSWb834XPpM/hqdefault.jpg", "embed": "", "added": "2015-10-03T10:59:30.761", "whiteboard": "", "video_flv_length": null, "title": "\"Python in Production\" Panel Discussion", "duration": 3935, "description": "A panel discussion on using and deploying Python projects in production. The panel will follow a simple discussion format with panelists responding to questions from the audience.\r\n\r\nPanel chair:\r\n* *Simon Cross*\r\n\r\nPanelists:\r\n\r\n* *Andy Rabagliati* (CSIR / CHPC)\r\n* *Bryn Divey* (Oracle)\r\n* *Colin Alston* (Praekelt)\r\n* *Milton Madanda* (Praekelt)\r\n* *Stefano Rivera* (Debian Developer)", "state": 1, "category": "PyCon ZA 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-10-02", "copyright_text": "", "source_url": "http://youtu.be/cSWb834XPpM", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2015-10-04T01:57:32.629", "id": 3942, "related_urls": [], "slug": "python-in-production-panel-discussion", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Simon Cross"]}
+{
+    "added": "2015-10-03T10:59:30.761",
+    "category": "PyCon ZA 2015",
+    "copyright_text": "",
+    "description": "A panel discussion on using and deploying Python projects in production. The panel will follow a simple discussion format with panelists responding to questions from the audience.\r\n\r\nPanel chair:\r\n* *Simon Cross*\r\n\r\nPanelists:\r\n\r\n* *Andy Rabagliati* (CSIR / CHPC)\r\n* *Bryn Divey* (Oracle)\r\n* *Colin Alston* (Praekelt)\r\n* *Milton Madanda* (Praekelt)\r\n* *Stefano Rivera* (Debian Developer)",
+    "duration": 3935,
+    "embed": "",
+    "id": 3942,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-10-02",
+    "related_urls": [],
+    "slug": "python-in-production-panel-discussion",
+    "source_url": "http://youtu.be/cSWb834XPpM",
+    "speakers": [
+        "Simon Cross"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "Room 215"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/cSWb834XPpM/hqdefault.jpg",
+    "title": "\"Python in Production\" Panel Discussion",
+    "updated": "2015-10-04T01:57:32.629",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

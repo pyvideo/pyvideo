@@ -1,1 +1,47 @@
-{"tags": ["panel", "pycon", "pycon2011", "sellingpython"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011HowToSellPython286.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "How to sell Python", "duration": null, "description": "How to sell Python\n\nPresented by Daniel Greenfeld , C. Titus Brown , Dan Mesh , Chris Shenton ,\nRich Leland , Frank Wiles\n\nA lot of people want to use Python, but their customer, management, school,\ngovernment, or organization won't let them. Python is a great tool, but it can\nbe challenging to get in the door. This panel will explore how companies and\nindividuals have successfully introduced Python, what tools are available to\nsell Python, and what pitfalls there are to avoid.\n\nAbstract\n\nA lot of people want to use Python, but their customer, management, school,\ngovernment, or organization won't let them. Python is a great tool, but it can\nbe challenging to get in the door. This panel will explore how companies and\nindividuals have successfully introduced Python, what tools are available to\nsell Python, and what pitfalls there are to avoid.\n\nPossible questions will include:\n\n  * What is a good example success story you can share? \n  * What pitfalls should you avoid? \n  * How do you deal with organizations that have already spent bucketloads of money on a piss-poor technology stack, are hurting for it, but can't seem to let go? \n  * How do you fight Fear-Uncertainty-Doubt (FUD) spread by people who stand to lose from introducing Python? \n  * What tools are available to help sell Python? \n\nFive panelists will be chosen from a broad spectrum of individuals including\nacademic, government, for-profit organizations, and non-profit organizations.\n\nSpeakers:\n\n  * Academia: C. Titus Brown \n  * Goverment: Chris Shenton of Koansys/NASA \n  * Large Commercial Organization: Dan Mesh of Evite \n  * Small Commercial Organization: Frank Wiles of RevSys \n  * Non-Profit Organization: Rich Leland of National Geographic \n\n", "state": 1, "category": "PyCon US 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/378_how-to-sell-python.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-03-11", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 154279517, "updated": "2014-04-08T20:28:27.986", "id": 378, "related_urls": [], "slug": "pycon-2011--how-to-sell-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Chris Shenton", "C. Titus Brown", "Daniel Greenfeld", "Dan Mesh", "Frank Wiles", "Rich Leland"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2011",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "How to sell Python\n\nPresented by Daniel Greenfeld , C. Titus Brown , Dan Mesh , Chris Shenton ,\nRich Leland , Frank Wiles\n\nA lot of people want to use Python, but their customer, management, school,\ngovernment, or organization won't let them. Python is a great tool, but it can\nbe challenging to get in the door. This panel will explore how companies and\nindividuals have successfully introduced Python, what tools are available to\nsell Python, and what pitfalls there are to avoid.\n\nAbstract\n\nA lot of people want to use Python, but their customer, management, school,\ngovernment, or organization won't let them. Python is a great tool, but it can\nbe challenging to get in the door. This panel will explore how companies and\nindividuals have successfully introduced Python, what tools are available to\nsell Python, and what pitfalls there are to avoid.\n\nPossible questions will include:\n\n  * What is a good example success story you can share? \n  * What pitfalls should you avoid? \n  * How do you deal with organizations that have already spent bucketloads of money on a piss-poor technology stack, are hurting for it, but can't seem to let go? \n  * How do you fight Fear-Uncertainty-Doubt (FUD) spread by people who stand to lose from introducing Python? \n  * What tools are available to help sell Python? \n\nFive panelists will be chosen from a broad spectrum of individuals including\nacademic, government, for-profit organizations, and non-profit organizations.\n\nSpeakers:\n\n  * Academia: C. Titus Brown \n  * Goverment: Chris Shenton of Koansys/NASA \n  * Large Commercial Organization: Dan Mesh of Evite \n  * Small Commercial Organization: Frank Wiles of RevSys \n  * Non-Profit Organization: Rich Leland of National Geographic \n\n",
+    "duration": null,
+    "embed": "",
+    "id": 378,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-03-11",
+    "related_urls": [],
+    "slug": "pycon-2011--how-to-sell-python",
+    "source_url": "",
+    "speakers": [
+        "Chris Shenton",
+        "C. Titus Brown",
+        "Daniel Greenfeld",
+        "Dan Mesh",
+        "Frank Wiles",
+        "Rich Leland"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "panel",
+        "pycon",
+        "pycon2011",
+        "sellingpython"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2011HowToSellPython286.png",
+    "title": "How to sell Python",
+    "updated": "2014-04-08T20:28:27.986",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/378_how-to-sell-python.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 154279517,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/72lahT9Umtg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/72lahT9Umtg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/72lahT9Umtg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-10T12:02:20", "whiteboard": "", "video_flv_length": null, "title": "Modules 101: how to avoid spaghetti, big balls of mud and houses of straw!", "duration": 30, "description": "", "state": 1, "category": "PyCon AU 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvpyconau2013/Modules_101_how_to_avoid_spagh.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-06", "copyright_text": "CC-BY-SA", "source_url": "https://www.youtube.com/watch?v=72lahT9Umtg", "video_webm_url": null, "summary": "This introductory tutorial will teach you how to effectively use modules and packages so your code is easier to read, test, package, deploy, reuse and maintain.\r\n\r\nWe will cover the basics of structuring your code with modules and packages, ways of using the import statement, how to document modules and packages, and a number of tips to ensure your code is less likely to end up a tangled mess that collapses when you need to modify or extend it.\r\n\r\nThis talk is compatible with Python 2 and 3.\r\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.281", "id": 2206, "related_urls": [], "slug": "modules-101-how-to-avoid-spaghetti-big-balls-of", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Graeme Cross"]}
+{
+    "added": "2013-07-10T12:02:20",
+    "category": "PyCon AU 2013",
+    "copyright_text": "CC-BY-SA",
+    "description": "",
+    "duration": 30,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/72lahT9Umtg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/72lahT9Umtg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2206,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-06",
+    "related_urls": [],
+    "slug": "modules-101-how-to-avoid-spaghetti-big-balls-of",
+    "source_url": "https://www.youtube.com/watch?v=72lahT9Umtg",
+    "speakers": [
+        "Graeme Cross"
+    ],
+    "state": 1,
+    "summary": "This introductory tutorial will teach you how to effectively use modules and packages so your code is easier to read, test, package, deploy, reuse and maintain.\r\n\r\nWe will cover the basics of structuring your code with modules and packages, ways of using the import statement, how to document modules and packages, and a number of tips to ensure your code is less likely to end up a tangled mess that collapses when you need to modify or extend it.\r\n\r\nThis talk is compatible with Python 2 and 3.\r\n",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/72lahT9Umtg/hqdefault.jpg",
+    "title": "Modules 101: how to avoid spaghetti, big balls of mud and houses of straw!",
+    "updated": "2014-04-08T20:28:26.281",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvpyconau2013/Modules_101_how_to_avoid_spagh.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,42 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/zdXLSEdtyaY/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/zdXLSEdtyaY' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2014-11-05T22:41:05.502", "whiteboard": "", "video_flv_length": null, "title": "Speeding up Scientific Python code using Cython", "duration": null, "description": "", "state": 1, "category": "EuroScipy 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-10-22", "copyright_text": "youtube", "source_url": "https://www.youtube.com/watch?v=zdXLSEdtyaY", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-11-05T22:57:24.174", "id": 3342, "related_urls": [{"url": "https://github.com/stefanv/teaching", "description": ""}], "slug": "speeding-up-scientific-python-code-using-cython", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["St\u00e9fan van der Walt"]}
+{
+    "added": "2014-11-05T22:41:05.502",
+    "category": "EuroScipy 2014",
+    "copyright_text": "youtube",
+    "description": "",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/zdXLSEdtyaY' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3342,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-10-22",
+    "related_urls": [
+        {
+            "description": "",
+            "url": "https://github.com/stefanv/teaching"
+        }
+    ],
+    "slug": "speeding-up-scientific-python-code-using-cython",
+    "source_url": "https://www.youtube.com/watch?v=zdXLSEdtyaY",
+    "speakers": [
+        "St\u00e9fan van der Walt"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/zdXLSEdtyaY/hqdefault.jpg",
+    "title": "Speeding up Scientific Python code using Cython",
+    "updated": "2014-11-05T22:57:24.174",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

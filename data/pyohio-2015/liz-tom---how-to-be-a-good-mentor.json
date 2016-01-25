@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "https://i.ytimg.com/vi/j1G9R0DHNWA/hqdefault.jpg", "embed": "", "added": "2015-07-22T20:50:00.257", "whiteboard": "", "video_flv_length": null, "title": "How to be a good mentor", "duration": 1412, "description": "I've been lucky enough to work with a team of 15 engineers and every single one of them has been a mentor to me formally or informally.  What makes a great mentor? How can you encourage people to stay in the field and help them to become better engineers. When your junior developers are better your whole team benefits. ", "state": 1, "category": "PyOhio 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3719_How_to_be_a_good_mentor.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-01", "copyright_text": "CC BY", "source_url": "http://youtu.be/j1G9R0DHNWA", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-02T12:17:45.047", "id": 3719, "related_urls": [], "slug": "how-to-be-a-good-mentor", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Liz Tom"]}
+{
+    "added": "2015-07-22T20:50:00.257",
+    "category": "PyOhio 2015",
+    "copyright_text": "CC BY",
+    "description": "I've been lucky enough to work with a team of 15 engineers and every single one of them has been a mentor to me formally or informally.  What makes a great mentor? How can you encourage people to stay in the field and help them to become better engineers. When your junior developers are better your whole team benefits. ",
+    "duration": 1412,
+    "embed": "",
+    "id": 3719,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-01",
+    "related_urls": [],
+    "slug": "how-to-be-a-good-mentor",
+    "source_url": "http://youtu.be/j1G9R0DHNWA",
+    "speakers": [
+        "Liz Tom"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/j1G9R0DHNWA/hqdefault.jpg",
+    "title": "How to be a good mentor",
+    "updated": "2015-08-02T12:17:45.047",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3719_How_to_be_a_good_mentor.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

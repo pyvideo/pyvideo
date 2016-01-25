@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/Eb8CMuNKdJ0/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Eb8CMuNKdJ0?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Eb8CMuNKdJ0?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:59", "whiteboard": "needs editing", "video_flv_length": null, "title": "Julia and Python: a dynamic duo for scientific computing; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-01", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=Eb8CMuNKdJ0", "video_webm_url": null, "summary": "Authors: Bezanson, Jeff, MIT; Karpinski, Stefan, MIT\n\nTrack: General\n\nJulia is a recent addition to the collection of tools a scientist has available for tackling computational problems. It combines the simple programming model of a dynamic language like Python with the performance of a compiled language, while exposing expressive high-level features such as a sophisticated type system, dynamic multiple dispatch, Lisp-style macros and metaprogramming.\n\nJulia can natively make zero-overhead calls to C and Fortran libraries without wrappers or data copying. Moreover, Julia can now call Python as well [3], with automatic bidirectional type conversion, bidirectional callbacks, and copy-free sharing of lists, dictionaries, and NumPy arrays. This is as simple as:\n\njulia&gt; using PyCall\njulia&gt; @pyimport scipy.optimize as so\njulia&gt; so.newton(x-&gt;cos(x)-x, 1)\n0.7390851332151607\nConversely, Python code can dynamically load the Julia runtime library and execute arbitrary Julia code. We have exploited this possibility to run Julia within the IPython environment [4]:\n\nIn [1]: %load_ext juliamagic\nIn [2]: jfib = %julia fib(n) = n &lt; 2 ? n : fib(n-1) + fib(n-2)\nOut[2]: &lt;PyCall.jlwrap fib&gt;\nIn [3]: jfib(20)\nOut[3]: 6765\nIn this talk we'll give an introduction to the Julia language and demonstrate how you can use Julia where it makes sense for you, while continuing to use your favorite scientific libraries and existing Python and C code.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.408", "id": 2130, "related_urls": [], "slug": "julia-and-python-a-dynamic-duo-for-scientific-co-1", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:59",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Eb8CMuNKdJ0?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Eb8CMuNKdJ0?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2130,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-01",
+    "related_urls": [],
+    "slug": "julia-and-python-a-dynamic-duo-for-scientific-co-1",
+    "source_url": "http://www.youtube.com/watch?v=Eb8CMuNKdJ0",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Bezanson, Jeff, MIT; Karpinski, Stefan, MIT\n\nTrack: General\n\nJulia is a recent addition to the collection of tools a scientist has available for tackling computational problems. It combines the simple programming model of a dynamic language like Python with the performance of a compiled language, while exposing expressive high-level features such as a sophisticated type system, dynamic multiple dispatch, Lisp-style macros and metaprogramming.\n\nJulia can natively make zero-overhead calls to C and Fortran libraries without wrappers or data copying. Moreover, Julia can now call Python as well [3], with automatic bidirectional type conversion, bidirectional callbacks, and copy-free sharing of lists, dictionaries, and NumPy arrays. This is as simple as:\n\njulia&gt; using PyCall\njulia&gt; @pyimport scipy.optimize as so\njulia&gt; so.newton(x-&gt;cos(x)-x, 1)\n0.7390851332151607\nConversely, Python code can dynamically load the Julia runtime library and execute arbitrary Julia code. We have exploited this possibility to run Julia within the IPython environment [4]:\n\nIn [1]: %load_ext juliamagic\nIn [2]: jfib = %julia fib(n) = n &lt; 2 ? n : fib(n-1) + fib(n-2)\nOut[2]: &lt;PyCall.jlwrap fib&gt;\nIn [3]: jfib(20)\nOut[3]: 6765\nIn this talk we'll give an introduction to the Julia language and demonstrate how you can use Julia where it makes sense for you, while continuing to use your favorite scientific libraries and existing Python and C code.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/Eb8CMuNKdJ0/hqdefault.jpg",
+    "title": "Julia and Python: a dynamic duo for scientific computing; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.408",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

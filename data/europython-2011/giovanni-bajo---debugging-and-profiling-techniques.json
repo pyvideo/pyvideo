@@ -1,1 +1,45 @@
-{"tags": ["cpython", "debugging", "design", "memory", "performance", "profiling", "python,"], "thumbnail_url": "http://i.ytimg.com/vi/J29uIkdmHs8/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/J29uIkdmHs8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/J29uIkdmHs8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:46", "whiteboard": "", "video_flv_length": null, "title": "Debugging and profiling techniques", "duration": null, "description": "This talk will give on overview over some common problems related to profiling\nand debugging CPython applications (especially desktop-based ones).\n\nThe following subjects will be covered:\n\n  * Debugging of memory/resource leaks (circular references, **del**, weakref, garbage collector, etc.). We will show in details how the memory management of Python objects work and we will show a few tricks to track memory leaks\n  * Python code profiling (profile/hotshots/cProfile, design of small tests, etc.). We will show how to measure, profile, and analyse an application to spot performance problems and solve them.\n  * Post-mortem step-by-step debugging of C/C++ extension under Windows. We will show how to setup Visual Studio for debugging, how to see a traceback in case of an unexpected segfault, and how to further debug and solve the crash.\n\nThis talk is aimed at intermediate Python programmers, who have already\ndeveloped non-trivial Python applications but have never \"jumped through\" the\ninterpreter abstraction layer. If you feel a little lost when you see a\nsegfault from a Python program or you don't have a clear idea how memory is\ncollected in Python, this talk is perfect for you.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-07", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=J29uIkdmHs8", "video_webm_url": null, "summary": "[EuroPython 2011] Giovanni Bajo - 22 June 2011 in \"Track Spaghetti\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.934", "id": 1157, "related_urls": [], "slug": "debugging-and-profiling-techniques-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Giovanni Bajo"]}
+{
+    "added": "2012-08-30T21:02:46",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "This talk will give on overview over some common problems related to profiling\nand debugging CPython applications (especially desktop-based ones).\n\nThe following subjects will be covered:\n\n  * Debugging of memory/resource leaks (circular references, **del**, weakref, garbage collector, etc.). We will show in details how the memory management of Python objects work and we will show a few tricks to track memory leaks\n  * Python code profiling (profile/hotshots/cProfile, design of small tests, etc.). We will show how to measure, profile, and analyse an application to spot performance problems and solve them.\n  * Post-mortem step-by-step debugging of C/C++ extension under Windows. We will show how to setup Visual Studio for debugging, how to see a traceback in case of an unexpected segfault, and how to further debug and solve the crash.\n\nThis talk is aimed at intermediate Python programmers, who have already\ndeveloped non-trivial Python applications but have never \"jumped through\" the\ninterpreter abstraction layer. If you feel a little lost when you see a\nsegfault from a Python program or you don't have a clear idea how memory is\ncollected in Python, this talk is perfect for you.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/J29uIkdmHs8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/J29uIkdmHs8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1157,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-07",
+    "related_urls": [],
+    "slug": "debugging-and-profiling-techniques-0",
+    "source_url": "http://www.youtube.com/watch?v=J29uIkdmHs8",
+    "speakers": [
+        "Giovanni Bajo"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Giovanni Bajo - 22 June 2011 in \"Track Spaghetti\"\n\n",
+    "tags": [
+        "cpython",
+        "debugging",
+        "design",
+        "memory",
+        "performance",
+        "profiling",
+        "python,"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/J29uIkdmHs8/hqdefault.jpg",
+    "title": "Debugging and profiling techniques",
+    "updated": "2014-04-08T20:28:27.934",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

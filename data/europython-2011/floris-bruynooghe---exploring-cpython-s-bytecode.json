@@ -1,1 +1,41 @@
-{"tags": ["bytecode", "cpython", "vm"], "thumbnail_url": "http://i.ytimg.com/vi/YeSn9aovFCg/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/YeSn9aovFCg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/YeSn9aovFCg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:02:22", "whiteboard": "", "video_flv_length": null, "title": "Exploring CPython's bytecode", "duration": null, "description": "The CPython interpreter always compiles your source code to bytecode, usually\nstored in .pyc files. This bytecode is then loaded and executed in the CPython\nvirtual machine.\n\nThis talk will explore the bytecode from the outside in. Starting with how to\nread a .pyc file, following the steps the interpreter takes to arrive and a\nusable python module. It then dives into the structure of the bytecode itself\nand the principles of the virtual machine, detailing how the VM executes this\nbytecode to do useful work.\n\nHaving seen all these details you should have a good idea of the various\ninnards of CPython and how to manipulate these to create weird, wonderful,\ndangerous and occasional useful hacks.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-18", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=YeSn9aovFCg", "video_webm_url": null, "summary": "[EuroPython 2011] Floris Bruynooghe - 22 June 2011 in \"Track Lasagne\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.778", "id": 1070, "related_urls": [], "slug": "exploring-cpythons-bytecode-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Floris Bruynooghe"]}
+{
+    "added": "2012-08-30T21:02:22",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "The CPython interpreter always compiles your source code to bytecode, usually\nstored in .pyc files. This bytecode is then loaded and executed in the CPython\nvirtual machine.\n\nThis talk will explore the bytecode from the outside in. Starting with how to\nread a .pyc file, following the steps the interpreter takes to arrive and a\nusable python module. It then dives into the structure of the bytecode itself\nand the principles of the virtual machine, detailing how the VM executes this\nbytecode to do useful work.\n\nHaving seen all these details you should have a good idea of the various\ninnards of CPython and how to manipulate these to create weird, wonderful,\ndangerous and occasional useful hacks.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/YeSn9aovFCg?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/YeSn9aovFCg?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1070,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2011-07-18",
+    "related_urls": [],
+    "slug": "exploring-cpythons-bytecode-0",
+    "source_url": "http://www.youtube.com/watch?v=YeSn9aovFCg",
+    "speakers": [
+        "Floris Bruynooghe"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Floris Bruynooghe - 22 June 2011 in \"Track Lasagne\"\n\n",
+    "tags": [
+        "bytecode",
+        "cpython",
+        "vm"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/YeSn9aovFCg/hqdefault.jpg",
+    "title": "Exploring CPython's bytecode",
+    "updated": "2014-04-08T20:28:27.778",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

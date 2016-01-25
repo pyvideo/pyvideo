@@ -1,1 +1,39 @@
-{"tags": ["Room 215"], "thumbnail_url": "https://i.ytimg.com/vi/2urUj9NRqFc/hqdefault.jpg", "embed": "", "added": "2015-09-30T02:45:38.128", "whiteboard": "", "video_flv_length": null, "title": "How I learnt to stop worrying and love Boost.Python", "duration": 2137, "description": "The Zen of Python dictates that there should be one - and preferably only one - obvious way to do something. However, when it comes to interoperation with C and C++, there is a multitude of options: the Python C API, Boost.Python, ctypes, cffi, Cython. I will describe my quest to find the **holy grail**^W^W **right interface** for a high-performance networking library.\r\n\r\nThe talk is largely a case study in applying Boost.Python, and will look at some issues such as the Global Interpreter Lock, handling KeyboardInterrupt cleanly, and managing object lifetime. I will briefly mention some of the alternative tools to explain why I settled on Boost.Python. It is not a complete Boost.Python tutorial, but rather aims to give a sense of the flavour and show how it's used in a real application.\r\n\r\nFor obvious reasons, this talk will have a lot of C++ code in it, and some familiarity with C++ will be useful.", "state": 1, "category": "PyCon ZA 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-10-02", "copyright_text": "", "source_url": "http://youtu.be/2urUj9NRqFc", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2015-10-04T10:23:32.542", "id": 3933, "related_urls": [], "slug": "how-i-learnt-to-stop-worrying-and-love-boostpyth", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Bruce Merry"]}
+{
+    "added": "2015-09-30T02:45:38.128",
+    "category": "PyCon ZA 2015",
+    "copyright_text": "",
+    "description": "The Zen of Python dictates that there should be one - and preferably only one - obvious way to do something. However, when it comes to interoperation with C and C++, there is a multitude of options: the Python C API, Boost.Python, ctypes, cffi, Cython. I will describe my quest to find the **holy grail**^W^W **right interface** for a high-performance networking library.\r\n\r\nThe talk is largely a case study in applying Boost.Python, and will look at some issues such as the Global Interpreter Lock, handling KeyboardInterrupt cleanly, and managing object lifetime. I will briefly mention some of the alternative tools to explain why I settled on Boost.Python. It is not a complete Boost.Python tutorial, but rather aims to give a sense of the flavour and show how it's used in a real application.\r\n\r\nFor obvious reasons, this talk will have a lot of C++ code in it, and some familiarity with C++ will be useful.",
+    "duration": 2137,
+    "embed": "",
+    "id": 3933,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-10-02",
+    "related_urls": [],
+    "slug": "how-i-learnt-to-stop-worrying-and-love-boostpyth",
+    "source_url": "http://youtu.be/2urUj9NRqFc",
+    "speakers": [
+        "Bruce Merry"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "Room 215"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/2urUj9NRqFc/hqdefault.jpg",
+    "title": "How I learnt to stop worrying and love Boost.Python",
+    "updated": "2015-10-04T10:23:32.542",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

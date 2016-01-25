@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/8hHOxfXcWsg/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/8hHOxfXcWsg' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2014-10-26T18:22:34.212", "whiteboard": "", "video_flv_length": null, "title": "Why is Python So Fast?", "duration": null, "description": "A peek under the hood of all your favorite scientific Python packages.", "state": 1, "category": "PyGotham 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-09-16", "copyright_text": "youtube", "source_url": "https://www.youtube.com/watch?v=8hHOxfXcWsg", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-10-26T18:22:34.213", "id": 3288, "related_urls": [], "slug": "why-is-python-so-fast", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Eric Chiang"]}
+{
+    "added": "2014-10-26T18:22:34.212",
+    "category": "PyGotham 2014",
+    "copyright_text": "youtube",
+    "description": "A peek under the hood of all your favorite scientific Python packages.",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/8hHOxfXcWsg' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3288,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-09-16",
+    "related_urls": [],
+    "slug": "why-is-python-so-fast",
+    "source_url": "https://www.youtube.com/watch?v=8hHOxfXcWsg",
+    "speakers": [
+        "Eric Chiang"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/8hHOxfXcWsg/hqdefault.jpg",
+    "title": "Why is Python So Fast?",
+    "updated": "2014-10-26T18:22:34.213",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

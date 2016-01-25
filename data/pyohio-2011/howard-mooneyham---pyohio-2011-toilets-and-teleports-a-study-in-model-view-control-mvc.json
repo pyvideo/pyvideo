@@ -1,1 +1,42 @@
-{"tags": ["mvc", "pyohio", "pyohio2011", "tutorial"], "thumbnail_url": "http://a.images.blip.tv/Pyohio-ToiletsAndTeleportsAStudyInModelViewControlMVC138.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyOhio 2011: Toilets and Teleports - A study in Model-View-Control (MVC)", "duration": null, "description": "Toilets and Teleports - A study in Model-View-Control (MVC)\n\nPresented by Howard Mooneyham\n\nHave you ever wondered how to create a Model View Control program? Come to my\ntalk and we will go through building a simple MVC program, Toilets and\nTeleports. We will then use one of the benefits of MVC to replace the View\nwith a production quality version with GUI no other changes. I will pass out\nflow charts and documents showing how the program was created.\n\n", "state": 1, "category": "PyOhio 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/545_pyohio-2011-toilets-and-teleports-a-study-in-model-view-control-mvc.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution 2.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 193052664, "updated": "2014-04-08T20:28:25.880", "id": 545, "related_urls": [], "slug": "pyohio-2011--toilets-and-teleports---a-study-in-m", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Howard Mooneyham"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyOhio 2011",
+    "copyright_text": "Creative Commons Attribution 2.0",
+    "description": "Toilets and Teleports - A study in Model-View-Control (MVC)\n\nPresented by Howard Mooneyham\n\nHave you ever wondered how to create a Model View Control program? Come to my\ntalk and we will go through building a simple MVC program, Toilets and\nTeleports. We will then use one of the benefits of MVC to replace the View\nwith a production quality version with GUI no other changes. I will pass out\nflow charts and documents showing how the program was created.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 545,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyohio-2011--toilets-and-teleports---a-study-in-m",
+    "source_url": "",
+    "speakers": [
+        "Howard Mooneyham"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "mvc",
+        "pyohio",
+        "pyohio2011",
+        "tutorial"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pyohio-ToiletsAndTeleportsAStudyInModelViewControlMVC138.png",
+    "title": "PyOhio 2011: Toilets and Teleports - A study in Model-View-Control (MVC)",
+    "updated": "2014-04-08T20:28:25.880",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2011/545_pyohio-2011-toilets-and-teleports-a-study-in-model-view-control-mvc.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 193052664,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

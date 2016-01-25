@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/4YTz3qUBxSk/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/4YTz3qUBxSk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/4YTz3qUBxSk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-08-14T15:33:05.324", "whiteboard": "needs editing", "video_flv_length": null, "title": "OpenStack MiniConf: Large Scale Identification of Race Conditions  by Joseph Gordon (HP)", "duration": null, "description": "", "state": 1, "category": "PyCon AU 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-08-11", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=4YTz3qUBxSk", "video_webm_url": "", "summary": "", "video_ogv_url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/97-out.ogv", "video_ogv_length": null, "updated": "2014-08-14T15:48:37.873", "id": 3086, "related_urls": [], "slug": "openstack-miniconf-large-scale-identification-of", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Joseph Gordon"]}
+{
+    "added": "2014-08-14T15:33:05.324",
+    "category": "PyCon AU 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/4YTz3qUBxSk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/4YTz3qUBxSk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3086,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-08-11",
+    "related_urls": [],
+    "slug": "openstack-miniconf-large-scale-identification-of",
+    "source_url": "http://www.youtube.com/watch?v=4YTz3qUBxSk",
+    "speakers": [
+        "Joseph Gordon"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/4YTz3qUBxSk/hqdefault.jpg",
+    "title": "OpenStack MiniConf: Large Scale Identification of Race Conditions  by Joseph Gordon (HP)",
+    "updated": "2014-08-14T15:48:37.873",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/97-out.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing"
+}

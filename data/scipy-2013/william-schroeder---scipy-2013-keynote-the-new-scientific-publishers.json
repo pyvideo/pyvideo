@@ -1,1 +1,40 @@
-{"tags": ["open science", "reproducibility"], "thumbnail_url": "http://i1.ytimg.com/vi/7FIjpuwE0BQ/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/7FIjpuwE0BQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/7FIjpuwE0BQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:31", "whiteboard": "", "video_flv_length": null, "title": "SciPy 2013 Keynote: The New Scientific Publishers", "duration": null, "description": "Presenter: William Schroeder, Kitware\r\n\r\nTrack: Keynotes\r\n\r\nScientific societies such as the Royal Society were formed in the 17th century with the goals of sharing information and ensuring reproducibility. Very quickly scientific letters and publications were assembled into collected transactions and eventually journals. For hundreds of years publishers served admirably as disseminators of scientific knowledge. Publications, and the associated peer review process, became central to the scientific process, greatly impacting how science is practiced, knowledge disseminated, and careers made. However, as software becomes increasingly important to the practice of science, and data becomes larger and more complex, the conventional scientific journal is no longer an adequate vehicle to communicate scientific findings and ensure reproducibility. So who are the new scientific publishers filling these needs, and what roles will they play in the future of science?\r\n\r\nIn this presentation we'll discuss the central mandate of reproducibility, and the role of Open Science, in particular Open Access, Open Source and Open Data, and how emerging communities and organizations are filling the needs of the scientific community. We'll also discuss the challenges of curating the avalanche of scientific knowledge, whether it be software, data or publications, and how these communities and organizations can work together to support science progress, and ensure continued technological innovation.", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-01", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=7FIjpuwE0BQ", "video_webm_url": "", "summary": "...As software becomes increasingly important to the practice of science, and data becomes larger and more complex, the conventional scientific journal is no longer an adequate vehicle to communicate scientific findings and ensure reproducibility. So who are the new scientific publishers filling these needs, and what roles will they play in the future of science?", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.437", "id": 1963, "related_urls": [], "slug": "scipy-2013-keynote-the-new-scientific-publishers-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["William Schroeder"]}
+{
+    "added": "2013-07-04T10:08:31",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "Presenter: William Schroeder, Kitware\r\n\r\nTrack: Keynotes\r\n\r\nScientific societies such as the Royal Society were formed in the 17th century with the goals of sharing information and ensuring reproducibility. Very quickly scientific letters and publications were assembled into collected transactions and eventually journals. For hundreds of years publishers served admirably as disseminators of scientific knowledge. Publications, and the associated peer review process, became central to the scientific process, greatly impacting how science is practiced, knowledge disseminated, and careers made. However, as software becomes increasingly important to the practice of science, and data becomes larger and more complex, the conventional scientific journal is no longer an adequate vehicle to communicate scientific findings and ensure reproducibility. So who are the new scientific publishers filling these needs, and what roles will they play in the future of science?\r\n\r\nIn this presentation we'll discuss the central mandate of reproducibility, and the role of Open Science, in particular Open Access, Open Source and Open Data, and how emerging communities and organizations are filling the needs of the scientific community. We'll also discuss the challenges of curating the avalanche of scientific knowledge, whether it be software, data or publications, and how these communities and organizations can work together to support science progress, and ensure continued technological innovation.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/7FIjpuwE0BQ?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/7FIjpuwE0BQ?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1963,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-01",
+    "related_urls": [],
+    "slug": "scipy-2013-keynote-the-new-scientific-publishers-0",
+    "source_url": "http://www.youtube.com/watch?v=7FIjpuwE0BQ",
+    "speakers": [
+        "William Schroeder"
+    ],
+    "state": 1,
+    "summary": "...As software becomes increasingly important to the practice of science, and data becomes larger and more complex, the conventional scientific journal is no longer an adequate vehicle to communicate scientific findings and ensure reproducibility. So who are the new scientific publishers filling these needs, and what roles will they play in the future of science?",
+    "tags": [
+        "open science",
+        "reproducibility"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/7FIjpuwE0BQ/hqdefault.jpg",
+    "title": "SciPy 2013 Keynote: The New Scientific Publishers",
+    "updated": "2014-04-08T20:28:26.437",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

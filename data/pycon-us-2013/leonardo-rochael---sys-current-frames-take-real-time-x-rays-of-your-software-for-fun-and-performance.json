@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i3.ytimg.com/vi/fZkJi3N4k9I/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/fZkJi3N4k9I?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/fZkJi3N4k9I?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:55:51", "whiteboard": "", "video_flv_length": null, "title": "sys._current_frames(): Take real-time x-rays of your software for fun and performance", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/sys_current_frames_Take_realti.mp4?Signature=g%2F2CG59J6Un0xDvH27D%2FB798UzU%3D&Expires=1363663186&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-15", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=fZkJi3N4k9I", "video_webm_url": "", "summary": "Profiling is hard. Trying to understand what is making your system slow can be very frustrating. Specially when it happens only when your clients are looking, but not you.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.733", "id": 1757, "related_urls": [], "slug": "sys_current_frames-take-real-time-x-rays-of-y-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Leonardo Rochael"]}
+{
+    "added": "2013-03-13T18:55:51",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/fZkJi3N4k9I?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/fZkJi3N4k9I?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1757,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-15",
+    "related_urls": [],
+    "slug": "sys_current_frames-take-real-time-x-rays-of-y-0",
+    "source_url": "https://www.youtube.com/watch?v=fZkJi3N4k9I",
+    "speakers": [
+        "Leonardo Rochael"
+    ],
+    "state": 1,
+    "summary": "Profiling is hard. Trying to understand what is making your system slow can be very frustrating. Specially when it happens only when your clients are looking, but not you.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i3.ytimg.com/vi/fZkJi3N4k9I/hqdefault.jpg",
+    "title": "sys._current_frames(): Take real-time x-rays of your software for fun and performance",
+    "updated": "2014-04-08T20:28:26.733",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/sys_current_frames_Take_realti.mp4?Signature=g%2F2CG59J6Un0xDvH27D%2FB798UzU%3D&Expires=1363663186&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

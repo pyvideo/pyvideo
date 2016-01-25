@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/K0KOvAc201M/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/K0KOvAc201M' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2014-11-26T17:50:49.791", "whiteboard": "", "video_flv_length": null, "title": "ASYNCHRONOUS PROGRAMMING WITH NEW ASYNCIO MODULE.", "duration": null, "description": "", "state": 1, "category": "PyCon Ukraine 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-11-01", "copyright_text": "youtube", "source_url": "https://www.youtube.com/watch?v=K0KOvAc201M", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-11-27T16:21:01.845", "id": 3345, "related_urls": [], "slug": "asynchronous-programming-with-new-asyncio-module", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "Russian", "video_ogv_download_only": false, "speakers": ["Alexei Popravka"]}
+{
+    "added": "2014-11-26T17:50:49.791",
+    "category": "PyCon Ukraine 2014",
+    "copyright_text": "youtube",
+    "description": "",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/K0KOvAc201M' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3345,
+    "language": "Russian",
+    "quality_notes": "",
+    "recorded": "2014-11-01",
+    "related_urls": [],
+    "slug": "asynchronous-programming-with-new-asyncio-module",
+    "source_url": "https://www.youtube.com/watch?v=K0KOvAc201M",
+    "speakers": [
+        "Alexei Popravka"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/K0KOvAc201M/hqdefault.jpg",
+    "title": "ASYNCHRONOUS PROGRAMMING WITH NEW ASYNCIO MODULE.",
+    "updated": "2014-11-27T16:21:01.845",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

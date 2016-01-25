@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/PiBfOFqDIAI/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/PiBfOFqDIAI' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:08.257", "whiteboard": "needs editing", "video_flv_length": null, "title": "PyPy.js: What? How? Why?", "duration": null, "description": "PyPy.js is an experiment in building a fast and compliant in-browser python interpreter, by compiling PyPy into javascript and retargeting its JIT to emit javascript code at runtime. This talk will demonstrate the combination of technologies that make such a thing possible, the results achieved so far, and the challenges that still remain when taking python onto javascript's home turf.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-11", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=PiBfOFqDIAI", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:08.257", "id": 3441, "related_urls": [], "slug": "pypyjs-what-how-why-0", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Ryan Kelly"]}
+{
+    "added": "2015-04-16T14:22:08.257",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "PyPy.js is an experiment in building a fast and compliant in-browser python interpreter, by compiling PyPy into javascript and retargeting its JIT to emit javascript code at runtime. This talk will demonstrate the combination of technologies that make such a thing possible, the results achieved so far, and the challenges that still remain when taking python onto javascript's home turf.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/PiBfOFqDIAI' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3441,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-11",
+    "related_urls": [],
+    "slug": "pypyjs-what-how-why-0",
+    "source_url": "https://www.youtube.com/watch?v=PiBfOFqDIAI",
+    "speakers": [
+        "Ryan Kelly"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/PiBfOFqDIAI/hqdefault.jpg",
+    "title": "PyPy.js: What? How? Why?",
+    "updated": "2015-04-16T14:22:08.257",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/5qiw_FGcr1k/maxresdefault.jpg", "embed": "", "added": "2015-06-14T17:04:27.245", "whiteboard": "", "video_flv_length": null, "title": "Extending Python", "duration": 1927, "description": "Python is a great language, but there are occasions where we need access to low level operations or connect with some database driver written in C or we need to overcome to some speed boottleneck in Python due to some limitation in the language, like NumPy or Scikit-learn do, using extensions.\nWith the FFI(Foreign function interface) we can connect Python with other languages like C, C++ and even Rust or Fortran. There are some alternatives to achieve this goal, Native Extensions, Ctypes and CFFI. We\u2019ll compare this three ways of extending Python and we\u2019ll study pros and cons of each approach.\n", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-29", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=5qiw_FGcr1k", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-14T17:04:27.245", "id": 3629, "related_urls": [], "slug": "extending-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Francisco Fern\u00e1ndez Casta\u00f1o"]}
+{
+    "added": "2015-06-14T17:04:27.245",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "Python is a great language, but there are occasions where we need access to low level operations or connect with some database driver written in C or we need to overcome to some speed boottleneck in Python due to some limitation in the language, like NumPy or Scikit-learn do, using extensions.\nWith the FFI(Foreign function interface) we can connect Python with other languages like C, C++ and even Rust or Fortran. There are some alternatives to achieve this goal, Native Extensions, Ctypes and CFFI. We\u2019ll compare this three ways of extending Python and we\u2019ll study pros and cons of each approach.\n",
+    "duration": 1927,
+    "embed": "",
+    "id": 3629,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-05-29",
+    "related_urls": [],
+    "slug": "extending-python",
+    "source_url": "https://www.youtube.com/watch?v=5qiw_FGcr1k",
+    "speakers": [
+        "Francisco Fern\u00e1ndez Casta\u00f1o"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/5qiw_FGcr1k/maxresdefault.jpg",
+    "title": "Extending Python",
+    "updated": "2015-06-14T17:04:27.245",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

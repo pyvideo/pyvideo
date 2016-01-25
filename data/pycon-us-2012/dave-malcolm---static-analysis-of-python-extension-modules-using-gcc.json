@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://img.youtube.com/vi/n6145JSeqWc/hqdefault.jpg", "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/n6145JSeqWc?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/n6145JSeqWc?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", "added": "2012-03-12T20:00:10", "whiteboard": "", "video_flv_length": null, "title": "Static analysis of Python extension modules using GCC", "duration": null, "description": "", "state": 1, "category": "PyCon US 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-03-09", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=n6145JSeqWc", "video_webm_url": null, "summary": "Want to analyse C/C++ code using Python? I've written a plugin for GCC that\nembeds Python inside the compiler, allowing you to write new C/C++ compilation\npasses in Python. I've used this to build a static analysis tool that\nunderstands the CPython extension API, and can automatically detect reference-\ncounting bugs, and other errors.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.614", "id": 648, "related_urls": [], "slug": "static-analysis-of-python-extension-modules-using", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Dave Malcolm"]}
+{
+    "added": "2012-03-12T20:00:10",
+    "category": "PyCon US 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/n6145JSeqWc?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/n6145JSeqWc?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>",
+    "id": 648,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-03-09",
+    "related_urls": [],
+    "slug": "static-analysis-of-python-extension-modules-using",
+    "source_url": "https://www.youtube.com/watch?v=n6145JSeqWc",
+    "speakers": [
+        "Dave Malcolm"
+    ],
+    "state": 1,
+    "summary": "Want to analyse C/C++ code using Python? I've written a plugin for GCC that\nembeds Python inside the compiler, allowing you to write new C/C++ compilation\npasses in Python. I've used this to build a static analysis tool that\nunderstands the CPython extension API, and can automatically detect reference-\ncounting bugs, and other errors.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://img.youtube.com/vi/n6145JSeqWc/hqdefault.jpg",
+    "title": "Static analysis of Python extension modules using GCC",
+    "updated": "2014-04-08T20:28:27.614",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/Dpdl76rn7P8/hqdefault.jpg", "embed": "", "added": "2015-08-10T15:48:05.898", "whiteboard": "", "video_flv_length": null, "title": "Foreign Function Interfaces for Web Developers", "duration": 1357, "description": "Python is a general-purpose programming language that is well-suited for a web application stack.  However, components of your Python application could benefit from \"mixing-in\" the features of other languages.  This talk will cover strategies for integrating Python and other languages, including Foreign Function Interfaces.", "state": 1, "category": "PyGotham 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3778_Foreign_Function_Interfaces_for_Web_Developers.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-16", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/Dpdl76rn7P8", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-19T18:26:49.978", "id": 3778, "related_urls": [], "slug": "foreign-function-interfaces-for-web-developers", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Tristan Fisher"]}
+{
+    "added": "2015-08-10T15:48:05.898",
+    "category": "PyGotham 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "Python is a general-purpose programming language that is well-suited for a web application stack.  However, components of your Python application could benefit from \"mixing-in\" the features of other languages.  This talk will cover strategies for integrating Python and other languages, including Foreign Function Interfaces.",
+    "duration": 1357,
+    "embed": "",
+    "id": 3778,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-16",
+    "related_urls": [],
+    "slug": "foreign-function-interfaces-for-web-developers",
+    "source_url": "http://youtu.be/Dpdl76rn7P8",
+    "speakers": [
+        "Tristan Fisher"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/Dpdl76rn7P8/hqdefault.jpg",
+    "title": "Foreign Function Interfaces for Web Developers",
+    "updated": "2015-08-19T18:26:49.978",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3778_Foreign_Function_Interfaces_for_Web_Developers.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

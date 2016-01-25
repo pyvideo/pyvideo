@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i1.ytimg.com/vi/Q31as1qpkvw/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Q31as1qpkvw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Q31as1qpkvw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-08-01T21:46:47", "whiteboard": "", "video_flv_length": null, "title": "PRISM-AS-A-SERVICE: Not Subject to American Law", "duration": 40, "description": "", "state": 1, "category": "PyCon CA 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-08-10", "copyright_text": "CC BY-SA 2.5 CA", "source_url": "http://www.youtube.com/watch?v=Q31as1qpkvw", "video_webm_url": null, "summary": "X-as-a-Service products are integral in the U.S. tech industry with their ability to take the pain out of server configuration, maintenance, provisioning, data storage and other aspects of running a server. With the recent outing of PRISM, a clandestine national security electronic surveillance program, the next desirable IT feature is \"not subject to American law.\" How can we leverage cloud-based software while maintaining privacy?\r\n\r\nThis talk is a look at what exactly PRISM is, how PRISM affects cloud services, and how best to approach securing data and preserving privacy within the cloud.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.182", "id": 2319, "related_urls": [], "slug": "prism-as-a-service-not-subject-to-american-law", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Lynn Root"]}
+{
+    "added": "2013-08-01T21:46:47",
+    "category": "PyCon CA 2013",
+    "copyright_text": "CC BY-SA 2.5 CA",
+    "description": "",
+    "duration": 40,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Q31as1qpkvw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Q31as1qpkvw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2319,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-08-10",
+    "related_urls": [],
+    "slug": "prism-as-a-service-not-subject-to-american-law",
+    "source_url": "http://www.youtube.com/watch?v=Q31as1qpkvw",
+    "speakers": [
+        "Lynn Root"
+    ],
+    "state": 1,
+    "summary": "X-as-a-Service products are integral in the U.S. tech industry with their ability to take the pain out of server configuration, maintenance, provisioning, data storage and other aspects of running a server. With the recent outing of PRISM, a clandestine national security electronic surveillance program, the next desirable IT feature is \"not subject to American law.\" How can we leverage cloud-based software while maintaining privacy?\r\n\r\nThis talk is a look at what exactly PRISM is, how PRISM affects cloud services, and how best to approach securing data and preserving privacy within the cloud.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/Q31as1qpkvw/hqdefault.jpg",
+    "title": "PRISM-AS-A-SERVICE: Not Subject to American Law",
+    "updated": "2014-04-08T20:28:26.182",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

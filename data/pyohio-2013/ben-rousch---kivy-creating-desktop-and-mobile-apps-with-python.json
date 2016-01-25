@@ -1,1 +1,44 @@
-{"tags": ["tutorial"], "thumbnail_url": "http://i1.ytimg.com/vi/8zSNzUAfohA/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/8zSNzUAfohA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/8zSNzUAfohA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-26T10:09:24", "whiteboard": "", "video_flv_length": null, "title": "Kivy - Creating Desktop and Mobile Apps with Python", "duration": 100, "description": "", "state": 1, "category": "PyOhio 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvpyohio2013/Kivy_Creating_Desktop_and_Mobi.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-27", "copyright_text": "CC BY-SA 2.5 CA", "source_url": "https://www.youtube.com/watch?v=8zSNzUAfohA", "video_webm_url": "", "summary": "Learn to create cross-platform apps with Kivy, a multitouch desktop and mobile GUI framework for Python.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.226", "id": 2259, "related_urls": [{"url": "https://speakerdeck.com/brousch/kivy-creating-desktop-and-mobile-apps-with-python-pyohio-2013", "description": "Slides"}], "slug": "kivy-creating-desktop-and-mobile-apps-with-pyth", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Ben Rousch"]}
+{
+    "added": "2013-07-26T10:09:24",
+    "category": "PyOhio 2013",
+    "copyright_text": "CC BY-SA 2.5 CA",
+    "description": "",
+    "duration": 100,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/8zSNzUAfohA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/8zSNzUAfohA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2259,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-27",
+    "related_urls": [
+        {
+            "description": "Slides",
+            "url": "https://speakerdeck.com/brousch/kivy-creating-desktop-and-mobile-apps-with-python-pyohio-2013"
+        }
+    ],
+    "slug": "kivy-creating-desktop-and-mobile-apps-with-pyth",
+    "source_url": "https://www.youtube.com/watch?v=8zSNzUAfohA",
+    "speakers": [
+        "Ben Rousch"
+    ],
+    "state": 1,
+    "summary": "Learn to create cross-platform apps with Kivy, a multitouch desktop and mobile GUI framework for Python.",
+    "tags": [
+        "tutorial"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/8zSNzUAfohA/hqdefault.jpg",
+    "title": "Kivy - Creating Desktop and Mobile Apps with Python",
+    "updated": "2014-04-08T20:28:26.226",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvpyohio2013/Kivy_Creating_Desktop_and_Mobi.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://img.youtube.com/vi/jOu0D9ttCFI/hqdefault.jpg", "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/jOu0D9ttCFI?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/jOu0D9ttCFI?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", "added": "2012-03-12T20:00:08", "whiteboard": "", "video_flv_length": null, "title": "How to make your websites more accessible", "duration": null, "description": "", "state": 1, "category": "PyCon US 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-03-09", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=jOu0D9ttCFI", "video_webm_url": null, "summary": "Is your website accessible? Have you tested it? What does it even mean for a\nwebsite to be accessible? In this talk we'll show some of the most common\nproblems disabled users have and demonstrate how to fix them. I'll also\nintroduce you to some tools that are written in Python to help you determine\nhow accessible your site is.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.586", "id": 633, "related_urls": [], "slug": "how-to-make-your-websites-more-accessible", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Robbie Clemons"]}
+{
+    "added": "2012-03-12T20:00:08",
+    "category": "PyCon US 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"425\" height=\"344\"><param name=\"movie\" value=\"http://www.youtube.com/v/jOu0D9ttCFI?version=3&amp;f=videos&amp;app=youtube_gdata\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><embed src=\"http://www.youtube.com/v/jOu0D9ttCFI?version=3&amp;f=videos&amp;app=youtube_gdata\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>",
+    "id": 633,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-03-09",
+    "related_urls": [],
+    "slug": "how-to-make-your-websites-more-accessible",
+    "source_url": "https://www.youtube.com/watch?v=jOu0D9ttCFI",
+    "speakers": [
+        "Robbie Clemons"
+    ],
+    "state": 1,
+    "summary": "Is your website accessible? Have you tested it? What does it even mean for a\nwebsite to be accessible? In this talk we'll show some of the most common\nproblems disabled users have and demonstrate how to fix them. I'll also\nintroduce you to some tools that are written in Python to help you determine\nhow accessible your site is.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://img.youtube.com/vi/jOu0D9ttCFI/hqdefault.jpg",
+    "title": "How to make your websites more accessible",
+    "updated": "2014-04-08T20:28:27.586",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

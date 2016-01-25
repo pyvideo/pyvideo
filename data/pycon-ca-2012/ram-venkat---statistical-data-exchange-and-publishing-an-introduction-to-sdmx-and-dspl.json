@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i4.ytimg.com/vi/WSB_xv0t384/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/WSB_xv0t384?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/WSB_xv0t384?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-14T09:10:54", "whiteboard": "", "video_flv_length": null, "title": "Statistical Data Exchange and Publishing - an introduction to SDMX and DSPL", "duration": null, "description": "", "state": 1, "category": "PyCon CA 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Statistical_Data_Exchange_and_Publishing_an_introduction_to_SDMX_and_DSPL.mp4?Signature=d%2FWxSrADx7O7S0TL5kZMPZrEguY%3D&Expires=1352840447&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-11-11", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=WSB_xv0t384", "video_webm_url": "", "summary": "In the era of big data analytics it makes even more sense to have efficient\nand standardized way of exchanging, sharing and publishing statistical data.\nThis talk explores two such mechanisms - SDMX , a standard for exchange of\nstatistical data for national statistical organizations and Google's DSPL that\nallows data to be published to Google Public Data Explorer.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.834", "id": 1595, "related_urls": [], "slug": "statistical-data-exchange-and-publishing-an-int", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Ram Venkat"]}
+{
+    "added": "2012-11-14T09:10:54",
+    "category": "PyCon CA 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/WSB_xv0t384?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/WSB_xv0t384?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1595,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-11-11",
+    "related_urls": [],
+    "slug": "statistical-data-exchange-and-publishing-an-int",
+    "source_url": "https://www.youtube.com/watch?v=WSB_xv0t384",
+    "speakers": [
+        "Ram Venkat"
+    ],
+    "state": 1,
+    "summary": "In the era of big data analytics it makes even more sense to have efficient\nand standardized way of exchanging, sharing and publishing statistical data.\nThis talk explores two such mechanisms - SDMX , a standard for exchange of\nstatistical data for national statistical organizations and Google's DSPL that\nallows data to be published to Google Public Data Explorer.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i4.ytimg.com/vi/WSB_xv0t384/hqdefault.jpg",
+    "title": "Statistical Data Exchange and Publishing - an introduction to SDMX and DSPL",
+    "updated": "2014-04-08T20:28:26.834",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Statistical_Data_Exchange_and_Publishing_an_introduction_to_SDMX_and_DSPL.mp4?Signature=d%2FWxSrADx7O7S0TL5kZMPZrEguY%3D&Expires=1352840447&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

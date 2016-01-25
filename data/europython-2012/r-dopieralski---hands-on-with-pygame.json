@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/fm78gjYkYKc/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/fm78gjYkYKc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/fm78gjYkYKc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-09-06T22:33:21", "whiteboard": "", "video_flv_length": null, "title": "Hands on with Pygame", "duration": null, "description": "PyGame continues to be Python\u2019s most popular 2D game library, even though\nthere is growing competition from more modern OpenGL-based libraries. It is\nstill an excellent way to learn how our favorite games work internally and to\nwrite similar games ourselves. During this tutorial I want to introduce the\nbasics of using PyGame to create interactive, animated graphical applications\n(such as games), and then help the participants make their own start at a\nsimple adventure game, which they can later develop further into projects of\ntheir own. I want to concentrate on commonly used techniques and patterns in\ngame development, which are useful no matter what library is used in the\nimplementation. In particular I will be discussing animations, tile-based\nmaps, collision detection, event systems, internal representation of game\nstate and different approaches to code organisation and internal structure of\ngames. I have previously created a (much simpler) tutorial for creating a\nturn-based tile-based PyGame game and a couple of games, such as Z-Day and\nJelly . I will be using the materials and experiences from those projects in\nthe tutorial. Please bring your laptop with Python 2.7 and PyGame installed.\n\n", "state": 1, "category": "EuroPython 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-07-04", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=fm78gjYkYKc", "video_webm_url": null, "summary": "[EuroPython 2012] R Dopieralski - 3 JULY 2012 in \"Track Pizza Napoli\"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.278", "id": 1311, "related_urls": [], "slug": "hands-on-with-pygame", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": null, "video_ogv_download_only": false, "speakers": ["R Dopieralski"]}
+{
+    "added": "2012-09-06T22:33:21",
+    "category": "EuroPython 2012",
+    "copyright_text": "Standard YouTube License",
+    "description": "PyGame continues to be Python\u2019s most popular 2D game library, even though\nthere is growing competition from more modern OpenGL-based libraries. It is\nstill an excellent way to learn how our favorite games work internally and to\nwrite similar games ourselves. During this tutorial I want to introduce the\nbasics of using PyGame to create interactive, animated graphical applications\n(such as games), and then help the participants make their own start at a\nsimple adventure game, which they can later develop further into projects of\ntheir own. I want to concentrate on commonly used techniques and patterns in\ngame development, which are useful no matter what library is used in the\nimplementation. In particular I will be discussing animations, tile-based\nmaps, collision detection, event systems, internal representation of game\nstate and different approaches to code organisation and internal structure of\ngames. I have previously created a (much simpler) tutorial for creating a\nturn-based tile-based PyGame game and a couple of games, such as Z-Day and\nJelly . I will be using the materials and experiences from those projects in\nthe tutorial. Please bring your laptop with Python 2.7 and PyGame installed.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/fm78gjYkYKc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/fm78gjYkYKc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1311,
+    "language": null,
+    "quality_notes": "",
+    "recorded": "2012-07-04",
+    "related_urls": [],
+    "slug": "hands-on-with-pygame",
+    "source_url": "http://www.youtube.com/watch?v=fm78gjYkYKc",
+    "speakers": [
+        "R Dopieralski"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2012] R Dopieralski - 3 JULY 2012 in \"Track Pizza Napoli\"\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/fm78gjYkYKc/hqdefault.jpg",
+    "title": "Hands on with Pygame",
+    "updated": "2014-04-08T20:28:27.278",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

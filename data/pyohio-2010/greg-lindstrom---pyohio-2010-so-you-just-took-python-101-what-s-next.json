@@ -1,1 +1,43 @@
-{"tags": ["datastructures", "pyohio", "pyohio2010", "python-basics", "tutorial"], "thumbnail_url": "http://a.images.blip.tv/Pyohio-SoYouJustTookPython101WhatsNext456.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyOhio 2010: So You Just Took \"Python 101\" -- What's Next?", "duration": null, "description": "So You Just Took \"Python 101\" -- What's Next?\n\nPresented by Greg Lindstrom\n\nIn this class we will develop, step-by-step and as a class, two simple games,\nHi/Low and Hangman. We will start from scratch and walk through each step of\neach game discussing decision making, loops (\"for\", \"while\" and \"if\"), data\nstructures (tuple, list and dictionary) and looking at different ways to\n\"get-r-done\".\n\nYou should know a little about Python but don't have to know anything else\nabout programming (you should know how to edit and run a Python program on\nyour Operating System). Bring a computer with Python installed if you want to\nplay along.\n\n", "state": 1, "category": "PyOhio 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 105368731, "updated": "2014-04-08T20:28:25.844", "id": 511, "related_urls": [], "slug": "pyohio-2010--so-you-just-took--quot-python-101-qu", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/511_pyohio-2010-so-you-just-took-python-101-what-s-next.flv", "language": "English", "video_ogv_download_only": false, "speakers": ["Greg Lindstrom"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyOhio 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "So You Just Took \"Python 101\" -- What's Next?\n\nPresented by Greg Lindstrom\n\nIn this class we will develop, step-by-step and as a class, two simple games,\nHi/Low and Hangman. We will start from scratch and walk through each step of\neach game discussing decision making, loops (\"for\", \"while\" and \"if\"), data\nstructures (tuple, list and dictionary) and looking at different ways to\n\"get-r-done\".\n\nYou should know a little about Python but don't have to know anything else\nabout programming (you should know how to edit and run a Python program on\nyour Operating System). Bring a computer with Python installed if you want to\nplay along.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 511,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyohio-2010--so-you-just-took--quot-python-101-qu",
+    "source_url": "",
+    "speakers": [
+        "Greg Lindstrom"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "datastructures",
+        "pyohio",
+        "pyohio2010",
+        "python-basics",
+        "tutorial"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pyohio-SoYouJustTookPython101WhatsNext456.png",
+    "title": "PyOhio 2010: So You Just Took \"Python 101\" -- What's Next?",
+    "updated": "2014-04-08T20:28:25.844",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/511_pyohio-2010-so-you-just-took-python-101-what-s-next.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": 105368731,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/YGwciTWE60A/maxresdefault.jpg", "embed": "", "added": "2015-06-14T17:04:25.454", "whiteboard": "", "video_flv_length": null, "title": "Davvy - Django, WebDAV e (pessimo) stato dell'arte.", "duration": 942, "description": "Davvy \u00e8 un\u2019applicazione Django che permette la gestione di servizi WebDAV.\nGli obiettivi del talk comprendono: fornire un\u2019overview del protocollo WebDAV e mostrarne la nostra implementazione; mostrare la costruzione di un\u2019applicazione Django che gestisca servizi basati su protocolli di questo tipo, in modo che sia estendibile a piacimento e pienamente configurabile (e quindi anche qualche buona regola da seguire nello sviluppo Django). \nAnalizzare lo stato dell\u2019arte e quindi, in particolare, come ogni client implementi, a proprio piacimento,  specifiche \u201cpersonalizzate\u201d del protocollo, risultando in una quasi impossibile interoperabilit\u00e0 e una scarsa compatibilit\u00e0 con i fornitori di servizi.\nI prerequisiti necessari richiedono soltanto una conoscenza poco approfondita di Django.\nIl talk includer\u00e0:\n\nDettagli sul protocollo WebDAV: cos\u2019\u00e8, a cosa serve, come lo utilizziamo, e le alternative odierne.\nDettagli implementativi: come funziona WebDAV sotto il cofano, le estensioni che apporta ad HTTP, come utilizza l\u2019XML e soprattutto, come utilizzare Django per gestirlo.\nDjango e WebDAV: la struttura nello specifico della nostra implementazione, il model, le view e l\u2019implementazione di un\u2019applicazione Django sui generis.\nScelte di implementazione, difficolt\u00e0 tecniche e soluzioni: dove abbiamo utilizzato il database e dove invece abbiamo ritenuto pi\u00f9 opportuno sfruttare le periferiche di archiviazione, i problemi che abbiamo incontrato durante lo sviluppo, e come li abbiamo risolti.\nIl pessimo stato dell\u2019arte: come ogni client implementi una propria versione \u201cpersonalizzata\u201d di WebDAV e come Davvy si adatta in mdo implicito ed automatico alle diverse richieste dei client. Esempi sui pi\u00f9 noti client: Apple\u2019s Calendar, Mozilla Thunderbird, e cos\u00ec via.\n\n", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-29", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=YGwciTWE60A", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-14T17:04:25.454", "id": 3609, "related_urls": [], "slug": "davvy-django-webdav-e-pessimo-stato-dellart", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "Italian", "video_ogv_download_only": false, "speakers": ["Adriano Di Luzio"]}
+{
+    "added": "2015-06-14T17:04:25.454",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "Davvy \u00e8 un\u2019applicazione Django che permette la gestione di servizi WebDAV.\nGli obiettivi del talk comprendono: fornire un\u2019overview del protocollo WebDAV e mostrarne la nostra implementazione; mostrare la costruzione di un\u2019applicazione Django che gestisca servizi basati su protocolli di questo tipo, in modo che sia estendibile a piacimento e pienamente configurabile (e quindi anche qualche buona regola da seguire nello sviluppo Django). \nAnalizzare lo stato dell\u2019arte e quindi, in particolare, come ogni client implementi, a proprio piacimento,  specifiche \u201cpersonalizzate\u201d del protocollo, risultando in una quasi impossibile interoperabilit\u00e0 e una scarsa compatibilit\u00e0 con i fornitori di servizi.\nI prerequisiti necessari richiedono soltanto una conoscenza poco approfondita di Django.\nIl talk includer\u00e0:\n\nDettagli sul protocollo WebDAV: cos\u2019\u00e8, a cosa serve, come lo utilizziamo, e le alternative odierne.\nDettagli implementativi: come funziona WebDAV sotto il cofano, le estensioni che apporta ad HTTP, come utilizza l\u2019XML e soprattutto, come utilizzare Django per gestirlo.\nDjango e WebDAV: la struttura nello specifico della nostra implementazione, il model, le view e l\u2019implementazione di un\u2019applicazione Django sui generis.\nScelte di implementazione, difficolt\u00e0 tecniche e soluzioni: dove abbiamo utilizzato il database e dove invece abbiamo ritenuto pi\u00f9 opportuno sfruttare le periferiche di archiviazione, i problemi che abbiamo incontrato durante lo sviluppo, e come li abbiamo risolti.\nIl pessimo stato dell\u2019arte: come ogni client implementi una propria versione \u201cpersonalizzata\u201d di WebDAV e come Davvy si adatta in mdo implicito ed automatico alle diverse richieste dei client. Esempi sui pi\u00f9 noti client: Apple\u2019s Calendar, Mozilla Thunderbird, e cos\u00ec via.\n\n",
+    "duration": 942,
+    "embed": "",
+    "id": 3609,
+    "language": "Italian",
+    "quality_notes": "",
+    "recorded": "2015-05-29",
+    "related_urls": [],
+    "slug": "davvy-django-webdav-e-pessimo-stato-dellart",
+    "source_url": "https://www.youtube.com/watch?v=YGwciTWE60A",
+    "speakers": [
+        "Adriano Di Luzio"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/YGwciTWE60A/maxresdefault.jpg",
+    "title": "Davvy - Django, WebDAV e (pessimo) stato dell'arte.",
+    "updated": "2015-06-14T17:04:25.454",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

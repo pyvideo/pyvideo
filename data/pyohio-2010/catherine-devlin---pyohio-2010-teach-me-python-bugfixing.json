@@ -1,1 +1,43 @@
-{"tags": ["bugfixing", "core", "pyohio", "pyohio2010", "tutorial"], "thumbnail_url": "http://a.images.blip.tv/Pyohio-TeachMePythonBugfixing702.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyOhio 2010: Teach Me Python Bugfixing", "duration": null, "description": "Teach Me Python Bugfixing\n\nPresented by Catherine Devlin\n\nPython wants YOU to help maintain and extend the language we love so much...\nbut maybe you don't know how to go about making your contribution. Catherine\ndoesn't either. David Murray, an experienced Python contributor, will guide\nher - and you - through the process, live and unscripted. Come take part in\nlearner-controlled instruction. No C programming required!\n\n", "state": 1, "category": "PyOhio 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 105165362, "updated": "2014-04-08T20:28:25.846", "id": 513, "related_urls": [], "slug": "pyohio-2010--teach-me-python-bugfixing", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/513_pyohio-2010-teach-me-python-bugfixing.flv", "language": "English", "video_ogv_download_only": false, "speakers": ["Catherine Devlin"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyOhio 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Teach Me Python Bugfixing\n\nPresented by Catherine Devlin\n\nPython wants YOU to help maintain and extend the language we love so much...\nbut maybe you don't know how to go about making your contribution. Catherine\ndoesn't either. David Murray, an experienced Python contributor, will guide\nher - and you - through the process, live and unscripted. Come take part in\nlearner-controlled instruction. No C programming required!\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 513,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyohio-2010--teach-me-python-bugfixing",
+    "source_url": "",
+    "speakers": [
+        "Catherine Devlin"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "bugfixing",
+        "core",
+        "pyohio",
+        "pyohio2010",
+        "tutorial"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pyohio-TeachMePythonBugfixing702.png",
+    "title": "PyOhio 2010: Teach Me Python Bugfixing",
+    "updated": "2014-04-08T20:28:25.846",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/513_pyohio-2010-teach-me-python-bugfixing.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": 105165362,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

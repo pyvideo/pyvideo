@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/zwa9uc0LpXo/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/zwa9uc0LpXo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/zwa9uc0LpXo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-04-12T21:30:14.022", "whiteboard": "", "video_flv_length": null, "title": "Data Wrangling for Kaggle Data Science Competitions -- An etude", "duration": null, "description": "", "state": 1, "category": "PyCon US 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-04-12", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=zwa9uc0LpXo", "video_webm_url": null, "summary": "Let us mix Python analytics tools, add a dash of Machine Learning Algorithmics & work on Data Science Analytics competitions hosted by Kaggle. This tutorial introduces the intersection of Data, Inference & Machine Learning, structured in a progressive mode, so that the attendees learn by hands-on wrangling with data for interesting inferences using scikit-learn (scipy, numpy) & pandas", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-12T21:30:14.022", "id": 2595, "related_urls": [], "slug": "data-wrangling-for-kaggle-data-science-competitio", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Krishna Sankar"]}
+{
+    "added": "2014-04-12T21:30:14.022",
+    "category": "PyCon US 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/zwa9uc0LpXo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/zwa9uc0LpXo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2595,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-04-12",
+    "related_urls": [],
+    "slug": "data-wrangling-for-kaggle-data-science-competitio",
+    "source_url": "http://www.youtube.com/watch?v=zwa9uc0LpXo",
+    "speakers": [
+        "Krishna Sankar"
+    ],
+    "state": 1,
+    "summary": "Let us mix Python analytics tools, add a dash of Machine Learning Algorithmics & work on Data Science Analytics competitions hosted by Kaggle. This tutorial introduces the intersection of Data, Inference & Machine Learning, structured in a progressive mode, so that the attendees learn by hands-on wrangling with data for interesting inferences using scikit-learn (scipy, numpy) & pandas",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/zwa9uc0LpXo/hqdefault.jpg",
+    "title": "Data Wrangling for Kaggle Data Science Competitions -- An etude",
+    "updated": "2014-04-12T21:30:14.022",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

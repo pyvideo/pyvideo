@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/BK6nfEAj40k/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/BK6nfEAj40k?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/BK6nfEAj40k?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:32", "whiteboard": "needs editing", "video_flv_length": null, "title": "An Open Source System for De-identification and Use of Medical Images; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=BK6nfEAj40k", "video_webm_url": null, "summary": "An Open Source System for De-identification and Use of Medical Images for Research\n\nAuthors: Miller, Jeffrey, Center for Biomedical Informatics, The Children's Hospital of Philadelphia\n\nTrack: Medical Imaging\n\nMedical images captured from X-ray, MRI, CT, and ultrasound modalities represent a wealth of data for clinical researchers. Direct access to imaging studies establishes a greater opportunity for research purposes than a text-only system. However, imaging data can be difficult to work with outside of clinical systems and can contain Protected Health Information (PHI) in diverse and unexpected locations, presenting a barrier for multi-institutional, collaborative research. While there are existing integration solutions, such as the Clinical Trials Processor, they do not provide for manual curation of images to screen for relevancy and PHI, a crucial step for using images within a research application. To address these issues, we developed a system for the end-to-end provisioning of de-identified image studies. This includes a Django app for users to review and record metadata for each study, a pipeline for anonymizing and provisioning images to a production image archive, and finally an application for viewing images in the browser as part of a research application. We take advantage of the Python Ruffus pipeline framework and the PyDICOM library to orchestrate the work of moving, anonymizing, and annotating millions of files in a repeatable and auditable manner. This workflow has been used to integrate images into AudGenDB (http://audgendb.chop.edu), a publicly available hearing impairment research database. The results of the AudGenDB image integration enables researchers to visualize and assess images in direct context with clinical and genetic variables for research subjects. The source code is available under a BSD license at http://github.com/cbmi/dicom-pipeline.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.327", "id": 1972, "related_urls": [], "slug": "an-open-source-system-for-de-identification-and-u", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:32",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/BK6nfEAj40k?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/BK6nfEAj40k?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1972,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [],
+    "slug": "an-open-source-system-for-de-identification-and-u",
+    "source_url": "http://www.youtube.com/watch?v=BK6nfEAj40k",
+    "speakers": [],
+    "state": 1,
+    "summary": "An Open Source System for De-identification and Use of Medical Images for Research\n\nAuthors: Miller, Jeffrey, Center for Biomedical Informatics, The Children's Hospital of Philadelphia\n\nTrack: Medical Imaging\n\nMedical images captured from X-ray, MRI, CT, and ultrasound modalities represent a wealth of data for clinical researchers. Direct access to imaging studies establishes a greater opportunity for research purposes than a text-only system. However, imaging data can be difficult to work with outside of clinical systems and can contain Protected Health Information (PHI) in diverse and unexpected locations, presenting a barrier for multi-institutional, collaborative research. While there are existing integration solutions, such as the Clinical Trials Processor, they do not provide for manual curation of images to screen for relevancy and PHI, a crucial step for using images within a research application. To address these issues, we developed a system for the end-to-end provisioning of de-identified image studies. This includes a Django app for users to review and record metadata for each study, a pipeline for anonymizing and provisioning images to a production image archive, and finally an application for viewing images in the browser as part of a research application. We take advantage of the Python Ruffus pipeline framework and the PyDICOM library to orchestrate the work of moving, anonymizing, and annotating millions of files in a repeatable and auditable manner. This workflow has been used to integrate images into AudGenDB (http://audgendb.chop.edu), a publicly available hearing impairment research database. The results of the AudGenDB image integration enables researchers to visualize and assess images in direct context with clinical and genetic variables for research subjects. The source code is available under a BSD license at http://github.com/cbmi/dicom-pipeline.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/BK6nfEAj40k/hqdefault.jpg",
+    "title": "An Open Source System for De-identification and Use of Medical Images; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.327",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

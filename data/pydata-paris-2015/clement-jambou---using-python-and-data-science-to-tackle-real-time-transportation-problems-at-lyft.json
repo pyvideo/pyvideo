@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/nb6YiqDCpJo/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/nb6YiqDCpJo' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-22T17:59:39.633", "whiteboard": "needs editing", "video_flv_length": null, "title": "Using Python and Data science to tackle real-time transportation problems at Lyft", "duration": null, "description": "I\u2019m interested in giving a talk for this conference as I believe many students with the same background as mine would be interested in hearing about how Data Science is a crucial tool in building a successful startup and its influence on taking decision every day. As part of my work I use python and scientific librairies ( pandas, scikit\u00adlearn) on a daily basis as it is used both on our backend services as well as for Data analysis. We tackle complex problems such as Dynamic Pricing depending on local demand an supply, dispatching Drivers efficiently, Matching multiple passenger routes together for or real time ride\u00adsharing product Lyft Line, real\u00adtime ETAs and traffic estimation\u2026 The fact that a lot of or analyses use geolocation data adds a specific component to it that leads to complex problems. Optimization is crucial as it is beneficial for everyone in our Marketplace: Passenger can get lower prices and better service, Drivers spend more time with someone in their car and have higher earnings\u2026", "state": 1, "category": "PyData Paris 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-16", "copyright_text": "youtube", "source_url": "https://www.youtube.com/watch?v=nb6YiqDCpJo", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-22T17:59:39.633", "id": 3534, "related_urls": [], "slug": "using-python-and-data-science-to-tackle-real-time", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Cl\u00e9ment Jambou"]}
+{
+    "added": "2015-04-22T17:59:39.633",
+    "category": "PyData Paris 2015",
+    "copyright_text": "youtube",
+    "description": "I\u2019m interested in giving a talk for this conference as I believe many students with the same background as mine would be interested in hearing about how Data Science is a crucial tool in building a successful startup and its influence on taking decision every day. As part of my work I use python and scientific librairies ( pandas, scikit\u00adlearn) on a daily basis as it is used both on our backend services as well as for Data analysis. We tackle complex problems such as Dynamic Pricing depending on local demand an supply, dispatching Drivers efficiently, Matching multiple passenger routes together for or real time ride\u00adsharing product Lyft Line, real\u00adtime ETAs and traffic estimation\u2026 The fact that a lot of or analyses use geolocation data adds a specific component to it that leads to complex problems. Optimization is crucial as it is beneficial for everyone in our Marketplace: Passenger can get lower prices and better service, Drivers spend more time with someone in their car and have higher earnings\u2026",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/nb6YiqDCpJo' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3534,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-16",
+    "related_urls": [],
+    "slug": "using-python-and-data-science-to-tackle-real-time",
+    "source_url": "https://www.youtube.com/watch?v=nb6YiqDCpJo",
+    "speakers": [
+        "Cl\u00e9ment Jambou"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/nb6YiqDCpJo/hqdefault.jpg",
+    "title": "Using Python and Data science to tackle real-time transportation problems at Lyft",
+    "updated": "2015-04-22T17:59:39.633",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

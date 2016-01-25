@@ -1,1 +1,41 @@
-{"tags": ["pycon", "pycon2010", "tortuga"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010AnUnderwaterPythonTortugaThePythonPoweredRobot955.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "An Underwater Python: Tortuga the Python Powered Robot (#175)", "duration": null, "description": "An Underwater Python: Tortuga the Python Powered Robot\n\n  \nPresented by Joseph Lisee (Robotics @ Maryland)\n\n  \nLearn about Tortuga, the python powered Autonomous Underwater Vehicle (AUV)\ndeveloped by Robotics @ Maryland ([http://ram.umd.edu](http://ram.umd.edu)).\nSee how python provides a flexible and efficient way to build the software\nthat commands, simulates and controls Tortuga. Also learn about the trials,\ntribulations, and glory experienced developing, competing, losing, and winning\nwith Tortuga in AUVSI AUV Competition ([http://www.auvsi.org/competitions/wate\nr.cfm](http://www.auvsi.org/competitions/water.cfm)).\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/328_an-underwater-python-tortuga-the-python-powered-robot-175.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/328_an-underwater-python-tortuga-the-python-powered-robot-175.ogv", "video_ogv_length": 212875988, "updated": "2014-04-08T20:28:28.087", "id": 328, "related_urls": [], "slug": "pycon-2010--an-underwater-python--tortuga-the-pyt", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Joseph Lisee"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "An Underwater Python: Tortuga the Python Powered Robot\n\n  \nPresented by Joseph Lisee (Robotics @ Maryland)\n\n  \nLearn about Tortuga, the python powered Autonomous Underwater Vehicle (AUV)\ndeveloped by Robotics @ Maryland ([http://ram.umd.edu](http://ram.umd.edu)).\nSee how python provides a flexible and efficient way to build the software\nthat commands, simulates and controls Tortuga. Also learn about the trials,\ntribulations, and glory experienced developing, competing, losing, and winning\nwith Tortuga in AUVSI AUV Competition ([http://www.auvsi.org/competitions/wate\nr.cfm](http://www.auvsi.org/competitions/water.cfm)).\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 328,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--an-underwater-python--tortuga-the-pyt",
+    "source_url": "",
+    "speakers": [
+        "Joseph Lisee"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "pycon",
+        "pycon2010",
+        "tortuga"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010AnUnderwaterPythonTortugaThePythonPoweredRobot955.png",
+    "title": "An Underwater Python: Tortuga the Python Powered Robot (#175)",
+    "updated": "2014-04-08T20:28:28.087",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/328_an-underwater-python-tortuga-the-python-powered-robot-175.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 212875988,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/328_an-underwater-python-tortuga-the-python-powered-robot-175.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

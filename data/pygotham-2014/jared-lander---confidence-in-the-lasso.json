@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/gfzf0LiSwnM/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/gfzf0LiSwnM' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2014-10-26T18:22:38.918", "whiteboard": "", "video_flv_length": null, "title": "Confidence in the Lasso", "duration": null, "description": "The lasso is one of the most significant machine learning algorithms from the past 15 years. Conceived by Hastie, Tibshirani and Friedman from Stanford, the lasso performs dimension reduction and variable selection making it well suited for the high dimensionality of today's datasets. In this talk we will go over some of the math behind the lasso and discuss some recent advancements in performing inference on lasso-fitted models.", "state": 1, "category": "PyGotham 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-09-16", "copyright_text": "youtube", "source_url": "https://www.youtube.com/watch?v=gfzf0LiSwnM", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-10-26T18:22:38.918", "id": 3312, "related_urls": [], "slug": "confidence-in-the-lasso", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Jared Lander"]}
+{
+    "added": "2014-10-26T18:22:38.918",
+    "category": "PyGotham 2014",
+    "copyright_text": "youtube",
+    "description": "The lasso is one of the most significant machine learning algorithms from the past 15 years. Conceived by Hastie, Tibshirani and Friedman from Stanford, the lasso performs dimension reduction and variable selection making it well suited for the high dimensionality of today's datasets. In this talk we will go over some of the math behind the lasso and discuss some recent advancements in performing inference on lasso-fitted models.",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/gfzf0LiSwnM' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3312,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-09-16",
+    "related_urls": [],
+    "slug": "confidence-in-the-lasso",
+    "source_url": "https://www.youtube.com/watch?v=gfzf0LiSwnM",
+    "speakers": [
+        "Jared Lander"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/gfzf0LiSwnM/hqdefault.jpg",
+    "title": "Confidence in the Lasso",
+    "updated": "2014-10-26T18:22:38.918",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

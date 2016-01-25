@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/sXKfXLqytYY/hqdefault.jpg", "embed": "", "added": "2015-07-05T19:09:56.493", "whiteboard": "", "video_flv_length": null, "title": "Open Source Community Organizing", "duration": 1630, "description": "Stories and tips from creating new communities and steering established ones in new directions.", "state": 1, "category": "Django Birthday", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-07-11", "copyright_text": "", "source_url": "http://youtu.be/sXKfXLqytYY", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-09-22T22:33:18.649", "id": 3669, "related_urls": [], "slug": "open-source-community-organizing", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Mikeal Rogers"]}
+{
+    "added": "2015-07-05T19:09:56.493",
+    "category": "Django Birthday",
+    "copyright_text": "",
+    "description": "Stories and tips from creating new communities and steering established ones in new directions.",
+    "duration": 1630,
+    "embed": "",
+    "id": 3669,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-07-11",
+    "related_urls": [],
+    "slug": "open-source-community-organizing",
+    "source_url": "http://youtu.be/sXKfXLqytYY",
+    "speakers": [
+        "Mikeal Rogers"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/sXKfXLqytYY/hqdefault.jpg",
+    "title": "Open Source Community Organizing",
+    "updated": "2015-09-22T22:33:18.649",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

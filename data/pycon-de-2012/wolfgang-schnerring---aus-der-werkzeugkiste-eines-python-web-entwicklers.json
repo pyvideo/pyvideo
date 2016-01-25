@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i4.ytimg.com/vi/sJtPP2BO9BE/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/sJtPP2BO9BE?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/sJtPP2BO9BE?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-02T06:42:10", "whiteboard": "", "video_flv_length": null, "title": "Aus der Werkzeugkiste eines Python/Web-Entwicklers", "duration": null, "description": "", "state": 1, "category": "PyCon DE 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Aus_der_Werkzeugkiste_.mp4?Signature=HDAnJMdb8CDkK6eBfAnTgxPaXtw%3D&Expires=1351856331&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-11-01", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=sJtPP2BO9BE", "video_webm_url": "", "summary": "Werkzeuge erleichtern uns die Arbeit oder nehmen sie uns durch Automatisierung\nsogar ganz ab. In diesem Vortrag stelle ich einige Werkzeuge vor, die sich im\nAlltag bew\u00e4hrt haben, von der ersten Idee bis zur Live-Schaltung einer\nWebanwendung, von Testen \u00fcber Debugging bis Deployment, f\u00fcr Python bis\nJavascript.\n\nDer Vortrag richtet sich an (Web-)Entwickler aller Arten. Er soll als\nInspiration sowie als Ansto\u00df zum Gedankenaustausch miteinander dienen: Was f\u00fcr\nWerkzeuge benutze ich andauernd? Welche davon m\u00f6chte ich nie mehr missen? \u00dcber\nwelche \u00e4rgere ich mich, welche k\u00f6nnten deutlich besser sein? Wie l\u00f6sen andere\ndie \u00fcblichen Probleme?\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.873", "id": 1452, "related_urls": [], "slug": "aus-der-werkzeugkiste-eines-py", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "German", "video_ogv_download_only": false, "speakers": ["Wolfgang Schnerring"]}
+{
+    "added": "2012-11-02T06:42:10",
+    "category": "PyCon DE 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/sJtPP2BO9BE?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/sJtPP2BO9BE?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1452,
+    "language": "German",
+    "quality_notes": "",
+    "recorded": "2012-11-01",
+    "related_urls": [],
+    "slug": "aus-der-werkzeugkiste-eines-py",
+    "source_url": "https://www.youtube.com/watch?v=sJtPP2BO9BE",
+    "speakers": [
+        "Wolfgang Schnerring"
+    ],
+    "state": 1,
+    "summary": "Werkzeuge erleichtern uns die Arbeit oder nehmen sie uns durch Automatisierung\nsogar ganz ab. In diesem Vortrag stelle ich einige Werkzeuge vor, die sich im\nAlltag bew\u00e4hrt haben, von der ersten Idee bis zur Live-Schaltung einer\nWebanwendung, von Testen \u00fcber Debugging bis Deployment, f\u00fcr Python bis\nJavascript.\n\nDer Vortrag richtet sich an (Web-)Entwickler aller Arten. Er soll als\nInspiration sowie als Ansto\u00df zum Gedankenaustausch miteinander dienen: Was f\u00fcr\nWerkzeuge benutze ich andauernd? Welche davon m\u00f6chte ich nie mehr missen? \u00dcber\nwelche \u00e4rgere ich mich, welche k\u00f6nnten deutlich besser sein? Wie l\u00f6sen andere\ndie \u00fcblichen Probleme?\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i4.ytimg.com/vi/sJtPP2BO9BE/hqdefault.jpg",
+    "title": "Aus der Werkzeugkiste eines Python/Web-Entwicklers",
+    "updated": "2014-04-08T20:28:26.873",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Aus_der_Werkzeugkiste_.mp4?Signature=HDAnJMdb8CDkK6eBfAnTgxPaXtw%3D&Expires=1351856331&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

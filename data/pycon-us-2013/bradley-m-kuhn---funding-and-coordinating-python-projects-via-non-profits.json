@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i.ytimg.com/vi/talJU_zhEpU/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/talJU_zhEpU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/talJU_zhEpU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:54:13", "whiteboard": "", "video_flv_length": null, "title": "Funding and Coordinating Python Projects via Non-Profits", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-15", "copyright_text": "CC-By-SA-3.0-USA", "source_url": "https://www.youtube.com/watch?v=talJU_zhEpU", "video_webm_url": "", "summary": "Organizations like Software Freedom Conservancy and PSF provide essential non-profit infrastructure to the Python community.  For the past few years, Conservancy specifically helped raise funds to support 3 key Python projects: Mercurial, PyPy and Twisted. This talk discusses successes and challenges of funding Python software development in non-profits, and discuss plans to expand this activity.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.700", "id": 1693, "related_urls": [], "slug": "funding-and-coordinating-python-projects-via-non-", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Bradley M. Kuhn"]}
+{
+    "added": "2013-03-13T18:54:13",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC-By-SA-3.0-USA",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/talJU_zhEpU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/talJU_zhEpU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1693,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-15",
+    "related_urls": [],
+    "slug": "funding-and-coordinating-python-projects-via-non-",
+    "source_url": "https://www.youtube.com/watch?v=talJU_zhEpU",
+    "speakers": [
+        "Bradley M. Kuhn"
+    ],
+    "state": 1,
+    "summary": "Organizations like Software Freedom Conservancy and PSF provide essential non-profit infrastructure to the Python community.  For the past few years, Conservancy specifically helped raise funds to support 3 key Python projects: Mercurial, PyPy and Twisted. This talk discusses successes and challenges of funding Python software development in non-profits, and discuss plans to expand this activity.",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/talJU_zhEpU/hqdefault.jpg",
+    "title": "Funding and Coordinating Python Projects via Non-Profits",
+    "updated": "2014-04-08T20:28:26.700",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,43 @@
-{"tags": ["optimizing", "pyohio", "pyohio2010", "pypy", "unladenswallow"], "thumbnail_url": "http://a.images.blip.tv/Pyohio-PyPyAndUnladenSwallowMakingYourPythonFast653.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "PyOhio 2010: PyPy and Unladen Swallow: Making your Python Fast", "duration": null, "description": "PyPy and Unladen-Swallow: Making your Python Fast\n\nPresented by Alex Gaynor\n\nPython has a reputation for being a bit slow, but it doesn't have to be that\nway. This talk will cover why Python is slow, and what two of the most\nexciting virtual machines are doing about it.\n\n", "state": 1, "category": "PyOhio 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": 105183550, "updated": "2014-04-08T20:28:25.840", "id": 503, "related_urls": [], "slug": "pyohio-2010--pypy-and-unladen-swallow--making-you", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/503_pyohio-2010-pypy-and-unladen-swallow-making-your-python-fast.flv", "language": "English", "video_ogv_download_only": false, "speakers": ["Alex Gaynor"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyOhio 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "PyPy and Unladen-Swallow: Making your Python Fast\n\nPresented by Alex Gaynor\n\nPython has a reputation for being a bit slow, but it doesn't have to be that\nway. This talk will cover why Python is slow, and what two of the most\nexciting virtual machines are doing about it.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 503,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "pyohio-2010--pypy-and-unladen-swallow--making-you",
+    "source_url": "",
+    "speakers": [
+        "Alex Gaynor"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "optimizing",
+        "pyohio",
+        "pyohio2010",
+        "pypy",
+        "unladenswallow"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pyohio-PyPyAndUnladenSwallowMakingYourPythonFast653.png",
+    "title": "PyOhio 2010: PyPy and Unladen Swallow: Making your Python Fast",
+    "updated": "2014-04-08T20:28:25.840",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/503_pyohio-2010-pypy-and-unladen-swallow-making-your-python-fast.flv",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": 105183550,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

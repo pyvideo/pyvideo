@@ -1,1 +1,39 @@
-{"tags": ["poster"], "thumbnail_url": "http://i.ytimg.com/vi/2iAX3Xu1nhc/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/2iAX3Xu1nhc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/2iAX3Xu1nhc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-03-13T18:57:28", "whiteboard": "", "video_flv_length": null, "title": "Biomedical Ontologies with Python", "duration": null, "description": "", "state": 1, "category": "PyCon US 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-03-17", "copyright_text": "CC", "source_url": "https://www.youtube.com/watch?v=2iAX3Xu1nhc", "video_webm_url": null, "summary": "Biomedical ontologies are large, graphical data structures that describe concepts in biology and medicine. An ongoing area of research is determining how to integrate these from different sub-domains, since they are too large to integrate by hand. This describes an elaborate approach using machine learning and distributed computing, implemented in python.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.538", "id": 1821, "related_urls": [], "slug": "biomedical-ontologies-with-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Ryan Freckleton"]}
+{
+    "added": "2013-03-13T18:57:28",
+    "category": "PyCon US 2013",
+    "copyright_text": "CC",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/2iAX3Xu1nhc?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/2iAX3Xu1nhc?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1821,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-03-17",
+    "related_urls": [],
+    "slug": "biomedical-ontologies-with-python",
+    "source_url": "https://www.youtube.com/watch?v=2iAX3Xu1nhc",
+    "speakers": [
+        "Ryan Freckleton"
+    ],
+    "state": 1,
+    "summary": "Biomedical ontologies are large, graphical data structures that describe concepts in biology and medicine. An ongoing area of research is determining how to integrate these from different sub-domains, since they are too large to integrate by hand. This describes an elaborate approach using machine learning and distributed computing, implemented in python.",
+    "tags": [
+        "poster"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/2iAX3Xu1nhc/hqdefault.jpg",
+    "title": "Biomedical Ontologies with Python",
+    "updated": "2014-04-08T20:28:26.538",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

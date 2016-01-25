@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "https://i.ytimg.com/vi/H9GpEOUojeQ/hqdefault.jpg", "embed": "", "added": "2015-07-22T20:49:56.844", "whiteboard": "", "video_flv_length": null, "title": "You Gotta Want It: Building Up Women in Computer Science", "duration": 2845, "description": "Tech's diversity problem is well-known, and college communities are no exception. This is the story of building up Case Western's women in computer science community over a year, and how to apply the same strategies to your own company or community.", "state": 1, "category": "PyOhio 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3716_You_Gotta_Want_It_Building_Up_Women_in_Computer_Sc.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-01", "copyright_text": "CC BY", "source_url": "http://youtu.be/H9GpEOUojeQ", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-08-02T23:06:22.621", "id": 3716, "related_urls": [], "slug": "you-gotta-want-it-building-up-women-in-computer", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Stephanie Hippo"]}
+{
+    "added": "2015-07-22T20:49:56.844",
+    "category": "PyOhio 2015",
+    "copyright_text": "CC BY",
+    "description": "Tech's diversity problem is well-known, and college communities are no exception. This is the story of building up Case Western's women in computer science community over a year, and how to apply the same strategies to your own company or community.",
+    "duration": 2845,
+    "embed": "",
+    "id": 3716,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-01",
+    "related_urls": [],
+    "slug": "you-gotta-want-it-building-up-women-in-computer",
+    "source_url": "http://youtu.be/H9GpEOUojeQ",
+    "speakers": [
+        "Stephanie Hippo"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/H9GpEOUojeQ/hqdefault.jpg",
+    "title": "You Gotta Want It: Building Up Women in Computer Science",
+    "updated": "2015-08-02T23:06:22.621",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pyohio-2015/3716_You_Gotta_Want_It_Building_Up_Women_in_Computer_Sc.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

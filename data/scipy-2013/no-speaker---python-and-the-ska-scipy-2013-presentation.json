@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/dRFiI29y7KA/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/dRFiI29y7KA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/dRFiI29y7KA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:44", "whiteboard": "needs editing", "video_flv_length": null, "title": "Python and the SKA; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-01", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=dRFiI29y7KA", "video_webm_url": null, "summary": "Authors: Simon Ratcliffe SKA South Africa, Ludwig Schwardt SKA South Africa\n\nTrack: Astronomy and Astrophysics\n\nThe Square Kilometer Array will be one of the prime scientific data generates in the next few decades.\n\nConstruction is scheduled to commence in late 2016 and last for the best part of a decade. Current estimates put data volume generation near 1 Exabyte per day with 2-3 ExaFLOPs of processing required to handle this data.\n\nAs a host country, South Africa is constructing a large precursor telescope known as MeerKAT. Once complete this will be the most sensitive telescope of it's kind in the world - until dwarfed by the SKA.\n\nWe make extensive use of Python from the entire Monitor and Control system through to data handling and processing.\n\nThis talk looks at our current usage of Python, and our desire to see the entire high performance processing chain being able to call itself Pythonic.\n\nWe will discuss some of the challenges specific to the radio astronomy environment and how we believe Python can contribute, particularly when it comes to the trade off between development time and performance.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.429", "id": 2051, "related_urls": [], "slug": "python-and-the-ska-scipy-2013-presentation", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:44",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/dRFiI29y7KA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/dRFiI29y7KA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2051,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-01",
+    "related_urls": [],
+    "slug": "python-and-the-ska-scipy-2013-presentation",
+    "source_url": "http://www.youtube.com/watch?v=dRFiI29y7KA",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Simon Ratcliffe SKA South Africa, Ludwig Schwardt SKA South Africa\n\nTrack: Astronomy and Astrophysics\n\nThe Square Kilometer Array will be one of the prime scientific data generates in the next few decades.\n\nConstruction is scheduled to commence in late 2016 and last for the best part of a decade. Current estimates put data volume generation near 1 Exabyte per day with 2-3 ExaFLOPs of processing required to handle this data.\n\nAs a host country, South Africa is constructing a large precursor telescope known as MeerKAT. Once complete this will be the most sensitive telescope of it's kind in the world - until dwarfed by the SKA.\n\nWe make extensive use of Python from the entire Monitor and Control system through to data handling and processing.\n\nThis talk looks at our current usage of Python, and our desire to see the entire high performance processing chain being able to call itself Pythonic.\n\nWe will discuss some of the challenges specific to the radio astronomy environment and how we believe Python can contribute, particularly when it comes to the trade off between development time and performance.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/dRFiI29y7KA/hqdefault.jpg",
+    "title": "Python and the SKA; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.429",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

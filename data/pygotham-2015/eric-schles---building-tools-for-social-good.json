@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/APC5HvHZaf0/hqdefault.jpg", "embed": "", "added": "2015-08-10T15:48:44.245", "whiteboard": "", "video_flv_length": null, "title": "Building tools for Social good", "duration": 3056, "description": "Computational tools are becoming increasingly necessary in the world of social good.  There is an increasing need for data science, automation, search and distributed computation.  In this talk I will take listeners through a number of general purpose tools including, building a image search database with python and a few libraries, how to build geographic information systems with geodjango,  and how to process and extract information from pdfs.", "state": 1, "category": "PyGotham 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3808_Building_tools_for_Social_good.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-08-15", "copyright_text": "CC BY-SA", "source_url": "http://youtu.be/APC5HvHZaf0", "video_webm_url": "", "summary": "", "video_ogv_url": "", "video_ogv_length": null, "updated": "2015-09-14T13:15:27.656", "id": 3808, "related_urls": [], "slug": "building-tools-for-social-good", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Eric Schles"]}
+{
+    "added": "2015-08-10T15:48:44.245",
+    "category": "PyGotham 2015",
+    "copyright_text": "CC BY-SA",
+    "description": "Computational tools are becoming increasingly necessary in the world of social good.  There is an increasing need for data science, automation, search and distributed computation.  In this talk I will take listeners through a number of general purpose tools including, building a image search database with python and a few libraries, how to build geographic information systems with geodjango,  and how to process and extract information from pdfs.",
+    "duration": 3056,
+    "embed": "",
+    "id": 3808,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-08-15",
+    "related_urls": [],
+    "slug": "building-tools-for-social-good",
+    "source_url": "http://youtu.be/APC5HvHZaf0",
+    "speakers": [
+        "Eric Schles"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/APC5HvHZaf0/hqdefault.jpg",
+    "title": "Building tools for Social good",
+    "updated": "2015-09-14T13:15:27.656",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pygotham-2015/3808_Building_tools_for_Social_good.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

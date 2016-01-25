@@ -1,1 +1,42 @@
-{"tags": ["cmd", "cmd2", "pycon", "pycon2010"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010EasyCommandlineApplicationsWithCmdAndCmd2153294.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Easy command-line applications with cmd and cmd2 (#153)", "duration": null, "description": "Easy command-line applications with cmd and cmd2\n\n  \nPresented by Catherine Devlin (IntelliTech Systems)\n\n  \nThe Python Standard Library's cmd module makes it absurdly simple to write\ncommand-line interpreters - non-graphical programs that communicate with users\ninteractively through a simple text interface. The third-party cmd2 module\nadds high-powered \"batteries\" to applications written for cmd.\n\n  \nThis presentation teaches attendees how to easily make their own powerful\ncommand-line interpreters with cmd and cmd2. It also describes the tricks cmd2\nuses for some of its more interesting functionality so that they can implement\nthem in their own programs (even unrelated ones). It ends with a brief\ndemonstration of sqlpython, a cmd2-based application that improves on existing\nad-hoc SQL applications.\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/306_easy-command-line-applications-with-cmd-and-cmd2-153.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/306_easy-command-line-applications-with-cmd-and-cmd2-153.ogv", "video_ogv_length": 162264357, "updated": "2014-04-08T20:28:28.110", "id": 306, "related_urls": [], "slug": "pycon-2010--easy-command-line-applications-with-c", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Catherine Devlin"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Easy command-line applications with cmd and cmd2\n\n  \nPresented by Catherine Devlin (IntelliTech Systems)\n\n  \nThe Python Standard Library's cmd module makes it absurdly simple to write\ncommand-line interpreters - non-graphical programs that communicate with users\ninteractively through a simple text interface. The third-party cmd2 module\nadds high-powered \"batteries\" to applications written for cmd.\n\n  \nThis presentation teaches attendees how to easily make their own powerful\ncommand-line interpreters with cmd and cmd2. It also describes the tricks cmd2\nuses for some of its more interesting functionality so that they can implement\nthem in their own programs (even unrelated ones). It ends with a brief\ndemonstration of sqlpython, a cmd2-based application that improves on existing\nad-hoc SQL applications.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 306,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--easy-command-line-applications-with-c",
+    "source_url": "",
+    "speakers": [
+        "Catherine Devlin"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "cmd",
+        "cmd2",
+        "pycon",
+        "pycon2010"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010EasyCommandlineApplicationsWithCmdAndCmd2153294.png",
+    "title": "Easy command-line applications with cmd and cmd2 (#153)",
+    "updated": "2014-04-08T20:28:28.110",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/306_easy-command-line-applications-with-cmd-and-cmd2-153.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": 162264357,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/306_easy-command-line-applications-with-cmd-and-cmd2-153.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

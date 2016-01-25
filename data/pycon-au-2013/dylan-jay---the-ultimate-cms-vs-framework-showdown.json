@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i1.ytimg.com/vi/WYpjXOQVEug/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/WYpjXOQVEug?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/WYpjXOQVEug?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-13T01:04:47", "whiteboard": "", "video_flv_length": null, "title": "The ultimate CMS vs Framework showdown", "duration": 30, "description": "", "state": 1, "category": "PyCon AU 2013", "video_mp4_download_only": true, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/ndvpyconau2013/The_ultimate_CMS_vs_Framework_.mp4", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-07", "copyright_text": "CC-BY-SA", "source_url": "https://www.youtube.com/watch?v=WYpjXOQVEug", "video_webm_url": null, "summary": "Is Django a CMS? Is Plone a Framework? For years I've seen developers stumble over the same problem, when should I use a CMS like Plone, Drupal or Wordpress, and when should I use a framework like Django? Covering real case studies of projects gone horribly wrong through the use of the wrong technology. The audience will be left with several solid rules to follow to guide their future development.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.268", "id": 2240, "related_urls": [], "slug": "the-ultimate-cms-vs-framework-showdown", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Dylan Jay"]}
+{
+    "added": "2013-07-13T01:04:47",
+    "category": "PyCon AU 2013",
+    "copyright_text": "CC-BY-SA",
+    "description": "",
+    "duration": 30,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/WYpjXOQVEug?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/WYpjXOQVEug?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2240,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-07",
+    "related_urls": [],
+    "slug": "the-ultimate-cms-vs-framework-showdown",
+    "source_url": "https://www.youtube.com/watch?v=WYpjXOQVEug",
+    "speakers": [
+        "Dylan Jay"
+    ],
+    "state": 1,
+    "summary": "Is Django a CMS? Is Plone a Framework? For years I've seen developers stumble over the same problem, when should I use a CMS like Plone, Drupal or Wordpress, and when should I use a framework like Django? Covering real case studies of projects gone horribly wrong through the use of the wrong technology. The audience will be left with several solid rules to follow to guide their future development.",
+    "tags": [],
+    "thumbnail_url": "http://i1.ytimg.com/vi/WYpjXOQVEug/hqdefault.jpg",
+    "title": "The ultimate CMS vs Framework showdown",
+    "updated": "2014-04-08T20:28:26.268",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": true,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/ndvpyconau2013/The_ultimate_CMS_vs_Framework_.mp4",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

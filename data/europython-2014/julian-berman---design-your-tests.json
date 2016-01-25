@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/xkwBjsjSERU/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/xkwBjsjSERU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/xkwBjsjSERU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:30.607", "whiteboard": "", "video_flv_length": null, "title": "Design Your Tests", "duration": null, "description": "* Life span of a test\r\n    * 5 minute - why does this fail?\r\n    * 5 day - what is this missing?\r\n    * 5 week - do I have coverage for this?\r\n    * 5 month - what's *not* causing this bug?\r\n\r\n* Transparent simplicity\r\n    * one or two \"iceberg\" layers for meaning\r\n        * Higher-order assertions - build collections of state that have meaning for the domain in the tests\r\n        * bulk of the details are in the code itself\r\n\r\n        * show an example\r\n\r\n    * grouping for organization\r\n        * Mixins\r\n\r\n        * show an example\r\n\r\n* unittest issues\r\n    * assertion/mixin clutter\r\n    * setUp/tearDown tie grouping to the class layer or to inheritance via super\r\n        * addCleanup\r\n    * weak association / lookup-ability between code and its tests\r\n        * package layout\r\n        * other conventions\r\n\r\n* Alternative approaches\r\n    * testtools' matchers\r\n    * py.test `assert` magic", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-23", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=xkwBjsjSERU", "video_webm_url": "", "summary": "While getting started testing often provides noticeable immediate improvement for any developer, it's often not until the realization that tests are things that need *design* to provide maximal benefit that developers begin to appreciate or even *enjoy* them.\r\n\r\nWe'll investigate how building shallow, transparent layers for your tests makes for better failures, clearer tests, and quicker diagnoses.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-07-31T23:20:03.573", "id": 2997, "related_urls": [], "slug": "design-your-tests", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Julian Berman"]}
+{
+    "added": "2014-07-31T00:46:30.607",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "* Life span of a test\r\n    * 5 minute - why does this fail?\r\n    * 5 day - what is this missing?\r\n    * 5 week - do I have coverage for this?\r\n    * 5 month - what's *not* causing this bug?\r\n\r\n* Transparent simplicity\r\n    * one or two \"iceberg\" layers for meaning\r\n        * Higher-order assertions - build collections of state that have meaning for the domain in the tests\r\n        * bulk of the details are in the code itself\r\n\r\n        * show an example\r\n\r\n    * grouping for organization\r\n        * Mixins\r\n\r\n        * show an example\r\n\r\n* unittest issues\r\n    * assertion/mixin clutter\r\n    * setUp/tearDown tie grouping to the class layer or to inheritance via super\r\n        * addCleanup\r\n    * weak association / lookup-ability between code and its tests\r\n        * package layout\r\n        * other conventions\r\n\r\n* Alternative approaches\r\n    * testtools' matchers\r\n    * py.test `assert` magic",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/xkwBjsjSERU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/xkwBjsjSERU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2997,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-23",
+    "related_urls": [],
+    "slug": "design-your-tests",
+    "source_url": "http://www.youtube.com/watch?v=xkwBjsjSERU",
+    "speakers": [
+        "Julian Berman"
+    ],
+    "state": 1,
+    "summary": "While getting started testing often provides noticeable immediate improvement for any developer, it's often not until the realization that tests are things that need *design* to provide maximal benefit that developers begin to appreciate or even *enjoy* them.\r\n\r\nWe'll investigate how building shallow, transparent layers for your tests makes for better failures, clearer tests, and quicker diagnoses.",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/xkwBjsjSERU/hqdefault.jpg",
+    "title": "Design Your Tests",
+    "updated": "2014-07-31T23:20:03.573",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

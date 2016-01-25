@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/gR73nLbbgqY/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/gR73nLbbgqY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/gR73nLbbgqY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-07-31T00:46:27.450", "whiteboard": "", "video_flv_length": null, "title": "Writing Awesome Command-Line Programs in Python", "duration": null, "description": "Python is a great language for writing command-line tools - which is why so much of Linux is secretly written in Python these days. Unfortunately, what starts as a simple script can quickly get out of hand as more features are added and more people start using it!\r\n\r\nThe talk will consist of a tour through various useful libraries and practical code showing how each can be used, and include advice on how to best structure simple and complex command-line tools.\r\n\r\nThings to consider when writing command-line apps:\r\n\r\n* Single-file vs Multiple-file\r\n* Standard library only vs. 3rd party requirements\r\n* Installation - setup.py vs. native packaging\r\n\r\nThe different parts of a command-line program:\r\n\r\n* Option Parsing:\r\n    * Libraries: getopt, optparse, argparse, docopt\r\n    * Sub-commands\r\n* Configuration:\r\n    * Formats: Ini file, JSON, YAML\r\n    * Where should it be stored (cross-platform);\r\n    * Having multiple configuration files, and allowing user config to override global config\r\n* Output:\r\n    * Colour - colorama\r\n    * Formatting output for the user\r\n    * Formatting output for other programs\r\n    * How do you know when your output is being piped to another program?\r\n    * Managing logging and verbosity\r\n* Managing streamed input\r\n* Exit values: What are the conventions?\r\n* Interactive apps - REPL\r\n* Structuring a bunch of programs/commands around a shared codebase.\r\n* Command-line frameworks: clint, compago & cliff\r\n* Testing command-line apps\r\n* Writing command-line tools in Python 3 vs Python 2", "state": 1, "category": "EuroPython 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-07-24", "copyright_text": "http://creativecommons.org/licenses/by/3.0/", "source_url": "http://www.youtube.com/watch?v=gR73nLbbgqY", "video_webm_url": "", "summary": "Command-Line programs can have a lot to them - usually more than you think, yet often suffer from a lack of thought.\r\n\r\nThis is a tour through how to structure your code, tools in the standard library and some 3rd party libraries. Take your command-line programs to the next level!", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-07-31T23:12:49.800", "id": 2971, "related_urls": [], "slug": "writing-awesome-command-line-programs-in-python", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Mark Smith"]}
+{
+    "added": "2014-07-31T00:46:27.450",
+    "category": "EuroPython 2014",
+    "copyright_text": "http://creativecommons.org/licenses/by/3.0/",
+    "description": "Python is a great language for writing command-line tools - which is why so much of Linux is secretly written in Python these days. Unfortunately, what starts as a simple script can quickly get out of hand as more features are added and more people start using it!\r\n\r\nThe talk will consist of a tour through various useful libraries and practical code showing how each can be used, and include advice on how to best structure simple and complex command-line tools.\r\n\r\nThings to consider when writing command-line apps:\r\n\r\n* Single-file vs Multiple-file\r\n* Standard library only vs. 3rd party requirements\r\n* Installation - setup.py vs. native packaging\r\n\r\nThe different parts of a command-line program:\r\n\r\n* Option Parsing:\r\n    * Libraries: getopt, optparse, argparse, docopt\r\n    * Sub-commands\r\n* Configuration:\r\n    * Formats: Ini file, JSON, YAML\r\n    * Where should it be stored (cross-platform);\r\n    * Having multiple configuration files, and allowing user config to override global config\r\n* Output:\r\n    * Colour - colorama\r\n    * Formatting output for the user\r\n    * Formatting output for other programs\r\n    * How do you know when your output is being piped to another program?\r\n    * Managing logging and verbosity\r\n* Managing streamed input\r\n* Exit values: What are the conventions?\r\n* Interactive apps - REPL\r\n* Structuring a bunch of programs/commands around a shared codebase.\r\n* Command-line frameworks: clint, compago & cliff\r\n* Testing command-line apps\r\n* Writing command-line tools in Python 3 vs Python 2",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/gR73nLbbgqY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/gR73nLbbgqY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2971,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-07-24",
+    "related_urls": [],
+    "slug": "writing-awesome-command-line-programs-in-python",
+    "source_url": "http://www.youtube.com/watch?v=gR73nLbbgqY",
+    "speakers": [
+        "Mark Smith"
+    ],
+    "state": 1,
+    "summary": "Command-Line programs can have a lot to them - usually more than you think, yet often suffer from a lack of thought.\r\n\r\nThis is a tour through how to structure your code, tools in the standard library and some 3rd party libraries. Take your command-line programs to the next level!",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/gR73nLbbgqY/hqdefault.jpg",
+    "title": "Writing Awesome Command-Line Programs in Python",
+    "updated": "2014-07-31T23:12:49.800",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

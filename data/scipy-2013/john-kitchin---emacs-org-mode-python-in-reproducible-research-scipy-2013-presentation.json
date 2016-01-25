@@ -1,1 +1,57 @@
-{"tags": ["emacs", "reproducibility"], "thumbnail_url": "http://i1.ytimg.com/vi/1-dUkyn_fZA/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/1-dUkyn_fZA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/1-dUkyn_fZA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:36", "whiteboard": "", "video_flv_length": null, "title": "Emacs + org-mode + python in reproducible research; SciPy 2013 Presentation", "duration": null, "description": "Authors: Kitchin, John Carnegie Mellon University\r\n\r\nTrack: Reproducible Science\r\n\r\nWe will discuss the use of emacs + org-mode + python in enabling reproducible research. This combination of software enables researchers to intertwine narrative and mathematical text with figures and code that is executable within a document, with capture of the output. Portions of the document can be selectively exported to LaTeX, HTML, pdf and other other formats. We have used this method to produce technical manuscripts submitted for peer review in scientific journals, in the preparation of two e-books (about 300 pages each) on using python in scientific and engineering applications (http://jkitchin.github.com/pycse), and in using python in the modeling of the properties of materials with density functional theory (http://jkitchin.github.com/dft-book), as well as a python-powered blog at http://jkitchin.github.com. Our experience suggests all three components are critical for enabling reproducible research in practice: an extensible editor, a markup language that separates text, math, data and code, and an effective language such as python. We will show examples of the pros and cons of this particular implementation of editor/markup/code combination.", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=1-dUkyn_fZA", "video_webm_url": "", "summary": "We discuss the use of emacs + org-mode + python in enabling reproducible research.", "video_ogv_url": "", "video_ogv_length": null, "updated": "2014-04-08T20:28:26.340", "id": 2000, "related_urls": [{"url": "http://jkitchin.github.io/pycse/", "description": "pycse - Python Computations in Science and Engineering"}, {"url": "http://jkitchin.github.com/dft-book", "description": "Modeling materials using density functional theory"}, {"url": "http://jkitchin.github.com/", "description": "The Kitchin Research Group"}, {"url": "https://github.com/jkitchin/scipy2013", "description": "Talk repo"}], "slug": "emacs-org-mode-python-in-reproducible-researc", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["John Kitchin"]}
+{
+    "added": "2013-07-04T10:08:36",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "Authors: Kitchin, John Carnegie Mellon University\r\n\r\nTrack: Reproducible Science\r\n\r\nWe will discuss the use of emacs + org-mode + python in enabling reproducible research. This combination of software enables researchers to intertwine narrative and mathematical text with figures and code that is executable within a document, with capture of the output. Portions of the document can be selectively exported to LaTeX, HTML, pdf and other other formats. We have used this method to produce technical manuscripts submitted for peer review in scientific journals, in the preparation of two e-books (about 300 pages each) on using python in scientific and engineering applications (http://jkitchin.github.com/pycse), and in using python in the modeling of the properties of materials with density functional theory (http://jkitchin.github.com/dft-book), as well as a python-powered blog at http://jkitchin.github.com. Our experience suggests all three components are critical for enabling reproducible research in practice: an extensible editor, a markup language that separates text, math, data and code, and an effective language such as python. We will show examples of the pros and cons of this particular implementation of editor/markup/code combination.",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/1-dUkyn_fZA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/1-dUkyn_fZA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 2000,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [
+        {
+            "description": "pycse - Python Computations in Science and Engineering",
+            "url": "http://jkitchin.github.io/pycse/"
+        },
+        {
+            "description": "Modeling materials using density functional theory",
+            "url": "http://jkitchin.github.com/dft-book"
+        },
+        {
+            "description": "The Kitchin Research Group",
+            "url": "http://jkitchin.github.com/"
+        },
+        {
+            "description": "Talk repo",
+            "url": "https://github.com/jkitchin/scipy2013"
+        }
+    ],
+    "slug": "emacs-org-mode-python-in-reproducible-researc",
+    "source_url": "http://www.youtube.com/watch?v=1-dUkyn_fZA",
+    "speakers": [
+        "John Kitchin"
+    ],
+    "state": 1,
+    "summary": "We discuss the use of emacs + org-mode + python in enabling reproducible research.",
+    "tags": [
+        "emacs",
+        "reproducibility"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/1-dUkyn_fZA/hqdefault.jpg",
+    "title": "Emacs + org-mode + python in reproducible research; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.340",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/zW1An0BRLYs/hqdefault.jpg", "embed": "", "added": "2015-06-14T17:02:21.092", "whiteboard": "", "video_flv_length": null, "title": "Understanding PyPy", "duration": 3048, "description": "", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-06-09", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=zW1An0BRLYs", "video_webm_url": "", "summary": "PyPy is an alternative implementation of CPython implemented in Python. Understanding concepts like RPython, JIT, PyPy garbage collection and other core concepts can be difficult for newcomers to understand. This talk is aimed to introduce all of these concepts to help better understand how PyPy works.\r\n", "video_ogv_url": "", "video_ogv_length": null, "updated": "2015-06-14T17:34:21.563", "id": 3569, "related_urls": [], "slug": "understanding-pypy", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "Italian", "video_ogv_download_only": false, "speakers": ["Antonio Cuni"]}
+{
+    "added": "2015-06-14T17:02:21.092",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "",
+    "duration": 3048,
+    "embed": "",
+    "id": 3569,
+    "language": "Italian",
+    "quality_notes": "",
+    "recorded": "2015-06-09",
+    "related_urls": [],
+    "slug": "understanding-pypy",
+    "source_url": "https://www.youtube.com/watch?v=zW1An0BRLYs",
+    "speakers": [
+        "Antonio Cuni"
+    ],
+    "state": 1,
+    "summary": "PyPy is an alternative implementation of CPython implemented in Python. Understanding concepts like RPython, JIT, PyPy garbage collection and other core concepts can be difficult for newcomers to understand. This talk is aimed to introduce all of these concepts to help better understand how PyPy works.\r\n",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/zW1An0BRLYs/hqdefault.jpg",
+    "title": "Understanding PyPy",
+    "updated": "2015-06-14T17:34:21.563",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

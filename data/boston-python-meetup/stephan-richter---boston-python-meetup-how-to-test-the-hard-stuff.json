@@ -1,1 +1,42 @@
-{"tags": ["bostonpy", "session", "testing", "unittest"], "thumbnail_url": null, "embed": "<object width=\"425\" height=\"344\"><param name=\"allowfullscreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><param name=\"movie\" value=\"http://vimeo.com/moogaloop.swf?show_byline=1&amp;fullscreen=1&amp;clip_id=11980200&amp;color=&amp;server=vimeo.com&amp;show_title=1&amp;show_portrait=0\"><embed src=\"http://vimeo.com/moogaloop.swf?show_byline=1&amp;fullscreen=1&amp;clip_id=11980200&amp;color=&amp;server=vimeo.com&amp;show_title=1&amp;show_portrait=0\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Boston Python Meetup: How to test the hard stuff", "duration": null, "description": "How to Test the Hard Stuff\n\nPresented by Stephan Richter\n\nStephan will cover testing network-driven components, RDB stubbing, test setup\nlayering and stuff like that. Recently he used manuel to do this sort of\ntesting by simulating CLIs and Shell access in a doctest-style test, so he may\ncover that as well.\n\nBring your testing challenges and the impossible to automate projects that\nhaunt you at night, we'll see what Stephan can do with them.\n\nBoston Python Meetup: May 2010\n\n", "state": 1, "category": "Boston Python Meetup", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": null, "copyright_text": "", "source_url": "http://vimeo.com/11980200", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:25.394", "id": 591, "related_urls": [], "slug": "boston-python-meetup--how-to-test-the-hard-stuff", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Stephan Richter"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "Boston Python Meetup",
+    "copyright_text": "",
+    "description": "How to Test the Hard Stuff\n\nPresented by Stephan Richter\n\nStephan will cover testing network-driven components, RDB stubbing, test setup\nlayering and stuff like that. Recently he used manuel to do this sort of\ntesting by simulating CLIs and Shell access in a doctest-style test, so he may\ncover that as well.\n\nBring your testing challenges and the impossible to automate projects that\nhaunt you at night, we'll see what Stephan can do with them.\n\nBoston Python Meetup: May 2010\n\n",
+    "duration": null,
+    "embed": "<object width=\"425\" height=\"344\"><param name=\"allowfullscreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><param name=\"movie\" value=\"http://vimeo.com/moogaloop.swf?show_byline=1&amp;fullscreen=1&amp;clip_id=11980200&amp;color=&amp;server=vimeo.com&amp;show_title=1&amp;show_portrait=0\"><embed src=\"http://vimeo.com/moogaloop.swf?show_byline=1&amp;fullscreen=1&amp;clip_id=11980200&amp;color=&amp;server=vimeo.com&amp;show_title=1&amp;show_portrait=0\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>",
+    "id": 591,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": null,
+    "related_urls": [],
+    "slug": "boston-python-meetup--how-to-test-the-hard-stuff",
+    "source_url": "http://vimeo.com/11980200",
+    "speakers": [
+        "Stephan Richter"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "bostonpy",
+        "session",
+        "testing",
+        "unittest"
+    ],
+    "thumbnail_url": null,
+    "title": "Boston Python Meetup: How to test the hard stuff",
+    "updated": "2014-04-08T20:28:25.394",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

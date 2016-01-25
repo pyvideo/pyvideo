@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/gsu8H-yHOLs/maxresdefault.jpg", "embed": "", "added": "2015-06-14T17:04:25.986", "whiteboard": "", "video_flv_length": null, "title": "Python e l'Open Sorce nella Pubblicazione Amministrazione Italiana", "duration": 3323, "description": "In questo talk  verranno illustrati casi d\u2019uso, software, tools del mondo Python e Open Source che possono essere adottati nella Pubblica Amministrazione (e non solo ovviamente). Si vedr\u00e0 ad esempio come Python pu\u00f2 essere il migliore amico del \u201ctecnico del CED\u201d per scrivere i propri o scrivere in breve tempo, un gestionale per sostituire intricati fogli elettronici e ingestibili file \u201cAccess\u201d. Python pu\u00f2 e deve essere uno dei migliori alleati, per una PA pi\u00f9 efficiente, snella e trasparente.\n", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-29", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=gsu8H-yHOLs", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-14T17:04:25.986", "id": 3615, "related_urls": [], "slug": "python-e-lopen-sorce-nella-pubblicazione-amminis", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "Italian", "video_ogv_download_only": false, "speakers": ["Simone Dalla"]}
+{
+    "added": "2015-06-14T17:04:25.986",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "In questo talk  verranno illustrati casi d\u2019uso, software, tools del mondo Python e Open Source che possono essere adottati nella Pubblica Amministrazione (e non solo ovviamente). Si vedr\u00e0 ad esempio come Python pu\u00f2 essere il migliore amico del \u201ctecnico del CED\u201d per scrivere i propri o scrivere in breve tempo, un gestionale per sostituire intricati fogli elettronici e ingestibili file \u201cAccess\u201d. Python pu\u00f2 e deve essere uno dei migliori alleati, per una PA pi\u00f9 efficiente, snella e trasparente.\n",
+    "duration": 3323,
+    "embed": "",
+    "id": 3615,
+    "language": "Italian",
+    "quality_notes": "",
+    "recorded": "2015-05-29",
+    "related_urls": [],
+    "slug": "python-e-lopen-sorce-nella-pubblicazione-amminis",
+    "source_url": "https://www.youtube.com/watch?v=gsu8H-yHOLs",
+    "speakers": [
+        "Simone Dalla"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/gsu8H-yHOLs/maxresdefault.jpg",
+    "title": "Python e l'Open Sorce nella Pubblicazione Amministrazione Italiana",
+    "updated": "2015-06-14T17:04:25.986",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

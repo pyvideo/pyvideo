@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/5v6o-VsLAew/hqdefault.jpg", "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/5v6o-VsLAew' width='640' height='360' frameborder='0' allowfullscreen='true'/>", "added": "2015-04-16T14:22:03.683", "whiteboard": "needs editing", "video_flv_length": null, "title": "Systems programming as a swiss army knife", "duration": null, "description": "You might think of the Linux kernel as something that only kernel developers need to know about. Not so! It turns out that understanding some basics about kernels and systems programming makes you a better developer, and you can use this knowledge when debugging your normal everyday Python programs.\n\n", "state": 1, "category": "PyCon US 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-04-11", "copyright_text": "creativeCommon", "source_url": "https://www.youtube.com/watch?v=5v6o-VsLAew", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-04-16T14:22:03.683", "id": 3399, "related_urls": [], "slug": "systems-programming-as-a-swiss-army-knife", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Julia Evans"]}
+{
+    "added": "2015-04-16T14:22:03.683",
+    "category": "PyCon US 2015",
+    "copyright_text": "creativeCommon",
+    "description": "You might think of the Linux kernel as something that only kernel developers need to know about. Not so! It turns out that understanding some basics about kernels and systems programming makes you a better developer, and you can use this knowledge when debugging your normal everyday Python programs.\n\n",
+    "duration": null,
+    "embed": "<iframe type='text/html' src='http://www.youtube.com/embed/5v6o-VsLAew' width='640' height='360' frameborder='0' allowfullscreen='true'/>",
+    "id": 3399,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-04-11",
+    "related_urls": [],
+    "slug": "systems-programming-as-a-swiss-army-knife",
+    "source_url": "https://www.youtube.com/watch?v=5v6o-VsLAew",
+    "speakers": [
+        "Julia Evans"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/5v6o-VsLAew/hqdefault.jpg",
+    "title": "Systems programming as a swiss army knife",
+    "updated": "2015-04-16T14:22:03.683",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

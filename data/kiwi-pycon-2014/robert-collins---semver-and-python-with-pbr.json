@@ -1,1 +1,39 @@
-{"tags": ["talk"], "thumbnail_url": "http://i.ytimg.com/vi/6hjg-Uia5AU/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/6hjg-Uia5AU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/6hjg-Uia5AU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-10-14T22:37:52.238", "whiteboard": "", "video_flv_length": null, "title": "Semver and Python with PBR", "duration": 1800, "description": "= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = \r\nRobert Collins:\r\nSemver and Python with PBR\r\n= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = \r\n@ Kiwi PyCon 2014 - Saturday, 13 Sep 2014 - Track 1\r\nhttp://kiwi.pycon.org/\r\n\r\n**Audience level**\r\n\r\nNovice\r\n\r\n**Description**\r\n\r\nPBR is a setuptools plugin which OpenStack developed to provide simple and consistent minimal-boilerplate build definitions for its projects. Semantic versioning provides simple and robust rules for deciding on version numbers, and PBR will soon be able to manage the entire process of version number assignment in a project... and more.\r\n\r\n**Abstract**\r\n\r\nPBR is a setuptools plugin which OpenStack developed to provide simple and consistent minimal-boilerplate build definitions for its projects. Now used by all the OpenStack projects, PBR provides integration glue for core features:\r\n\r\n - testing\r\n - binary package creation for Linux distributors\r\n - inclusion of files in tarballs\r\n - changelog and authors file creation\r\n - pypi summary creation\r\n - version number creation\r\n - sphinx doc stub creation and manpage enablement\r\n - unified requirements management\r\n - for both easy-install and pip with single-file control\r\n\r\nThe most interesting part is the version number creation, since coming up with the right version number can be a contentious discussion in some projects. Semver provides simple and robust rules for deciding on version numbers, and I'm in the middle of implementing automation for these in PBR itself, with integration glue to export them in PEP-440, dpkg and rpm format. The only dependencies PBR has are git + a recent pip, so this should be useful for many attendees - and while PBR is an OpenStack invention we're very interested in making sure its useful and reliable for anyone that wants to use it.\r\n\r\n**Slides**\r\n\r\nhttps://speakerdeck.com/nzpug/robert-collins-semver-and-python-with-pbr", "state": 1, "category": "Kiwi PyCon 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-09-13", "copyright_text": "CC", "source_url": "http://youtu.be/6hjg-Uia5AU", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-10-16T00:06:41.946", "id": 3235, "related_urls": [], "slug": "semver-and-python-with-pbr", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Robert Collins"]}
+{
+    "added": "2014-10-14T22:37:52.238",
+    "category": "Kiwi PyCon 2014",
+    "copyright_text": "CC",
+    "description": "= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = \r\nRobert Collins:\r\nSemver and Python with PBR\r\n= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = \r\n@ Kiwi PyCon 2014 - Saturday, 13 Sep 2014 - Track 1\r\nhttp://kiwi.pycon.org/\r\n\r\n**Audience level**\r\n\r\nNovice\r\n\r\n**Description**\r\n\r\nPBR is a setuptools plugin which OpenStack developed to provide simple and consistent minimal-boilerplate build definitions for its projects. Semantic versioning provides simple and robust rules for deciding on version numbers, and PBR will soon be able to manage the entire process of version number assignment in a project... and more.\r\n\r\n**Abstract**\r\n\r\nPBR is a setuptools plugin which OpenStack developed to provide simple and consistent minimal-boilerplate build definitions for its projects. Now used by all the OpenStack projects, PBR provides integration glue for core features:\r\n\r\n - testing\r\n - binary package creation for Linux distributors\r\n - inclusion of files in tarballs\r\n - changelog and authors file creation\r\n - pypi summary creation\r\n - version number creation\r\n - sphinx doc stub creation and manpage enablement\r\n - unified requirements management\r\n - for both easy-install and pip with single-file control\r\n\r\nThe most interesting part is the version number creation, since coming up with the right version number can be a contentious discussion in some projects. Semver provides simple and robust rules for deciding on version numbers, and I'm in the middle of implementing automation for these in PBR itself, with integration glue to export them in PEP-440, dpkg and rpm format. The only dependencies PBR has are git + a recent pip, so this should be useful for many attendees - and while PBR is an OpenStack invention we're very interested in making sure its useful and reliable for anyone that wants to use it.\r\n\r\n**Slides**\r\n\r\nhttps://speakerdeck.com/nzpug/robert-collins-semver-and-python-with-pbr",
+    "duration": 1800,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/6hjg-Uia5AU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/6hjg-Uia5AU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3235,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-09-13",
+    "related_urls": [],
+    "slug": "semver-and-python-with-pbr",
+    "source_url": "http://youtu.be/6hjg-Uia5AU",
+    "speakers": [
+        "Robert Collins"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "talk"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/6hjg-Uia5AU/hqdefault.jpg",
+    "title": "Semver and Python with PBR",
+    "updated": "2014-10-16T00:06:41.946",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

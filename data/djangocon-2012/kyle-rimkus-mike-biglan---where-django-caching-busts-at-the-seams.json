@@ -1,1 +1,41 @@
-{"tags": ["caching", "django"], "thumbnail_url": "http://i.ytimg.com/vi/dXDLWGY0Tro/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/dXDLWGY0Tro?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/dXDLWGY0Tro?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-10-08T17:39:52", "whiteboard": "needs editing", "video_flv_length": null, "title": "Where Django Caching Busts at the Seams", "duration": null, "description": "Most mid-sized Django websites thrive by relying on memcached. Though what\nhappens when basic memcached is not enough? And how can one identify when the\ncaching architecture is becoming a bottleneck? We'll cover the problems we've\nencountered and solutions we've put in place.\n\nThe following highlight the issues we'll discuss during the talk:\n\n  * Cache Warming. For content that will likely be in demand, getting it ready in cache before use is a helpful start. \n  * Two-tier caching. In multi-server environments, certain content that changes infrequently and has high-demand can be cached locally on each server. In these cases, having methods to burn the cache on each server becomes critical.\n  * Categorizing Cache. If good estimates exist for the expected demand of certain cache as well as the frequency of change, this can lead to better insight into when to warm that content as well as whether to cache it locally.\n  * Caching comparison with memcached vs. reddis vs. mongo\n  * Cachemodel. Our open-source, mini-framework for simplifying caching in Django. \n  * Adding servers to memcached. And consistent hashing algorithms to avoid having to burn all cache when the cache cluster changes in size.\n  * Elasticache on AWS.\n\nAs caching problems become more common, better layers and mini-frameworks will\nhelp simplify and elegantly solve some of these problems.\n\n", "state": 1, "category": "DjangoCon 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-09-06", "copyright_text": "Creative Commons Attribution license (reuse allowed", "source_url": "http://www.youtube.com/watch?v=dXDLWGY0Tro", "video_webm_url": null, "summary": "Most mid-sized Django websites thrive by relying on memcached. Though what\nhappens when basic memcached is not enough? And how can one identify when the\ncaching architecture is becoming a bottleneck? We'll cover the problems we've\nencountered and solutions we've put in place.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.981", "id": 1405, "related_urls": [], "slug": "where-django-caching-busts-at-the-seams", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Kyle Rimkus", "Mike Biglan"]}
+{
+    "added": "2012-10-08T17:39:52",
+    "category": "DjangoCon 2012",
+    "copyright_text": "Creative Commons Attribution license (reuse allowed",
+    "description": "Most mid-sized Django websites thrive by relying on memcached. Though what\nhappens when basic memcached is not enough? And how can one identify when the\ncaching architecture is becoming a bottleneck? We'll cover the problems we've\nencountered and solutions we've put in place.\n\nThe following highlight the issues we'll discuss during the talk:\n\n  * Cache Warming. For content that will likely be in demand, getting it ready in cache before use is a helpful start. \n  * Two-tier caching. In multi-server environments, certain content that changes infrequently and has high-demand can be cached locally on each server. In these cases, having methods to burn the cache on each server becomes critical.\n  * Categorizing Cache. If good estimates exist for the expected demand of certain cache as well as the frequency of change, this can lead to better insight into when to warm that content as well as whether to cache it locally.\n  * Caching comparison with memcached vs. reddis vs. mongo\n  * Cachemodel. Our open-source, mini-framework for simplifying caching in Django. \n  * Adding servers to memcached. And consistent hashing algorithms to avoid having to burn all cache when the cache cluster changes in size.\n  * Elasticache on AWS.\n\nAs caching problems become more common, better layers and mini-frameworks will\nhelp simplify and elegantly solve some of these problems.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/dXDLWGY0Tro?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/dXDLWGY0Tro?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1405,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-09-06",
+    "related_urls": [],
+    "slug": "where-django-caching-busts-at-the-seams",
+    "source_url": "http://www.youtube.com/watch?v=dXDLWGY0Tro",
+    "speakers": [
+        "Kyle Rimkus",
+        "Mike Biglan"
+    ],
+    "state": 1,
+    "summary": "Most mid-sized Django websites thrive by relying on memcached. Though what\nhappens when basic memcached is not enough? And how can one identify when the\ncaching architecture is becoming a bottleneck? We'll cover the problems we've\nencountered and solutions we've put in place.\n\n",
+    "tags": [
+        "caching",
+        "django"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/dXDLWGY0Tro/hqdefault.jpg",
+    "title": "Where Django Caching Busts at the Seams",
+    "updated": "2014-04-08T20:28:26.981",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

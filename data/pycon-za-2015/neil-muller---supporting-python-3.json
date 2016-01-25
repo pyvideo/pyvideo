@@ -1,1 +1,39 @@
-{"tags": ["Room 211"], "thumbnail_url": "https://i.ytimg.com/vi/B0P3iU3Pz00/hqdefault.jpg", "embed": "", "added": "2015-09-30T02:46:31.582", "whiteboard": "", "video_flv_length": null, "title": "Supporting Python 3", "duration": 1478, "description": "The tools for supporting Python 2 & 3 in a single codebase have improved significantly from the early Python 3 days of just 2to3. Porting Python 2 code to work with Python 2 & 3 without a constant 2to3 translation step is not hard anymore, and leads to much easier-to-maintain ports.\r\n\r\nIn this talk, I will discuss some of the suggested best practices for supporting both Python 2 and Python 3. We will cover some of the tools for detecting potential issues, such as pylint, the available options, such as six, futurize and modernize, to simplify the process of updating the code and spend some time discussing what parts of porting still require care and attention, such as the text / binary data division.\r\n\r\n", "state": 1, "category": "PyCon ZA 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-10-02", "copyright_text": "", "source_url": "http://youtu.be/B0P3iU3Pz00", "video_webm_url": null, "summary": "", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-10-03T03:59:56.635", "id": 3938, "related_urls": [], "slug": "supporting-python-3", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Neil Muller"]}
+{
+    "added": "2015-09-30T02:46:31.582",
+    "category": "PyCon ZA 2015",
+    "copyright_text": "",
+    "description": "The tools for supporting Python 2 & 3 in a single codebase have improved significantly from the early Python 3 days of just 2to3. Porting Python 2 code to work with Python 2 & 3 without a constant 2to3 translation step is not hard anymore, and leads to much easier-to-maintain ports.\r\n\r\nIn this talk, I will discuss some of the suggested best practices for supporting both Python 2 and Python 3. We will cover some of the tools for detecting potential issues, such as pylint, the available options, such as six, futurize and modernize, to simplify the process of updating the code and spend some time discussing what parts of porting still require care and attention, such as the text / binary data division.\r\n\r\n",
+    "duration": 1478,
+    "embed": "",
+    "id": 3938,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2015-10-02",
+    "related_urls": [],
+    "slug": "supporting-python-3",
+    "source_url": "http://youtu.be/B0P3iU3Pz00",
+    "speakers": [
+        "Neil Muller"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "Room 211"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/B0P3iU3Pz00/hqdefault.jpg",
+    "title": "Supporting Python 3",
+    "updated": "2015-10-03T03:59:56.635",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

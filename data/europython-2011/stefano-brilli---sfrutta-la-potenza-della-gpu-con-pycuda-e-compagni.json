@@ -1,1 +1,41 @@
-{"tags": ["gpu", "pycuda", "python,"], "thumbnail_url": "http://i.ytimg.com/vi/5XjxTBgETfU/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/5XjxTBgETfU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/5XjxTBgETfU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-08-30T21:28:35", "whiteboard": "", "video_flv_length": null, "title": "Sfrutta la potenza della GPU con PyCUDA (e compagni)", "duration": null, "description": "CUDA \u00e8 una tecnologia che permette di sfruttare la potenza di calcolo delle\nmoderne schede video prodotte da NVIDIA. In questo talk, dopo una breve\nintroduzione all'architettura della GPU, si vedr\u00e0 come CUDA entra all'interno\ndi Python attraverso librerie come PyCUDA e non solo\u2026\n\nMediante alcuni esempi si metteranno in luce i concetti e le pratiche\nfondamentali per una buona programmazione della GPU.\n\nIl talk \u00e8 rivolto a chiunque voglia conoscere come sfruttare questa tecnologia\nall'interno di Python, i casi in cui \u00e8 conveniente utilizzarla, le pratiche da\nadottare e le pratiche da non adottare per trarre il massimo dalla propria\nGPU.\n\n", "state": 1, "category": "EuroPython 2011", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2011-07-13", "copyright_text": "Standard YouTube License", "source_url": "http://www.youtube.com/watch?v=5XjxTBgETfU", "video_webm_url": null, "summary": "[EuroPython 2011] Stefano Brilli - 22 June 2011 in \"Track Italiana Big Mac \"\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:27.888", "id": 1179, "related_urls": [], "slug": "sfrutta-la-potenza-della-gpu-con-pycuda-e-compag", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "Italian", "video_ogv_download_only": false, "speakers": ["Stefano Brilli"]}
+{
+    "added": "2012-08-30T21:28:35",
+    "category": "EuroPython 2011",
+    "copyright_text": "Standard YouTube License",
+    "description": "CUDA \u00e8 una tecnologia che permette di sfruttare la potenza di calcolo delle\nmoderne schede video prodotte da NVIDIA. In questo talk, dopo una breve\nintroduzione all'architettura della GPU, si vedr\u00e0 come CUDA entra all'interno\ndi Python attraverso librerie come PyCUDA e non solo\u2026\n\nMediante alcuni esempi si metteranno in luce i concetti e le pratiche\nfondamentali per una buona programmazione della GPU.\n\nIl talk \u00e8 rivolto a chiunque voglia conoscere come sfruttare questa tecnologia\nall'interno di Python, i casi in cui \u00e8 conveniente utilizzarla, le pratiche da\nadottare e le pratiche da non adottare per trarre il massimo dalla propria\nGPU.\n\n",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/5XjxTBgETfU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/5XjxTBgETfU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1179,
+    "language": "Italian",
+    "quality_notes": "",
+    "recorded": "2011-07-13",
+    "related_urls": [],
+    "slug": "sfrutta-la-potenza-della-gpu-con-pycuda-e-compag",
+    "source_url": "http://www.youtube.com/watch?v=5XjxTBgETfU",
+    "speakers": [
+        "Stefano Brilli"
+    ],
+    "state": 1,
+    "summary": "[EuroPython 2011] Stefano Brilli - 22 June 2011 in \"Track Italiana Big Mac \"\n\n",
+    "tags": [
+        "gpu",
+        "pycuda",
+        "python,"
+    ],
+    "thumbnail_url": "http://i.ytimg.com/vi/5XjxTBgETfU/hqdefault.jpg",
+    "title": "Sfrutta la potenza della GPU con PyCUDA (e compagni)",
+    "updated": "2014-04-08T20:28:27.888",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

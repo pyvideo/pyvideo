@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i.ytimg.com/vi/DEI5oJzzdFw/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/DEI5oJzzdFw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/DEI5oJzzdFw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2014-08-14T15:33:09.871", "whiteboard": "needs editing", "video_flv_length": null, "title": "What is OpenStack? by Michael Still", "duration": null, "description": "OpenStack is one of the biggest python projects ever, and is hiring plenty of interesting python people to work on Open Source, which is cool. Yet, many people tell me that they don't really understand what OpenStack is. Let's fix that once and for all.\r\n\r\n25 minutes isn't a long time, so what I'll provide is an overview of the various components of OpenStack and how they tie together. We'll cover what bits might be of interest to your average python hacker, as well as the general problems we're trying to solve. I secretly hope this will enthuse people to come and hack on OpenStack, but its also cool if audience members walk away from the talk deciding that OpenStack is not of interest to them -- so long as they now understand vaguely what OpenStack is, then we're cool.\r\n\r\nI'll also try and cover how the OpenStack Foundation and code governance model works, but it might require talking really fast. We shall see!", "state": 1, "category": "PyCon AU 2014", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "", "video_webm_length": null, "video_mp4_length": null, "recorded": "2014-08-07", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=DEI5oJzzdFw", "video_webm_url": "", "summary": "", "video_ogv_url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/44-out.ogv", "video_ogv_length": null, "updated": "2014-08-14T15:54:45.048", "id": 3127, "related_urls": [], "slug": "what-is-openstack-by-michael-still", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Michael Still"]}
+{
+    "added": "2014-08-14T15:33:09.871",
+    "category": "PyCon AU 2014",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "OpenStack is one of the biggest python projects ever, and is hiring plenty of interesting python people to work on Open Source, which is cool. Yet, many people tell me that they don't really understand what OpenStack is. Let's fix that once and for all.\r\n\r\n25 minutes isn't a long time, so what I'll provide is an overview of the various components of OpenStack and how they tie together. We'll cover what bits might be of interest to your average python hacker, as well as the general problems we're trying to solve. I secretly hope this will enthuse people to come and hack on OpenStack, but its also cool if audience members walk away from the talk deciding that OpenStack is not of interest to them -- so long as they now understand vaguely what OpenStack is, then we're cool.\r\n\r\nI'll also try and cover how the OpenStack Foundation and code governance model works, but it might require talking really fast. We shall see!",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/DEI5oJzzdFw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/DEI5oJzzdFw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 3127,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2014-08-07",
+    "related_urls": [],
+    "slug": "what-is-openstack-by-michael-still",
+    "source_url": "http://www.youtube.com/watch?v=DEI5oJzzdFw",
+    "speakers": [
+        "Michael Still"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [],
+    "thumbnail_url": "http://i.ytimg.com/vi/DEI5oJzzdFw/hqdefault.jpg",
+    "title": "What is OpenStack? by Michael Still",
+    "updated": "2014-08-14T15:54:45.048",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/44-out.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": "needs editing"
+}

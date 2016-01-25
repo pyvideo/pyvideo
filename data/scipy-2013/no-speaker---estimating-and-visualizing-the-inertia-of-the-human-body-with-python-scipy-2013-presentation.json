@@ -1,1 +1,37 @@
-{"tags": ["Tech"], "thumbnail_url": "http://i1.ytimg.com/vi/H9AK65ZY-Vw/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/H9AK65ZY-Vw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/H9AK65ZY-Vw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2013-07-04T10:08:33", "whiteboard": "needs editing", "video_flv_length": null, "title": "Estimating and Visualizing the Inertia of the Human Body with Python; SciPy 2013 Presentation", "duration": null, "description": "", "state": 1, "category": "SciPy 2013", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2013-07-02", "copyright_text": "http://www.youtube.com/t/terms", "source_url": "http://www.youtube.com/watch?v=H9AK65ZY-Vw", "video_webm_url": null, "summary": "Authors: Moore, Jason, University of California at Davis; Dembia, Christopher, Stanford\n\nTrack: Medical Imaging\n\nThe Yeadon human body segment inertia model is a widely used method in the biomechanical field that allows scientists to get quick and reliable estimations of mass, mass location, and inertia estimates of any human body. The model is formulated around a collection of stadia solids that are defined by a series of width, perimeter, and circumference measurements. This talk will detail a Python software package that implements the method and exposes a basic API for its use within other code bases. The package also includes a text based user interface and a graphical based user interface, both of which will be demonstrated. The GUI is implemented with MayaVi and allows the user to manipulate the joint angles of the human and instantaneously get inertia estimates for various poses. Researchers that readily need body segment and human inertial parameters for dynamical model development or other uses, should find this package useful for quick interactive results. We will demonstrate the three methods of using the package, cover the software design, show how the software can be integrated into other packages, and demonstrate a non-trivial example of computing the inertial properties of a human seated on a bicycle.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.342", "id": 1974, "related_urls": [], "slug": "estimating-and-visualizing-the-inertia-of-the-hum", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": []}
+{
+    "added": "2013-07-04T10:08:33",
+    "category": "SciPy 2013",
+    "copyright_text": "http://www.youtube.com/t/terms",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/H9AK65ZY-Vw?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/H9AK65ZY-Vw?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1974,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2013-07-02",
+    "related_urls": [],
+    "slug": "estimating-and-visualizing-the-inertia-of-the-hum",
+    "source_url": "http://www.youtube.com/watch?v=H9AK65ZY-Vw",
+    "speakers": [],
+    "state": 1,
+    "summary": "Authors: Moore, Jason, University of California at Davis; Dembia, Christopher, Stanford\n\nTrack: Medical Imaging\n\nThe Yeadon human body segment inertia model is a widely used method in the biomechanical field that allows scientists to get quick and reliable estimations of mass, mass location, and inertia estimates of any human body. The model is formulated around a collection of stadia solids that are defined by a series of width, perimeter, and circumference measurements. This talk will detail a Python software package that implements the method and exposes a basic API for its use within other code bases. The package also includes a text based user interface and a graphical based user interface, both of which will be demonstrated. The GUI is implemented with MayaVi and allows the user to manipulate the joint angles of the human and instantaneously get inertia estimates for various poses. Researchers that readily need body segment and human inertial parameters for dynamical model development or other uses, should find this package useful for quick interactive results. We will demonstrate the three methods of using the package, cover the software design, show how the software can be integrated into other packages, and demonstrate a non-trivial example of computing the inertial properties of a human seated on a bicycle.",
+    "tags": [
+        "Tech"
+    ],
+    "thumbnail_url": "http://i1.ytimg.com/vi/H9AK65ZY-Vw/hqdefault.jpg",
+    "title": "Estimating and Visualizing the Inertia of the Human Body with Python; SciPy 2013 Presentation",
+    "updated": "2014-04-08T20:28:26.342",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": "needs editing"
+}

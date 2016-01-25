@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "http://i2.ytimg.com/vi/5fPIyN-bmOA/hqdefault.jpg", "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/5fPIyN-bmOA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/5fPIyN-bmOA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", "added": "2012-11-14T09:10:51", "whiteboard": "", "video_flv_length": null, "title": "Speed Up Your Database", "duration": null, "description": "", "state": 1, "category": "PyCon CA 2012", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Speed_Up_Your_Database.mp4?Signature=9TGH7N4PZSYMiiIVPR9Ikbzun2k%3D&Expires=1352840369&AWSAccessKeyId=FEWGReWX3QbNk0h3", "video_webm_length": null, "video_mp4_length": null, "recorded": "2012-11-11", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=5fPIyN-bmOA", "video_webm_url": "", "summary": "Are your queries slow? Learn how to speed them up through better SQL crafting\nand use meaningful indices. Attendees will understand what works well and what\ndoesn't, and will walk away with a checklist for faster databases.\n\n", "video_ogv_url": null, "video_ogv_length": null, "updated": "2014-04-08T20:28:26.832", "id": 1594, "related_urls": [], "slug": "speed-up-your-database", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": "", "language": "English", "video_ogv_download_only": false, "speakers": ["Anna Filina"]}
+{
+    "added": "2012-11-14T09:10:51",
+    "category": "PyCon CA 2012",
+    "copyright_text": "",
+    "description": "",
+    "duration": null,
+    "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/5fPIyN-bmOA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/5fPIyN-bmOA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
+    "id": 1594,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2012-11-11",
+    "related_urls": [],
+    "slug": "speed-up-your-database",
+    "source_url": "https://www.youtube.com/watch?v=5fPIyN-bmOA",
+    "speakers": [
+        "Anna Filina"
+    ],
+    "state": 1,
+    "summary": "Are your queries slow? Learn how to speed them up through better SQL crafting\nand use meaningful indices. Attendees will understand what works well and what\ndoesn't, and will walk away with a checklist for faster databases.\n\n",
+    "tags": [],
+    "thumbnail_url": "http://i2.ytimg.com/vi/5fPIyN-bmOA/hqdefault.jpg",
+    "title": "Speed Up Your Database",
+    "updated": "2014-04-08T20:28:26.832",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": "",
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Speed_Up_Your_Database.mp4?Signature=9TGH7N4PZSYMiiIVPR9Ikbzun2k%3D&Expires=1352840369&AWSAccessKeyId=FEWGReWX3QbNk0h3",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": "",
+    "whiteboard": ""
+}

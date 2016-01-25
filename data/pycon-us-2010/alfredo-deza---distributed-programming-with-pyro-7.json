@@ -1,1 +1,41 @@
-{"tags": ["pycon", "pycon2010", "pyro"], "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010DistributedProgrammingWithPyro7718.png", "embed": "", "added": "2012-02-23T04:20:00", "whiteboard": "", "video_flv_length": null, "title": "Distributed Programming with Pyro (#7)", "duration": null, "description": "Distributed Programming with Pyro\n\n  \nPresented by Alfredo Deza\n\n  \nCreate distributed code that communicates trivially over the network with\nobjects that answer as if they were local.\n\n  \nSend, receive and manage data with this powerful library. Presentation will\ninclude real life example for restarting a load balanced web instance running\ntwo Apache web servers and a MySQL database.\n\n  \nAlthough Python allows you to perform simple network operations, Pyro creates\na nice layer between core networking essentials and your code, allowing you to\nconcentrate more in developing your application.\n\n", "state": 1, "category": "PyCon US 2010", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/342_distributed-programming-with-pyro-7.m4v", "video_webm_length": null, "video_mp4_length": null, "recorded": "2010-02-19", "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", "source_url": "", "video_webm_url": null, "summary": "", "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/342_distributed-programming-with-pyro-7.ogv", "video_ogv_length": null, "updated": "2014-04-08T20:28:28.104", "id": 342, "related_urls": [], "slug": "pycon-2010--distributed-programming-with-pyro---7", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "English", "video_ogv_download_only": false, "speakers": ["Alfredo Deza"]}
+{
+    "added": "2012-02-23T04:20:00",
+    "category": "PyCon US 2010",
+    "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
+    "description": "Distributed Programming with Pyro\n\n  \nPresented by Alfredo Deza\n\n  \nCreate distributed code that communicates trivially over the network with\nobjects that answer as if they were local.\n\n  \nSend, receive and manage data with this powerful library. Presentation will\ninclude real life example for restarting a load balanced web instance running\ntwo Apache web servers and a MySQL database.\n\n  \nAlthough Python allows you to perform simple network operations, Pyro creates\na nice layer between core networking essentials and your code, allowing you to\nconcentrate more in developing your application.\n\n",
+    "duration": null,
+    "embed": "",
+    "id": 342,
+    "language": "English",
+    "quality_notes": "",
+    "recorded": "2010-02-19",
+    "related_urls": [],
+    "slug": "pycon-2010--distributed-programming-with-pyro---7",
+    "source_url": "",
+    "speakers": [
+        "Alfredo Deza"
+    ],
+    "state": 1,
+    "summary": "",
+    "tags": [
+        "pycon",
+        "pycon2010",
+        "pyro"
+    ],
+    "thumbnail_url": "http://a.images.blip.tv/Pycon-PyCon2010DistributedProgrammingWithPyro7718.png",
+    "title": "Distributed Programming with Pyro (#7)",
+    "updated": "2014-04-08T20:28:28.104",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/342_distributed-programming-with-pyro-7.m4v",
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/342_distributed-programming-with-pyro-7.ogv",
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}

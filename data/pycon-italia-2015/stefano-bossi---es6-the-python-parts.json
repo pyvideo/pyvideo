@@ -1,1 +1,37 @@
-{"tags": [], "thumbnail_url": "https://i.ytimg.com/vi/Xr8XNcS3pU4/hqdefault.jpg", "embed": "", "added": "2015-06-14T17:02:22.338", "whiteboard": "", "video_flv_length": null, "title": "ES6 the Python parts", "duration": 1479, "description": "", "state": 1, "category": "PyCon Italia 2015", "video_mp4_download_only": false, "video_flv_download_only": false, "video_mp4_url": null, "video_webm_length": null, "video_mp4_length": null, "recorded": "2015-05-30", "copyright_text": "", "source_url": "https://www.youtube.com/watch?v=Xr8XNcS3pU4", "video_webm_url": null, "summary": "Javascript sta cambiando molto negli ultimi anni e non \u00e8 pi\u00f9 il linguanggio realizzato in 2 settimane da  Brendan Eich. Tra list comprehension, iterators e generators sembra somigliare sempre di pi\u00f9 al nostro amato Python.", "video_ogv_url": null, "video_ogv_length": null, "updated": "2015-06-14T17:02:22.338", "id": 3581, "related_urls": [], "slug": "es6-the-python-parts", "quality_notes": "", "video_webm_download_only": false, "video_flv_url": null, "language": "Italian", "video_ogv_download_only": false, "speakers": ["Stefano Bossi"]}
+{
+    "added": "2015-06-14T17:02:22.338",
+    "category": "PyCon Italia 2015",
+    "copyright_text": "",
+    "description": "",
+    "duration": 1479,
+    "embed": "",
+    "id": 3581,
+    "language": "Italian",
+    "quality_notes": "",
+    "recorded": "2015-05-30",
+    "related_urls": [],
+    "slug": "es6-the-python-parts",
+    "source_url": "https://www.youtube.com/watch?v=Xr8XNcS3pU4",
+    "speakers": [
+        "Stefano Bossi"
+    ],
+    "state": 1,
+    "summary": "Javascript sta cambiando molto negli ultimi anni e non \u00e8 pi\u00f9 il linguanggio realizzato in 2 settimane da  Brendan Eich. Tra list comprehension, iterators e generators sembra somigliare sempre di pi\u00f9 al nostro amato Python.",
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/Xr8XNcS3pU4/hqdefault.jpg",
+    "title": "ES6 the Python parts",
+    "updated": "2015-06-14T17:02:22.338",
+    "video_flv_download_only": false,
+    "video_flv_length": null,
+    "video_flv_url": null,
+    "video_mp4_download_only": false,
+    "video_mp4_length": null,
+    "video_mp4_url": null,
+    "video_ogv_download_only": false,
+    "video_ogv_length": null,
+    "video_ogv_url": null,
+    "video_webm_download_only": false,
+    "video_webm_length": null,
+    "video_webm_url": null,
+    "whiteboard": ""
+}
