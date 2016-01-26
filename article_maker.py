@@ -26,6 +26,15 @@ DATETIME_FORMATS_BY_RE_PATTERN = {
 }
 DATETIME_WITH_MICRO_PATTERN = re.compile(r'^(.*)\.\d+$')
 DEFAULT_SETTINGS = read_settings(DEFAULT_CONFIG_NAME)
+DEFAULT_THUMBNAIL_URL = '/default_thumbnail_url.png'
+# Ordered by preference
+MEDIA_URL_KEYS = (
+    'source_url',
+    'video_flv_url',
+    'video_mp4_url',
+    'video_ogv_url',
+    'video_webm_url'
+)
 OPTION_INDENT = ' ' * 4
 
 
@@ -88,8 +97,8 @@ class ArticleMaker:
         if modified_string:
             modified_line = ':modified: {}'.format(modified_string)
 
+        self.tags = None
         tags = self.data.get('tags')
-        self.tags = tags
         if tags:
             # strip tags of whitespace
             tags = map(lambda x: x.strip(), tags)
@@ -98,6 +107,7 @@ class ArticleMaker:
             # ignore empty tags
             tags = filter(lambda x: bool(x), tags)
             tags = self.quote_text_list(tags)
+            self.tags = tags
             if tags:
                 tags_line = ':tags: {}'.format(', '.join(tags))
 
@@ -108,9 +118,9 @@ class ArticleMaker:
         category_line = ':category: {}'.format(category)
 
         # Remove slug
-        slug = self.data.get('slug', '').strip()
-        if slug:
-            slug_line = ':slug: {}'.format(slug)
+        slug = '{}-{}'.format(category, title)
+        slug = slugify(slug)
+        slug_line = ':slug: {}'.format(slug)
 
         authors = self.data.get('speakers')
         authors = map(lambda x: x.strip(), authors)
@@ -125,6 +135,7 @@ class ArticleMaker:
             modified_line,
             tags_line,
             category_line,
+            slug_line,
             authors_line,
         )
 
@@ -174,11 +185,24 @@ class ArticleMaker:
 
     @property
     def media_url(self):
-        return 'http://'
+        for url_key in MEDIA_URL_KEYS:
+            url = self.data.get(url_key) or ''
+            url = url.strip()
+            if url:
+                break
+
+        if not url:
+            msg = 'no valid media URL found for file {}'.format(self.input)
+            raise ValueError(msg)
+
+        return url
 
     @property
     def media_thubmnail_url(self):
-        return 'http://'
+        thumbnail_url = self.data.get('thumbnail_url') or ''
+        thumbnail_url = thumbnail_url.strip()
+        thumbnail_url = thumbnail_url or DEFAULT_THUMBNAIL_URL
+        return thumbnail_url
 
     def build_body(self):
         image_block = '.. image:: {}\n'
@@ -214,7 +238,9 @@ class ArticleMaker:
         if copyright:
             copyright_line = 'Copyright: {}'.format(copyright)
 
-        tags_line = 'Tags: {}'.format(', '.join(self.tags))
+        tags_line = None
+        if self.tags:
+            tags_line = 'Tags: {}'.format(', '.join(self.tags))
 
         details = (
             header_line,
