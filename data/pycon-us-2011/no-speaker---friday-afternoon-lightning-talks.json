@@ -2,7 +2,7 @@
     "added": "2012-02-23T04:20:00",
     "category": "PyCon US 2011",
     "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0",
-    "description": "Friday afternoon lightning talks\n\n  * 00:00 Paul Smith - Raising money for Japan \n  * 02:24 Jeff Daily - The Global Arrays Parallel Programming Toolkit \n  * 08:30 Matt Harrison - My insecurity problem \n  * 13:10 Pete Fein - Hacking for Freedom \n  * 18:40 Robert Brewer - logging.statistics \n  * 27:30 Nathan Nichols - Lessons Learned Writing DSLs for Automated Content Generation \n  * 33:15 Giles Thomas - Why Resolver switched from IronPython to CPython \njapan, qtile, pyparsing, logging.statistics, resolver, cpython, ironpython\n\n",
+    "description": "Friday afternoon lightning talks\n\n  * 00:00 Paul Smith - Raising money for Japan \n  * 02:24 Jeff Daily - The Global Arrays Parallel Programming Toolkit \n  * 08:30 Matt Harrison - My insecurity problem \n  * 13:10 Pete Fein - Hacking for Freedom \n  * 18:40 Robert Brewer - logging.statistics \n  * 27:30 Nathan Nichols - Lessons Learned Writing DSLs for Automated Content Generation \n  * 33:15 Giles Thomas - Why Resolver switched from IronPython to CPython \n\njapan, qtile, pyparsing, logging.statistics, resolver, cpython, ironpython\n\n",
     "duration": null,
     "embed": "",
     "id": 360,

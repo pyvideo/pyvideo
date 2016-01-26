@@ -2,7 +2,7 @@
     "added": "2012-09-13T13:40:32",
     "category": "SciPy 2012",
     "copyright_text": "CC BY-SA",
-    "description": "  1. SciPy Sparse Graphs, Jake Vanderplas.\n  2. Animation for Traits and Chaco, Corran Webster.\n  3. Pynthantics, Jon Roland.\n  4. State of the Numba, Jon Riehl.\n  5. Pipe-o-matic call, Walker Hale.\n  6. A Command ND-Array, Fr\u00e9d\u00e9ric Bastien.\n\n",
+    "description": "1. SciPy Sparse Graphs, Jake Vanderplas.\n2. Animation for Traits and Chaco, Corran Webster.\n3. Pynthantics, Jon Roland.\n4. State of the Numba, Jon Riehl.\n5. Pipe-o-matic call, Walker Hale.\n6. A Command ND-Array, Fr\u00e9d\u00e9ric Bastien.\n\n",
     "duration": null,
     "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/StRhIopoaSk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/StRhIopoaSk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>",
     "id": 1346,
