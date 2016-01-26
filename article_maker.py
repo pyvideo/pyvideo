@@ -106,7 +106,7 @@ class ArticleMaker:
             tags = map(lambda x: x.replace('.', ''), tags)
             # ignore empty tags
             tags = filter(lambda x: bool(x), tags)
-            tags = self.quote_text_list(tags)
+            tags = list(self.quote_text_list(tags))
             self.tags = tags
             if tags:
                 tags_line = ':tags: {}'.format(', '.join(tags))
@@ -215,13 +215,23 @@ class ArticleMaker:
             self.data.get('title', '').strip()
         )
 
-        description = self.data.get('description').strip()
-        description = 'Description\n-----------\n\n' + description + '\n'
+        summary = self.data.get('summary') or ''
+        summary = summary.strip()
+        # temporarily disable summary
+        summary = ''
+        if summary:
+            summary = '\n\nSummary\n-----------\n\n' + summary + '\n'
 
-        self.output += '\n' + image_block + '\n\n' + description
+        description = self.data.get('description') or ''
+        description = description.strip()
+        if description:
+            description_header = '\n\nDescription\n-----------\n\n'
+            description = description_header + description + '\n'
+
+        self.output += '\n' + image_block + summary + description
 
     def build_details(self):
-        header_line = '\nDetails\n-------\n'
+        header_line = '\n\nDetails\n-------\n'
 
         category_line = 'Category: {}'.format(self.category)
 
