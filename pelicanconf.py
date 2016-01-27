@@ -49,3 +49,11 @@ THEME = 'themes/pytube-201601/'
 
 GOOGLE_ANALYTICS = 'UA-72949800-1'
 
+GITHUB_URL = 'https://github.com/pytube/pytube'
+
+STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico']
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+}
+
