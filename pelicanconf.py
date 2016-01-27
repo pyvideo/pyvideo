@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Paul Logston'
 SITENAME = 'pytube'
-SITEURL = 'http://pytube.github.io/pytube'
+SITEURL = 'https://pytube.github.io'
 
 PATH = 'content'
 
@@ -51,8 +51,14 @@ GOOGLE_ANALYTICS = 'UA-72949800-1'
 
 GITHUB_URL = 'https://github.com/pytube/pytube'
 
-STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.ico']
+STATIC_PATHS = [
+    'images',
+    'extra/robots.txt',
+    'extra/favicon.ico',
+    'extra/CNAME',
+]
 EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'}
 }

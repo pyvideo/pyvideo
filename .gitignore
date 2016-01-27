@@ -68,3 +68,4 @@ output/
 # PyTube specifics
 content/*
 !content/pages/
+

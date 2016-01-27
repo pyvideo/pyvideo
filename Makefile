@@ -26,6 +26,7 @@ CLOUDFILES_CONTAINER=my_cloudfiles_container
 DROPBOX_DIR=~/Dropbox/Public/
 
 GITHUB_PAGES_BRANCH=gh-pages
+GITHUB_PAGES_REPO=git@github.com:pytube/pytube.github.io.git
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -56,6 +57,7 @@ help:
 	@echo '   make s3_upload                      upload the web site via S3         '
 	@echo '   make cf_upload                      upload the web site via Cloud Files'
 	@echo '   make github                         upload the web site via gh-pages   '
+	@echo '   make deploy                         upload the web site to production  '
 	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
@@ -124,4 +126,13 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
-.PHONY: html help clean content regenerate serve serve-global devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
+production_push:
+	cd $(OUTPUTDIR)
+	git init && git add .
+	git commit -m "Initial commit"
+	git remote add origin $(GITHUB_PAGES_REPO)
+	git push origin master --force
+
+deploy: clean publish production_push
+
+.PHONY: html help clean content deploy regenerate serve serve-global devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
