@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Paul Logston'
 SITENAME = 'pytube'
-SITEURL = 'https://pytube.org'
+SITEURL = 'http://pytube.org'
 
 PATH = 'content'
 
