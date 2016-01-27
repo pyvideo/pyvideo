@@ -306,7 +306,7 @@ def set_lock(lock_instance):
 def run_article_maker_pool(process_count=None):
     # clear content dir of most content
     contents = set(os.listdir('content'))
-    contents_to_delete = contents - set(('pages',))
+    contents_to_delete = contents - set(('pages', 'images', 'extra'))
     for content_dir in contents_to_delete:
         shutil.rmtree(os.path.join('content', content_dir))
     if os.path.exists('output'):
