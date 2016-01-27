@@ -127,12 +127,12 @@ github: publish
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 production_push:
-	cd $(OUTPUTDIR)
-	git init && git add .
-	git commit -m "Initial commit"
-	git remote add origin $(GITHUB_PAGES_REPO)
-	git push origin master --force
+	cd $(OUTPUTDIR) && git init && git add .
+	cd $(OUTPUTDIR) && git commit -m "Initial commit"
+	cd $(OUTPUTDIR) && git remote add origin $(GITHUB_PAGES_REPO)
+	cd $(OUTPUTDIR) && git push origin master --force
+	echo "Upload complete"
 
 deploy: clean publish production_push
 
-.PHONY: html help clean content deploy regenerate serve serve-global devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
+.PHONY: html help clean content deploy production_push regenerate serve serve-global devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
