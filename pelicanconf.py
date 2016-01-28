@@ -4,7 +4,6 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Paul Logston'
 SITENAME = 'pytube'
-SITEURL = 'http://pytube.org'
 
 PATH = 'content'
 
@@ -46,8 +45,6 @@ ARTICLE_SAVE_AS = '{category}/{slug}.html'
 DELETE_OUTPUT_DIRECTORY = True
 
 THEME = 'themes/pytube-201601/'
-
-GOOGLE_ANALYTICS = 'UA-72949800-1'
 
 GITHUB_URL = 'https://github.com/pytube/pytube'
 
