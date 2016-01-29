@@ -47,6 +47,7 @@ DELETE_OUTPUT_DIRECTORY = True
 THEME = 'themes/pytube-201601/'
 
 GITHUB_URL = 'https://github.com/pytube/pytube'
+CONTRIBUTE_URL = 'https://github.com/pytube/pytube/wiki/How-to-Contribute-Media'
 
 STATIC_PATHS = [
     'images',
