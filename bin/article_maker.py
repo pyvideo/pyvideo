@@ -8,7 +8,7 @@ import re
 import shutil
 
 from pelican import DEFAULT_CONFIG_NAME
-from pelican.readers import RstReader
+from pelican.readers import METADATA_PROCESSORS, RstReader
 from pelican.settings import read_settings
 from pelican.utils import slugify
 
@@ -37,6 +37,14 @@ MEDIA_URL_KEYS = (
 )
 OPTION_INDENT = ' ' * 4
 
+# Unused
+#def patch_metadata_processors():
+#    def thumbnail_url_processor(x, y):
+#        return x.strip()
+#
+#    METADATA_PROCESSORS.update({'thumbnail_url': thumbnail_url_processor})
+#patch_metadata_processors()
+
 
 class RstValidationError(Exception):
     pass
@@ -57,9 +65,10 @@ class ArticleMaker:
         """
         Tie all other methods together to get produce a final rST file.
         """
+        self.title = self.data.get('title') or ''
+        self.title = self.title.strip()
         if verbose:
-            msg = 'Making {}'.format(self.data.get('title').strip())
-            print(msg, flush=True)
+            print('Making {}'.format(self.title), flush=True)
 
         self.build_header()
         self.build_body()
@@ -68,8 +77,7 @@ class ArticleMaker:
 
     def build_header(self):
         # build title line
-        title = self.data.get('title').strip()
-        title = title.replace('*', '\*')
+        title = self.title.replace('*', '\*')
         title_lines = title + '\n'
         title_lines += '#' * len(bytes(title.encode())) + '\n'
 
@@ -180,7 +188,7 @@ class ArticleMaker:
                 break
 
         if not url:
-            msg = 'no valid media URL found for file {}'.format(self.input)
+            msg = 'no valid media URL found for file {}'.format(self.title)
             raise ValueError(msg)
 
         return url
@@ -268,6 +276,7 @@ class ArticleMaker:
         with open(path, 'w') as fp:
             fp.write(self.output)
         self.lock.release()
+
         # Validate rST
         content, metadata = RstReader(DEFAULT_SETTINGS).read(path)
         if all(map(lambda x: x in content, ('system-message', 'docutils'))):
@@ -276,7 +285,7 @@ class ArticleMaker:
             snippet = content[start:end]
             msg_template = 'Unable to parse rST document generated from: {}\n'
             msg_template += '{}'
-            msg = msg_template.format(self.input, snippet)
+            msg = msg_template.format(self.title, snippet)
             raise RstValidationError(msg)
 
 
@@ -286,11 +295,15 @@ def process_json_file(args):
     maker.make(verbose=verbose)
 
 
+def get_subdirectory_from_path(path):
+    parts = path.split(os.sep)
+    return parts[1]
+
+
 def generate_media_records(json_file_paths, verbose=False):
     for json_file_path in json_file_paths:
 
-        parts = json_file_path.split(os.sep)
-        subdirectory = parts[1]
+        subdirectory = get_subdirectory_from_path(json_file_path)
 
         with open(json_file_path) as fp:
             data = json.load(fp)
@@ -370,7 +383,10 @@ def main():
 
     if args.file:
         set_lock(multiprocessing.Lock())
-        process_json_file(args.file, verbose=args.verbose)
+        subdirectory = get_subdirectory_from_path(args.file)
+        with open(args.file) as fp:
+            data = json.load(fp)
+        process_json_file((subdirectory, data, args.verbose))
     else:
         run_article_maker_pool(args.process_count, verbose=args.verbose)
 

@@ -9,7 +9,9 @@
       <div class="col-lg-12">
         <ul>
         {% for article in articles %}
-          <li><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></li>
+          <li>
+              <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+          </li>
         {% endfor %}
         </ul>
       </div>

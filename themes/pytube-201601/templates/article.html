@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+
 {% block head %}
   {{ super() }}
   {% if article.description %}
@@ -21,6 +22,7 @@
  {% import 'translations.html' as translations with context %}
  {{ translations.translations_for(article) }}
   </header>
+
   <footer class="post-info">
     <time class="published" datetime="{{ article.date.isoformat() }}">
       {{ article.locale_date }}
