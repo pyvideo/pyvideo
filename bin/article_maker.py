@@ -2,7 +2,7 @@ import argparse
 from datetime import datetime
 import glob
 import json
-from multiprocessing import Pool, Lock
+import multiprocessing
 import os
 import re
 import shutil
@@ -46,37 +46,25 @@ class ArticleMaker:
     """
     Take a JSON file and make an rST file out of the data it contains.
     """
-    def __init__(self, json_file_path, lock):
-        self.input = json_file_path
+    def __init__(self, subdirectory, data, lock):
         self.lock = lock
-        self.subdirectory = ''
-        self.data = {}
+        self.subdirectory = subdirectory
+        self.data = data
         self.output = ''
+        self.verbose = False
 
-    def make(self):
+    def make(self, verbose=False):
         """
         Tie all other methods together to get produce a final rST file.
         """
-        self.parse_subdirectory()
-        self.read_input()
+        if verbose:
+            msg = 'Making {}'.format(self.data.get('title').strip())
+            print(msg, flush=True)
+
         self.build_header()
         self.build_body()
         self.build_details()
         self.write_output()
-
-    def read_input(self):
-        with open(self.input) as fp:
-            self.data = json.load(fp)
-
-    def parse_subdirectory(self):
-        """
-        Parse the subdirectory for this article from self.input
-        """
-        dirs = self.input.split(os.sep)
-        # assume subdirectory is second dir in path
-        self.subdirectory = dirs[1]
-        if not self.subdirectory:
-            raise ValueError('subdirectory not found')
 
     def build_header(self):
         # build title line
@@ -292,9 +280,26 @@ class ArticleMaker:
             raise RstValidationError(msg)
 
 
-def process_json_file(file_path):
-    maker = ArticleMaker(file_path, lock)
-    maker.make()
+def process_json_file(args):
+    subdirectory, data, verbose = args
+    maker = ArticleMaker(subdirectory, data, lock)
+    maker.make(verbose=verbose)
+
+
+def generate_media_records(json_file_paths, verbose=False):
+    for json_file_path in json_file_paths:
+
+        parts = json_file_path.split(os.sep)
+        subdirectory = parts[1]
+
+        with open(json_file_path) as fp:
+            data = json.load(fp)
+
+        if isinstance(data, dict):
+            data = [data]
+
+        for media_record in data:
+            yield subdirectory, media_record, verbose
 
 
 def set_lock(lock_instance):
@@ -303,7 +308,10 @@ def set_lock(lock_instance):
     lock = lock_instance
 
 
-def run_article_maker_pool(process_count=None):
+def run_article_maker_pool(process_count=None, verbose=False):
+    if verbose:
+        print('Searching for media records (JSON files) ...', flush=True)
+
     # clear content dir of most content
     contents = set(os.listdir('content'))
     contents_to_delete = contents - set(('pages', 'images', 'extra'))
@@ -314,16 +322,22 @@ def run_article_maker_pool(process_count=None):
 
     pattern = '{}/**/*.json'.format(DATA_DIR)
     json_file_paths = glob.iglob(pattern, recursive=True)
-    #json_file_paths = [list(json_file_paths)[1000]]
 
+    media_records = generate_media_records(json_file_paths, verbose)
+
+    process_count = process_count or multiprocessing.cpu_count()
     pool_kwargs = {
         'processes': process_count,
         'initializer': set_lock,
-        'initargs': (Lock(),),
+        'initargs': (multiprocessing.Lock(),),
     }
 
-    with Pool(**pool_kwargs) as p:
-        p.map(process_json_file, json_file_paths)
+    if verbose:
+        msg = 'Starting pool of {} processes ...'.format(process_count)
+        print(msg, flush=True)
+
+    with multiprocessing.Pool(**pool_kwargs) as p:
+        p.map(process_json_file, media_records)
 
 
 def parse_arguments():
@@ -343,6 +357,11 @@ def parse_arguments():
                         help='Number of processes',
                         default=None)
 
+    parser.add_argument('-v', '--verbose',
+                        action='store_true',
+                        help='Print lots of details of progress',
+                        default=False)
+
     return parser.parse_args()
 
 
@@ -350,10 +369,10 @@ def main():
     args = parse_arguments()
 
     if args.file:
-        set_lock(Lock())
-        process_json_file(args.file)
+        set_lock(multiprocessing.Lock())
+        process_json_file(args.file, verbose=args.verbose)
     else:
-        run_article_maker_pool(args.process_count)
+        run_article_maker_pool(args.process_count, verbose=args.verbose)
 
 
 if __name__ == '__main__':

@@ -64,7 +64,7 @@ help:
 	@echo '                                                                          '
 
 content:
-	python article_maker.py
+	python bin/article_maker.py
 
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
