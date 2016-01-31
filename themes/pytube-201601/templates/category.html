@@ -10,7 +10,7 @@
         <ul>
         {% for article in articles %}
           <li>
-              <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+              {% include 'article_list_item_content.html' %}
           </li>
         {% endfor %}
         </ul>

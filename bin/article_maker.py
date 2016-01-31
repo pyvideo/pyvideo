@@ -8,7 +8,7 @@ import re
 import shutil
 
 from pelican import DEFAULT_CONFIG_NAME
-from pelican.readers import METADATA_PROCESSORS, RstReader
+from pelican.readers import RstReader
 from pelican.settings import read_settings
 from pelican.utils import slugify
 
@@ -36,14 +36,6 @@ MEDIA_URL_KEYS = (
     'video_webm_url'
 )
 OPTION_INDENT = ' ' * 4
-
-# Unused
-#def patch_metadata_processors():
-#    def thumbnail_url_processor(x, y):
-#        return x.strip()
-#
-#    METADATA_PROCESSORS.update({'thumbnail_url': thumbnail_url_processor})
-#patch_metadata_processors()
 
 
 class RstValidationError(Exception):
@@ -125,6 +117,15 @@ class ArticleMaker:
         authors_string = ', '.join(authors) or 'Unknown'
         authors_line = ':authors: {}'.format(authors_string)
 
+        # The RstReader has trouble reading metadata strings that
+        # contain underscores, even if those underscores are escaped
+        # backslashes. Thus, underscores are escaped here with a string.
+        # Real underscores are re-introduced by the replace_underscore
+        # plugin defined in bin/plugins.
+        thumbnail_url = self.media_thubmnail_url
+        thumbnail_url = thumbnail_url.replace('_', 'UNDERSCORE')
+        thumbnail_url_line = ':thumbnail_url: {}'.format(thumbnail_url)
+
         lines = (
             title_lines,
             date_line,
@@ -133,6 +134,7 @@ class ArticleMaker:
             category_line,
             slug_line,
             authors_line,
+            thumbnail_url_line,
         )
 
         self.output += '\n'.join(line for line in lines if line is not None)
