@@ -1,0 +1,26 @@
+<div class="details-content">
+  <h2>Details</h2>
+  <ul>
+      <li>
+        Category:
+        <a href="/category/{{ article.slugified_category }}">{{ article.category }}</a>
+      </li>
+      {% if article.language %}
+        <li>Language: {{ article.language }}</li>
+      {% endif %}
+      {% if article.media_url %}
+        <li>
+          Media URL: <a href="{{ article.media_url }}">{{ article.media_url }}</a>
+        </li>
+      {% endif %}
+      {% if article.tags %}
+        <li>
+          Tags:
+          {% for tag in article.tags %}
+            <a href="/tag/{{ tag }}">{{ tag }}</a>
+          {% endfor %}
+        </li>
+      {% endif %}
+  </ul>
+</div>
+

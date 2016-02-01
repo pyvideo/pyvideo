@@ -7,6 +7,7 @@ def replace_underscore(article_generator, content):
     underscores.
     """
     content.thumbnail_url = content.thumbnail_url.replace('UNDERSCORE', '_')
+    content.media_url = content.media_url.replace('UNDERSCORE', '_')
 
 
 def register():

@@ -64,7 +64,6 @@ class ArticleMaker:
 
         self.build_header()
         self.build_body()
-        self.build_details()
         self.write_output()
 
     def build_header(self):
@@ -90,11 +89,9 @@ class ArticleMaker:
         if tags:
             # strip tags of whitespace
             tags = map(lambda x: x.strip(), tags)
-            # strip out dots in tags
-            tags = map(lambda x: x.replace('.', ''), tags)
             # ignore empty tags
             tags = filter(lambda x: bool(x), tags)
-            tags = list(self.quote_text_list(tags))
+            tags = map(slugify, tags)
             self.tags = tags
             if tags:
                 tags_line = ':tags: {}'.format(', '.join(tags))
@@ -104,6 +101,8 @@ class ArticleMaker:
         if not category:
             raise ValueError('Each article requires a category')
         category_line = ':category: {}'.format(category)
+
+        slugified_category_line = ':slugified_category: {}'.format(slugify(category))
 
         # Remove slug
         slug = '{}-{}'.format(category, title)
@@ -126,15 +125,20 @@ class ArticleMaker:
         thumbnail_url = thumbnail_url.replace('_', 'UNDERSCORE')
         thumbnail_url_line = ':thumbnail_url: {}'.format(thumbnail_url)
 
+        media_url = self.media_url.replace('_', 'UNDERSCORE')
+        media_url_line = ':media_url: {}'.format(media_url)
+
         lines = (
             title_lines,
             date_line,
             modified_line,
             tags_line,
             category_line,
+            slugified_category_line,
             slug_line,
             authors_line,
             thumbnail_url_line,
+            media_url_line,
         )
 
         self.output += '\n'.join(line for line in lines if line is not None)
@@ -227,41 +231,6 @@ class ArticleMaker:
             description = description_header + description + '\n'
 
         self.output += '\n' + image_block + summary + description
-
-    def build_details(self):
-        header_line = '\n\nDetails\n-------\n'
-
-        category_line = 'Category: {}'.format(self.category)
-
-        language_line = None
-        language = self.data.get('language') or ''
-        language = language.strip()
-        if language:
-            language_line = 'Language: {}'.format(language) 
-
-        media_url_line = 'Direct Link: {}'.format(self.media_url)
-
-        copyright_line = None
-        copyright = self.data.get('copyright', '').strip()
-        if copyright:
-            copyright_line = 'Copyright: {}'.format(copyright)
-
-        tags_line = None
-        if self.tags:
-            tags_line = 'Tags: {}'.format(', '.join(self.tags))
-
-        details = (
-            header_line,
-            category_line,
-            language_line,
-            media_url_line,
-            copyright_line,
-            tags_line,
-        )
-
-        details = '\n- '.join(d for d in details if d)
-
-        self.output += details + '\n\n'
 
     def write_output(self):
         # make category dir if neccessary
