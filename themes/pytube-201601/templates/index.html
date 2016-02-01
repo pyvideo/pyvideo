@@ -16,7 +16,17 @@
       <div class="col-lg-12">
         {% for article in articles_page.object_list %}
           <h4 class="entry-title">
-            {% include 'article_list_item_content.html' %}
+            <a href="{{ SITEURL }}/{{ article.url }}">
+              <img src="{{ article.thumbnail_url }}" />
+            </a>
+
+            <br>
+
+            <a href="{{ SITEURL }}/{{ article.url }}"
+               rel="bookmark"
+               title="Permalink to {{ article.title|striptags }}">
+               {{ article.title }}
+            </a>
           </h4>
 
           <footer class="post-info">

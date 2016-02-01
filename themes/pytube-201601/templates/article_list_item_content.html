@@ -1,8 +1,11 @@
-<img src="{{ article.thumbnail_url }}" />
+<span>
+  <img src="{{ article.thumbnail_url }}" />
+</span>
 
-<a href="{{ SITEURL }}/{{ article.url }}"
-   rel="bookmark"
-   title="Permalink to {{ article.title|striptags }}">
-   {{ article.title }}
-</a>
-
+<span>
+  <a href="{{ SITEURL }}/{{ article.url }}"
+     rel="bookmark"
+     title="Permalink to {{ article.title|striptags }}">
+     {{ article.title }}
+  </a>
+</span>

@@ -54,3 +54,14 @@ body {
   }
 }
 
+div.row ul li {
+  list-style-type: none;
+  padding-bottom: 10px;
+}
+
+div.row ul li img {
+  padding-right: 10px;
+  width: 200px;
+}
+
+
