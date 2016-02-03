@@ -66,8 +66,9 @@ output/
 *.swp
 
 # PyTube specifics
+*.pem
+env.sh
 content/*
 !content/pages/
 !content/images/
 !content/extra/
-
