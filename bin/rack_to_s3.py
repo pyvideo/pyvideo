@@ -4,6 +4,7 @@ import json
 import os
 from urllib.parse import urlparse
 from urllib.request import urlopen
+import sys
 
 from boto.s3.connection import S3Connection
 from boto.s3.key import Key
@@ -38,7 +39,8 @@ def generate_paths_to_copy(json_file_paths):
 
 def copy(args):
     bucket, source, dest = args
-    print('Working on', source)
+    sys.stdout.write('Working on: {}\n'.format(source))
+    sys.stdout.flush()
     response = urlopen(source)
 
     headers = {'Content-Type' : response.info().get_content_type()}
@@ -57,7 +59,7 @@ def main():
 
     args = ((bucket, path, urlparse(path).path) for path in paths)
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=1) as p:
+    with concurrent.futures.ThreadPoolExecutor() as p:
         futures = p.map(copy, args)
         for future in concurrent.futures.as_completed(futures):
             future.result()  # allow exceptions to percolate up
