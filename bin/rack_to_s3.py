@@ -1,7 +1,7 @@
+import concurrent.futures
 import glob
 import json
 import os
-import multiprocessing
 from urllib.parse import urlparse
 from urllib.request import urlopen
 
@@ -41,7 +41,7 @@ def copy(args):
     print('Working on', source)
     response = urlopen(source)
 
-    headers = {'Content-Type' : response.info().gettype()}
+    headers = {'Content-Type' : response.info().get_content_type()}
     k = Key(bucket)
     k.name = dest
     k.set_contents_from_string(response.read(), headers)
@@ -57,8 +57,10 @@ def main():
 
     args = ((bucket, path, urlparse(path).path) for path in paths)
 
-    with multiprocessing.Pool() as p:
-        p.map(copy, args)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=1) as p:
+        futures = p.map(copy, args)
+        for future in concurrent.futures.as_completed(futures):
+            future.result()  # allow exceptions to percolate up
 
     print('Done.')
 
