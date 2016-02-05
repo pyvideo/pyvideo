@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Paul Logston'
-SITENAME = 'pytube'
+SITENAME = 'PyTube.org'
 
 PATH = 'content'
 
