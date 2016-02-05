@@ -1,5 +1,9 @@
 <span>
-  <img src="{{ article.thumbnail_url }}" />
+  <a href="{{ SITEURL }}/{{ article.url }}"
+     rel="bookmark"
+     title="Permalink to {{ article.title|striptags }}">
+    <img src="{{ article.thumbnail_url }}" />
+  </a>
 </span>
 
 <span>

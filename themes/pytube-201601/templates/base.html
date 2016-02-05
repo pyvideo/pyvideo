@@ -60,9 +60,14 @@
     <header id="banner" class="header clearfix">
       <nav>
         <ul class="nav nav-pills pull-right">
-            <li role="presentation"{% if output_file == "categories.html" %} class="active"{% endif %}>
+          <li role="presentation"{% if output_file == "categories.html" %} class="active"{% endif %}>
             <a href="{{ SITEURL }}/categories.html">Categories</a>
           </li>
+
+          <li role="presentation"{% if output_file == "tags/index.html" %} class="active"{% endif %}>
+            <a href="{{ SITEURL }}/tags/">Tags</a>
+          </li>
+
           {% for p in pages %}
             <li role="presentation"{% if p == page %} class="active"{% endif %}>
               <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
