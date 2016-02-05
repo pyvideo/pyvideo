@@ -4,10 +4,6 @@ language: python
 python:
     - "3.5"
 
-branches:
-    only:
-        - master
-
 install: pip install -r requirements.in
 
 script: make content && make html
