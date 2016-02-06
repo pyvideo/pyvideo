@@ -6,7 +6,5 @@ python:
 
 install: pip install -r requirements.in
 
-script: make content && make html
-
-after_success: bin/travis_deploy.sh
+script: bin/run_travis.sh
 
