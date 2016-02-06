@@ -72,3 +72,5 @@ content/*
 !content/pages/
 !content/images/
 !content/extra/
+.travis.priv
+.travis.pub
