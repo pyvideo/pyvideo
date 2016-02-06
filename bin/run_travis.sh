@@ -5,7 +5,7 @@ if [[ "${TRAVIS_PULL_REQUEST}" == "false" ]]; then
     git config --global user.name "Paul Logston"
     export GIT_SSH=../bin/ssh-git.sh
     export PKEY=../.travis.priv
-    chmod 600 $PKEY
+    chmod 600 .travis.priv
     make content && make deploy
 else
     make content && make html
