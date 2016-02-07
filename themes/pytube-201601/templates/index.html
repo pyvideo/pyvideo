@@ -1,44 +1,42 @@
 {% extends "base.html" %}
 
 {% block content %}
-    <div class="row two-col-snippets">
+  <div class="index-content">
+    <div class="row">
       <div class="col-lg-12">
         <h3>Latest Talks</h3>
-      </div>
-    </div>
-
-    <div class="row two-col-snippets">
-      <div class="col-lg-12">
         {% for article in articles_page.object_list %}
-          <h4 class="entry-title">
+          <article>
             <a href="{{ SITEURL }}/{{ article.url }}">
               <img src="{{ article.thumbnail_url }}" />
             </a>
 
-            <br>
+            <section class="details">
+              <h4 class="entry-title">
+                <a href="{{ SITEURL }}/{{ article.url }}"
+                   rel="bookmark"
+                   title="Permalink to {{ article.title|striptags }}">
+                   {{ article.title }}
+                </a>
+              </h4>
 
-            <a href="{{ SITEURL }}/{{ article.url }}"
-               rel="bookmark"
-               title="Permalink to {{ article.title|striptags }}">
-               {{ article.title }}
-            </a>
-          </h4>
-
-          <footer class="post-info">
-            <time class="published" 
-                  datetime="{{ article.date.isoformat() }}"> 
-              {{ article.locale_date }}
-            </time>
-            <address class="vcard author">
-              By
-              {% for author in article.authors %}
-                <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
-              {% endfor %}
-            </address>
-          </footer>
+              <footer class="post-info">
+                <time class="published" 
+                      datetime="{{ article.date.isoformat() }}"> 
+                  {{ article.locale_date }}
+                </time>
+                <address class="vcard author">
+                  By
+                  {% for author in article.authors %}
+                    <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+                  {% endfor %}
+                </address>
+              </footer>
+            </section>
+          </article>
         {% endfor %}
       </div>
     </div>
-
+  </div>
 {% endblock content %}
 
