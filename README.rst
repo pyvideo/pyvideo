@@ -1,7 +1,12 @@
 pytube
 ######
 
-A repository of Python relate media
+|travis|
+
+A repository of Python relate media. http://PyTube.org
+
+.. |travis| image:: https://travis-ci.org/pytube/pytube.svg?branch=master
+    :target: https://travis-ci.org/pytube/pytube
 
 TODO
 ----

@@ -133,6 +133,6 @@ production_push:
 	cd $(OUTPUTDIR) && git push origin master --force
 	echo "Upload complete"
 
-deploy: clean content publish production_push
+deploy: publish production_push
 
 .PHONY: html help clean content deploy production_push regenerate serve serve-global devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github

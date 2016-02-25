@@ -3,18 +3,18 @@
 {% block subtitle %} &middot; {{ tag }}{% endblock %}
 
 {% block content %}
-    <h2>Tag: {{ tag }}</h2>
+  <h2>Tag: {{ tag }}</h2>
 
-    <div class="row">
-      <div class="col-lg-12">
-        <ul>
+  <div class="row">
+    <div class="col-lg-12">
+      <ul class="content-list">
         {% for article in articles %}
           <li>
-              {% include 'article_list_item_content.html' %}
+            {% include 'article_list_item_content.html' %}
           </li>
         {% endfor %}
-        </ul>
-      </div>
+      </ul>
     </div>
+  </div>
 {% endblock %}
 

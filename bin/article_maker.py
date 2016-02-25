@@ -26,7 +26,7 @@ DATETIME_FORMATS_BY_RE_PATTERN = {
 }
 DATETIME_WITH_MICRO_PATTERN = re.compile(r'^(.*)\.\d+$')
 DEFAULT_SETTINGS = read_settings(DEFAULT_CONFIG_NAME)
-DEFAULT_THUMBNAIL_URL = '/default_thumbnail_url.png'
+DEFAULT_THUMBNAIL_URL = '/images/default_thumbnail_url.png'
 # Ordered by preference
 MEDIA_URL_KEYS = (
     'source_url',

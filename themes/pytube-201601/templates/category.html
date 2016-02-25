@@ -3,18 +3,18 @@
 {% block subtitle %} &middot; {{ category }}{% endblock %}
 
 {% block content %}
-    <h2>Category: {{ category }}</h2>
+  <h2>Category: {{ category }}</h2>
 
-    <div class="row">
-      <div class="col-lg-12">
-        <ul>
+  <div class="row">
+    <div class="col-lg-12">
+      <ul class="content-list">
         {% for article in articles %}
           <li>
             {% include 'article_list_item_content.html' %}
           </li>
         {% endfor %}
-        </ul>
-      </div>
+      </ul>
     </div>
+  </div>
 {% endblock %}
 
