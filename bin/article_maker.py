@@ -73,7 +73,7 @@ class ArticleMaker:
         title_lines += '#' * len(bytes(title.encode())) + '\n'
 
         # These lines are optional
-        modified_line = tags_line = slug_line = None
+        modified_line = tags_line = slug_line = status_line = None
 
         # build meta data section
         date_string = self.get_date_string()
@@ -128,6 +128,9 @@ class ArticleMaker:
         media_url = self.media_url.replace('_', 'UNDERSCORE')
         media_url_line = ':media_url: {}'.format(media_url)
 
+        status_string = self.data.get('status') or 'published'
+        status_line = ':status: {}'.format(status_string)
+
         lines = (
             title_lines,
             date_line,
@@ -139,6 +142,7 @@ class ArticleMaker:
             authors_line,
             thumbnail_url_line,
             media_url_line,
+            status_line,
         )
 
         self.output += '\n'.join(line for line in lines if line is not None)

@@ -5,6 +5,7 @@ About
 :modified: 2016-02-05 00:00
 :slug: about
 :authors: Paul Logston
+:status: published
 
 What is PyTube.org?
 -------------------
