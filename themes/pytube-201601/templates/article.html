@@ -42,4 +42,73 @@
   {% include 'article_details.html' %}
 
 </section>
+
+{% if article.status == 'draft' %}
+<section id="publish">
+
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary btn-sm" data-toggle="modal"
+        data-target="#publishModal">
+  Confirm and Publish
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="publishModal" tabindex="-1" role="dialog" 
+     aria-labelledby="publishModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <h4 class="modal-title" id="publishModalLabel">Publish Confirmation</h4>
+      </div>
+      <div class="modal-body">
+        <p>
+          You are about to publish the following item on PyTube.org:
+        </p>
+
+        <p>
+          <strong>{{ article.title }}</strong>
+        </p>
+
+        <p>
+          Please note that the publishing process is not immediate and 
+          can take several minutes.
+        </p>
+
+        <p>
+          Please click "Publish!" below when you are ready for this media to go live.
+        </p>
+      </div>
+      <div class="modal-footer">
+        <div class="row">
+          <div class="col-lg-6">
+            <input id="data_file" type="hidden" value="{{ article.data_file }}">
+            <input id="category_slug" type="hidden" value="{{ article.category_slug }}">
+            <input id="media_record_slug" type="hidden" value="{{ article.media_record_slug }}">
+            <input id="publish_key" type="text" class="form-control" placeholder="Publish Key">
+          </div>
+          <div class="col-lg-6">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary" id="js-publish-btn">Publish!</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</section>
+
+{% endif %}
+
 {% endblock %}
+
+{% if article.status == 'draft' %}
+  {% block endbodyjs %}
+    {{ super() }}
+    <script src="/theme/js/publish.js"></script>
+  {% endblock %}
+{% endif %}
+
