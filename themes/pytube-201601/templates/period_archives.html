@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Archives for {{ period | reverse | join(' ') }}</h1>
+
+<div class="row">
+  <div class="col-lg-12"> 
+    <ul class="content-list">
+      {% for article in dates %}
+        <li>
+          {% include 'article_list_item_content.html' %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+{% endblock %}
+

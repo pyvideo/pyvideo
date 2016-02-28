@@ -25,6 +25,8 @@ TAGS_URL = TAGS_SAVE_AS = 'tags.html'
 TAG_URL = 'tag/{slug}/'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
 # End hack to avoid issue #1137
+YEAR_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/index.html'
+MONTH_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/{date:%b}/index.html'
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True

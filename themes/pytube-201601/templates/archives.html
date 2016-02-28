@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Archives for {{ SITENAME }}</h1>
+
+{% set months = ('Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec') %}
+
+{$ set mos = {j for j in range(10)} %}
+
+{{ mos }}
+
+{% for year in range(2012, 2016) | reverse %}
+<ul>
+  <li>
+    <a href="/archives/{{ year }}">{{ year }}</a>
+  </li>
+  <li>
+    <ul>
+      {% for month in months | reverse %}
+        <li>
+          <a href="/archives/{{ year }}/{{ month }}">{{ month }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </li>
+</ul>
+{% endfor %}
+
+{% endblock %}
+
