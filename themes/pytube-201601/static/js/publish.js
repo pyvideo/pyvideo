@@ -8,8 +8,6 @@ $('#js-publish-btn').click(function onClick() {
 
   var data = {
     data_file: $('#data_file').val(),
-    category_slug: $('#category_slug').val(),
-    media_record_slug: $('#media_record_slug').val(),
     publish_key: $('#publish_key').val()
   };
 
