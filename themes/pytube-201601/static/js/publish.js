@@ -15,11 +15,11 @@ $('#js-publish-btn').click(function onClick() {
 
   $.post({
     url: url,
-    data: JSON.stringify(data),
-    dataType: 'application/json'
+    data: data,
   }).done(function onDone(res) {
     if (res.result === 'ok') {
       alert('Publish request recieved!');
+      $('#publishModal').modal('hide');
     } else if (res.result === 'failure') {
       alert('Publish request failed: ' + res.msg);
     }
