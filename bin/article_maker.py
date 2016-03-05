@@ -46,9 +46,9 @@ class ArticleMaker:
     """
     Take a JSON file and make an rST file out of the data it contains.
     """
-    def __init__(self, subdirectory, data, lock):
+    def __init__(self, json_file_path, data, lock):
         self.lock = lock
-        self.subdirectory = subdirectory
+        self.json_file_path = json_file_path
         self.data = data
         self.output = ''
         self.verbose = False
@@ -131,6 +131,8 @@ class ArticleMaker:
         status_string = self.data.get('status') or 'published'
         status_line = ':status: {}'.format(status_string)
 
+        data_file_line = ':data_file: {}'.format(self.json_file_path)
+
         lines = (
             title_lines,
             date_line,
@@ -143,6 +145,7 @@ class ArticleMaker:
             thumbnail_url_line,
             media_url_line,
             status_line,
+            data_file_line,
         )
 
         self.output += '\n'.join(line for line in lines if line is not None)
@@ -238,7 +241,9 @@ class ArticleMaker:
 
     def write_output(self):
         # make category dir if neccessary
-        sub_dir_path = os.path.join('content', self.subdirectory)
+
+        subdirectory = get_subdirectory_from_path(self.json_file_path)
+        sub_dir_path = os.path.join('content', subdirectory)
 
         self.lock.acquire()
         if not os.path.exists(sub_dir_path):
@@ -265,8 +270,8 @@ class ArticleMaker:
 
 
 def process_json_file(args):
-    subdirectory, data, verbose = args
-    maker = ArticleMaker(subdirectory, data, lock)
+    json_file_path, data, verbose = args
+    maker = ArticleMaker(json_file_path, data, lock)
     maker.make(verbose=verbose)
 
 
@@ -278,8 +283,6 @@ def get_subdirectory_from_path(path):
 def generate_media_records(json_file_paths, verbose=False):
     for json_file_path in json_file_paths:
 
-        subdirectory = get_subdirectory_from_path(json_file_path)
-
         with open(json_file_path) as fp:
             data = json.load(fp)
 
@@ -287,7 +290,7 @@ def generate_media_records(json_file_paths, verbose=False):
             data = [data]
 
         for media_record in data:
-            yield subdirectory, media_record, verbose
+            yield json_file_path, media_record, verbose
 
 
 def set_lock(lock_instance):
@@ -358,10 +361,9 @@ def main():
 
     if args.file:
         set_lock(multiprocessing.Lock())
-        subdirectory = get_subdirectory_from_path(args.file)
         with open(args.file) as fp:
             data = json.load(fp)
-        process_json_file((subdirectory, data, args.verbose))
+        process_json_file((args.file, data, args.verbose))
     else:
         run_article_maker_pool(args.process_count, verbose=args.verbose)
 
