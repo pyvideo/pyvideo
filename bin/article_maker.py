@@ -128,7 +128,7 @@ class ArticleMaker:
         media_url = self.media_url.replace('_', 'UNDERSCORE')
         media_url_line = ':media_url: {}'.format(media_url)
 
-        status_string = self.data.get('status') or 'published'
+        status_string = self.data.get('status') or 'draft'
         status_line = ':status: {}'.format(status_string)
 
         data_file_line = ':data_file: {}'.format(self.json_file_path)
