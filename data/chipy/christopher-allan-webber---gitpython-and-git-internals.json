@@ -16,6 +16,7 @@
         "Christopher Allan Webber"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Chris covers how git works, the internals, and using the GitPython library.\n\n[GitPython](http://gitorious.org/git-python)\n\n",
     "tags": [
         "chipy",

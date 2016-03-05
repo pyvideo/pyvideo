@@ -16,6 +16,7 @@
         "Marcel Martin"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In unserer Bioinformatik-Forschungsgruppe an der TU Dortmund analysieren wir die Daten, die bei DNA-Sequenzierungsexperimenten entstehen. Es existieren Standardwerkzeuge, die dabei helfen, aber wie in der Wissenschaft \u00fcblich gibt es immer wieder Fragestellungen, die nur mit selbst geschriebenen Spezialtools beantwortet werden k\u00f6nnen. Bei uns werden diese Tools bevorzugt in Python implementiert.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/uXyOqgsYqt4/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Jim Baker"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will focus on you can readily implement highly scalable and fault tolerant realtime architectures, such as dashboards, using Python and tools like Storm, Kafka, and ZooKeeper. We will focus on two related aspects: composing reliable systems using at-least-once and idempotence semantics and how to partition for locality.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/Iw0MwPL2FCU/hqdefault.jpg",

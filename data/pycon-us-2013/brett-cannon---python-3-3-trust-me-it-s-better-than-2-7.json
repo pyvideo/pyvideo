@@ -16,6 +16,7 @@
         "Brett Cannon"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this talk I will try to convince you that Python 3.3 is superior to Python 2.7 by going over the differences between Python 2.7 and Python 3.3 along with benchmark information to show where Python 3.3 shines in comparison to Python 2.7 (and vice-versa). If I accomplish my goal, you will walk out of this talk convinced that Python 2.7 is not the final version of Python you want to support.",
     "tags": [
         "talk"

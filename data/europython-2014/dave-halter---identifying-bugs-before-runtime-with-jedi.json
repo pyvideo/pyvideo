@@ -21,6 +21,7 @@
         "Dave Halter"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Finding bugs before runtime has been an incredibly tedious task in Python. Jedi is an autocompletion library with interesting capabilities: It understands a lot of the dynamic features of Python. I will show you how we can use the force of (the) Jedi to identify bugs in your Python code. It's not just another pylint. It's way better.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/DfVHSw0iOsk/hqdefault.jpg",

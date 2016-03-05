@@ -16,6 +16,7 @@
         "Mike Crute"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Communication and a few engineering techniques can help greatly to ease the\nburden on an operations team and make applications easier to deploy, maintain\nand scale. Given from a developer's perspective this talk focuses on some\nengineering techniques that will help to make applications more robust and\nmore operations friendly.\n\n",
     "tags": [],
     "thumbnail_url": "http://i4.ytimg.com/vi/wuxMTBW6CCs/hqdefault.jpg",

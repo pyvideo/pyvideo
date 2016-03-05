@@ -16,6 +16,7 @@
         "Robert Elwell"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk describes a project that uses the Natural Language Toolkit to build a language model from a gossip blog. The tone is light-hearted, but manages to introduce some core concepts in Python's most popular NLP library as well as some basics on computational linguistics and programming in Python.",
     "tags": [
         "talk"

@@ -11,7 +11,7 @@ DATA_DIR = 'data'
 
 def change_data(file_path, data):
     print(file_path)
-    print(data)
+    data['status'] = 'published'
 
 
 def main():

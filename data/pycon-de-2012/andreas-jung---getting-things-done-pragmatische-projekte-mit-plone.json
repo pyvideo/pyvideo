@@ -16,6 +16,7 @@
         "Andreas Jung"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Plone ist ein komplexes Web-Framework with vielen Modulen und vielschichtigen\nAbstraktionsebenen. Kundenprojekte im Bereich Web erfordern oft Anpassungen\nauf mehreren Ebenen: neue Inhaltstypen, \u00c4nderungen an Templates und\nexistierenden Funktionalit\u00e4ten etc. Es ist immer schwierig den richtigen Weg\nbei einer Anpassung zu finden insbesondere wenn die \u00fcblichen Projektressourcen\nwie Personal, Zeit und Budget begrenzt sind und nicht beliebig skalierbar\nsind.\n\nIn dem Vortrag berichte ich wie wir in vergangenen gro\u00dfen Webprojekten mit\ndiesem Spannungsfeld umgegangen sind und Plone-Anpassungen in einer\npragmatischen Art und Weise durchgef\u00fchrt haben - ohne dem Kunden einen Sack\nvoller h\u00e4sslicher Workarounds zu liefern aber auch nicht mit dem Anspruch die\nperfekteste L\u00f6sung gebaut zu haben.\n\nIch behandle Techniken zur Anpassungen von existierenden Templates und Views,\nStrategien bei der Behebung von Fehlern in Plone oder Drittprodukten, die\nVerwendung von Site-Fixtures, um Kunden und Designer fr\u00fchzeitig eine Site mit\nFake-Inhalten (Text + Bilder) zu versorgen sowie Ans\u00e4tze zum pragmatischen\nTesten in gro\u00dfen Web-Projekten.\n\n",
     "tags": [],
     "thumbnail_url": "http://i4.ytimg.com/vi/oqhOeFKiBVk/hqdefault.jpg",

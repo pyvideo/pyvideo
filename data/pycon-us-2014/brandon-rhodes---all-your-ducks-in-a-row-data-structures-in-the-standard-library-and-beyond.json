@@ -16,6 +16,7 @@
         "Brandon Rhodes"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Why are Python programmers crazy about lists and dictionaries, when other languages tout bitmaps, linked lists, and B+ trees? Are we missing out? Come learn how data structures are implemented on bare metal, how to select the right data structure, how the list and dictionary cover a wide swath of use cases, and when to dip into the Standard Library or a\n third-party package for an alternative.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/fYlnfvKVDoM/hqdefault.jpg",

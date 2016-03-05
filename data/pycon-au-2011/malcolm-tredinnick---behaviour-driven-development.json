@@ -16,6 +16,7 @@
         "Malcolm Tredinnick"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Writing software in an organisation or for ourselves, many people feel that\nthey \"should\" somehow be doing Test Driven Development (TDD) because\n\"everybody else\" is and it's cool, somewhere between necessary and useful and\nthey heard testing was good. When informed that must of TDD isn't about\ntesting (despite the name!), confusion reigns. Behaviour Driven Development is\na different way of approaching the \"how to validate your code\" problem.\n\n",
     "tags": [
         "tdd",

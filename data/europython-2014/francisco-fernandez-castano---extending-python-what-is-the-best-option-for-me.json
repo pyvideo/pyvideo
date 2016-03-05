@@ -16,6 +16,7 @@
         "Francisco Fern\u00e1ndez Casta\u00f1o"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python is a great language, but there are occasions where we need access to low level operations or connect with some database driver written in C. With the FFI(Foreign function interface) we can connect Python with other languages like C, C++ and even the new Rust. There are some alternatives to achieve this goal, Native Extensions, Ctypes and CFFI.  I'll compare this three ways of extending Python.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/m5H2JYSXrHc/hqdefault.jpg",

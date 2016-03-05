@@ -21,6 +21,7 @@
         "Tim Penhey"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Juju is a service orchestration tool for deploying services into public or private clouds. I will talk about how I deployed my Django application using Juju.",
     "tags": [
         "deploying",

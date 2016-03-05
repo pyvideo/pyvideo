@@ -16,6 +16,7 @@
         "Konark Modi"
     ],
     "state": 1,
+    "status": "published",
     "summary": "With the growing world of web, there are numerous use-cases which require tasks to be executed in an asynchronous manner and in a distributed fashion. \r\nCelery is one of the most robust, scalable, extendable and easy-to-implement frameworks available for distributed task processing. While developing applications using Celery, I have had considerable experience in terms of what design choices one should be aware of while evaluating an existing system or developing one's own system from scratch.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/zdk3IoLnjMg/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Chris Nyland"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk is a description of how - against a backdrop of data-drunk tax authorities, legal pressures on businesses to have appropriate compliance systems in place, and the constant pressure on their law firms to commoditise compliance services, Pandas may be about to make a foray from its venerable financial origins into a brave new fiscal world - and can revolutionise an industry by doing so. A case study covering the author's development of a Pandas-based stamp duty land tax engine (\"ORVILLE\") is discussed, and the inherent usefulness of Pandas in the world of tax analysis is explored.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/CNQ_Ib4yxgQ/hqdefault.jpg",

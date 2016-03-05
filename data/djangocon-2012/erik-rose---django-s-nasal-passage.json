@@ -16,6 +16,7 @@
         "Erik Rose"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Django's testrunner gets you started quickly, but you soon hit your head on\n\nits limitations as your project grows. By trading it for nose, a testing\n\nframework popular in the wider Python community, we can reduce boilerplate,\n\nboost performance, and improve testing UI, with only a few lines of setting\n\nchanges. Re-use your test DBs, integrate with Jenkins, split your suite into\n\npieces, and more.\n\n\n\n",
     "tags": [
         "django",

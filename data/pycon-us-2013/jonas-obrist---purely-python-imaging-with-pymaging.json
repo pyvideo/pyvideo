@@ -16,6 +16,7 @@
         "Jonas Obrist"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A little over a year ago, frustration with the state of image processing in Python led me to start a project called pymaging. Pymaging is a pure Python image processing library that works on Python 2.x and 3.x. This talk will dive into why I started this project, how I dug into the problems, what I learned about image formats and my goals for the future of this project.\r\n",
     "tags": [
         "talk"

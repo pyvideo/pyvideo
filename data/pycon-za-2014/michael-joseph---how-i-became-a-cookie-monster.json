@@ -16,6 +16,7 @@
         "Michael Joseph"
     ],
     "state": 1,
+    "status": "published",
     "summary": "My journey from a user of the awesome cookiecutter, to a core member of an awesome += 1 community.\nI've learned a lot from the modest and multi-talented @audreyr about leading a community, writing clean cross-platform Python code and putting the B in BFDL.\nMy talk aims to introduce cookiecutter to a wider audience (if you're at a PyCon and you create new projects, you need to use it) and to chart my progress from the outside to the inside of an open source project.",
     "tags": [
         "pyconza",

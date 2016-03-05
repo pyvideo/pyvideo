@@ -17,6 +17,7 @@
         "Idan Gazit"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A treasure trove of data is captured daily by Github. What stories can that data tell us about how we think, work, and interact? How would one go about finding and telling those stories? This two-part talk is a soup-to-nuts tour of practical data visualization with Python and web technologies, covering both the extraction and display of data in illumination of a familiar dataset.",
     "tags": [
         "talk"

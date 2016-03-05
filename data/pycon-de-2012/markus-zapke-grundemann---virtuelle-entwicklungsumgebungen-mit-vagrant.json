@@ -16,6 +16,7 @@
         "Markus Zapke-Gr\u00fcndemann"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Oft ben\u00f6tigt man f\u00fcr verschiedene Projekte ganz unterschiedliche Bibliotheken,\nDienste und Werkzeuge. Alle Abh\u00e4ngigkeiten auf einer Maschine zu installieren\nkann schnell anstrengend bis unm\u00f6glich werden. Hier kommt Vagrant ins Spiel:\nMit Hilfe von Vagrant kann man einfach und schnell Virtuelle Maschinen als\nEntwicklungsumgebungen erstellen, konfigurieren und benutzen.\n\nDurch die Nutzung von (vorhandenen) Provisioning Tools wie Chef oder Puppet\nkann man vorhandene Konfigurationen von Produktiv-System zum Setup der\nVirtuellen Maschinen nutzen. Au\u00dferdem lassen sich mit Vagrant auch komplexe\nCluster-Setups auf dem eigenen Rechner aufbauen.\n\n",
     "tags": [
         " vagrant",

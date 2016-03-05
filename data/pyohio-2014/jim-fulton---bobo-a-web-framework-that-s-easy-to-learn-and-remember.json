@@ -16,6 +16,7 @@
         "Jim Fulton"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Bobo is a lightweight web framework designed to be easy to use and\r\nremember.  In this talk, I'll give an introduction to Bobo.  I'll\r\ndiscuss micro-frameworks and why they aren't limited to small\r\nproblems.",
     "tags": [
         "talk"

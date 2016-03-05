@@ -16,6 +16,7 @@
         "Andreas Mantke"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Der Vortrag zeigt die Entwicklung eines Konferenz-Organisations-Add-ons f\u00fcr\nPlone mit dem Dexterity Framework. Dieses moderne Content-Type-Framework\nerm\u00f6glicht es, einfacher neue Artikel-/Contenttypen zu erstellen (sowohl\nselbst im Web als auch auf Dateisystemebene). Das Add-on ist in der\nEntwicklung f\u00fcr die diesj\u00e4hrige LibreOffice-Konferenz, die im Oktober in\nBerlin stattfinden wird. Es soll auch auf k\u00fcnftigen LibreOffice-Konferenzen\neingesetzt werden und kann auch f\u00fcr andere Konferenzen verwendet werden. Das\nAdd-on wird unter einer Open Source Lizenz entwickelt.\n\nDas Add-On wird zun\u00e4chst dazu verwendet, Vortragsvorschl\u00e4ge einzureichen, zu\nreviewen und aus den akzeptierten Vorschl\u00e4gen Tracks in einem Programm\nzusammenzustellen. Es verwaltet dabei auch Speaker und Konferenzr\u00e4ume. In\neiner weiteren Ausbaustufe ist vorgesehen, Teilnehmer einer Konferenz zu\nverwalten, einschlie\u00dflich der Abwicklung des Ticketentgelts bzw. von\nTeilnehmerentgelten.\n\n",
     "tags": [
         " add-on",

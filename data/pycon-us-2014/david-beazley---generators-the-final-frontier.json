@@ -21,6 +21,7 @@
         "David Beazley"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python generators have long been useful for solving all sorts of problems involving iteration and data flow. However, one of their more powerful uses is in customizing various aspects of program control flow. In this tutorial, we'll look at some more exotic uses of generators such as writing context managers, inlining callback functions, eliminating recursion, implementing actors, and more.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/D1twn9kLmYg/hqdefault.jpg",

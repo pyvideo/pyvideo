@@ -16,6 +16,7 @@
         "Lewis Franklin"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Distributed computing is challenging. The network can be spotty. The servers can be pushed too hard. Race conditions can show up. Tasks can seem to disappear. Deployment can be messy. Celery is an excellent tool for writing distributed applications and this talk focuses on real-world challenges faced when doing those tasks.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/1CE6pWSDN1Q/hqdefault.jpg",

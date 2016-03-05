@@ -16,6 +16,7 @@
         "Nik Klever"
     ],
     "state": 1,
+    "status": "published",
     "summary": "web2py ist ein modernes Python-Application-Framework, dessen Ausrichtung urspr\u00fcnglich auf die Ausbildung von Studierenden abzielte, sich jedoch inzwischen generell als interessante Alternative f\u00fcr Python-basierende Web-Application-Frameworks entwickelt hat. MVC, Sicherheit, Plugins sind einige der Schlagworte f\u00fcr die Architektur-Konzepte des Frameworks.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/wJS4wSbHmrM/hqdefault.jpg",

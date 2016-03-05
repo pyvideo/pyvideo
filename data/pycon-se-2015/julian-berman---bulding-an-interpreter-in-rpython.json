@@ -16,6 +16,7 @@
         "Julian Berman"
     ],
     "state": 1,
+    "status": "published",
     "summary": "RPython is a language and toolchain for building interpreters, most prominently PyPy, a Python interpreter. But RPython is a powerful tool for writing interpreters for many dynamic languages. We'll learn how to write a simple interpreter in RPython by implementing a parser, bytecode compiler and VM for a small language.",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/BkGw-o2jgjc/hqdefault.jpg",

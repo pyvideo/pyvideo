@@ -16,6 +16,7 @@
         "Erik Rose"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Elasticsearch provides an easy path to clusterable full-text search, with synonyms, faceting, and geographic math, but there's a paucity of written wisdom beyond its API docs. This talk, part 1 of a 2-part series, surveys its capabilities and shows how its internal data structures and algorithms work. With the groundwork laid, we explore how to choose efficient indexing and the right queries to make your apps go fast.",
     "tags": [
         "talk"

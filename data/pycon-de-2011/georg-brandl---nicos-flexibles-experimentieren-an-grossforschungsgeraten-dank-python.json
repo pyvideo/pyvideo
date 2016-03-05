@@ -16,6 +16,7 @@
         "Georg Brandl"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Dieser Vortrag stellt NICOS vor, ein komplett in Python geschriebenes netzwerkbasiertes Steuerungssystem, das an der Forschungsneutronenquelle FRM II der TU M\u00fcnchen zur Durchf\u00fchrung von Experimenten mit Neutronen f\u00fcr die Material- und Grundlagenforschung verwendet wird.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/-YaLa0ITb0E/hqdefault.jpg",

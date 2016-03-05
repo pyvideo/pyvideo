@@ -16,6 +16,7 @@
         "Michael K\u00f6nig"
     ],
     "state": 1,
+    "status": "published",
     "summary": "At the example of our in-house distributed scheduling system, we discuss the challenges of embedding the Python interpreter in a C++ program. Besides the actual integration of the interpreter, efficient data exchange between both languages is discussed. In addition, this presentation demonstrates how higher-level abstractions further diminish the language barrier.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/3329SyR215I/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Michael Robellard"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will include a walkthrough of using Celery and RabbitMQ. We will cover actual issues found and fixed during an actual implementation.\r\nsuch as Queues in stage and production. Handling Failures. Retries, Failure Queues, and Logging. Integrating with SQL Alchemy for producers and consumers.\r\n",
     "tags": [
         "talk"

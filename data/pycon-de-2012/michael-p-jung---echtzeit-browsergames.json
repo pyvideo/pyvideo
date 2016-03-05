@@ -16,6 +16,7 @@
         "Michael P. Jung"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Mit gevent und browserseitigem JavaScript k\u00f6nnen Mehrspieler Browsergames\nentwickelt werden, die Spielerinteraktionen in Echtzeit zulassen. Dieser\nVortrag versucht Lust auf das Echtzeit Web zu machen und zeigt anhand eines\nkonkreten Spieles (KODEX, [http://kodexgame.com/](http://kodexgame.com/))\nL\u00f6sungen f\u00fcr Entwicklung, Hosting und Vertrieb auf.\n\nDer Vortrag beleuchtet neben den Implikationen des Realtime Web wie Caching,\nScaling, Same-Origin-Policy und Cross-Origin-Resource-Sharing auch Strategien\nzur horizontalen Skalierbarkeit, oder: Wie l\u00f6st man das\n[C10K](http://www.kegel.com/c10k.html) Problem?\n\nW\u00e4hrend NodeJS oft als *die* L\u00f6sung f\u00fcr Echtzeitanwendungen angepriesen wird,\nkommt hier auf der Serverseite gezielt Python mit gevent zum Einsatz.\n\n",
     "tags": [
         " django",

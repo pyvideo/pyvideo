@@ -16,6 +16,7 @@
         "Godfrey Akpojotor"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Computer and computer based activities have pervaded our teaching/learning process as well as research so much so that the 21st century academic activities in science and engineering (S & E) cannot be fully engaged without some level of computation. An important choice of a programming language especially in a developing country is the ease to learn it and its accessibility.\nPython's unique features and the possibility that any user connected to the internet can download the entire packages into any platform, install it and immediately begin to use it makes it a preferred environment for introducing students and new beginners to elegant and all purpose programming. Therefore in Africa, the Python African Tour project has been launched and I am coordinating its use in computational Science and Engineering (S & E) code-named Python African Computational Science and Engineering Tour (PACSET).",
     "tags": [
         "pyconza",

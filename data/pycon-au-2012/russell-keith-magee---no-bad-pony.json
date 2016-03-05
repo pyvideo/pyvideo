@@ -16,6 +16,7 @@
         "Russell Keith-Magee"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The Django community is not short of ideas that could be added to the core\nrepository. Some of these ideas are great, and are just waiting for the right\nimplementation or the attention of a core developer. Other ideas are just not\ngoing to happen. However, it's not always obvious why an idea will be\nrejected. This talk will attempt explain the reasoning behind a couple of\nspecific decisions. More broadly, this talk will aims to provide general\nguidance on the decision making process of the Django core. It will also\naddress how you can get started contributing to Django.\n\n",
     "tags": [
         "django"

@@ -16,6 +16,7 @@
         "Meenal Pant"
     ],
     "state": 1,
+    "status": "published",
     "summary": "For a recent project, I had to develop a real time diagnostics tool with a web dashboard. The goal of this tool was to assist data experts with proactive monitoring and trouble-shooting our equipment deployed in the field.  So I decided to design a real time web dashboard with status updates and email alerts using Python, Django and R.",
     "tags": [
         "poster"

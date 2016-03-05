@@ -17,6 +17,7 @@
         "Sheyla Delgado"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A novel approach to both violence prevention and the measurement of propensity to violence is presented.  The work is part of the evaluation of Cure Violence's (Ransford, Kane and Slutkin 2009; Slutkin 2012) implementation in NYC. Python libraries such as IPython, PySAL, Numpy, Basemap, Fiona, Shapely, Matplotlib, bNetworkX, Pandas and scikit-learn feature prominently in the work.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/SDi4TNqaR2s/hqdefault.jpg",

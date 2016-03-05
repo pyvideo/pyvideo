@@ -16,6 +16,7 @@
         "Carson Farmer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Real-time feeds of user activity from various apps such as Twitter, Foursquare, and others are becoming increasingly available. These 'digital footprints' provide new means to understand how individuals utilize the places and spaces of urban environments. We present a light-weight framework for real-time event detection in a city based on existing SciPy libraries and real-time Twitter streams.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/iT_QmeJsBhE/hqdefault.jpg",

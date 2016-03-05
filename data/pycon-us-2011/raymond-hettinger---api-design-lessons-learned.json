@@ -16,6 +16,7 @@
         "Raymond Hettinger"
     ],
     "state": 1,
+    "status": "published",
     "summary": "API lessons learned from a decade of core Python development.\n\n",
     "tags": [
         "api",

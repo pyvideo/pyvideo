@@ -16,6 +16,7 @@
         "Floris Bruynooghe"
     ],
     "state": 1,
+    "status": "published",
     "summary": "One unique and powerful feature of py.test is the dependency injection\r\nof test fixtures using function arguments.  This talk aims to walk\r\nthrough py.test's fixture mechanism gradually introducing more complex\r\nuses and features.  This should lead to an understanding of the power\r\nof the fixture system and how to build complex but easily-managed test\r\nsuites using them.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/IBC_dxr-4ps/hqdefault.jpg",

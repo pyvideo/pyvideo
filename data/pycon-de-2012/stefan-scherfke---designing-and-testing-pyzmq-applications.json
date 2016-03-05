@@ -16,6 +16,7 @@
         "Stefan Scherfke"
     ],
     "state": 1,
+    "status": "published",
     "summary": "PyZMQ ist eine m\u00e4chtige aber dennoch einfach zu benutzende Netzwerkbibliothek.\n\nNeben ZeroMQ\u2019s und PyZMQ\u2019s ausf\u00fchrlicher Dokumentation existieren auch einige\n\ngute Tutorials. \u00dcber einfache Beispiele oder allgemeine System-Architekturen\n\ngehen sie jedoch oft nicht hinaus.\n\nIn diesem Vortrag werden daher Wege gezeigt, wie gr\u00f6\u00dfere PyZMQ-Anwendungen\n\nentworfen und getestet werden k\u00f6nnen. Behandelt werden dabei neben Unit-Tests\n\nauch Prozess- und System-Tests.\n\nDer Vortrag basiert auf den Erfahrungen, die der Autor bei der Entwicklung\n\neines verteilten Simulations-Frameworks gemacht hat.\n\n",
     "tags": [
         " application design",

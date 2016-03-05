@@ -16,6 +16,7 @@
         "Catherine Devlin"
     ],
     "state": 1,
+    "status": "published",
     "summary": "If you think of IPython as simply an enhanced version of the live Python prompt, you are in need of re-education.  No matter what you do with Python, applying the IPython Notebook imaginatively will revolutionize the way you do it.  ",
     "tags": [
         "talk"

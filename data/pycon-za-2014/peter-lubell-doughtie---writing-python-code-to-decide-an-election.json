@@ -16,6 +16,7 @@
         "Peter Lubell-Doughtie"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Earlier this year Ona was given three weeks to write the software that will tally votes in the Libyan elections and decide who wins and who loses. This is not something we could get wrong.",
     "tags": [
         "pyconza",

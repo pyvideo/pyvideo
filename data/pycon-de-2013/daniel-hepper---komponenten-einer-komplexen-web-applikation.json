@@ -16,6 +16,7 @@
         "Daniel Hepper"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Komplexe Web-Applikationen bestehen aus mehr als einem Webserver, einer Datenbank und etwas Code. Dieser Vortrag gibt einen \u00dcberblick \u00fcber die typischen Bausteine wie Celery als Task Queue, Haystack f\u00fcr Volltextsuche, Sentry als Log-Diensten und automatischem Deployment mit Fabric und Salt. Die vorgestellte Komponenten werden anhand einer Django-Applikation erl\u00e4utert, sind jedoch zum Gro\u00dfteil auch mit anderen Frameworks nutzbar.",
     "tags": [
         "celery",

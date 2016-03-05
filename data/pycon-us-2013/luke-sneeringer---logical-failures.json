@@ -16,6 +16,7 @@
         "Luke Sneeringer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Programmers are, by the nature of their work, logicians. However, logic can be more challenging than we sometimes think, and it's easy for us to make logical mistakes, especially when they're to justify a proposition we already believe. This is, at its core, what makes us not very good at testing our own stuff, and what makes architecting a technical system so challenging.\r\n",
     "tags": [
         "talk"

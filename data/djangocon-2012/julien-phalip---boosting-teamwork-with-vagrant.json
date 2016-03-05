@@ -16,6 +16,7 @@
         "Julien Phalip"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this talk I will present Vagrant, a free open-source tool facilitating the\nmanipulation of virtualized environments, and how it may benefit the\ndevelopment of Django applications. This talk is aimed at Django developers of\nall levels who are interested in getting an overview of the great\npossibilities Vagrant offers to support teamwork and quality assurance.\n\n",
     "tags": [
         "django",

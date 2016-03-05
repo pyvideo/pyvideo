@@ -16,6 +16,7 @@
         "Victor Stinner"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Memory leaks in Python cannot be analyzed with traditional tools because Python uses reference counters. I will present tools specific to Python to help you to localize your memory leaks.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/umQOVzFDzTo/hqdefault.jpg",

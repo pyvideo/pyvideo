@@ -19,6 +19,7 @@
         "Tom Aldcroft"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The introductory session will start with an overview of the astropy project and the goals of the tutorial, followed by the basics on accessing astronomical data and the associated attributes of such data, including the units and coordinates. Also covered is how to use the new and powerful quantities facility, which allows physical quantities to be explicitly bound to the units they are defined in.",
     "tags": [
         "astropy"

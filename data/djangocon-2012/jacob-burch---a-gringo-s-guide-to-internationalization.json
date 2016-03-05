@@ -16,6 +16,7 @@
         "Jacob Burch"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Coming from a speaker who escaped a notion to \"why would we need to\ntranslate?\" this talk aims to show what actually goes into translating a\nwebsite or app using Django's Internationalization tools. Covered will be an\noverview of batteries included, best practices and anti-patterns in using\nthem, and some third party tools to help make your life escaping the myth of a\nLingua Franca easier.\n\n",
     "tags": [
         "django",

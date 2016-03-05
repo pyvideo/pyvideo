@@ -16,6 +16,7 @@
         "Lennart Regebro"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Time measurement is a complex area full of tricky problems and unexpected edge-cases. This fast-paced talk tells you how to avoid the pitfalls, and warn about the compromises.",
     "tags": [
         "talk"

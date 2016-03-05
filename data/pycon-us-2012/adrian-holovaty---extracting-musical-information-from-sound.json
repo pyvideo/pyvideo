@@ -16,6 +16,7 @@
         "Adrian Holovaty"
     ],
     "state": 1,
+    "status": "published",
     "summary": "[audio missing from first 3 min] Music Information Retrieval technology has\ngotten good enough that you extract musical metadata from your sound files\nwith some degree of accuracy. Find out how to use Python (along with third-\nparty APIs) to determine everything from the key/tempo of a song to the\npitch/timbre of individual notes. Then we'll do some amusing analysis of\npopular tunes.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/bGWytn-Ff9E/hqdefault.jpg",

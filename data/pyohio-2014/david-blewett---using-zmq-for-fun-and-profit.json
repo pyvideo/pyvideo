@@ -16,6 +16,7 @@
         "David Blewett"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this talk, we will discuss how to use the ZMQ library to build a distributed computing system. We will cover the basics of getting started with ZMQ, designing the flow of data through the system and offer some advice on best practices.",
     "tags": [
         "talk"

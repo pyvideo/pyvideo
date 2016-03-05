@@ -16,6 +16,7 @@
         "Niko Skrypnik"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Games, application with rich graphic for mobile platforms? Yes! You can do it for Android, iOS and other platforms with using Python. In this talk I speak about tools you may use for developing applications with using OpenGL ES for different platforms, the ways and concepts which are used in those tools, some tips and tricks you may use to make a cross-platform game with Python for fun and profit.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/Y6pLr11yf-4/hqdefault.jpg",

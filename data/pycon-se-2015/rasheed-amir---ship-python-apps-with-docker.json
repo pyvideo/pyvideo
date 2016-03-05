@@ -16,6 +16,7 @@
         "Rasheed Amir"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Docker allows to create lightweight, portable & self-sufficient containers. My presentation will have two parts: (1) First I'll give a brief introduction about docker & (2) then I'll build a docker image for a simple python app and then deploy it to my own computer, EC2, and Google cloud engine.",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/PMt98G4MOKg/maxresdefault.jpg",

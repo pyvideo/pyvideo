@@ -16,6 +16,7 @@
         "Ralph Heinkel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Although maybe not very well known in the Python community there exists a powerful statistical open-source ecosystem called R. Mostly used in scientific contexts it provides lots of functionality for doing statistical analysis, generation of various kinds of plots and graphs, and much, much more.\r\n\r\nThe triplet [R](http://www.r-project.org \"R\"), [Rserve](https://rforge.net/Rserve/ \"Rserve\"), and [pyRserve](https://pypi.python.org/pypi/pyRserve/ \"pyRserve\") allows the building up of a network bridge from Python to R: Now R-functions can be called from Python as if they were implemented in Python, and even complete R scripts can be executed through this connection.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/ucJ2-5a2CAA/hqdefault.jpg",

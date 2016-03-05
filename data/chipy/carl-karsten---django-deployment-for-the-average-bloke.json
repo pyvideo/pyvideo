@@ -16,6 +16,7 @@
         "Carl Karsten"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Deploying a Django/Pinax site on the following stack: Linux Debian Lenny\nApache mod_wsgi PostgreSQL.\n\n",
     "tags": [
         "apache",

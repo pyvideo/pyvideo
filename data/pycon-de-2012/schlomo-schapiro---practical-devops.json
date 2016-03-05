@@ -16,6 +16,7 @@
         "Schlomo Schapiro"
     ],
     "state": 1,
+    "status": "published",
     "summary": "DevOps ist eine aktuelle Bewegung in der IT, die sich zur Aufgabe macht, ein\nUmdenken in den klassischen Lagern Entwicklung und Betrieb einzuleiten. Der\nVortrag wirft einen Blick auf die noch junge Bewegung und zeigt mit\nGeschichten aus dem wahren Leben, wie sich die agile Denkweise fortschreiben\nl\u00e4sst, die mit SCRUM ins allgemeine Bewusstsein getreten ist.\n\nSchlomo gibt einen \u00dcberblick \u00fcber das Thema und berichtet \u00fcber die DevOps\nErfolge bei der [ImmobilienScout24](http://www.immobilienscout24.de). Nach 2\nJahren agilem Umdenken in der Entwicklung zeigte sich, dass die klassische\nGewaltenteilung Plan - Build - Run einfach nicht mehr gut funktioniert weil\nsich die Anforderungen und Erwartungen sowohl in der Entwicklung als auch im\nBetrieb \u00e4ndern und daher auch eine neue Form der Zusammenarbeit nahe legen.\n\nDie Ideen aus der DevOps Bewegung lassen sich fast \u00fcberall einsetzen, wo\nbisher ein \"\u00fcber den Zaun werfen\" gespielt wird und haben das prim\u00e4re Ziel,\nalle Beteiligten gemeinsam an einem Strang ziehen zu lassen. Mit den Ideen und\nErfahrungen aus dem Vortrag lassen sich sicher die ersten Schritte in die\nrichtige Richtung einleiten.\n\n",
     "tags": [
         " agile",

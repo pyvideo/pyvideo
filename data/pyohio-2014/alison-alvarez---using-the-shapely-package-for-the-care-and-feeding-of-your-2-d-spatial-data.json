@@ -16,6 +16,7 @@
         "Alison Alvarez"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Shapely is a free python package for creating and manipulating points, lines and shapes with ease.   2-D spatial data can be used to create games, run virtual experiments, interpret political landscapes, or model human behavior.  The concepts in this talk should be accessible to anyone with basic python knowledge. \r\n",
     "tags": [
         "talk"

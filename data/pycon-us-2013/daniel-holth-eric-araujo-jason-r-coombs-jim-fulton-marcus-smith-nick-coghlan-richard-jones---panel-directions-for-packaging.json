@@ -22,6 +22,7 @@
         "Richard Jones"
     ],
     "state": 1,
+    "status": "published",
     "summary": "What needs to happen to finally offer a first-class packaging\r\nexperience to Python users? Several of the people working directly on\r\nthat problem will be here to answer your questions.",
     "tags": [
         "talk"

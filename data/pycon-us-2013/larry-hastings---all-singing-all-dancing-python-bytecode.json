@@ -16,6 +16,7 @@
         "Larry Hastings"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We all know Python is a bytecode interpreter, but what does that mean? Come find out! You'll learn what Python bytecodes are, what they do, and even how you can tinker with them. By the end of the talk you'll be an expert.  All code will be 100% Python 3--knowledge of C not required!",
     "tags": [
         "talk"

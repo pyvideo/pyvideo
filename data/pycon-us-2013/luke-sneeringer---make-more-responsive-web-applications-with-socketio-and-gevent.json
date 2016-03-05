@@ -16,6 +16,7 @@
         "Luke Sneeringer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "An explanation of how to implement a socket.io server in Python to serve websocket requests from browsers.",
     "tags": [
         "talk"

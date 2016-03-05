@@ -16,6 +16,7 @@
         "Brandon Rhodes"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Even design-conscious programmers find large applications difficult to maintain. Come learn about how the recently propounded \u201cClean Architecture\u201d applies in Python, and how this high-level design pattern fits particularly well with the features of the Python language and answers questions that experienced programmers have been asking. (An update of my un-recorded talk from PyCon Ireland 2013!)",
     "tags": [
         "talk"

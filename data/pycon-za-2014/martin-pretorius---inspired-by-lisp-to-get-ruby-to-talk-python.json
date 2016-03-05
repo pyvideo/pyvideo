@@ -16,6 +16,7 @@
         "Martin Pretorius"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Having pushed Ruby to the limits of what it can accomplish in terms of number crunching and data analysis, we looked around for another solution in the data analysis and modelling space. We quickly found that with packages and tools like Numpy, Pandas, the iPython Notebook and new packages like Blaze, Python looked to be a good language fit.\nPorting a large existing codebase and accompanying infrastructure from a Ruby to Python ecosystem simply wasn't an option, so we had to do something clever (and fun!).\nThis talk will be about how we managed to leverage the power of Python while retaining our modelling code in Ruby (and opening up opportunity for other languages), by embracing Lisp\u2019s code-is-data philosophy.",
     "tags": [
         "pyconza",

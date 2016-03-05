@@ -16,6 +16,7 @@
         "Orion Adams"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Hyperion Development: teaching and promoting Python: Orion Adams's talk at PyConZA 2012",
     "tags": [
         "pyconza",

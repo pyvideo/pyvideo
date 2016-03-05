@@ -16,6 +16,7 @@
         "Raymond Hettinger"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Learn to take better advantage of Python's best features and improve existing code through a series of code transformations, \"When you see this, do that instead.\"\r\n\r\n",
     "tags": [
         "talk"

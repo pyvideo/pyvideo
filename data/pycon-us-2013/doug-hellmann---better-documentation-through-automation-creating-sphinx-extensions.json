@@ -16,6 +16,7 @@
         "Doug Hellmann"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Sphinx is an incredibly useful tool for creating attractive documentation for your project, but if all you ever use it for is converting reStructuredText files to HTML you are barely scratching the surface of its power. This presentation shows how easy it is to extend Sphinx by defining new markup processors, allowing you to take your documentation to the next level.",
     "tags": [
         "talk"

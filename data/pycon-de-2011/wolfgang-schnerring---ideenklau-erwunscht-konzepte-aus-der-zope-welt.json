@@ -16,6 +16,7 @@
         "Wolfgang Schnerring"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Der Applikations-Server Zope und die Bibliotheken in seinem Umfeld enthalten eine Vielzahl von Konzepten zur Entwicklung von Webanwendungen. In diesem Vortrag werden einige Ideen erl\u00e4utert, die es so in anderen Frameworks nicht gibt. Es bleibt aber nicht bei theoretischen \u00dcberlegungen, es werden Werkzeuge vorgestellt, die unabh\u00e4ngig von Zope sind und direkt eingesetzt werden k\u00f6nnen.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/35HkKlmPoxU/hqdefault.jpg",

@@ -17,6 +17,7 @@
         "Jonathan Frederic"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this tutorial, attendees will learn how to use the IPython Notebook\u2019s display architecture and interactive widgets. As we cover these topics, attendees will learn about the underlying architecture, how to use IPython\u2019s existing APIs, and how to extend them for their own purposes. This tutorial will not cover the basics of the IPython Notebook.\r\n",
     "tags": [
         "ipython"

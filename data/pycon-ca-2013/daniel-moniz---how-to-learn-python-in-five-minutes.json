@@ -16,6 +16,7 @@
         "Daniel Moniz"
     ],
     "state": 1,
+    "status": "published",
     "summary": "How can you help a beginner learn Python? Included in this lightning talk will be a simple framework for learning the language, and tips/resources about stumbling blocks along the way.",
     "tags": [
         "Lightning talk"

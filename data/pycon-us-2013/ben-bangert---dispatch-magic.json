@@ -16,6 +16,7 @@
         "Ben Bangert"
     ],
     "state": 1,
+    "status": "published",
     "summary": "One of the most common tasks in modern web frameworks is to ease the task of writing bits of code that are then called by the framework. Handling this task is the first major undertaking of any web framework, and the part that most web frameworks have in common.\r\n\r\nHow do frameworks locate this code? \r\nWhat basic patterns apply to all frameworks?\r\nHow does this make me be a better web programmer?",
     "tags": [
         "talk"

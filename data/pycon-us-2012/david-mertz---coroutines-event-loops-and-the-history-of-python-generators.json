@@ -16,6 +16,7 @@
         "David Mertz"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk traces lightweight concurrency from Python 2.2's generators, which\nenabled semi-coroutines as a mechanism for scheduling \"weightless\" threads; to\nPEP 342, which created true coroutines, and hence made event-driven\nprogramming easier; to 3rd party libraries built around coroutines, from older\nGTasklet and peak.events to the current Greenlet/gevent and Twisted Reactor.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/b7R3-_ViNxk/hqdefault.jpg",

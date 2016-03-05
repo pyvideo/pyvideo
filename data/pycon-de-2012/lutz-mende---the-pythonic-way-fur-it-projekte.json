@@ -16,6 +16,7 @@
         "Lutz Mende"
     ],
     "state": 1,
+    "status": "published",
     "summary": "\"Potentially shippable increment of product in 30 days\" -- dies ist die Vision\nvon Scrum bzw. das grunds\u00e4tzliche Ziel von agiler Softwareentwicklung bzw.\nVorgehen in IT - Projekten.\n\nDieses Ziel fordert, dass innerhalb eines Sprints , entworfen, implementiert,\n\ngetestet, freigegeben und eine Distribution erstellt und installiert wird.\n\nIm Rahmen des Vortrags wird behandelt, wie durch den Einsatz einfacher Python\n-\n\nMacros innerhalb des Projekt- und Issue-Trackingsystems TRAC methodisch gute\n\n(f\u00fcr Entwickler und Kunden verst\u00e4ndliche) Userstories, Usecases und Testcases\n\nentstehen. Es wird gezeigt, wie diese erzeugt, verwaltet, angewandt und\ndurchgef\u00fchrt\n\nwerden und damit allen Projektbeteiligten erm\u00f6glicht wird, agile\n\nParadigmen und Vorgehensweisen einfach und effizient anzuwenden.\n\nDie vorgestellten Vorgehensweisen wurden von den Autoren, mehrfach erfolgreich\n\nin gro\u00dfen Industrieprojekten als auch in kleinen internen Softwareprojekten\n\nangewendet.\n\n",
     "tags": [
         " agil",

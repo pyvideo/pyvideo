@@ -16,6 +16,7 @@
         "Eddie Cao"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Computational tools are an integral part of the modern drug-discovery process.\nAt NIBR, we leverage Python to great success in all stages of drug discovery.\nNot only can we easily deploy new tools to our scientists easily using tools\nlike Django, but Python's approachability (that \"fits your brain\" character)\nallows scientists with no programming experience to start coding themselves!\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/3FcAcE3Zq2Q/hqdefault.jpg",

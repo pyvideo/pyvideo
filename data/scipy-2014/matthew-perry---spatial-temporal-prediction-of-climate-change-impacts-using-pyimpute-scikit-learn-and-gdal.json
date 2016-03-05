@@ -16,6 +16,7 @@
         "Matthew Perry"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this talk, I\\u2019ll show how we apply climate change models to predict shifts in agricultural zones across the western US. I will outline the use of the pyimpute, GDAL and scikit-klearn to perform supervised classification; training a model using current climatic conditions to predict spatially-explicit zones under future climate scenarios.",
     "tags": [
         "Tech"

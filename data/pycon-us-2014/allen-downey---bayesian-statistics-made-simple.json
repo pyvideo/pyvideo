@@ -21,6 +21,7 @@
         "Allen Downey"
     ],
     "state": 1,
+    "status": "published",
     "summary": "An introduction to Bayesian statistics using Python. Bayesian statistics are usually presented mathematically, but many of the ideas are easier to understand computationally. People who know Python can get started quickly and use Bayesian analysis to solve real problems. This tutorial is based on material and case studies from Think Bayes (O'Reilly Media).",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/z_sIDLVisvA/hqdefault.jpg",

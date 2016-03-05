@@ -16,6 +16,7 @@
         "Frank Siler"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The basics of copyright law mainly as applies to the United States but also covering the fundamental tenets that govern international law.  I include quite a bit of overview material as well as talk about specific licensing schemes, including open source schemes, and some recent trends including open hardware.",
     "tags": [
         "talk"

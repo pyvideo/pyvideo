@@ -18,6 +18,7 @@
         "Roy Rapoport"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Come find out how Netflix uses Python.",
     "tags": [
         "talk"

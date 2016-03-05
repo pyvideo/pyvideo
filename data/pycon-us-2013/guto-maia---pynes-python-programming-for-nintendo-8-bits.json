@@ -16,6 +16,7 @@
         "Guto Maia"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This lecture describes a journey guided by hardcore gaming experiences from the past and how that lead to development of PyNES. What started as a \"Python ASM compiler for Nintendo 8 bits\" and is now evolving as a \"Python programming for Nintendo 8 bits\". All the hacks and drawbacks faced will be shown. Told as an epic tale, that should encourage others to fulfil the same path.",
     "tags": [
         "talk"

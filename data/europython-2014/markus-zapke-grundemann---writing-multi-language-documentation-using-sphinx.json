@@ -16,6 +16,7 @@
         "Markus Zapke-Gr\u00fcndemann"
     ],
     "state": 1,
+    "status": "published",
     "summary": "How to write multi-language documentation? What tools can you use? What mistakes should you avoid? This talk is based on the experiences I gathered while working on several multi-language documentation projects using [Sphinx](http://sphinx-doc.org/).",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/Nz8zutA55fI/hqdefault.jpg",

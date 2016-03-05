@@ -16,6 +16,7 @@
         "Geremy Condra"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Nobody thinks you have to be a performance expert to write performance tests-\nwhy assume that you have to be a security expert to write security tests?\nDuring this presentation I'll show you how to use fuzzers, attack tools, and\nother simple techniques to help protect your users, improve the strength of\nyour existing tests, and gain confidence in the security of your code. There\nwill be demos!\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/TmuEDxX1FDQ/hqdefault.jpg",

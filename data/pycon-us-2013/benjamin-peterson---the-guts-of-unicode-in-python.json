@@ -16,6 +16,7 @@
         "Benjamin Peterson"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will examine how Python's internal Unicode representation has changed from its introduction through the latest major changes in Python 3.3. I'll present properties of the current Unicode implementation like algorithmic complexity and standard compliance. The talk will also compare Unicode in Python with some other languages. Finally, I'll look into the future of Python's Unicode.",
     "tags": [
         "talk"

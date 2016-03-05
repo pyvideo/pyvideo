@@ -16,6 +16,7 @@
         "Raymond Hettinger"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This is a short, but thorough tutorial on the Python's built-in toolset for creating classes.  We look at commonly encountered challenges and how to solve them using Python. \r\n",
     "tags": [
         "talk"

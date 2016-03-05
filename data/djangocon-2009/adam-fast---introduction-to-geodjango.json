@@ -16,6 +16,7 @@
         "Adam Fast"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Gives an introduction to GeoDjango.",
     "tags": [],
     "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-IntroductionToGeoDjango145.png",

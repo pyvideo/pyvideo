@@ -16,6 +16,7 @@
         "Ralph Heinkel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "pyRserve ist ein Python Client, der es erlaubt, \u00fcber TCP/IP eine Verbindung zu dem Statistik Paket R auf einem Server aufzubauen und Remote Procedure Calls abzusetzen. Dadurch k\u00f6nnen aus Python heraus komplexe statistische Berechnungen durchgef\u00fchrt werden. In diesem Vortrag wird pyRserve vorgestellt und anhand von Beispielen gezeigt, wie man den vollen Umfang von R aus Python heraus nutzen kann.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/pX_XMKvhK7c/hqdefault.jpg",

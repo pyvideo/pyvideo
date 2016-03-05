@@ -16,6 +16,7 @@
         "Gabriel Grant"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Twitter's new scalable, fault-tolerant, and simple(ish) stream programming\nsystem... with Python!\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/Ycvg0PCQ-sM/hqdefault.jpg",

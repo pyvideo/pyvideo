@@ -16,6 +16,7 @@
         "James Tauber"
     ],
     "state": 1,
+    "status": "published",
     "summary": "ApplePy is an Apple ][ emulator written in Python. It combines emulation of the 6502 microprocessor with emulation of the keyboard, display (including graphics mode), speaker, cassette and disk drive. This talk will provide a background to Apple ][ internals then dive into the Python code and the challenges of emulating hardware.",
     "tags": [
         "talk"

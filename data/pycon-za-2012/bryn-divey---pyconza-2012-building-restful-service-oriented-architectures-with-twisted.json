@@ -16,6 +16,7 @@
         "Bryn Divey"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Building RESTful, service-oriented architectures with Twisted: Bryn Divey's talk at PyConZA 2012",
     "tags": [
         "pyconza",

@@ -16,6 +16,7 @@
         "Caleb Smith"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Many people in the Python community have heard of Celery and aren't really sure\r\nwhen to use it or how to get started. This talk covers some of the first\r\nquestions of a new Celery user. It will also point out some common pitfalls\r\nfor beginning users.",
     "tags": [
         "talk"

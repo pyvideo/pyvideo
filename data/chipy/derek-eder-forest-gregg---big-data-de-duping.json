@@ -17,6 +17,7 @@
         "Forest Gregg"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Derek Eder of Webitects and Forest Gregg, a Ph.D. student of sociology at the\nUniversity of Chicago, will describe the Python library they are developing to\ndeduplicate tabular data, quickly, accurately, and at a large scale. The\nlibrary facilitates the matching of related records in different data sets,\nusing a machine learning approach. They expect to have a demo to show and will\nexplain how they expect that the library will be used.\n\n",
     "tags": [],
     "thumbnail_url": "http://i4.ytimg.com/vi/7Lwlo42j6aA/hqdefault.jpg",

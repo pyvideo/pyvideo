@@ -16,6 +16,7 @@
         "Dino Viehland"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will show you how to develop a game using Kinect from Python. I'll\nstart w/ an introduction to the Kinect API including skeleton tracking, normal\nvideo, depth video, and audio APIs including speech recognition. I\u2019ll then\nshow how the Kinect APIs can be incorporated into a game using PyGame. After\nthe talk you\u2019ll be able to start developing your own Python based Kinect\ngames!\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/BoMQqW0lxVE/hqdefault.jpg",

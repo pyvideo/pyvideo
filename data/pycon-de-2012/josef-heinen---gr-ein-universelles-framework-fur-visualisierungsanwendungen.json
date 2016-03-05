@@ -16,6 +16,7 @@
         "Josef Heinen"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Zur Erstellung von Visualisierungsprogrammen existiert eine Vielzahl freier\nund kommerzieller Tools und Bibliotheken. In einem heterogenen Rechnerumfeld\nzeigt sich aber, dass es keine durchg\u00e4ngig einsetzbare L\u00f6sung gibt, welche die\nspeziellen Anforderungen in einem wissenschaftlichen Umfeld abdeckt.\n\nGR ist ein universell einsetzbares Framework f\u00fcr plattform\u00fcbergreifende\nVisualisierungsanwendungen. Es bietet Entwicklern eine kompakte, portable und\neinheitliche Grafik-Bibliothek f\u00fcr ihre Anwendungen. Das Anwendungsspektrum\nreicht von der Erzeugung publikationsreifer 2D-Diagramme bis hin zur\nDarstellung komplexer 3D-Szenen.\n\nDer Vortrag beschreibt zun\u00e4chst die Funktionalit\u00e4t des GR-Frameworks, welches\nim wesentlichen auf einer Implementierung des graphischen Kernsystems (GKS)\nsowie der Programmierschnittstelle OpenGL basiert. Es wird aufgezeigt, wie GR\nals geschlossenes System schnell und einfach in vorhandene Anwendungen \u2013 z.B.\nmit dem ctypes-Mechanismus in Python - integriert werden kann. Neben dem\nEinsatz in imperativ programmierten Systemen ist auch eine Integration in\nmoderne objektorientierte Systeme, die auf GUI Toolkits aufbauen, vorgesehen.\nDar\u00fcber hinaus werden die St\u00e4rken des GR-Frameworks in Bezug auf die\nInteroperabilit\u00e4t mit aktuellen Web-Technologien und mobilen Ger\u00e4ten\nherausgestellt.\n\n",
     "tags": [
         "frameworks",

@@ -16,6 +16,7 @@
         "Reimar Bauer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Nach einem Totalschaden ist bei Webanwendungen nicht unbedingt alles verloren. Die Inhalte sind in der Regel auf eine begrenzte Zeit in Suchmaschinen wieder zu finden.\r\n\r\nDer Vortrag beschreibt ein Verfahren das Anfang des Jahres zum Einsatz kam um Wiki-Seiten aus dem HTML Webcache zur\u00fcck in Wiki-Seiten Markup zu \u00fcbersetzen.",
     "tags": [
         "adapter pattern",

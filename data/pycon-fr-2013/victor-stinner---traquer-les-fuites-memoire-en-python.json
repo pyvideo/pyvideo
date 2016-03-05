@@ -16,6 +16,7 @@
         "Victor Stinner"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Les fuites m\u00e9moire en Python ne peuvent pas \u00eatre analys\u00e9es avec les outils traditionnels car Python repose sur les compteurs de r\u00e9f\u00e9rence. Je vais pr\u00e9senter des outils sp\u00e9cifiques \u00e0 Python pour vous aider \u00e0 localiser vos fuites m\u00e9moires.\n\n- Consommation globale du processus (m\u00e9moire RSS)\n- Comprendre les cycles de r\u00e9f\u00e9rence\n- G\u00e9n\u00e9rer une image repr\u00e9sentant les liens entre les objets\n- Utilisation de gc.get_objects() et calcul manuel de la taille des objets\n- Tracer les allocations m\u00e9moires \u00e0 leur cr\u00e9ation\n- PEP 445: Add new APIs to customize Python memory allocators implement\u00e9e dans Python 3.4\n- Projet pytracemalloc",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/oQ17KDBr24I/maxresdefault.jpg",

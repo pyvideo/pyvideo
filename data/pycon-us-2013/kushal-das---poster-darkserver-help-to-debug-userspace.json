@@ -16,6 +16,7 @@
         "Kushal Das"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Darkserver is a set of tools and service written in Python to help developers to debug their applications & libraries. Darkserver project was started to use Build-ID feature of compiler toolchains and help developer tools to identify exact package builds from which process images (e.g. core dumps) come. This can enable their analysis, debugging profiling. ",
     "tags": [
         "poster"

@@ -16,6 +16,7 @@
         "Cody Soyland"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This is an introduction to using the Gevent networking library to empower your\nDjango application with realtime features and resource-efficient cooperative\nconcurrency. Django's synchronous APIs make it impractical to use in a\ncallback-based networking library, but fast single-threaded concurrency is\nstill possible using the mind-blowing capabilities of coroutines.\n\n",
     "tags": [
         "django",

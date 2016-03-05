@@ -16,6 +16,7 @@
         "Jeff Armstrong"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The Python standard library provides a cross-platform toolkit for building\ngraphical user interfaces using Tcl/Tk. This toolkit, however, is often\navoided to being somewhat ugly on many popular platforms. This talk will\nprovide an introduction to working with modern Tkinter on Python 2.7 and 3.x,\nfocusing on building not-so-ugly, cross-platform desktop applications using\nthe toolkit.\n\n",
     "tags": [],
     "thumbnail_url": "http://i3.ytimg.com/vi/6isuF_bBiXs/hqdefault.jpg",

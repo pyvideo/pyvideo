@@ -16,6 +16,7 @@
         "Antonio Cuni"
     ],
     "state": 1,
+    "status": "published",
     "summary": "PyPy is an alternative implementation of CPython implemented in Python. Understanding concepts like RPython, JIT, PyPy garbage collection and other core concepts can be difficult for newcomers to understand. This talk is aimed to introduce all of these concepts to help better understand how PyPy works.\r\n",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/zW1An0BRLYs/hqdefault.jpg",

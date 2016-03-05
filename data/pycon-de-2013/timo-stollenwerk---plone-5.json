@@ -16,6 +16,7 @@
         "Timo Stollenwerk"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Plone 5, das n\u00e4chstes Major Release des Python-basierten Open Source Content Management Systems Plone, verspricht einige interessante Neuerungen.\r\n\r\nDer Vortrag wird den aktuellen Stand der Entwicklung vorstellen und insbesondere auch im Detail aufzeigen, welche Neuerungen heute schon produktiv mit der aktuellen Version 4.3 eingesetzt werden k\u00f6nnen. Unter anderem wird Plone 5:\r\n\r\n- neue, leistungsf\u00e4higere Inhaltstypen zur Verf\u00fcgung stellen, die through-the-web ver\u00e4nderbar sind\r\n- ein neues, moderenes User Inteface bekommen, einschlie\u00dflich neuer Widgets\r\n- ein neues Modul f\u00fcr multilinguale Seiten bieten\r\n- schneller sein\r\n- einfacher zu erlernen sein",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/EA2FCvoo21Q/hqdefault.jpg",

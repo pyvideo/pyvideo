@@ -16,6 +16,7 @@
         "Kumar McMillan"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Playdoh is Mozilla's starter kit for new Django projects. It aims to be\nsecure-by-default and set up all the same goodies we use to scale for high\ntraffic, perform background tasks, localize our sites in many languages, and\nother cool things.\n\n",
     "tags": [
         "chipy",

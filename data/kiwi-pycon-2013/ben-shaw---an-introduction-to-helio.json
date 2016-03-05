@@ -16,6 +16,7 @@
         "Ben Shaw"
     ],
     "state": 1,
+    "status": "published",
     "summary": "At Yellow, we love building web-applications that leverage the best parts of client and server side languages, so we created the open-source Helio. Its modular design lets us compose Python, Javascript, HTML and CSS in harmony, allowing each to perform in the area it excels. This talk is about Helio's creation, and how it integrates with your favorite Python web framework(s) in your next project.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/w_fFONTSzig/hqdefault.jpg",

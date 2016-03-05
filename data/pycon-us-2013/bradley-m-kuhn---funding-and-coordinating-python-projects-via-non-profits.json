@@ -16,6 +16,7 @@
         "Bradley M. Kuhn"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Organizations like Software Freedom Conservancy and PSF provide essential non-profit infrastructure to the Python community.  For the past few years, Conservancy specifically helped raise funds to support 3 key Python projects: Mercurial, PyPy and Twisted. This talk discusses successes and challenges of funding Python software development in non-profits, and discuss plans to expand this activity.",
     "tags": [
         "talk"

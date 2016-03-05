@@ -16,6 +16,7 @@
         "Rhydwyn Mcguire"
     ],
     "state": 1,
+    "status": "published",
     "summary": "R is an incredibly powerful statistical programming language. It is the choice\nfor powerful set and forgets analytics. However it is a specialist language\nwithout strong functionality in other areas. In areas where significant\npreproc\n\n",
     "tags": [
         "rpy"

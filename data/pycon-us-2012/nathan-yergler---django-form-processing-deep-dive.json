@@ -16,6 +16,7 @@
         "Nathan Yergler"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Django Form processing often takes a back seat to flashier, more visible parts\nof the framework. But Django forms, fully leveraged, can help developers be\nmore productive and write more cohesive code. This talk will dive deep into\nthe stock Django forms package, as well as discuss a strategy for abstracting\nvalidation for forms, and the use of unit and integration tests with forms.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/Wh9a0obtQUQ/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Christopher Allan Webber"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Blender 2.5 (a free and open source software 3d graphics suite) includes a new\nBPY python API which is usable for scripting modeling, animation, etc. Learn\nto use this API to speed up your workflow, create procedural graphics, and\ncool new tools.\n\n",
     "tags": [
         "blender",

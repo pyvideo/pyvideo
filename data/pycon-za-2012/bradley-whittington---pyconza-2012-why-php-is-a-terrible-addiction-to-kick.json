@@ -16,6 +16,7 @@
         "Bradley Whittington"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Why PHP is a terrible addiction to kick: Bradley Whittington's talk at PyConZA 2012",
     "tags": [
         "pyconza",

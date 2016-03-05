@@ -16,6 +16,7 @@
         "Raymond Hettinger"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Show the specific features that make Python more than just another scripting language.",
     "tags": [
         "Plenary"

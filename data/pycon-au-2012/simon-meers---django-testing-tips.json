@@ -16,6 +16,7 @@
         "Simon Meers"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Django's test framework is excellent for ensuring that your site/app is\nrobust, but is often neglected because of the time it can take to build and\nmaintain a comprehensive test suite. Here we will discuss a number of tips and\ntricks to reduce the overheads involved.\n\n",
     "tags": [
         "django",

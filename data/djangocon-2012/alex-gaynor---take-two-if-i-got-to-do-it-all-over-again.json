@@ -16,6 +16,7 @@
         "Alex Gaynor"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Django has always had a strong commitment to backwards compatibility, and is\nused by thousands of developers every day. This means that it's very difficult\nto make large sweeping changes to Django. This talk is a look at how I'd\nredesign different components of Django, if I got to do it all over again.\n\n",
     "tags": [
         "django"

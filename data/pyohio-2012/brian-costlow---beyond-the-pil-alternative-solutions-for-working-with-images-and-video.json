@@ -16,6 +16,7 @@
         "Brian Costlow"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The Python Imaging Library is the go-to when you need to deal with images in\nPython. But sometimes it falls short. Some formats (PDF) are write-only. Some\nimplementations (TIFF reading) are slow, or limited (TIFF writing). And what\ndo you do about video data? This talk explores some alternative options,\nlooking at strategies for using GraphicsMagick, ImageMagick, and ffmpeg from\nPython.\n\n",
     "tags": [],
     "thumbnail_url": "http://i3.ytimg.com/vi/ZTjiDStstmc/hqdefault.jpg",

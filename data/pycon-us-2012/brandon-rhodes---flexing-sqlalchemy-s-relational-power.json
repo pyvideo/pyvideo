@@ -16,6 +16,7 @@
         "Brandon Rhodes"
     ],
     "state": 1,
+    "status": "published",
     "summary": "How do you take the big step from casual SQLAlchemy user, who treats your\ndatabase as a mysterious object store, to advanced power user, who optimizes\ncritical queries, plans indexing and migrations, and generates efficient\nreports? This talk will teach you how databases think; why humanity invented\nthe Relational Algebra; and how SQLAlchemy grants you access to relational\npower.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/399c-ycBvo4/hqdefault.jpg",

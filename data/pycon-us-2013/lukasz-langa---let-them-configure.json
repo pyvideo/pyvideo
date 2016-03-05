@@ -16,6 +16,7 @@
         "\u0141ukasz Langa"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A look at possible approaches to introducing configurability to your Python application, and a quick analysis of the most common problems.",
     "tags": [
         "talk"

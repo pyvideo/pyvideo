@@ -16,6 +16,7 @@
         "Damia\u0301n Avila"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Recently, the IPython Notebook has began to be used for presentations in several conferences. But, there is not a full-featured and executable IPython presentation tool available. So, we developed a new Reveal.js-powered live slideshow extension, designed specifically to be used directly from the notebook and to be as executable as the notebook is, and also powered with great features.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/sZBKruEh0jI/hqdefault.jpg",

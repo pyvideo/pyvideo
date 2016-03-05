@@ -16,6 +16,7 @@
         "Ned Batchelder"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python has great Unicode support, but it's still your responsibility to handle\nit properly. I'll do a quick overview of what Unicode is, but only enough to\nget your program working properly. I'll describe strategies to make your code\nwork, and keep it working, without getting too far afield in Unicode la-la-\nland.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/sgHbC6udIqc/hqdefault.jpg",

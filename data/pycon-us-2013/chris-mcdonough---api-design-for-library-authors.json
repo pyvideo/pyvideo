@@ -16,6 +16,7 @@
         "Chris McDonough"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A library is code distributed in such a way that strangers can use it. In this talk we consider:  1) why Python developers make bad libraries and poor APIs; 2) how to make your library API maximally useful for others; 3) examples of real-world antipatterns involving APIs.\r\n",
     "tags": [
         "talk"

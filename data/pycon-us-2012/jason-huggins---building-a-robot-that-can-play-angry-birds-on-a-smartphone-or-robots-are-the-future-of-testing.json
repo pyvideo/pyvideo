@@ -16,6 +16,7 @@
         "Jason Huggins"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Can your robot play Angry Birds? On an iPhone? Mine can. I call it\n\"BitbeamBot\". It started as an art project, but it has a much more serious\npractical application: mobile web testing. To trust that your mobile app truly\nworks, you need an end-to-end test on the actual device. BitbeamBot is an\nArduino-powered open-source hardware CNC robot that can test any application\non any mobile device.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/NkUTLRZBWLM/hqdefault.jpg",

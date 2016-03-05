@@ -16,6 +16,7 @@
         "Lindsey Brockman"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Sure, your API calls may be fast. But could they be faster? Redis is a wonderful tool that can be used as a cache API responses. By implementing API caching, you can avoid hitting rate limits and/or reduce the load on your database, resulting in better performance for your web app.",
     "tags": [
         "talk"

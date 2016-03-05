@@ -16,6 +16,7 @@
         "Jason Zylks"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A look at how to get started with MongoDB using Python. The talk will cover\nbasic concepts, a brief walkthrough of some more advanced features, and how\nTexas A&M is using MongoDB and Python to solve some large data problems.\n\n",
     "tags": [],
     "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-GettingStartedWithPyMongo126-736.jpg",

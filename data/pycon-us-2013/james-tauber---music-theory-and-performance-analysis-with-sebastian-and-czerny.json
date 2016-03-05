@@ -16,6 +16,7 @@
         "James Tauber"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will discuss two open source projects for using Python for music analysis. Sebastian focuses on music theory while Czerny focuses on performance (particularly keyboard playing).",
     "tags": [
         "talk"

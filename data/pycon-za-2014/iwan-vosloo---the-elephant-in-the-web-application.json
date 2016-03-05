@@ -16,6 +16,7 @@
         "Iwan Vosloo"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Developing a web application today is an unnecessarily cumbersome and error prone task. It is time for web frameworks to evolve and become more like graphical user interface (GUI) frameworks",
     "tags": [
         "pyconza",

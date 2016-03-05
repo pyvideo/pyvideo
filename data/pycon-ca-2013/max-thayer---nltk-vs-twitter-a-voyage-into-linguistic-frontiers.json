@@ -16,6 +16,7 @@
         "Max Thayer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Language is complicated. We'll show you how to use statistics and geography to do linguistic research without the hassle of semantics using Flask for data collection, the NLTK for data parsing, and d3 for pretty graphs.",
     "tags": [
         "talk"

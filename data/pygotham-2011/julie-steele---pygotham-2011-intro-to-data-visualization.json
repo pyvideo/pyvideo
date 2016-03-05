@@ -16,6 +16,7 @@
         "Julie Steele"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Have lots of data? Want to turn it into pictures to help you better understand\nit or explain it to others? This session will address best practices for\nencoding information through design, and will look at a few ways of doing this\nin Python.\n\n",
     "tags": [
         "data",

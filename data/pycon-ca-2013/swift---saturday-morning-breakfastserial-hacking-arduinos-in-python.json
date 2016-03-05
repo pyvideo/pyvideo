@@ -16,6 +16,7 @@
         "Swift"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Normally when you want to hack on arduino, you have to code in C. We as Python devs know that sucks! Introducing BreakfastSerial, a framework that makes it simple to interact with Arduinos using just Python. You'll learn the basics, see some fun demos, and become a hardware-hacking pro in no time.",
     "tags": [
         "talk"

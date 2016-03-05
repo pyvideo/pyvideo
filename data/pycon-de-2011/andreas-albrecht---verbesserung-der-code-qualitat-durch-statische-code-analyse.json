@@ -16,6 +16,7 @@
         "Andreas Albrecht"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Statische Code-Analyse ist eine gute M\u00f6glichkeit, die Qualit\u00e4t des Quellcodes fortlaufend zu verbessern - wenn die verf\u00fcgbaren Werkzeuge richtig eingesetzt werden. Durch projektspezifische Konfiguration der Analyse-Werkzeuge und durch eine unaufdringliche Integration in die bestehenden Arbeitsabl\u00e4ufe kann die Entwicklung schon bei kleineren Projekten positiv unterst\u00fctzt werden.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/ElczrBWNO3c/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Jacob Rothenbuhler"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Nodality is applying a novel technology, Single Cell Network Profiling (SCNP), to reveal biology and predict clinical outcome. We face unique engineering challenges related to lab workflows, mining complex data, and presenting data in compelling interactive visuals. We will share design and implementation considerations for integrating heterogeneous software tools needed to meet these challenges.",
     "tags": [
         "poster"

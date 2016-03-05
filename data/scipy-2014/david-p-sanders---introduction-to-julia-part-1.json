@@ -16,6 +16,7 @@
         "David P. Sanders"
     ],
     "state": 1,
+    "status": "published",
     "summary": "An introduction to the new Julia language from scratch, emphasising similarities and differences with scientific Python.",
     "tags": [
         "Tech"

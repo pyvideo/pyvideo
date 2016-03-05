@@ -16,6 +16,7 @@
         "Felix Wick"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Setting up a new Python project from scratch can be quite hard. How to structure your files and directories. Where should my packages, modules, documentation and unit tests go? How do I configure setup.py, Sphinx and so on? We provide proven answers!",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/GeYis4ZuluY/hqdefault.jpg",

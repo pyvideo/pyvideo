@@ -16,6 +16,7 @@
         "Peter Lovett"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Self taught in Python? Think you missed a bit? This 90 minutes will fix everything. From a really quick recap of the bare-bones essentials, you'll get a good grasp and the core of Python. Want to know more about classes, objects and more? This is for you. Also suitable for beginners who need a quick start.\r\n* Recap of the essentials\r\n* Understanding the object model\r\n* Everything you've ever wanted to know about dictionaries\r\n* Building on types\r\n* Creating your own types - Object Oriented Programming\r\n* Important elements from the Standard Library\r\nAnd lots of time for questions.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/yyzX_7lR7Mk/hqdefault.jpg",

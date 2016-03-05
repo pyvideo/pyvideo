@@ -16,6 +16,7 @@
         "Nicholas Tollervey"
     ],
     "state": 1,
+    "status": "published",
     "summary": "At last year's Europython Holger Krekel gave a keynote called \"The Return of Peer to Peer Computing\". He described how developers, in light of the Snowden surveillance revelations, ought to learn about and build decentralized peer-to-peer systems with strong cryptography. This talk introduces, describes and demonstrates ideas, concepts and code that a group of Pythonistas have been working on since Holger's keynote. \r\n\r\nWe asked ourselves two questions: what are the fundamental elements / abstractions of a peer-to-peer application and, given a reasonable answer to the first question, what can we build?  We will present work done so far, discuss the sorts of application that might be written and explore how peer-to-peer technology could be both attractive and viable from an economic point of view.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/xxSKmecZ09E/hqdefault.jpg",

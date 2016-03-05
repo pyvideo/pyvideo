@@ -16,6 +16,7 @@
         "Leonardo Rochael"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Profiling is hard. Trying to understand what is making your system slow can be very frustrating. Specially when it happens only when your clients are looking, but not you.",
     "tags": [
         "talk"

@@ -16,6 +16,7 @@
         "Andrew T. Baker"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Docker was one of last year\u2019s most talked about open source projects - but what is it? And what does it mean for deploying applications? This tutorial will explain what docker is and where it fits in with other deployment and configuration management tools. Students will then learn the basics of working with docker containers, how to \u201cdockerize\u201d their apps, and some emerging docker best practices.",
     "tags": [
         "talk"

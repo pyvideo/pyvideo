@@ -16,6 +16,7 @@
         "Greg Ward"
     ],
     "state": 1,
+    "status": "published",
     "summary": "There is a resurgence of native-compiled programming languages going on. Some of this work is in response to Python; we're now part of The Establishment against which newcomers are measured. I'll give an overview of Go, a recent native-compiled language, and how it relates to Python. ",
     "tags": [
         "talk"

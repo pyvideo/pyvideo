@@ -16,6 +16,7 @@
         "Ben Toews"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Ben recently discovered event driven concurrency. He will be talking about\nsome of the basics as well as trying to compare it with other concurrency\noptions. The focus will be on its application in a few recent projects as well\nas a comparison of Python's gevent and node.js. Some of the demos will also be\nusing matplotlib in honor of John Hunter's passing.\n\n",
     "tags": [],
     "thumbnail_url": "http://i3.ytimg.com/vi/2gcrTsQ7yi4/hqdefault.jpg",

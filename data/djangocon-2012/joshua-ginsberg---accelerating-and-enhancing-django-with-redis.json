@@ -16,6 +16,7 @@
         "Joshua Ginsberg"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This tutorial introduces Redis, an in-memory key-object NoSQL datastore. We\ndiscuss out-of-the-box ways Redis can help improve the performance of your\nDjango deployments, ways that using Redis instead of SQL for some data\nmanagement can accelerate your apps, and more advanced and unconventional uses\nfor Redis to solve real-time and big-data problems.\n\n",
     "tags": [
         "django",

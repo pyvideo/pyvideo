@@ -16,6 +16,7 @@
         "Natalie Scott"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Local councils produce a number of maps for each Land Information Memoranda (LIM), which can be a time-consuming process. A lightweight python application was built to interact with an ArcGIS map to automate this mapping process, giving consistent high quality outputs. The application was built to be used by non-technical staff with no python or mapping experience.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/GCD1DUr7aiY/hqdefault.jpg",

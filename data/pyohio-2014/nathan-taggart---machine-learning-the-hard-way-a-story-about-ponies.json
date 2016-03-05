@@ -16,6 +16,7 @@
         "Nathan Taggart"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Before you dive into a machine learning project, learn from the mistakes that I made while building a prediction engine for betting on horse races.  In this introductory talk, learn about common data science tasks like data munging, pre-processing, classification, regression, and interpreting results.",
     "tags": [
         "talk"

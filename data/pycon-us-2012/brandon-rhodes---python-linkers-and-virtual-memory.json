@@ -16,6 +16,7 @@
         "Brandon Rhodes"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Why does \u201ctop\u201d show that your Python process uses 110\u00a0MB of virtual memory but\nhas a resident set size of 9\u00a0MB? Does it consume more memory to spawn several\ninterpreters, or to run one Python and have it fork() further workers? What is\nan \u201cundefined symbol,\u201d anyway? Learn about how an operating system manages\nmemory, loads shared libraries, and what this means for Python servers and\napplications.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/twQKAoq2OPE/hqdefault.jpg",

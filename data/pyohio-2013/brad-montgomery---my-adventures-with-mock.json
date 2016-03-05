@@ -16,6 +16,7 @@
         "Brad Montgomery"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Mock is a powerful testing library.  Unfortunately, there seems to be a trend of confusion and distress among those who are just getting started with Mock. This talk will highlight my experience learning Mock, and will list a few of the patterns that I've seen emerge during my quest for 100% test coverage.",
     "tags": [
         "talk"

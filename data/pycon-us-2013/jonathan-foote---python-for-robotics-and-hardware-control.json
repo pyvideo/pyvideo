@@ -16,6 +16,7 @@
         "Jonathan Foote"
     ],
     "state": 1,
+    "status": "published",
     "summary": "I build robots for a living and kinetic art for fun. I use Python as a front end, GUI control, and glue to talk to controllers, actuators, sensors, and peripherals.  I will present some example robots and kinetic art, and give some tips that I've learned from building everything from robotic desk lamps to automated surgical systems.  ",
     "tags": [
         "talk"

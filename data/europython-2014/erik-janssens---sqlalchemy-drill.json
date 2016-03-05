@@ -21,6 +21,7 @@
         "Erik Janssens"
     ],
     "state": 1,
+    "status": "published",
     "summary": "If you have been looking to use SQLAlchemy in one of your projects, but found the documentation a bit overwhelming then this talk is for you. If you have used SQLAlchemy but feel there are some holes in your knowledge of the library, then this talk is for you as well.  At the beginning of the talk, we fire up our Python interpreter and start to explore the library in a structured way. We'll go hands on through the various parts of the SQLAlchemy. We try out the concepts of each part of the library and make sure the basics are well understood.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/UcVr8FzSdCU/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Zain Memon"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python makes it easy to store, query, and transform geodata. We will run\nthrough a handful of useful GIS libraries and patterns that let you do magical\nthings with your maps. If you want to make maps that are more interactive and\nmore interesting, this talk is for you.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/RBOScqRGHZA/hqdefault.jpg",

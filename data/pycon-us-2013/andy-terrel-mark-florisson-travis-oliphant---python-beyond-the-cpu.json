@@ -18,6 +18,7 @@
         "Travis Oliphant"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Accelerators are the hottest tool in high performance computing but applicable to all fields. We present how to use Python's amazing ability to abstract away the low-level boiler-plate code turning accelerators from an exotic curiosity to a daily tool.\r\n",
     "tags": [
         "tutorial"

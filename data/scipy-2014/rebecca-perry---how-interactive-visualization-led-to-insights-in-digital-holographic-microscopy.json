@@ -16,6 +16,7 @@
         "Rebecca Perry"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Digital holographic microscopy is a fast 3D imaging technique.  A camera records a time series of light scattering patterns as standard 2D images and then post-processing routines extract 3D information.  By creating a GPU-accelerated GUI on top of the Holopy package, we noticed unexpected discrepancies between the different models used during post-processing.",
     "tags": [
         "holopy"

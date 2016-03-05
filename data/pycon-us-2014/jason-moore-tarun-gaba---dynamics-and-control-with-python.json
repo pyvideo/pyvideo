@@ -17,6 +17,7 @@
         "Tarun Gaba"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this tutorial we will first learn how to solve, simulate, and visualize multibody dynamics problems with Python. These methods and techniques play an important role in the design of robots, vehicles, spacecraft, manufacturing machines, etc.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/IoMR-ESzqw8/hqdefault.jpg",

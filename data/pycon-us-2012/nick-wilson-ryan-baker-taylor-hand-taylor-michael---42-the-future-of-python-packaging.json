@@ -19,6 +19,7 @@
         "Taylor Michael"
     ],
     "state": 1,
+    "status": "published",
     "summary": "There are currently multiple methods for packaging, distributing, discovering,\nand installing Python software. This presentation will discuss the limitations\nof the current methods, the efforts to standardize Python packaging, and\npractical advice for developers to add support for the new packaging library,\ndistutils2 (\"packaging\" in Python 3.3+), to their software.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/OceCWIqZt7I/hqdefault.jpg",

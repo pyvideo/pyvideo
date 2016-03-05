@@ -16,6 +16,7 @@
         "Carl Meyer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A deep dive into writing tests with Django, covering Django's custom test-\nsuite-runner and the testing utilities in Django, what all they actually do,\nhow you should and shouldn't use them (and some you shouldn't use at all!).\nAlso, guidelines for writing good tests (with or without Django), and my least\nfavorite things about testing in Django (and how I'd like to fix them).\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/ickNQcNXiS4/hqdefault.jpg",

@@ -14,6 +14,7 @@
     "source_url": "",
     "speakers": [],
     "state": 1,
+    "status": "published",
     "summary": "End users often need to update multiple items at one time. Unfortunately,\nbuilding a grid-like user interface in a webpage to allow for this type of\nediting is often painful and results in a poor substitute for Excel, the\nstandard against which some of these same end users will compare it. Why not\njust let 'em use Excel?\n\n",
     "tags": [
         "excel",

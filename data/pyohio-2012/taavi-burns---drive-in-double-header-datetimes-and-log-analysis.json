@@ -16,6 +16,7 @@
         "Taavi Burns"
     ],
     "state": 1,
+    "status": "published",
     "summary": "What you need to know about datetimes: time, datetime, and calendar from the\nstandard library are a bit messy. Find out what to use where and how\n(particularly when you have users in many timezones), and what extra modules\nyou might want to look into.\n\nLog analysis for web applications: Use iPython, matplotlib, and some custom\nfunctions to slice, dice, and visualise your app through its logs.\n\n",
     "tags": [],
     "thumbnail_url": "http://i4.ytimg.com/vi/_daLhu-HnAY/hqdefault.jpg",

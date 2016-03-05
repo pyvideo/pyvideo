@@ -16,6 +16,7 @@
         "Gavin M. Roy"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The logging module is one of the more complex areas of the Python standard library. In this talk you will learn how to leverage loggers, formatters, handlers and filters. In addition you will learn how to use dictConfig and other formats to manage logging settings for your applications.",
     "tags": [
         "talk"

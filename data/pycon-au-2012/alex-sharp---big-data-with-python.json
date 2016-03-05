@@ -16,6 +16,7 @@
         "Alex Sharp"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Dealing with big data isn't a particularly new problem. There are all sorts of\nnew solutions, each with their own niche, their own hype. It's important to\nremember that python is not \"too slow\" for big data, and that with projects\nsuch as\n\n",
     "tags": [
         "bigdata"

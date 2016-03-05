@@ -16,6 +16,7 @@
         "Christine Cheung"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Django's template language is designed to strike a balance between power and\nease of use; learn how to use this balance to create awesome looking websites.\nThis talk will cover the basics and best practices of Django templating, from\ncustom tag and filter creation, to the finer points of template rendering and\nloading, and even to replacing the default templating engine itself.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/ahM4GBZ-6qg/hqdefault.jpg",

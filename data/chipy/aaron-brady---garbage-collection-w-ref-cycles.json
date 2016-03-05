@@ -29,6 +29,7 @@
         "Aaron Brady"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Reference counting is very useful but it has an odd problem.  We employ a technique from graphs to approach it.  The solution works but it's a bit slow.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/VCeENPxyZJw/hqdefault.jpg",

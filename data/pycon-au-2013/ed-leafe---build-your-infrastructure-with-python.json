@@ -16,6 +16,7 @@
         "Ed Leafe"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Cloud computing is changing the way that businesses think about their computing requirements. Instead of ordering hardware, waiting for delivery, allocating space in a data center, installing and wiring it up, and then configuring each piece of the system, you can now do the equivalent with a few clicks on a control panel, but that gets tedious. What's much more interesting is to do all of this programmatically, using our favorite language: Python!\r\n\r\nThis session will deep-dive into this topic by using pyrax, the Python SDK for the OpenStack and Rackspace Clouds. It will cover the following:\r\n\r\n\u2022 Getting your cloud account and credentials\r\n\u2022 Installing pyrax\r\n\u2022 Creating servers\r\n\u2022 Saving a customized server as a template image\r\n\u2022 Creating more servers on demand from your template images.\r\n\u2022 Creating, attaching, and imaging Block Storage volumes.\r\n\u2022\u00a0Using private networks to create a bastion host setup\r\n\u2022 Managing these servers with a Load Balancer\r\n\u2022 Creating and managing Cloud Databases\r\n\u2022 Using pyrax to manage your DNS\r\n\u2022 Object storage and management using pyrax",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/ohmAT6hpqaQ/hqdefault.jpg",

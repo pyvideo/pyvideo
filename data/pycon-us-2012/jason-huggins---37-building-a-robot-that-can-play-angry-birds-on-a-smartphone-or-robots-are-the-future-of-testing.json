@@ -16,6 +16,7 @@
         "Jason Huggins"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A poster session for a hands-on demo of \"BitbeamBot\". It started as an art\nproject, but it has a much more serious practical application: mobile web\ntesting. To trust that your mobile app truly works, you need an end-to-end\ntest on the actual device. BitbeamBot is an Arduino-powered open-source\nhardware CNC robot that can test any application on any mobile device.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/KUOoStyV7Zs/hqdefault.jpg",

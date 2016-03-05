@@ -16,6 +16,7 @@
         "Martin v. L\u00f6wis"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Metro ist die Nutzerschnittstelle f\u00fcr Apps in Windows 8. Microsoft unterst\u00fctzt\nApp-Programmierung in C, C++, C#, VB und JavaScript. Im Vortrag wird das API\nWinRT vorgestellt und gezeigt, wie mit Python Apps entwickelt werden k\u00f6nnen.\n\nThemen sind:\n\n- Windows 8  \n- Metro-UI  \n- WinRT und COM  \n- Python als App  \n- Python-WinRT-API\n\n",
     "tags": [
         " app",

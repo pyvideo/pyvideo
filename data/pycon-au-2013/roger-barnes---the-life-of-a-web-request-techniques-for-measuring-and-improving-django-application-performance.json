@@ -16,6 +16,7 @@
         "Roger Barnes"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The connection between sub-second web application performance and revenue is becoming more and more apparent with established companies regularly reporting the benefits of reducing page load times.\r\n\r\nThis talk will cover:\r\n* Designing for performance\r\n* Approaches to instrumenting and measuring application performance\r\n* Areas of focus for both front-end and back-end improvement\r\n* Techniques, tools and modules available in Django-land for improving performance\r\n* New and emerging technologies, for example SPDY protocol and Django 1.5's StreamingHttpResponse",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/uI39nXHLVj8/hqdefault.jpg",

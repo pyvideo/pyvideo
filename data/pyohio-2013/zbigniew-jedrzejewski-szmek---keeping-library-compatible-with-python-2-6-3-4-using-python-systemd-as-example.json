@@ -16,6 +16,7 @@
         "Zbigniew J\u0119drzejewski-Szmek"
     ],
     "state": 1,
+    "status": "published",
     "summary": "How hard is it to port a library to python 3? How much work is it going forward? Based on two examples (a pure Python, and a C-extension-based library), I want to show how in my experience the work required is modest, without significant impact on old code.  At the same time, keeping Python2 compatibility constrains development under Python 3 because only the common subset of features can be used.",
     "tags": [
         "talk"

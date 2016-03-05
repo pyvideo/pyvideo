@@ -16,6 +16,7 @@
         "Sandy Walsh"
     ],
     "state": 1,
+    "status": "published",
     "summary": "OpenStack is a large python application being developed collaboratively with\nRackspace, Red Hat, Canonical, Dell, HP, Intel, IBM, Citrix and a host of\nother companies. This application is the software that Cloud Computing is\nbuilt on. It is a controller for massive farms of hypervisors. In this talk,\nyou'll learn about the architecture and implementation of OpenStack.\n\n",
     "tags": [],
     "thumbnail_url": "http://i3.ytimg.com/vi/bCsw2kkIWyw/hqdefault.jpg",

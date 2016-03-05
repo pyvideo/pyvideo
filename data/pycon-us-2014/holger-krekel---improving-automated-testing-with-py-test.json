@@ -16,6 +16,7 @@
         "Holger Krekel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Many people learn testing through the JUnit/PYUnit paradigm. Lately, py.test's new fixture mechanisms have gained traction among many Pythonistas. This tutorial explores py.test discusses key strategies how to benefit from using py.test for your existing unittest/nose based code bases.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/AiThU6JQbE8/hqdefault.jpg",

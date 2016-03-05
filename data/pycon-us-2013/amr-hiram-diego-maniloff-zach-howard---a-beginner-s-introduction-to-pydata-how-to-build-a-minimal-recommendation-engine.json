@@ -23,6 +23,7 @@
         "Zach Howard"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this tutorial we'll set ourselves the goal of building a minimal recommendation engine, and in the process learn about Python's excellent Pydata and related projects: numpy, pandas, and pytables.\r\n\r\nA recommendation engine is a software system that analyzes large amounts of transactional data and distills personal profiles to present its users with relevant products/information/content.",
     "tags": [
         "tutorial"

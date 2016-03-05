@@ -16,6 +16,7 @@
         "James Bergstra"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Hyperopt provides parallel infrastructure and Bayesian optimization algorithms that can tune the hyperparameters of machine learning systems (including pre-processing steps) as well as domain experts. This talk introduces hyperopt architecture and usage.",
     "tags": [
         "Lightning talk"

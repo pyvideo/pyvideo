@@ -17,6 +17,7 @@
         "Simon Ratcliffe"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We will discuss some of the challenges specific to the radio astronomy environment and how we believe Python can contribute, particularly when it comes to the trade off between development time and performance.",
     "tags": [
         "astronomy",

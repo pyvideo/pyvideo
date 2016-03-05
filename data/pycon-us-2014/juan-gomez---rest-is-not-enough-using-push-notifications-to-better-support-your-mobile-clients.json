@@ -16,6 +16,7 @@
         "Juan Gomez"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will introduce you to Push Notifications, a very powerful way for your Python service to communicate information to mobile devices. You will learn how Push Notifications work, their advantages and disadvantages and how you can implement them on your Python projects.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/WSWaEMn_zpo/hqdefault.jpg",

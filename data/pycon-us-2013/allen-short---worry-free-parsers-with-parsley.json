@@ -16,6 +16,7 @@
         "Allen Short"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Writing parsers has often been a task difficult for programmers to take on. Many of the tools available for parsing require writing grammar rules and code that work very different from everything else in Python. Parsley is a library that mixes the benefits of concise rule-based grammars with a parsing model that works the way you expect Python code to work.",
     "tags": [
         "talk"

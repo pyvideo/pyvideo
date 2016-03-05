@@ -16,6 +16,7 @@
         "Zain Memon"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This tutorial teaches students how to create beautiful, interactive maps for\nthe web. When asked to display geodata, most developers decide to put some big\nred markers on an embeddable Google Map and call it a day. If you're\ninterested in creating maps that are more beautiful, more interactive, and\nmore usable, this tutorial is for you.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/g0CankXpFZg/hqdefault.jpg",

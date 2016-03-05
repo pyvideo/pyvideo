@@ -16,6 +16,7 @@
         "Alexandre Bourget"
     ],
     "state": 1,
+    "status": "published",
     "summary": "gevent-socketio is the cross-framework python implementation of the Socket.IO\nprotocol, based on Gevent's cooperative concurrency model. Alexandre Bourget\nis the maintainer of the project.\n\nIn this talk, we're going to have a live demo of its capabilities building\nGoogle Analytics in 45 minutes, with some AngularJS on the front-end, and\nother cool integrations.\n\nBlack chocolate will await you.\n\n",
     "tags": [],
     "thumbnail_url": "http://i3.ytimg.com/vi/zhh_N5pmHBY/hqdefault.jpg",

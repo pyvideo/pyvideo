@@ -16,6 +16,7 @@
         "Issac Kelly"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Issac builds art and tells stories professionally with hardware and software. With an extraordinary project come extraordinary challenges. Having the right toolkit keeps you nimble enough to forge into the unknown with confidence. In this talk we'll explore a contrived art project with hardware, software, and networks, built with Python. ",
     "tags": [
         "talk"

@@ -16,6 +16,7 @@
         "Mark Smith"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Command-Line programs can have a lot to them - usually more than you think, yet often suffer from a lack of thought.\r\n\r\nThis is a tour through how to structure your code, tools in the standard library and some 3rd party libraries. Take your command-line programs to the next level!",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/gR73nLbbgqY/hqdefault.jpg",

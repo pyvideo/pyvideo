@@ -16,6 +16,7 @@
         "Allen Downey"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This tutorial is an introduction to Bayesian statistics using Python. My goal\nis to help participants understand the concepts and solve real problems. We\nwill use material from my book, Think Stats: Probability and Statistics for\nProgrammers (O\u2019Reilly Media).\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/bobeo5kFz1g/hqdefault.jpg",

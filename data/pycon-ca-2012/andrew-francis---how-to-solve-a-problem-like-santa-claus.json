@@ -16,6 +16,7 @@
         "Andrew Francis"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The Santa Claus Problem is a conceptually simple but notoriously tough\nconcurrency problem. For 20 years, the problem has been used to highlight new\nconcurrency features. Polyphonic C# sports an elegant solution using join\npatterns. I prototyped a version of join patterns for Stackless Python. Rather\nthan hack Stackless Python's C code base, I use PyPy's stackless.py module and\ngreenlets!\n\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/DakC_lRNw9E/hqdefault.jpg",

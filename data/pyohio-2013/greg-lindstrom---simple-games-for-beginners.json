@@ -16,6 +16,7 @@
         "Greg Lindstrom"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We will build one or two simple games.  Along the way we will talk about program structure, loops, conditionals, and other concepts you will use in larger programs.  If you are new to programming, this class is for you!  Bring your laptop with Python 2 or 3 installed and play along as we build games together.",
     "tags": [
         "tutorial"

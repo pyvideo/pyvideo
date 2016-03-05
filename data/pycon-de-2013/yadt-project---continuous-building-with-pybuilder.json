@@ -16,6 +16,7 @@
         "YADT Project"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Pybuilder ist ein erweiterbares und benutzerfreundliches *continuous Build Tool*\r\nf\u00fcr Python, welches die Arbeit mit fremden (und eigenen) Python-Projekten\r\nangenehmer macht. Damit lassen sich diverse Buildtools wie coverage, unittest,\r\npip oder auch setuptools zentral instrumentieren. Und das Beste zum Schlu\u00df : 100% open source!",
     "tags": [
         "automation",

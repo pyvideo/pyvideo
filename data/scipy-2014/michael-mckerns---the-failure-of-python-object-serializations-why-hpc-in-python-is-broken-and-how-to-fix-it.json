@@ -16,6 +16,7 @@
         "Michael McKerns"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Parallel and asynchronous computing in python is crippled by pickle's poor object serialization. Dill, a more robust serialization package, strives to serialize all of python.  Dill has been used to enable state persistence and recovery, global caching, and the coordination of distributed parallel calculations across a network of the world's largest computers.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/oSoT0m8SgrU/hqdefault.jpg",

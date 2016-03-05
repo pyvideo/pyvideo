@@ -16,6 +16,7 @@
         "Brian K. Jones"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this talk, aimed at intermediate Pythonistas, we'll have a look at some\ncommon, simple patterns in code, and the testing patterns that go with them.\nWe'll also discover what makes some code more testable than others, and how\nmocks and fakes can help isolate the code to be tested (and why you want to do\nthat). Finally, we'll touch on some tools to help make writing and running\ntests easier.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/hvPYuqzTPIk/hqdefault.jpg",

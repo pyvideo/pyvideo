@@ -16,6 +16,7 @@
         "Graham Dumpleton"
     ],
     "state": 1,
+    "status": "published",
     "summary": "New Python web developers seem to love running benchmarks on WSGI servers.\nReality is that they often have no idea what they are doing or what to look\nat. This talk will look at a range of factors which can influence the\nperformance of your Python web application. This includes the impact of using\nthreads vs processes, number of processors, memory available, the GIL and slow\nHTTP clients.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/Bt2HStzaBzE/hqdefault.jpg",

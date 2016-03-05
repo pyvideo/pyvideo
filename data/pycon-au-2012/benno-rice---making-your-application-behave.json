@@ -16,6 +16,7 @@
         "Benno Rice"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Behave is a tool for behaviour-driven development inspired by the Cucumber\ntool for Ruby. It allows developers and stakeholders to agree on how a\nparticular piece of software should behave using an English-like Given-When-\nThen syntax and f\n\n",
     "tags": [
         "bdd",

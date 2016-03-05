@@ -16,6 +16,7 @@
         "James Tauber"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Taking a break from his usual web development, James will give an overview of\nsome of the more unusual things he's done with Python: from implementing other\nprogramming languages to analyzing piano performances; from emulating an Apple\n][ to the beginnings of an operating system written in Python.\n\n",
     "tags": [],
     "thumbnail_url": "http://i3.ytimg.com/vi/NLRWUQDaApw/hqdefault.jpg",

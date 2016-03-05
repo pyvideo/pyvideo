@@ -16,6 +16,7 @@
         "Alex Xu"
     ],
     "state": 1,
+    "status": "published",
     "summary": "No matter what type of investor you are, short term swing trader or long term fundamentalist, we all agree that data is an important element to making a financial decision. This poster will outline the details of how one can use Python and Scipy to collect and analyze data in the arena of the stock market using real time data from various sources to help outline some key numbers to help investors.",
     "tags": [
         "poster"

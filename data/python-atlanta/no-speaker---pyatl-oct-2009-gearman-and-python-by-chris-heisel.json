@@ -14,6 +14,7 @@
     "source_url": "",
     "speakers": [],
     "state": 1,
+    "status": "published",
     "summary": "In a repeat of his lightning talk from DjangoCon (that wound up a bit longer\nat our meeting thanks to audience questions), Chris tells us about using the\nwork queuing and distribution system \"Gearman\".\n\n",
     "tags": [
         "gearman",

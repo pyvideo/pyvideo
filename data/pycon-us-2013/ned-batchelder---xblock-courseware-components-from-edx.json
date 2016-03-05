@@ -16,6 +16,7 @@
         "Ned Batchelder"
     ],
     "state": 1,
+    "status": "published",
     "summary": "edX.org is building XBlock, an open-source component architecture for courseware.  It provides API's for creating course components of all kinds. Possible uses include: simple controls, new types of problems, new quiz structures, interactive simulations, and new navigation techniques.  We're hoping to expand awareness of XBlock, and also to hear from potential users about their needs.",
     "tags": [
         "poster"

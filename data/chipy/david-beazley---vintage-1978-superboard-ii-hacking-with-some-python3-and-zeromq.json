@@ -16,6 +16,7 @@
         "David Beazley"
     ],
     "state": 1,
+    "status": "published",
     "summary": "I'm not sure if we're still looking for talks on Thursday, but if so, I'd like\nto volunteer to give a talk about using Python to do some retro-computing\nhacking involving my vintage 1978 Superboard II. It's not exactly robotics,\nbut it involves hardware and a lot of low-level hacking (along with some\nPython3 and ZeroMQ thrown in for good measure ;-).\n\n",
     "tags": [
         "chipy",

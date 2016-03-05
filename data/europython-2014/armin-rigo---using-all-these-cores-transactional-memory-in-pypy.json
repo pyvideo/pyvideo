@@ -16,6 +16,7 @@
         "Armin Rigo"
     ],
     "state": 1,
+    "status": "published",
     "summary": "PyPy, the Python implementation written in Python, experimentally supports Transactional Memory (TM). The strength of TM is to enable a novel use of multithreading, inheritently safe, and not limited to special use cases like other approaches. This talk will focus on how it works under the hood.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/yMyMEsOi8oY/hqdefault.jpg",

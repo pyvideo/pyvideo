@@ -16,6 +16,7 @@
         "Hannu Krosing"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will outline and demonstrate usage of PostgreSQL for data storage and processing scenarios where new common wisdom would usually turn to \"NoSQL\" databases for scalability reasons. It demonstrates both NoSQL style usage and techniques using more traditional relational storage models with required adjustments for infinite scalability.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/gM516rN24zQ/hqdefault.jpg",

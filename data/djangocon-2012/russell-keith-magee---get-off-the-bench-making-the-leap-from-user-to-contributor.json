@@ -16,6 +16,7 @@
         "Russell Keith-Magee"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Django -- like all Open Source projects -- is only as good as the community of\npeople that contribute to it. We have a huge user community, but the vast\nmajority of users never make the leap and become contributors. This talk will\nwalk you through the process of making the transition from Django user, to\nDjango Project contributor.\n\n",
     "tags": [
         "django"

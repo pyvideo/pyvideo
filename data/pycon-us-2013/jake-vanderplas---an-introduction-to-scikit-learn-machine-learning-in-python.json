@@ -16,6 +16,7 @@
         "Jake Vanderplas"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This tutorial will offer an introduction to the scikit-learn package and to the central concepts of Machine Learning.  We will introduce the basic categories of learning problems, and explore practical examples based on real-world data, from handwriting analysis to facial recognition to automated classification of astronomical images.",
     "tags": [
         "tutorial"

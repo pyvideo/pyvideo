@@ -16,6 +16,7 @@
         "Matthew Sundquist"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Plotly's Python API and sandbox let you make and share beautiful, web-based plots. This talk will be a walk-through of Plotly's library. We will craft and embed interactive graphs within an IPython Notebook from our gallery, use Plotly's GUI to edit and share graphs, and use Plotly's matplotlib wrapper to create web-based graphs and data files from matplotlib scripts. ",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/DObmPAtuNw0/hqdefault.jpg",

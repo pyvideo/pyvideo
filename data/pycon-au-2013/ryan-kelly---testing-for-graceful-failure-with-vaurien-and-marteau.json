@@ -16,6 +16,7 @@
         "Ryan Kelly"
     ],
     "state": 1,
+    "status": "published",
     "summary": "So you've built an awesome webapp, put it through its paces, and assured yourself that it does what it's supposed to do.  Great!  Now how does it behave when things start to go wrong?\r\n\r\nThis talk will demonstrate how the Mozilla Services team tests for failure scenarios in our web services, focusing on two key python-based tools:  Marteau, a web-based frontend for easily running load-tests and analyzing the results, and Vaurien, a misbehaving TCP proxy that can simulate a variety of backend failure modes.\r\n\r\nUsed together, these tools can help ensure that a web service will not only scale up to meet its expected demand, but will fail gracefully when it finally reaches breaking point.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/DH94wksQFPM/hqdefault.jpg",

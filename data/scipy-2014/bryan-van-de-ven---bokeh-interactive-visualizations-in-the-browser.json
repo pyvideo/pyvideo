@@ -16,6 +16,7 @@
         "Bryan Van de Ven"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Bokeh is a Python visualization library for large datasets that natively uses the latest web technologies. Its goal is to provide concise construction of novel graphics, while delivering high-performance interactivity over large data to thin clients. This talk will cover the motivation and architecture behind Bokeh, demonstrate interesting uses and capability, and discuss future plans. ",
     "tags": [
         "bokeh",

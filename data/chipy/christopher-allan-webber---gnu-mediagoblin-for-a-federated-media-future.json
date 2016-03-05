@@ -16,6 +16,7 @@
         "Christopher Allan Webber"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Christopher Allan Webber talks about GNU MediaGoblin, a federated\n(decentralized) media publishing system (images, and later other media like\nvideo) written in python and under the AGPL. Infrastructure discussion\ndescribes what it means that GNU MediaGoblin uses an unframework / is \"wsgi\nminimalist\", about the choice of MongoDB and MongoKit, and how to impress an\naudience with ascii art mockups.\n\n",
     "tags": [
         "chipy",

@@ -16,6 +16,7 @@
         "Ivan Teoh"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Head to head - popular templating engines using in the Python world will be\ncompared and contrasted. Increasingly, frameworks allow many different choices\nin templating engines. In this talk I\u2019ll discuss the different approaches,\ndemo and pros and cons to help you decide if there is a better templating\nengine for you.\n\n",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/eZ6mC5-Dz4w/hqdefault.jpg",

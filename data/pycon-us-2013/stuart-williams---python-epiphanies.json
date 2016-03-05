@@ -16,6 +16,7 @@
         "Stuart Williams"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This tutorial is for software developers who've been using Python with\r\nsuccess for a while but are looking for a deeper understanding of the\r\nlanguage.  It focuses on how Python differs from other languages in\r\nsubtle but important ways that often confuse folks, and it demystifies\r\na number of language features that are sometimes misunderstood.\r\n",
     "tags": [
         "tutorial"

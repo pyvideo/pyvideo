@@ -16,6 +16,7 @@
         "Christie Koehler"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Hosting in-person events is a great way to develop and grow your local Python community. If you\u2019ve ever thought about hosting a code sprint, hackathon, (un)conference or workshop, this talk is for you. I\u2019ll present quick overview of what you need to know to get started planning a successful event. Event planning workbook included.",
     "tags": [
         "talk"

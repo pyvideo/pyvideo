@@ -16,6 +16,7 @@
         "Alex Martelli"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Our culture's default assumption is that everybody should always be striving for perfection -- settling for anything less is seen as a regrettable compromise.  This is wrong in most software development situations: focus instead on keeping the software simple, just \"good enough\", launch it early, and iteratively improve, enhance, and re-factor it.  This is how software success is achieved!\r\n",
     "tags": [
         "talk"

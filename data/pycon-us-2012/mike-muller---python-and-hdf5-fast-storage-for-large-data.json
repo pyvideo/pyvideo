@@ -16,6 +16,7 @@
         "Mike M\u00fcller"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The presentation introduces the possibilities to use HDF5 (Hierarchical Data\nFormat) from Python. HDF5 is one of the fastest ways to store large amounts of\nnumerical data. The talk is for scientist who would like to store their\nmeasured or calculated data as well as for programmers who are interested in\nnon-relational data storage.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/hnhN2_TpY8g/hqdefault.jpg",

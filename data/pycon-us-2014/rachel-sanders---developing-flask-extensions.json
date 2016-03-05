@@ -16,6 +16,7 @@
         "Rachel Sanders"
     ],
     "state": 1,
+    "status": "published",
     "summary": "You can create a web application with Flask in seven lines of code, and you can grow that app to thousands. How do you create reusable, shareable libraries? We'll use a simple but real extension I created (Flask-FeatureFlags) to look at the different ways you can make Flask awesome.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/OXN3wuHUBP0/hqdefault.jpg",

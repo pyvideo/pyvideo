@@ -16,6 +16,7 @@
         "Stefan Schwarzer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Manche Fehler in Python-Programmen lassen sich mit Print-Anweisungen\naufdecken, in komplizierteren F\u00e4llen ist aber ein Debugger gefragt.\n\nDer Vortrag behandelt Grundlagen f\u00fcr die Fehlersuche in Python-Programmen.\nZun\u00e4chst soll es - f\u00fcr die einfachen F\u00e4lle - um Print-Anweisungen gehen.\nDanach kommt die Verwendung des mit Python gelieferten Debuggers pdb. Dazu\nwerden Grundbegriffe wie Programmzeiger und Breakpoint erkl\u00e4rt und gezeigt,\nwie man die Befehle des Debuggers f\u00fcr die Fehlersuche benutzt (zum Beispiel\nSetzen von Breakpoints, schrittweise Ausf\u00fchrung ohne und mit Funktionsaufrufen\nsowie nat\u00fcrlich die Untersuchung von Objekten).\n\nIch kann den Vortrag wahlweise als 55- oder 25-Minuten-Version halten. Im\nersten Fall w\u00fcrde ich auch noch auf andere Debugger wie pudb, pdb++ und WinPdb\neingehen.\n\n",
     "tags": [
         " breakpoint",

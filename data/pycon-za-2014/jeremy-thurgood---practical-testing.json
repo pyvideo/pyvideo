@@ -16,6 +16,7 @@
         "Jeremy Thurgood"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Automated tests are an important part of any software project, but they're often hard to work with. Good test code should be written with its own set of priorities and is sufficiently different from non-test code that many standard programming practices are unsuitable.\nI have spent many years writing (and reading) tests of varying quality and have learned quite a lot from the experience. I hope to share some of that experience and help to remove some of the pain usually associated with writing and maintaining tests.\nThis talk will cover some of the practical aspects of writing good tests for real code, including:\n1. Properties of a good test case 2. How to manage setup and teardown 3. Testing interactions between components 4. Some tools and techniques to make testing easier 1. Helpers 2. Verified fakes 3. Recording doubles",
     "tags": [
         "pyconza",

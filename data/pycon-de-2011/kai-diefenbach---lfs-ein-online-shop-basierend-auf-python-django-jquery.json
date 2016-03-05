@@ -16,6 +16,7 @@
         "Kai Diefenbach"
     ],
     "state": 1,
+    "status": "published",
     "summary": "LFS ist ein Online-Shop basieren auf Python, Django und jQuery. Er erfreut sich zunehmender Aufmerksamkeit, sowohl bei Entwicklern als auch bei Anwendern. Laut djangopackages.com ist LFS der am h\u00e4ufigsten heruntergeladene Shop f\u00fcr Django. \u00c4nderungen am Source Code verfolgen \u00fcber 140 Entwickler und die Google-Gruppe hat zur Zeit \u00fcber 110 Mitglieder.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/eZrR4XgAewM/hqdefault.jpg",

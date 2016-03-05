@@ -16,6 +16,7 @@
         "David Malcolm"
     ],
     "state": 1,
+    "status": "published",
     "summary": "What happens when you run a custom C static analysis tool (\"cpychecker\") on hundreds of Python extensions?  I'll talk about the kinds of errors that my tool found, how to run it on your own code, and how to prevent memory leaks and crasher bugs in the C code of your Python extension modules.\r\n",
     "tags": [
         "talk"

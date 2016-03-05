@@ -29,6 +29,7 @@
         "Daniel Wheeler"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Sumatra is a lightweight system for recording the history and provenance data for numerical simulations. ... The speaker will provide an introduction to Sumatra as well as demonstrate some typical usage patterns and discuss achievable future goals.",
     "tags": [
         "numerical simulations",

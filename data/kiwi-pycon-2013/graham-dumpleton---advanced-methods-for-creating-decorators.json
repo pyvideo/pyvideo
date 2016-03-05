@@ -16,6 +16,7 @@
         "Graham Dumpleton"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Decorators are a simple concept, yet extremely powerful. Implementing decorators which will work in a range of contexts is however non trivial. This talk will walk through various problems which arise with the more common ways of implementing decorators and then describe how to combine a wrapper and a descriptor to build a better decorator.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/W7Rv-km3ZuA/hqdefault.jpg",

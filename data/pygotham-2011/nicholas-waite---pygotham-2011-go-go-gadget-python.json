@@ -16,6 +16,7 @@
         "Nicholas Waite"
     ],
     "state": 1,
+    "status": "published",
     "summary": "So you know that embedded devices are everywhere. Perhaps you've thought how\nnice it would be to make a Linux USB driver for some Windows-only device, or\nyou've got something proprietary you would like to reverse-engineer and\nrepurpose for your next big scheme. We know Python can do pretty much anything\ninside the computer--but how does a software person enter the world of\ncircuits? And once you have some circuits, how can you bring the data back\ninto your box? Bridging the worlds of hardware and software, I will show the\npower of PyUSB and Pyserial to pwn some sweet hardware and charm it over the\nUSB port. From my own trials and tribulations building and hacking real\ndevices, from a simple HID-class USB missile launcher to the custom protocol\nused in a complex biomedical data acquisition system, you will learn about USB\npacket sniffing, rapid-prototyping device drivers in python, and deciphering\ncircuit boards and data sheets for fun & profit. I aim to leave you armed and\nready to take on hardware of your own.\n\n",
     "tags": [
         "drivers",

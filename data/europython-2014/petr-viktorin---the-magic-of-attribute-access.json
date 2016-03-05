@@ -16,6 +16,7 @@
         "Petr Viktorin"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Have you ever wondered how the \"self\" argument appears when you call a method? Did you know there is a general mechanism behind it? Come learn all about attributes and descriptors.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/y420yZMRdLw/hqdefault.jpg",

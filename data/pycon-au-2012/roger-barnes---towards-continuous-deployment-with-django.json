@@ -16,6 +16,7 @@
         "Roger Barnes"
     ],
     "state": 1,
+    "status": "published",
     "summary": "It's no secret that python is fantastic when it comes to rapid prototyping and\ndevelopment. This talk covers continuous deployment.\n\n",
     "tags": [
         "deployment",

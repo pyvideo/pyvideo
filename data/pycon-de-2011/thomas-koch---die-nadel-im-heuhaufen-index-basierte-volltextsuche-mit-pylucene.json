@@ -16,6 +16,7 @@
         "Thomas Koch"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Der Vortrag gibt eine Einf\u00fchrung in das Thema Index-basierte Suche mit Python und stellt dazu das PyLucene-Projekt vor, einer Python Erweiterung, die Zugriff auf alle Features des Java Lucene Framework erm\u00f6glicht. Aufbauend auf den grundlegenden Konzepten von PyLucene wird dargestellt, wie man auf Basis des Suchmaschinen-Frameworks effiziente Suchmechanismen in Python realisieren kann.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/-pgboCKZVrE/hqdefault.jpg",

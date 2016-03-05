@@ -16,6 +16,7 @@
         "Ben Bangert"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Processes in a cluster can require controlled access to shared resources, tracking available processes, and sharing state. Unfortunately most tools in this category are oriented around Java. In this talk I cover how to use Python to interact with Apache Zookeeper -- a fault-tolerant consistent data-store -- to write coordinated distributed fault-tolerant applications in Python.",
     "tags": [
         "talk"

@@ -16,6 +16,7 @@
         "Bob Van Zant"
     ],
     "state": 1,
+    "status": "published",
     "summary": "On February 3rd, 2011 the world ran out of the IPv4 addresses that we know and\nlove. Clearly the Internet has survived even though hardly anyone has deployed\nIPv4's successor, IPv6. Drop by to learn about what IPv6 is, why you should\ndeploy it and some of the hurdles to deployment.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/DTGi8y1DMtg/hqdefault.jpg",

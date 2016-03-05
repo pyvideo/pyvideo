@@ -16,6 +16,7 @@
         "Christopher Davis"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Pants (pantsweb.org) is an open source library that aims to make network\nprogramming in Python a breeze. This talk will outline challenges in network\nprogramming and how Pants approaches them. The audience will be briefly\nintroduced to Pants' API through example code, and to its capabilities through\nbenchmarks and comparisons with alternate frameworks..\n\n",
     "tags": [
         "api",

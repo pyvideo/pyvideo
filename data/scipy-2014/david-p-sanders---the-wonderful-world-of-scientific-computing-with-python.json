@@ -16,6 +16,7 @@
         "David P. Sanders"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We will give an overview of the basics of the scientific computing ecosystem with Python: what does each of the fundamental packages (numpy, matplotlib, scipy, sympy and pandas) \r\ndo, and how does it work? We will use the IPython Notebook in our quest to enter this wonderful world.",
     "tags": [
         "matplotlib",

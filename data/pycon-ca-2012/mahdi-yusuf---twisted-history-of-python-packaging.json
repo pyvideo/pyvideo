@@ -16,6 +16,7 @@
         "Mahdi Yusuf"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python Packaging has had a more than less than ideal evolution. This talk aims\nto clarify this evolution and where packaging is headed in the future.\n\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/lpBaZKSODFA/hqdefault.jpg",

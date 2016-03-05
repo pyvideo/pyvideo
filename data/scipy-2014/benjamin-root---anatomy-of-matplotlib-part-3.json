@@ -16,6 +16,7 @@
         "Benjamin Root"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This tutorial will be the introduction to matplotlib. Users will learn the types of plots and experiment with them. Then the fundamental concepts and terminologies of matplotlib are introduced. Next, we will learn how to change the \"look and feel\" of their plots. Finally, users will be introduced to other toolkits that extends matplotlib.",
     "tags": [
         "matplotlib"

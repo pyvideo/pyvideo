@@ -16,6 +16,7 @@
         "Julia Elman"
     ],
     "state": 1,
+    "status": "published",
     "summary": "How designer friendly is Django? This talk reviews the history of Django and\nhow it came to be one of the most designer friendly frameworks around. We will\nreview the Django design methodology and how simple it is for designers to get\nstarted creating and publishing their own projects.\n\n",
     "tags": [
         "django"

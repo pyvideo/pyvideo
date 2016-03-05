@@ -16,6 +16,7 @@
         "Valerio Maggio"
     ],
     "state": 1,
+    "status": "published",
     "summary": "**Scikit-learn** is a powerful library, providing implementations for \r\nmany of the most popular machine learning algorithms. \r\nThis talk will provide an overview of the \"batteries\" included in \r\nScikit-learn, along with working code examples and internal insights, in order to \r\nget the best for our machine learning code.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/zVPfVkC5qDk/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Federico Marani"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Ansible is a powerful DevOps swiss-army knife tool, very easy to configure and with many extensions built-in. This talk will quickly introduce the basics of Ansible, then some real-life experience tips on how to use this tool, from setting up dev VMs to multi-server setups.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/ptc9E24YAcc/hqdefault.jpg",

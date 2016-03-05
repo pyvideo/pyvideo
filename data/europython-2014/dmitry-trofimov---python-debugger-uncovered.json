@@ -16,6 +16,7 @@
         "Dmitry Trofimov"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will explain how to implement a debugger for Python. We'll start with setting a simple trace function, then look how it is implemented in modern IDEs like PyCharm and Pydev. \r\nThen we go further in the details and uncover the tricks used to implement some cool features like exception handling and multiprocess debugging.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/HfzdM7rsKbU/hqdefault.jpg",

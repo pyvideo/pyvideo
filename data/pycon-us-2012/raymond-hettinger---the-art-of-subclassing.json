@@ -16,6 +16,7 @@
         "Raymond Hettinger"
     ],
     "state": 1,
+    "status": "published",
     "summary": "All problems have simple, easy-to-understand, logical wrong answers.\nSubclassing in Python is no exception. Avoid the common pitfalls and learn\neverything you need to know about making effective use of inheritance in\nPython.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/miGolgp9xq8/hqdefault.jpg",

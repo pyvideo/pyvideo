@@ -16,6 +16,7 @@
         "Kay Hayen"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Mit Nuitka gibt es erstmals den konsequent zuende gef\u00fchrten Ansatz, die gesamte Sprache Python mit allen Sonderverhalten, \u00fcber C++ zu kompilieren. Keine neue, keine reduzierte Fassung von Python, sondern vollst\u00e4ndig, nur kompiliert, aber mit praktisch 100% Kompatiblit\u00e4t.  In diesem Vortrag geht es darum, Nuitka vorzustellen.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/EYByCjptbhY/hqdefault.jpg",

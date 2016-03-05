@@ -16,6 +16,7 @@
         "James Saryerwinnie"
     ],
     "state": 1,
+    "status": "published",
     "summary": "There comes a time in the life of a library where it must leave your machine\r\nand find a home in a far away computer.  That computer might even run windows.\r\nThis talk will show how you can write a library that supports Linux/Mac/Windows\r\nand runs on python 2 and 3.",
     "tags": [
         "talk"

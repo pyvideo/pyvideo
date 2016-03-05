@@ -16,6 +16,7 @@
         "Anselm Kruis"
     ],
     "state": 1,
+    "status": "published",
     "summary": "UNIX core-dumps, Windows minidumps or Java heap-dumps are well established technologies for post-mortem defect analysis.\r\nI'll present a similar technology for Python. An improved pickling mechanism makes it possible to serialise the state of a Python \r\nprogram for subsequent analysis with a conventional Python-debugger.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/0Xt-au2QnRg/hqdefault.jpg",

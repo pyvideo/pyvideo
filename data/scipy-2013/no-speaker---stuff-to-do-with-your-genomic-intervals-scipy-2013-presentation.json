@@ -14,6 +14,7 @@
     "source_url": "http://www.youtube.com/watch?v=R5wB2C8vI1c",
     "speakers": [],
     "state": 1,
+    "status": "published",
     "summary": "Authors: Pedersen, Brent; University of Colorado\n\nTrack: Bioinformatics\n\nAfter traditional bioinformatic analyses, we are often left with a set of genomic regions; for example: ChIP-Seq peaks, transcription-factor binding sites, differentially methylated regions, or sites of loss-of-heterozygosity. This talk will go over the difficulties commonly encountered at this stage of an investigation and cover some additional analyses, using python libraries, that can help to provide insight into the function of a set of intervals. Some of the libraries covered will be pybedtools, cruzdb, pandas, and shuffler. The focus will be on annotation, exploratory data analysis and calculation of simple enrichment metrics with those tools. The format will be a walk-through (in the IPython notebook) of a set of these analyses that utilizes ENCODE and other publicly available data to annotate an example dataset.",
     "tags": [
         "Tech"

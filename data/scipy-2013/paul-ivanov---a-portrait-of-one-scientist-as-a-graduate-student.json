@@ -21,6 +21,7 @@
         "Paul Ivanov"
     ],
     "state": 1,
+    "status": "published",
     "summary": "a focus on specific tools and techniques invaluable in doing research in a reproducible manner.",
     "tags": [
         "git",

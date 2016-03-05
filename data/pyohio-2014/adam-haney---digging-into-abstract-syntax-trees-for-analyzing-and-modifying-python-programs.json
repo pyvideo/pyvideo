@@ -16,6 +16,7 @@
         "Adam Haney"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will explain how the python interpreter uses the ast module to turn the code you write into Abstract Syntax Trees which are then executed. With an understanding of these underlying techniques we'll examine static analysis tools such as pyflakes and talk about how to create programs that analyze the structure of python scripts.",
     "tags": [
         "talk"

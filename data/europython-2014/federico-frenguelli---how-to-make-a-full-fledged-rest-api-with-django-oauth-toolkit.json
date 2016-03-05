@@ -16,6 +16,7 @@
         "Federico Frenguelli"
     ],
     "state": 1,
+    "status": "published",
     "summary": "World is going mobile and the need of a backend talking with your apps is getting more and more important. What if I told you writing REST APIs in Python is so easy you don't need to be a backend expert? Take generous tablespoons of Django, mix thoroughly with Django REST Framework and dust with Django OAuth Toolkit to bake the perfect API in minutes.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/M6Ud3qC2tTk/hqdefault.jpg",

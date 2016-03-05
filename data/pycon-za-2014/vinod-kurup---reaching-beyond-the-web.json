@@ -16,6 +16,7 @@
         "Vinod Kurup"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The government of Libya recently implemented a voter registration system and chose to use SMS as the implementation technology, In this talk, I will explain how we used RapidSMS, a Django-based SMS framework, to build this groundbreaking voter registration system.",
     "tags": [
         "pyconza",

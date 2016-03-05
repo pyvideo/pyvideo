@@ -16,6 +16,7 @@
         "Wes McKinney"
     ],
     "state": 1,
+    "status": "published",
     "summary": "pandas is a Python library providing fast, expressive data structures for\r\nworking with structured or relational data sets. In addition to being used for\r\ngeneral purpose data manipulation and data analysis, it has also been designed\r\nto enable Python to become a competitive statistical computing platform. In\r\nthis talk, I will discuss the library's features and show a variety of topical\r\nexamples.\r\n\r\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/qbYYamU42Sw/hqdefault.jpg",

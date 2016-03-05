@@ -16,6 +16,7 @@
         "Joan Touzet"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Cloudant Engineer Joan Touzet will explain the design decisions that led the\ncompany to rewrite the supporting API layer to all its back-end systems in\nPython using the Flask microframework to create a unified, RESTful API.\n\n",
     "tags": [],
     "thumbnail_url": "https://i2.ytimg.com/vi/yEP42WgfaSs/hqdefault.jpg",

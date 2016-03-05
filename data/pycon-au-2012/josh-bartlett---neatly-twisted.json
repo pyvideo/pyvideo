@@ -16,6 +16,7 @@
         "Josh Bartlett"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In many Python circles, Twisted is the recommended framework for all\nnetworking and multitasking applications. Twisted provides a powerful,\nextensible event-driven framework with built-in support for many network\nprotocols.\n\n",
     "tags": [
         "twisted"

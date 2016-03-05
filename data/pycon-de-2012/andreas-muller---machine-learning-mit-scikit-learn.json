@@ -16,6 +16,7 @@
         "Andreas M\u00fcller"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Machine Learning und Data Mining beschaeftigen sich mit dem Lernen aus\nbeobachteten Daten, dem erstellen von Vorhersagen und dem finden von\ninteressanten Mustern in Daten. Diese Gebiete sind zwei schnell wachsende\nForschungsbereiche mit einer staendig steigenden Anzahl an kommerziellen\nAnwendungen wie Produkt-Empfehlungen, Bildersuche und Spam-Filtering.\n\nScikit-learn ist eine Python Library fuer Machine Learning die besonderen Wert\nauf einfache Benutzung, Skalierbarkeit und hohe Code-Qualitaet legt. Ziel ist\nes eine leicht anzuwendende, flexible Bibliothek fuer Forschung wie auch\nkommerzielle Anwendungen zu schaffen. Der Vortrag bietet eine kurze Einleitung\nin Grundlagen des maschinellen Lernens und die Anwendung von Scikit-Learn.\n\n",
     "tags": [],
     "thumbnail_url": "http://i4.ytimg.com/vi/CJFirE-rblA/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "James Saunders"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Our hybrid programming journey with Python and C++: James Saunders's talk at PyConZA 2012",
     "tags": [
         "pyconza",

@@ -16,6 +16,7 @@
         "Matt Camilli"
     ],
     "state": 1,
+    "status": "published",
     "summary": "AngularJS is a powerful JavaScript MVC Framework that is growing in popularity among developers every day. Paired with the power of Django's ORM and the Django Rest Framework, developers can build complex applications that enforce good client side and server side separation. This talk will be a walk-through of the Django Tutorial using AngularJS on the front end. ",
     "tags": [
         "talk"

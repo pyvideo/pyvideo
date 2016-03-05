@@ -14,6 +14,7 @@
     "source_url": "",
     "speakers": [],
     "state": 1,
+    "status": "published",
     "summary": "Saturday morning lightning talks\n\n",
     "tags": [
         "chapa.vim",

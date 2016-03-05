@@ -16,6 +16,7 @@
         "Simon Willison"
     ],
     "state": 1,
+    "status": "published",
     "summary": "When building a new web application, the default set of tools used to be a web framework such as Django and a relational database such as PostgreSQL. In 2014, these tools are no longer enough. In this talk, I'll present a new default stack to help build applications that are faster, more robust, easy to scale and still support rapid iteration and fast feature development.",
     "tags": [
         "talk"

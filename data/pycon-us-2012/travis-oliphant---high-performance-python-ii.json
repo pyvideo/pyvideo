@@ -16,6 +16,7 @@
         "Travis Oliphant"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this tutorial, I will cover how to write very fast Python code for data\nanalysis. I will briefly introduce NumPy and illustrate how fast code for\nPython is written in SciPy using tools like Fwrap / F2py and Cython. I will\nalso describe interesting new approaches to creating fast code that is leading\nchanges to NumPy on a fundamental level.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/xHqlzuPq_qQ/hqdefault.jpg",

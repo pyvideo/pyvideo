@@ -16,6 +16,7 @@
         "Renee Chu"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Many provocative social questions can be answered with data, and datasets are more available than ever. Start working with it here. First we'll download and visualize one data set from the World Bank Indicators page together, using Matplotlib. Then you'll have time on your own to pick another data set from any online source and plot that. At the end every person/pair will share what they found.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/5tk0Jv95FsQ/hqdefault.jpg",

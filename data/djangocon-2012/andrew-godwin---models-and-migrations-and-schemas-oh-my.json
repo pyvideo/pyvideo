@@ -16,6 +16,7 @@
         "Andrew Godwin"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A look at the past, current and future of schemas, migrations and Django, and\nwhat it means for both website developers and ops staff.\n\n",
     "tags": [
         "django",

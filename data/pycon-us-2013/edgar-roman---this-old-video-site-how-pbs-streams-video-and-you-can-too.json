@@ -16,6 +16,7 @@
         "Edgar Roman"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Overview of how the Public Broadcasting Service streams video online.  Learn how PBS uses python and other services to provide video streaming online.  Talk will discuss lessons learned, explanation of video formats, and experiences with mobile device support.  Talk will include recommendations for others to easily adopt similar practices to quickly host their own online video site.",
     "tags": [
         "talk"

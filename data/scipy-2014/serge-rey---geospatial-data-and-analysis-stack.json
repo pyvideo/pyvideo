@@ -16,6 +16,7 @@
         "Serge Rey"
     ],
     "state": 1,
+    "status": "published",
     "summary": "There are a growing number of Python packages (fiona, geopandas, pysal, shapely, etc.) addressing various types of spatial data, as well as the geoprocessing of that data and its statistical analysis. This session explore ways to best collaborate between and strengthen these efforts.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/h8aI6_cIAqY/hqdefault.jpg",

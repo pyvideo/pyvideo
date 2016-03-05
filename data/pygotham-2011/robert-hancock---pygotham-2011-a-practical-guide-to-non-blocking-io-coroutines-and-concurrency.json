@@ -16,6 +16,7 @@
         "Robert Hancock"
     ],
     "state": 1,
+    "status": "published",
     "summary": "From the OS on up how coroutines and threads affect the performance of your\nPython programs and who to deal with them.\n\n",
     "tags": [
         "concurrency",

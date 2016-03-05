@@ -16,6 +16,7 @@
         "Mark Rees"
     ],
     "state": 1,
+    "status": "published",
     "summary": "I have followed the development of PyPy since 2004 and played with various\nreleases to see what the PyPy team had achieved. It wasn't until the release\nof PyPy 1.18 that I actually ran some existing production python code under\nit. The perc\n\n",
     "tags": [
         "pypy"

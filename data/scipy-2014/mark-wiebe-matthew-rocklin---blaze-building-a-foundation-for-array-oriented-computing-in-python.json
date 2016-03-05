@@ -22,6 +22,7 @@
         "Matthew Rocklin"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The Blaze project is a collection of libraries being built towards the goal of generalizing NumPy's data model and working on distributed data. This talk covers each of these libraries, and how they work together to accomplish this goal.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/9HPR-1PdZUk/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Joe Kington"
     ],
     "state": 1,
+    "status": "published",
     "summary": "3D reflection seismic data collected as a part of the NanTroSEIZE project revealed complex interactions between active sedimentation and tectonics in the Nankai Trough, Japan. We implemented co-rendering of multiple attributes and stratal slicing in python to better visualize the structural and stratigraphic relationships within the piggyback slope basins of the accretionary prism.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/PFOd01fqcyQ/hqdefault.jpg",

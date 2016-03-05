@@ -16,6 +16,7 @@
         "Alex Gaynor"
     ],
     "state": 1,
+    "status": "published",
     "summary": "You're a programmer, you use interpreter and compilers every day (and twice on Sundays!). But how do these things work? Could you build one yourself? What would it take? Where would you start? This talk takes you through the process, from lexing to interpreting, and leaves you ready to start on your own language!",
     "tags": [
         "talk"

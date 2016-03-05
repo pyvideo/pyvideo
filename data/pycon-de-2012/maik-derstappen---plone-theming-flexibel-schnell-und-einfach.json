@@ -16,6 +16,7 @@
         "Maik Derstappen"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Das Theming von komplexen Content Management Systemen ist h\u00e4ufige eine sehr\narbeitsintensive Angelegenheit - Plone ist dabei keine Ausnahme. Dank Diazo\nist kein Plone-Experten-Wissen mehr notwendig, um beliebige Designs in Plone\numzusetzen. Der Vortrag stellt an einem Beispiel aus der Praxis den Einsatz\nvon Diazo vor.\n\nDank Diazo und plone.app.theming kann ein Designtemplate (aus html und css\nkomplett unabh\u00e4ngig vom CMS gehalten werden. Ein einfaches Regelwerk verkn\u00fcpft\ndas Designtemplate mit dem CMS. Ein Theme kann als Zip-Datei verpackt, direkt\nin Plone importiert und aktiviert werden ohne das System neu starten zu\nm\u00fcssen. Der Vortrag weist an Beispielen den Weg vom statischen Template zum\ndynamischem Plone-Theme. Schwerpunkt ist hierbei die Erzeugung der Regeln mit\ndenen die Elemente des statischen Templates mit den Inhalten aus dem CMS\nverbunden werden.\n\n",
     "tags": [
         " cms",

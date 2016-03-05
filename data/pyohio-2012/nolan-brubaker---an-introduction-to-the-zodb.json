@@ -16,6 +16,7 @@
         "Nolan Brubaker"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The Zope Object Database is an object database that allows you to store and\nretrieve your Python objects directly, without an intermediary layer. It's\nfully ACID-compliant and features multiple backends. This talk will\nfamiliarize the audience with ZODB programming and it's use cases.\n\n",
     "tags": [],
     "thumbnail_url": "http://i3.ytimg.com/vi/vnZ6dj_1c14/hqdefault.jpg",

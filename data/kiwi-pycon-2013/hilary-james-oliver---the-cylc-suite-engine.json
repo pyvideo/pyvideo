@@ -16,6 +16,7 @@
         "Hilary James Oliver"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The Cylc Suite Engine schedules complex distributed suites of cycling tasks. Developed for weather forecasting applications at NIWA, cylc has since been adopted by the UK Met Office and others, and was a finalist in the 2012 NZ Open Source Awards. Lead developer Hilary Oliver will talk about cylc and the many advantages that the Python programming language brought to the project.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/Mv-hBTcncKM/hqdefault.jpg",

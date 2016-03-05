@@ -16,6 +16,7 @@
         "Chris McDonough"
     ],
     "state": 1,
+    "status": "published",
     "summary": "PDB is an interactive debugging environment for Python programs. It allows you\nto pause your program, look at the values of variables, and watch program\nexecution step-by-step, so you can understand what your program is actually\ndoing, as opposed to what you think it's doing. This talk will show novice and\nintermediate Python users how to use PDB to troubleshoot existing code.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/vfPtGsSJldg/hqdefault.jpg",

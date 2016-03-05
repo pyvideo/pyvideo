@@ -16,6 +16,7 @@
         "Rainer Bruggemann"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Ranking, d.h. das Auffinden einer Ordnung f\u00fcr bestimmte Objekte, ist von zunehmender Bedeutung. Beispielsweise werden St\u00e4dte nach ihrer Wohnqualit\u00e4t, geordnet. Oft erh\u00e4lt man aber nur eine eine partielle Ordnung und ein Ranking muss in einem zweiten Schritt abgeleitet werden. PyHasse, entwickelt vom Verfasser, erstellt die partiellen Ordnungen und analysiert diese.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/lRx6I_g6KBU/hqdefault.jpg",

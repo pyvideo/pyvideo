@@ -16,6 +16,7 @@
         "Nick Pentreath"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Apache Spark is a fast and general engine for large-scale, distributed data processing. It offers high-level APIs in Java, Scala and Python as well as a rich set of libraries including stream processing, machine learning, and graph analytics. Spark is currently one of the most exciting and fastest-growing Apache open source projects.\nThis talk will give an overview of the Apache Spark project and introduce the basics of PySpark, the Python API for Spark. It will then dive a little deeper into PySpark internals, and finally show some examples and a live demo covering PySpark, Spark's SQL engine, and machine learning with Spark's built-in libraries as well as other Python libraries.",
     "tags": [
         "pyconza",

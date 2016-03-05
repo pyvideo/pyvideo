@@ -16,6 +16,7 @@
         "Jozef van Eenbergen"
     ],
     "state": 1,
+    "status": "published",
     "summary": "To help create award winning visual effects, MPC developed a distributed service-oriented platform, Amanda.\r\nAmanda allows developers of any level to write a service that is presented to users across 8 facilities globally without them requiring any\r\nknowledge of building large concurrent systems. It allows artists and developers across different domains to work with\r\nclearly defined API's and gives the service developer control over what and how data can and should be accessed. The talk will cover how to set up such a platform from the ground up. Starting at the service level building it out with\r\nadditional modules and technologies until the fully distributed system, covering topics such as concurrency, componetisation and monitoring that allow the\r\nfine tuning of setups depending on the type of work being undertaken and changing business needs.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/bPNGn1XHCKw/hqdefault.jpg",

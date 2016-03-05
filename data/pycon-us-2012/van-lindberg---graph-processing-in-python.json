@@ -16,6 +16,7 @@
         "Van Lindberg"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Graphs are everywhere - from your distributed source code control to Twitter\nanalytics. This session presents a set of three problems and shows how they\ncan be decomposed into operations on graphs, and then demonstrates solutions\nusing the various graph libraries available for (or accessible to) Python.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/Mv3xgBQJPaE/hqdefault.jpg",

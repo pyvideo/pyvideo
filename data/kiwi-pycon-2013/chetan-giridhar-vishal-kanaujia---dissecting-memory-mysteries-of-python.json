@@ -17,6 +17,7 @@
         "Vishal Kanaujia"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Memory leak has been perennial problem for Python applications. This causes application to behave erroneously with Memory error and very slow operation. What is wrong with the application? How to find out the cause and fix it? This is the motivation for this talk.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/7glw_5YFU-Q/hqdefault.jpg",

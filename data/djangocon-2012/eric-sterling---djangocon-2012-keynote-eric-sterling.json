@@ -16,6 +16,7 @@
         "Eric Sterling"
     ],
     "state": 1,
+    "status": "published",
     "summary": "DjangoCon 2012 - Keynote - Eric Sterling\n\n",
     "tags": [
         "django"

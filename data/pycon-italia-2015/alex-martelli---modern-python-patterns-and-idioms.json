@@ -16,6 +16,7 @@
         "Alex Martelli"
     ],
     "state": 1,
+    "status": "published",
     "summary": "As Python grows, the problem spaces we address keep shifting, and best practices for software development mature, so does the set of best-of-breed patterns and idioms change: some classics fading, new stars emerging. This talk helps fill the gap between yesterday\u2019s good old Python, and tomorrow\u2019s glittering vistas.",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/LeuChRCByZc/maxresdefault.jpg",

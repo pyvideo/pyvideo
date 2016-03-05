@@ -16,6 +16,7 @@
         "Andreas Bunkahle"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python hat zu Unrecht den Ruf einer einfachen Skriptsprache, die f\u00fcr\nGrafikanwendungen ungeeignet sei. Gerade in Verbindung mit den starken Python-\nBibliotheken und Modulen, die in C++ geschrieben sind, wird die Brillianz und\nEinfachheit von Python als vollwertige Programmiersprache auch f\u00fcr\nGrafikanwendungen sehr deutlich. Hier wird exemplarisch das Zusammenspiel der\nm\u00e4chtigen Grafikbibliothek OpenCV mit Python demonstriert.\n\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/LtPJTTa8Ryc/hqdefault.jpg",

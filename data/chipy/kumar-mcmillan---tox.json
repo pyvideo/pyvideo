@@ -16,6 +16,7 @@
         "Kumar McMillan"
     ],
     "state": 1,
+    "status": "published",
     "summary": "It's a great new open source tool that helps you support all versions of\npython with your existing automated tests. It's not a test runner, it's a\nsuper test runner runner! Or something. There is no easy way to describe it\nwhich is why the front page of the website is sort of confusing, IMO. We use\ntox on the Nose project to make sure each code change doesn't break the tests\nin Python 2.4, 2.5, 2.6, 2.7, 3.0 or Jython. Not everybody targets so many\nenvironments but if you want to maintain a widely used module then you\nprobably will want to use tox someday.\n\n",
     "tags": [
         "chipy",

@@ -21,6 +21,7 @@
         "Graham Dumpleton"
     ],
     "state": 1,
+    "status": "published",
     "summary": "It is not hard to find developers who will tell you that Apache sucks for running Python web applications. Is there a valid basis to such claims or have they simply been misguided by the views of others? This talk will endeavor to shine a light on the realities of and limitations in working with Apache, as well as the challenges in implementing the mod_wsgi module for Apache.",
     "tags": [
         "talk"

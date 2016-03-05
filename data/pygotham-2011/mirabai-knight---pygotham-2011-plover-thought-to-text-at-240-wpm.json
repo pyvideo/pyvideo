@@ -16,6 +16,7 @@
         "Mirabai Knight"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Realtime stenography lets you type as quickly as you can speak, but until now\nit's required ridiculously expensive hardware and software. Plover is the\nworld's first open source steno software and works with a $45 keyboard.\n\n",
     "tags": [
         "plover",

@@ -17,6 +17,7 @@
         "Karen Tracey"
     ],
     "state": 1,
+    "status": "published",
     "summary": "OpenBlock is an open-source project aiming to provide a framework for \"hyper-\nlocal\" civic data. We've been using OpenBlock in a project focused on\nincreasing access to public records in rural North Carolina communities. In\nthis talk we provide an overview of OpenBlock and how to get started using it,\nwe describe our experience using it, and discuss some extensions we have made\nto it.\n\n",
     "tags": [
         "django",

@@ -16,6 +16,7 @@
         "Damon McDougall"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We will have an open discussion about current matplotlib enhancement proposals and take calls for new ones.  Anyone interested in matplotlib's future development efforts is more than welcome to attend.  There will be no presentation.  Current MEPs exist here: https://github.com/matplotlib/matplotlib/wiki#matplotlib-enhancement-proposals-meps",
     "tags": [
         "matplotlib"

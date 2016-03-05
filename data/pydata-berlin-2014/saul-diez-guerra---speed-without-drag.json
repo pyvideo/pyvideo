@@ -16,6 +16,7 @@
         "Saul Diez-Guerra"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Speed without drag: making code faster when there's no time to waste A practical walkthrough over the state-of-the-art of low-friction numerical Python enhancing solutions, covering: exhausting CPython, NumPy, Numba, Parakeet, Cython, Theano, Pyston, PyPy/NumPyPy and Blaze.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/cRb96NEHW4I/hqdefault.jpg",

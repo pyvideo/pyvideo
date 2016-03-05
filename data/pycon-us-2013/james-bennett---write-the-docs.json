@@ -16,6 +16,7 @@
         "James Bennett"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The greatest piece of software in the world is useless without great\r\ndocumentation, but unfortunately most of us just don't write great\r\ndocs. This can be fixed, though. Documentation doesn't need to be an\r\nafterthought, and doesn't have to be bad, and you, too, can learn how\r\nto write good docs and make that an integrated part of your\r\ndevelopment process.\r\n",
     "tags": [
         "talk"

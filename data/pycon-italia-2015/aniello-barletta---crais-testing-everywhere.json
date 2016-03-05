@@ -16,6 +16,7 @@
         "Aniello Barletta"
     ],
     "state": 1,
+    "status": "published",
     "summary": "During this talk I\u2019ll show the architecture and the design pattern used to implement the CRAIS Appium broker.",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/8SIW_R6FP9E/maxresdefault.jpg",

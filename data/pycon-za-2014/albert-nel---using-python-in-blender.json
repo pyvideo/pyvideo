@@ -16,6 +16,7 @@
         "Albert Nel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python is such a beautiful language, and is used as a scripting language in many open source graphical applications. By using the power of Python within Blender, we can easily automate so many things, and make long tedious tasks seem like child's play.",
     "tags": [
         "pyconza",

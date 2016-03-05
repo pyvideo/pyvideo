@@ -16,6 +16,7 @@
         "Bijan Vaez"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Stop spending hours shaving milliseconds of your load time when there are some things that can contribute 500ms or more of latency to your mobile apps. I'll touch on a few things you might not have been aware of that can affect the performance of your internet connected mobile apps.",
     "tags": [
         "Lightning talk"

@@ -16,6 +16,7 @@
         "Juan Nunez-Iglesias"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In high content imaging screens, cells are subjected to various treatments (usually shutting down specific genes) in high throughput, imaged, and a phenotype of interest measured. We argue that there is a wealth of information to be found in off-target phenotypes, and present an image clustering approach to discover these and infer gene function.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/fn8F_NerTug/hqdefault.jpg",

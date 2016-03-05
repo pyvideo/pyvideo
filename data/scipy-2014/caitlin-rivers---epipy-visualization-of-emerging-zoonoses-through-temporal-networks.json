@@ -16,6 +16,7 @@
         "Caitlin Rivers"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We introduce two new plots for visualizing infectious disease outbreaks. Case tree plots depict the emergence and growth of clusters of zoonotic disease over time. Checkerboard plots also represent temporal case clusters, but do not construct transmission trees. These plots visualize outbreak dynamics  and allow for analyses like case fatality risk stratified by generation.",
     "tags": [
         "epipy",

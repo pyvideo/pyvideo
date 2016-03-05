@@ -16,6 +16,7 @@
         "Matthew Hooker"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk is about Jones, a robust configuration management interface for\nZookeeper. It will cover what ZooKeeper is, and how it works. I'll talk about\nthe problems of configuration management and how it can be solved using the\nprimitives available in ZooKeeper. If there's time I will go in to additional\nuse cases of ZooKeeper.\n\n",
     "tags": [],
     "thumbnail_url": "http://i2.ytimg.com/vi/AFgzYRA_kys/hqdefault.jpg",

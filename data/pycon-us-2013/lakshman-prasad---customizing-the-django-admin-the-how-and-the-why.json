@@ -16,6 +16,7 @@
         "Lakshman Prasad"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The abstraction and the flexibility the Django admin offers is matched by few software, even today after half a decade of it's introduction. The speaker has customized it in many ways over the years. This talk reminisces over how supposedly large real world problems could be solved with relatively less development by leveraging the power of django admin and using a few techniques.",
     "tags": [
         "talk"

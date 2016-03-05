@@ -17,6 +17,7 @@
         "Joe Jasinski"
     ],
     "state": 1,
+    "status": "published",
     "summary": "As a Web development firm that specializes in Django, we receive many\ninquiries from organizations looking for assistance with their existing Django\nwebsites. This session will describe our process for evaluating existing\ncodebases and deployment structures. The goal is to provide a framework for\nevaluating other people's code and understand the scrutiny your code may\nsomeday endure.\n\n",
     "tags": [
         "django"

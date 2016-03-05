@@ -16,6 +16,7 @@
         "Simon Cross"
     ],
     "state": 1,
+    "status": "published",
     "summary": "[Vumi](http://vumi.org) is a text messaging system designed to reach out to those in\r\npoverty on a massive scale via their mobile phones. It's written in\r\nPython using Twisted. This talk is about how and why we built it and\r\nhow you can join us in making the world a better place.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/Vjslvo8atfw/hqdefault.jpg",

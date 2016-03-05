@@ -16,6 +16,7 @@
         "Julie Lavoie"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Have you ever wondered which rapper is the most sexist? Come learn how to find out by scraping rapgenius and analyzing rap lyrics using Python with libraries like pattern and Beautiful Soup! There will be pictures of Lil' Jon.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/FQuIqtx1Z24/hqdefault.jpg",

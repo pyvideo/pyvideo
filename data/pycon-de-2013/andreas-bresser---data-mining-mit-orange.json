@@ -16,6 +16,7 @@
         "Andreas Bresser"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Es wird eine einfache Einf\u00fchrung in das Thema Data Mining gegeben. Dazu werden anschauliche Beispiele f\u00fcr den Einsatz von Orange gezeigt. Orange ist ein Open Source Programm, das Data Mining und Datenvisualisierung durch visuelle Programmierung oder Python Scripting erm\u00f6glicht.",
     "tags": [
         "classification",

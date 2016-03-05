@@ -16,6 +16,7 @@
         "Jeremiah Jordan"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Using Apache Cassandra from Python is easy to do. This talk will cover setting\nup and using a local development instance of Cassandra from Python. It will\ncover using the low level thrift interface, as well as using the higher level\npycassa library.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/188mXjwdkak/hqdefault.jpg",

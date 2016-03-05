@@ -29,6 +29,7 @@
         "Lynn Root"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will walk through what the US government has done in terms of spying on US citizens and foreigners with their PRISM program, then walk through how to do exactly that with Python.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/8m3fFPCUPQg/hqdefault.jpg",

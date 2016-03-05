@@ -16,6 +16,7 @@
         "Craig de Stigter"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Metaprogramming is a valuable technique for putting complexity where it belongs: behind a clean, friendly API. This talk goes over the basics of metaclasses and introspection in Python, and covers how and when you should use them to make your code more approachable.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/OCDbLcCB-uA/hqdefault.jpg",

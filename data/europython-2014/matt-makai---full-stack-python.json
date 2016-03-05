@@ -21,6 +21,7 @@
         "Matt Makai"
     ],
     "state": 1,
+    "status": "published",
     "summary": "There has been a lot of noise about being a \"full stack developer\" recently. What does the full web stack look like for Python and how do you go about learning each piece?\r\n\r\nThis talk will guide you up the layers from the server that handles the web request through the JavaScript that executes on a user's browser.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/s6NaOKD40rY/hqdefault.jpg",

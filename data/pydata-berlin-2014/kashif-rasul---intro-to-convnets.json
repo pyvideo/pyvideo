@@ -16,6 +16,7 @@
         "Kashif Rasul"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We will give an introduction to the recent development of Deep Neural Networks and focus in particular on Convolution Networks which are well suited to image classification problems. We will also provide you with the practical knowledge of how to get started with using ConvNets via the cuda-convnet python library.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/W9_SNGymRwo/hqdefault.jpg",

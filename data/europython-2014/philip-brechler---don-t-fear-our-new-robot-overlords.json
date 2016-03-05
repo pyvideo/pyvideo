@@ -16,6 +16,7 @@
         "Philip Brechler"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will show you GoldenEye. A setup of a robot, image recognition and Python. What could be better?\r\n\r\nGoldenEye uses computer vision to detect icons on an attached mobile device and then tells a robot to tap them. All off these tests are written in python's unittest module and the API is as easy as possible to make writing complex tests an ease.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/KaPUo3G9JWk/hqdefault.jpg",

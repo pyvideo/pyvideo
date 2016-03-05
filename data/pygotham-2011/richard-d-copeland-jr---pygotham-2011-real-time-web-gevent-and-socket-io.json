@@ -16,6 +16,7 @@
         "Richard D. Copeland, Jr."
     ],
     "state": 1,
+    "status": "published",
     "summary": "There has been a lot of talk lately about how Node.js enables the real-time\nweb, but did you know you can do the same thing with Python? This talk will\nshow you how to use Gevent, ZeroMQ, and Socket.io to build portable Python-\npowered real-time web applications.\n\n",
     "tags": [
         "gevent",

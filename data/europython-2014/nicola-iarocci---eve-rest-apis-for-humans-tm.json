@@ -16,6 +16,7 @@
         "Nicola Iarocci"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Powered by Flask, Redis, MongoDB and good intentions the [Eve REST API framework](http://python-eve.org) allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services. The talk will introduce the project and its community, recount why and how it's being developed, and show the road ahead.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/9sUsLvG72_o/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Dr. Jan Morlock"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Mit dem MapReduce-Verfahren k\u00f6nnen massive Datenmengen auf einem Rechencluster verarbeitet werden. Namensgeber und wichtige Bestandteile sind eine Map- und eine Reduce-Phase. Diese werden jeweils parallelisiert ausgef\u00fchrt und erm\u00f6glichen somit eine optimale Auslastung der vorhandenen Ressourcen. Im Vergleich zu einer entsprechenden sequentiellen Implementierung k\u00f6nnen dadurch gro\u00dfe Zeiteinsparungen erreicht werden. \r\n\r\nMit dem freien Disco-Framework k\u00f6nnen MapReduce-Aufgaben leicht in Python erstellt werden. Beim Zugriff auf die Eingabedaten werden verschiedene Protokolle unterst\u00fctzt. W\u00e4hrend der Ausf\u00fchrung kann der Zustand des Rechenclusters sowie der Fortschritt der einzelnen Aufgaben mit Hilfe einer Weboberfl\u00e4che \u00fcberwacht werden. Ein verteiltes Dateisystem, das Disco Distributed Filesystem (DDFS), wird zur Speicherung der Zwischen- und Endergebnisse verwendet.",
     "tags": [
         "big data",

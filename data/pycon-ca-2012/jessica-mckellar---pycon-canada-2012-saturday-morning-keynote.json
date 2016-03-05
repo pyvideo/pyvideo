@@ -16,6 +16,7 @@
         "Jessica McKellar"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Jessica is a veteran open source contributor and a maintainer for several open\nsource projects, including OpenHatch and the Twisted event-driven networking\nengine; she wrote a chapter on Twisted for The Architecture of Open Source\nApplications Volume II and is working with O'Reilly on a new edition of\nTwisted Networking Essentials. Jessica is a Python Software Foundation board\nmember and an organizer for the largest Python user group in the world.\n\n",
     "tags": [],
     "thumbnail_url": "http://i2.ytimg.com/vi/qrN3fJIGx7Y/hqdefault.jpg",

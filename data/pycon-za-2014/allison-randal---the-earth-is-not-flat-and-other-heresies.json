@@ -16,6 +16,7 @@
         "Allison Randal"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Any decent textbook on astrophysics starts with a historical prologue running something like this: \"Once upon a time, we believed the earth was flat. We were wrong. Once upon a time, we believed the sun rotated around the earth. We were wrong.\" It's a shame that computer science textbooks don't start the same way: \"Once upon a time, we believed that all computer languages would be statically compiled. We were wrong. Once upon a time, we believed that execution would always be single-threaded, on a single processor, on a single machine. We were wrong.\" The world of technology is marching on toward ever more concurrent architectures, also called \"Cloud\", and various other buzzwords. The transition is at once so mundane as to go unnoticed, and so fundamental as to shake the very foundations of computer science. This talk explores the past, present, and future of the \"Cloud\", and the implications for Python and other open source projects.",
     "tags": [
         "pyconza",

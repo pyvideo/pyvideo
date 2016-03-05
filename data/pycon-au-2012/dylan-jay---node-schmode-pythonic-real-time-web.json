@@ -16,6 +16,7 @@
         "Dylan Jay"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Using gevent, pyramid and socket-io for a micro framework approach to creating\nreal-time web apps without the braces. Why is gevent so cool and how it can\nlet you write fast scalable apps with asynchronous IO without twisting your\nmind.\n\n",
     "tags": [
         "gevent",

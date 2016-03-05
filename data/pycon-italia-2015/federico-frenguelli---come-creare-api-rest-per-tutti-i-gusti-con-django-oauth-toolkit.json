@@ -16,6 +16,7 @@
         "Federico Frenguelli"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Il vostro backend ha bisogno di una API REST? Prendete una cucchiaiata di Django, mescolate bene con Django REST Framework e alla fine una bella spolverata di Django OAuth Toolkit per cucinare l\u2019API perfetta in pochi minuti.\n",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/RHjQHn_aYVk/maxresdefault.jpg",

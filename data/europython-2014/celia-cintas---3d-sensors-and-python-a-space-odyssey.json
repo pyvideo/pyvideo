@@ -16,6 +16,7 @@
         "Celia Cintas"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will show how to build a simple open source based NUI (Natural User Interface)  game with 3D Sensors, incorporating PyOpenNI with PyGame and WebGL.\r\nOpenNI allows you operate several 3D sensors, enabling hardware independent game development (supported 3D sensors are Microsoft Kinect, PrimeSense Carmine or Asus XTion). It also runs on Linux, Mac OS X and Windows.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/3FubECqg688/hqdefault.jpg",

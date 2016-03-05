@@ -16,6 +16,7 @@
         "Erik Labianca"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A review of encryption in the context of a web application storing sensitive\ninformation. Topics covered include choosing whether to use crypto, selection\nof tools, proper usage (including examples), and operational considerations\nwith respect to security assessment.\n\n",
     "tags": [
         "cryptography",

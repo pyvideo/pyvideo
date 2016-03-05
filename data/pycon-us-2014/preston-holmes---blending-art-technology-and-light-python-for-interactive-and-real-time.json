@@ -16,6 +16,7 @@
         "Preston Holmes"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Blinking colored lights bring out the child in all of us. Color LED lighting technology is becoming more available and affordable. Layers of hardware, lighting protocols, and effects design can make doing anything more complex than blinking these lights tricky. Come learn about LEDs how to control them with Python, and about building real-time control of physical things.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/qdATFvkqrvY/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Tarashish Mishra"
     ],
     "state": 1,
+    "status": "published",
     "summary": "WebRTC makes building peer to peer real time web applications easier. First, we'll discuss in short what WebRTC is, how it works. Then we will explore ways to build the signalling system of a WebRTC app using Python.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/uBV_KKGzNqQ/hqdefault.jpg",

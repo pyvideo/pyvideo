@@ -16,6 +16,7 @@
         "Francisco Fern\u00e1ndez Casta\u00f1o"
     ],
     "state": 1,
+    "status": "published",
     "summary": "There are many kinds of NoSQL databases like, document databases, key-value, column databases and graph databases.\r\nIn some scenarios is more convenient to store our data as a graph, because we want to extract and study information relative to these connections. In this scenario, graph databases are the ideal, they are designed and implemented to deal with connected information in a efficient way.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/IZVPsuWODpg/hqdefault.jpg",

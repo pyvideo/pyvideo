@@ -16,6 +16,7 @@
         "Matt Chaput"
     ],
     "state": 1,
+    "status": "published",
     "summary": "From humble beginnings when I first learned Python just to write a search engine to make online help searchable, Whoosh has grown and matured to match the capabilities of much larger projects such as Lucene. This talk will explain simple uses of Whoosh to index and search documents, and demonstrate more advanced features such as faceting.\r\n",
     "tags": [
         "talk"

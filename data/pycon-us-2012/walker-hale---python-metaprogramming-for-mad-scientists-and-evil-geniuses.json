@@ -16,6 +16,7 @@
         "Walker Hale"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk covers the power and metaprogramming features of Python that cater\nto mad scientists and evil geniuses. This will also be of interest to others\nwho just want to use of Python in a more power (hungry) way. The core concept\nis that you can synthesize functions, classes and modules without a direct\ncorrespondence to source code. You can also mutate third-party objects and\napps.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/Adr_QuDZxuM/hqdefault.jpg",

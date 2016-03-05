@@ -16,6 +16,7 @@
         "Trevor Bekolay"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In high school science, we're taught to always include units in equations. Why\nnot in scientific Python code? I'll show why and how to keep track of units in\nPython using real-world examples.\n\n",
     "tags": [],
     "thumbnail_url": "http://i2.ytimg.com/vi/QcN_Hmh88mA/hqdefault.jpg",

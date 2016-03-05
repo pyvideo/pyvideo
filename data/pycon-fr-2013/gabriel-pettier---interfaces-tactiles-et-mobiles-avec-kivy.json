@@ -16,6 +16,7 @@
         "Gabriel Pettier"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Kivy est un framework multitouch fonctionnant sur la plupart des plateformes desktop et mobiles. Enti\u00e8rement \u00e9crit en python, et bas\u00e9 sur opengl ES, il est facilement extensible et offre de tr\u00e8s bonnes performances, et permet donc de d\u00e9velopper rapidement des applications mobiles (android et iOS).\n\nCette pr\u00e9sentation de kivy pour le d\u00e9veloppement mobile pr\u00e9sentera:\n\nLe framework lui m\u00eame, et son api, via des exemples simples. - le modele d'\u00e9venements et de property - les principeaux widgets - le language KV\n\nLes outils d'interfaces avec les plateformes mobiles - Pyjnius - Pyobjus\n\nLes outils de packaging - d\u00e9ploiement sur android/ios - Python-for-android - Kivy-ios - Buildozer/cloud builder",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/NgKXTnyiT7s/maxresdefault.jpg",

@@ -16,6 +16,7 @@
         "Alison Alvarez"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will be about using the Python package Shapely, its features, and how to use them to build better maps and data visualizations. \r\n\r\nThis talk will be accesible to anyone who understands basic geometry and how to read a map.  ",
     "tags": [
         "talk"

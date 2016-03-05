@@ -16,6 +16,7 @@
         "Erik Rose"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Mozilla's projects have thousands of tests, so we've had to venture beyond\nvanilla test runners to keep things manageable. Our secret sauce can be used\nwith your project as well. Reach beyond the test facilities that came with\nyour project, harnessing pluggable test frameworks, dynamically reordering\ntests for speed, exploring various mocking libraries, and profiling your way\nto testing nirvana.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/1VZfL9JVgFg/hqdefault.jpg",

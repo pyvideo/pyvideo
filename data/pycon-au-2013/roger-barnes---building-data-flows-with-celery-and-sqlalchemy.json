@@ -16,6 +16,7 @@
         "Roger Barnes"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Reporting and analysis systems rely on coherent and reliable data, often from disparate sources. To that end, a series of well established data warehousing practices have emerged to extract data and produce a consistent data store.\r\n\r\nThis talk will look at some options for composing workflows using Python. In particular, we'll explore beyond Celery's asynchronous task processing functionality into its workflow (aka Canvas) system and how it can be used in conjunction with SQLAlchemy's architecture to provide the building blocks for data stream processing.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/AhIoAMltzVw/hqdefault.jpg",

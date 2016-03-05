@@ -16,6 +16,7 @@
         "Brianna Laugher"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Zookeepr [http://zookeepr.org/] is a comprehensive web-based conference\nmanagement system, written in Python and built on Pylons. It has an unusual\ndevelopment history: custom created for the annual Linux.conf.au conference,\nthere are yearly spikes in event-focused feature development, but relatively\nlittle of the ongoing development typically seen in open source projects.\n\n",
     "tags": [
         "conference"

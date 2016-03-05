@@ -16,6 +16,7 @@
         "Mjumbe Poe"
     ],
     "state": 1,
+    "status": "published",
     "summary": "See how well Django and Backbone.js can complement each other, and learn a few\nbest-practices for building dynamic web applications using these tools in\nconcert.\n\n",
     "tags": [
         "django"

@@ -16,6 +16,7 @@
         "Frank Becker"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Das Webframework Django kommt ganz wie Python mit \"Batteries included\".\n\u00c4hnlich wie sich in Python mit seiner umfangreichen Standardlib viele\nAlltagsaufgaben mit wenigen Zeilen Code erledigen lassen, so vereinfacht\nDjango die Entwicklung von Webanwendungen. Und genau wie es im PyPI unz\u00e4hlige\nPackages f\u00fcr so gut wie jede Aufgabe gibt, so umkreist auch Django eine F\u00fclle\nvon sogenannten Pluggable Apps, also Zusatzmodulen f\u00fcr fast jeden\nAnwendungsfall.\n\nDer Vortrag stellt einige Highlights solcher Django-Packages vor, welche ohne\nviel Aufwand gew\u00f6hnlichen Djangoanwendungen erweiterte Funktionalit\u00e4t\nmitgeben.\n\nEs werden aus den Bereichen RESTful API, Formulare, Sicherheit, CSS/SCSS/JS\nHandling, Softwaretesting, Taskqueue, Ajax, Suche, Datenbankschemamigration\nund Authentifizierung jeweils ein popul\u00e4res Beispielpackage kurz vorgestellt.\nDer Fokus liegt bewu\u00dft nicht auf Details. Gezeigt wird grob die\nFunktionsweise, Installation und ein paar Erfahrungen aus dem praktischen\nEinsatz.\n\nDer geneigte Zuh\u00f6rer soll angeregt werden \u00e4hnliche Django-Packages in seinen\neigenen Projekten zu verwenden. Der Benefit f\u00fcr den Einzelnen ist, schnell\nmeist gut getestete Funktionalit\u00e4t f\u00fcr das eigene Projekt einzubauen. Die\nGemeinschaft profitiert von gemeinschaftlich entwickelter Freier Software.\n\n",
     "tags": [
         "app",

@@ -16,6 +16,7 @@
         "Stacey Sern"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Twisted is an event-driven, networking library. This talk aims to explain what that means and give an overview of some of the main Twisted concepts. It will also describe some of the functionality that Twisted offers out of the box.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/zVAon51dhIM/hqdefault.jpg",

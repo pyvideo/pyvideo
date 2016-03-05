@@ -16,6 +16,7 @@
         "Ashwini Oruganti"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Did you know that when you resolve a hostname, you can get multiple addresses back, and pick any one to connect to? Some of these addresses will connect near instantly, while others might take a long time or time out. This talk is about a Twisted endpoint API I built that takes a hostname, and returns the connection that takes the least time to complete, from the list of resolved host addresses.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/4yqA0puQsEo/hqdefault.jpg",

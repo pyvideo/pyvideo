@@ -16,6 +16,7 @@
         "Thomas Wiecki"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Probabilistic Programming allows flexible specification of statistical models to gain insight from data. The high interpretability and ease by which different sources can be combined has huge value for Data Science. PyMC3 features next generation sampling algorithms, an intuitive model specification syntax, and just-in-time compilation for speed, to allow estimation of large-scale probabilistic models.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/WESld11iNcQ/hqdefault.jpg",

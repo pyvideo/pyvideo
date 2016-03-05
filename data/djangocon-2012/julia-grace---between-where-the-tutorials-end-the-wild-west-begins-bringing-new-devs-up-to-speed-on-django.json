@@ -16,6 +16,7 @@
         "Julia Grace"
     ],
     "state": 1,
+    "status": "published",
     "summary": "4 months ago I had never even seen a Django template. But I'm an engineer;\ncoming up to speed couldn't be that hard, right? Wrong. Doing so efficiently\nand effectively was tough. I went from zero to production ready code used by\nhundreds of users everyday. I'll present my missteps and victories, laying out\nhow other teams can quickly bring new team members, who don't know Django, up\nto speed fast.\n\n",
     "tags": [
         "django"

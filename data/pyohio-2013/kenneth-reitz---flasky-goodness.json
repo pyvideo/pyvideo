@@ -16,6 +16,7 @@
         "Kenneth Reitz"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk dives into Service-Oriented Architecture and why Django isn't always the best tool for the job. We'll overview the Flask web framework, and how it can be a great fit for distributed applications.",
     "tags": [
         "talk"

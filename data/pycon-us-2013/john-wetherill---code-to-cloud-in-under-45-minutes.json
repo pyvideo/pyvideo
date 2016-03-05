@@ -16,6 +16,7 @@
         "John Wetherill"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Learn how to deploy an python application to the cloud in under 45 minutes.   In this hands-on workshop, you will get understanding the basics of cloud architecture (IaaS, PaaS, and SaaS), learn how to push your python application from github to the cloud in under 45 minutes, make it available for others to deploy, and integrate monitoring services.\r\n",
     "tags": [
         "tutorial"

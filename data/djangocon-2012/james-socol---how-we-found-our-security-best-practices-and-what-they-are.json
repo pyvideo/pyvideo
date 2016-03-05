@@ -16,6 +16,7 @@
         "James Socol"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Mozilla takes data security very seriously. We have AppSec, OpSec, and\nInfraSec teams, and our web developers have baked our security best practices\ninto documentation and a Django app called Funfactory. Hear how we came to\nthose best practices, what they are, and how to follow them.\n\n",
     "tags": [
         "django",

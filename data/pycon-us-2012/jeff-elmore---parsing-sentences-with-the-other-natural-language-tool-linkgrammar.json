@@ -16,6 +16,7 @@
         "Jeff Elmore"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Many of you are probably familiar with NLTK, the wonderful Natural Language\nToolkit for Python. You may not be familiar with Linkgrammar, which is a\nsentence parsing system created at Carnegie Melon university. Linkgrammar is\nquite robust and works \"out of the box\" in a way that NLTK does not for\nsentence parsing.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/Wk8zAr0R9zQ/hqdefault.jpg",

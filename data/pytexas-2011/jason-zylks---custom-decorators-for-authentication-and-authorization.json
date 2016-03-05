@@ -16,6 +16,7 @@
         "Jason Zylks"
     ],
     "state": 1,
+    "status": "published",
     "summary": "An introduction to writing decorators, with an example of how they can be used\nto handle common authentication and authorization actions for a set of web\nservices.\n\n",
     "tags": [],
     "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-CustomDecoratorsForAuthenticationAndAuthorization489-643.jpg",

@@ -21,6 +21,7 @@
         "Feihong Hsu"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A high level overview of how we did scraping at EveryBlock.",
     "tags": [
         "scraping"

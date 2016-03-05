@@ -16,6 +16,7 @@
         "Romain Guillebert"
     ],
     "state": 1,
+    "status": "published",
     "summary": "PyPy est l'impl\u00e9mentation la plus rapide de Python, cette pr\u00e9sentation r\u00e9pondra \u00e0 deux questions \"Comment fonctionne PyPy ?\" et \"Qu'est-ce que PyPy peut m'apporter ?\".\n\n- L'histoire de PyPy (un projet vieux de 10 ans)\n- Comment fonctionne PyPy ?\n- Qu'est-ce que PyPy peut m'apporter ?\n- Le futur de PyPy\n- Questions",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/yNuEPXvZWg0/maxresdefault.jpg",

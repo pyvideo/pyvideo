@@ -16,6 +16,7 @@
         "Jeff Schenck"
     ],
     "state": 1,
+    "status": "published",
     "summary": "AngularJS is a really exciting tool for building super slick single-page apps. But if you want them to play nice with a Python backend (Django, Pyramid, Flask, etc.) you're going to have to do a little bit of wrangling. These are the design patterns that worked for us.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/WQGQPnTDNvk/hqdefault.jpg",

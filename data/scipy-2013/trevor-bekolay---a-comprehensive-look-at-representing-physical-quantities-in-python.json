@@ -16,6 +16,7 @@
         "Trevor Bekolay"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Why tracking physical quantities is an essential function for any programming language heavily used in science and a possible unification of the existing packages that enable the majority of use cases.",
     "tags": [
         "scipy"

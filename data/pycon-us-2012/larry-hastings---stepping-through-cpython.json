@@ -16,6 +16,7 @@
         "Larry Hastings"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Ever wondered how CPython actually works internally? This talk will show you.\nWe start with a simple Python program, then slowly step through CPython,\nshowing in exhaustive detail what happens when it runs that program. Along the\nway we'll examine the design and implementation of various major CPython\nsubsystems and see how they fit together. The audience should be conversant in\nC and Python.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/XGF3Qu4dUqk/hqdefault.jpg",

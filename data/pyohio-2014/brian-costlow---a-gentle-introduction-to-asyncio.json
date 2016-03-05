@@ -16,6 +16,7 @@
         "Brian Costlow"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Asyncio is the new standard library module for doing asynchronous IO and concurrency in Python 3.4. In this talk, I'll discuss some earlier strategies for writing such code in Python. I'll cover some of the decisions that went into it's design. Then I'll walk through a tuturial on asyncio itself. Finally, I'll take some well known example code for Gevent and Twisted, and rewrite it in asyncio.",
     "tags": [
         "talk"

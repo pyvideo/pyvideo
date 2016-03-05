@@ -14,6 +14,7 @@
     "source_url": "",
     "speakers": [],
     "state": 1,
+    "status": "published",
     "summary": "An explanation of some of the underlying concepts of Python, come learn about\nnames and values placed in namespaces, modified by code objects and collected\ninto modules.\n\n",
     "tags": [],
     "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-AboutPythonNamespacesAndCodeObjects984-914.jpg",

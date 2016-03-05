@@ -16,6 +16,7 @@
         "Dr. Yves Hilpisch"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Continuum Analytics bietet mit Anaconda Accelerate eine kommerzielle, skalierbare und unternehmenstaugliche Python-Distribution. Diese basiert auf der beliebten Open Source Distribution Anaconda.\r\n\r\nGegen\u00fcber der freien Distribution verf\u00fcgt Accelerate \u00fcber Bibliotheken wie NumbaPro oder IOPro, die eine nachhaltige Beschleunigung von typischen Data Analytics Aufgaben mit Python  erlauben.\r\n\r\nBokeh, eine Open Source Bibliothek, etabliert einen neuen Standard f\u00fcr die interaktive, Web-basierte Visualisierung von gro\u00dfen Datenmengen.\r\n\r\nDer Talk illustriert die Leistungsf\u00e4higkeit des \"Continuum Data Analytics Stack\" an Hand einer Reihe von praxisnahen Beispielen, z.B. aus dem Finanzumfeld, und gew\u00e4hrt auch einen Einblick in aktuelle sowie geplante Entwicklungen und Erweiterungen.",
     "tags": [
         "data analytics",

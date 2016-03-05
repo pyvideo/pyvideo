@@ -16,6 +16,7 @@
         "Maximilien Riehl"
     ],
     "state": 1,
+    "status": "published",
     "summary": "*PyBuilder* is a software build tool written in pure python which mainly targets \r\npure python applications.\r\nIt provides glue between existing build frameworks, thus empowering you to focus on the big picture of the build process.\r\n\r\nIt will be shown through demonstrations and samples how a simple, \r\nhuman-readable and declarative configuration can lead to an astonishingly \r\nwell-integrated build process which will make maintainers, developers and newcomers happy.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/iQU18hAjux4/hqdefault.jpg",

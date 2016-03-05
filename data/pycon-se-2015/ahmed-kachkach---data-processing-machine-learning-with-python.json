@@ -16,6 +16,7 @@
         "Ahmed Kachkach"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk gives a quick overview of Python's capabilities as a data-processing and machine learning tool through practical examples: gathering data from the web or a local file, validating/modifying it and finally analyzing it to build models for classification and prediction tasks",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/TH72ru3V9Fw/maxresdefault.jpg",

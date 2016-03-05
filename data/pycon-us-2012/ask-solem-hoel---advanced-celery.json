@@ -16,6 +16,7 @@
         "Ask Solem Hoel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will delve deep into advanced aspects of the Celery task queue and\necosystem. Previous experience with task queues and message oriented\nmiddleware is beneficial.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/gpKMwPoldak/hqdefault.jpg",

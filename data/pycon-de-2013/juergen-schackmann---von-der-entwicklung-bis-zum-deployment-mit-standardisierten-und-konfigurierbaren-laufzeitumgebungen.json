@@ -16,6 +16,7 @@
         "Juergen Schackmann"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Es wird gezeigt, wie Laufzeitumgebungen (Betriebssystem, Services wie Datenbank oder Webserver, Python, Applikation) standardisiert konfiguriert und automatisiert erzeugt werden k\u00f6nnen. Somit wird sichergestellt, dass eine Applikation immer in definierten und weitgehend identischen Umgebungen ausgef\u00fchrt wird - unabh\u00e4ngig von den verschiedenen Phasen des Lebenszyklus (Entwicklung, Test, Produktion etc.) und pers\u00f6nlichen Pr\u00e4ferenzen und Know-how der involvierten Personen.  Hierf\u00fcr eingesetzt werden: Vagrant, Virtualbox,Puppet, Virtualenv.\r\n\r\n",
     "tags": [
         "bootstrapping",

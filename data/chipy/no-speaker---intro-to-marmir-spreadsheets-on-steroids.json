@@ -14,6 +14,7 @@
     "source_url": "https://www.youtube.com/watch?v=a7Oon2Bo8tE",
     "speakers": [],
     "state": 1,
+    "status": "published",
     "summary": "Marmir ([https://github.com/brianray/mm](https://github.com/brianray/mm))\ntakes Python data structures and turns them into spreadsheets (think xlwt on\nsteroids). This is a high level Intro to the project, current status, goals,\nand to solicit any contributions. This talk will look into how Marmir\ninternals do things like: measure fonts to fit columns, preserve data types\n(dates, numbers), allow advanced look and feel customization of spreadsheets.\nLater down the road, I would like to have a separate talk on Marmir internals\nand how it may be customized to do things like, convert Django model data\ndirectly to spreadsheets, integrate with google spreadsheets.\n\n",
     "tags": [],
     "thumbnail_url": "http://i2.ytimg.com/vi/a7Oon2Bo8tE/hqdefault.jpg",

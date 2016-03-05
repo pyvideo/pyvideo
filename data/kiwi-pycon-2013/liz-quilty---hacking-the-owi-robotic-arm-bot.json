@@ -16,6 +16,7 @@
         "Liz Quilty"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Demonstrating the OWI robotic arm running automated with a Raspberry Pi and some python code.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/UJUbOWDlbWs/hqdefault.jpg",

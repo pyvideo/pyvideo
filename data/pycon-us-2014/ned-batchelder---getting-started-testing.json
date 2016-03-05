@@ -16,6 +16,7 @@
         "Ned Batchelder"
     ],
     "state": 1,
+    "status": "published",
     "summary": "If you've never written tests before, you probably know you *should*, but view the whole process as a bureaucratic paperwork nightmare to check off on your ready-to-ship checklist. This is the wrong way to approach testing. Tests are a solution to a problem that is important to you: does my code work? I'll show how Python tests are written, and why.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/FxSsnHeWQBY/hqdefault.jpg",

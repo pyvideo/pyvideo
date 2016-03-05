@@ -16,6 +16,7 @@
         "Konark Modi"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The essence of near-real-time stream processing is to compute huge volumes of data as it is received. This talk will focus on creating a pipeline for collecting huge volumes of data using Kafka and processing for near-real time computations using Storm.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/uwiHZru2Wjc/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Laurent Gautier"
     ],
     "state": 1,
+    "status": "published",
     "summary": "R has become hard to avoid when working with data; there is hardly a method in statistics or visualization that is not available, and there are many methods that are originally only available in R.\r\n\r\nThe Python-to-R bridge opens the whole library of R functions, classes, and datasets to the Python programmer by exposing an embedded R process and its objects through a Python library.",
     "tags": [
         "poster"

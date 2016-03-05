@@ -16,6 +16,7 @@
         "Christopher Fonnesbeck"
     ],
     "state": 1,
+    "status": "published",
     "summary": "PyMC implements a suite of Markov chain Monte Carlo (MCMC) sampling algorithms\nmaking it extremely flexible, extensible and applicable to a large suite of\nstatistical modeling problems. PyMC's clear, concise syntax allows scientists\nto flexibly implement Bayesian models without hand-coding samplers.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/MJpp5jlBwuE/hqdefault.jpg",

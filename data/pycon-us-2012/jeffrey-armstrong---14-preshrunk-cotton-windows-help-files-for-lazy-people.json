@@ -16,6 +16,7 @@
         "Jeffrey Armstrong"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Generating a Compiled HTML Help (CHM) file is often necessary when\ndistributing applications on Microsoft Windows platforms. However, many\ndevelopers may dislike authoring HTML and/or cannot use Microsoft\u2019s help\ntools. preshrunk-cotton streamlines the creation of CHM files by allowing the\nauthor to quickly write documentation in Textile markup and build the help\nfile on almost any platform.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/A3Qe5wUbXzM/hqdefault.jpg",

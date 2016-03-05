@@ -16,6 +16,7 @@
         "Ragi Burhum"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Non-trivial mapping and location-centric applications are a beast of their own in terms indexing/querying/analyzing. Realtime tracking geo-applications add an even greater layer of complexity. \r\n\r\nIn this talk we will give a short overview of the traditional OS web/mobile mapping architecture and datasets and extend it to include a realtime component. ",
     "tags": [
         "talk"

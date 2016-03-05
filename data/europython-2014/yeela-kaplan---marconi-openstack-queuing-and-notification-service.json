@@ -21,6 +21,7 @@
         "Yeela Kaplan"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Marconi is a multi-tenant cloud queuing system written in Python as part of the OpenStack project. \r\nMarconi aims to ease the design of distributed systems and allow for asynchronous work distribution without creating yet another message broker. This talk is a broad look at Marconi's design and the technologies used.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/d65TtqGp-9Q/hqdefault.jpg",

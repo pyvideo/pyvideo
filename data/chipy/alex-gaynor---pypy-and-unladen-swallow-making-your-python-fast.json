@@ -16,6 +16,7 @@
         "Alex Gaynor"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python has a reputation for being a bit slow, but it doesn't have to be that\nway. This talk will cover why Python is slow, and what two of the most\nexciting virtual machines are doing about it.\n\n",
     "tags": [
         "chipy",

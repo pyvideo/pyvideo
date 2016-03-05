@@ -17,6 +17,7 @@
         "Paul Kehrer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "There are a half-dozen major Python cryptography frameworks built on at least three separate C implementations, each with their own strengths and weaknesses and in various states of maintenance. This presentation will review the current state of the art and discuss the future of crypto in Python including a new library under development, PyPy support and more.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/r_Pj__qjBvA/hqdefault.jpg",

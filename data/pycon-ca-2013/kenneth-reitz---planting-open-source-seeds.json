@@ -16,6 +16,7 @@
         "Kenneth Reitz"
     ],
     "state": 1,
+    "status": "published",
     "summary": "An in-depth review of the stages that most open source projects go though, and the decisions their maintainers face. Requests will be used as an example \u2014 lessons learned and best practices will be covered.",
     "tags": [
         "talk"

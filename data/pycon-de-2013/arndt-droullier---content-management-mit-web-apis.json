@@ -16,6 +16,7 @@
         "Arndt Droullier"
     ],
     "state": 1,
+    "status": "published",
     "summary": "NoSql ein Schritt weiter: CMS-Systeme mit Web API lassen sich wie NoSql Datenbanken erweitert um Daten-Validierung, Workflow und Template Renderer verwenden. Ergebnis sind neue Anwendungsf\u00e4lle wie Backends f\u00fcr Javascript Anwendungen oder Structured Data Services. Gezeigt am Beispiel [Nive cms](http://cms.nive.co/).",
     "tags": [
         "cms",

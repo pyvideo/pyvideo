@@ -16,6 +16,7 @@
         "Alex Martelli"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Grace Murray Hopper's famous motto, \"It's easier to ask forgiveness than\npermission\", has many useful applications -- in Python, in concurrency, in\nnetworking, as well of course as in real life. However, it's not universally\nvalid. This talk explores both useful and damaging applications of this\nprinciple.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/AZDWveIdqjY/hqdefault.jpg",

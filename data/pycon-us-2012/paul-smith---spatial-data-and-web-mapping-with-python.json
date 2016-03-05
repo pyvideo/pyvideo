@@ -16,6 +16,7 @@
         "Paul Smith"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Spatial data are often seen as opaque to most developers, and while dealing\nwith them does require a shift in approach from the data types we most\nregularly handle, they needn\u2019t be the domain of specialists. High-quality\nPython libraries and Python-based applications exist for operating on and\ntransforming spatial data, and for creating visualizations, including maps for\npresentation on the web.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/qmgh14LUOjQ/hqdefault.jpg",

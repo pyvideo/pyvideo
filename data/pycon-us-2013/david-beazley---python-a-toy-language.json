@@ -16,6 +16,7 @@
         "David Beazley"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A very special guest speaker will talk about solving important \"toy\" problems with Python.\r\n",
     "tags": [
         "talk"

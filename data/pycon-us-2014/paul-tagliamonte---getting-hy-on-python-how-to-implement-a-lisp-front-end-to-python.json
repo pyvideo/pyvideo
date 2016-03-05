@@ -16,6 +16,7 @@
         "Paul Tagliamonte"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will cover the internals of Python, such AST, Import hooks, creating a console, and a very brief overview of Python internal formats (such as pyc files), by way of looking over the implementation of a Lisp called \"Hy\". No Lisp knowledge is required.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/AmMaN1AokTI/hqdefault.jpg",

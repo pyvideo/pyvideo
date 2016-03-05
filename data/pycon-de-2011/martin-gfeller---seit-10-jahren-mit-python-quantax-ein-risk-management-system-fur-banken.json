@@ -16,6 +16,7 @@
         "Martin Gfeller"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Quantax ist eine Applikation f\u00fcr das Markt-Risiko-Management im professionellen Banking. Der Vortrag wird Quiantax kurz vorstellen und dann vor allem auf die Lektionen, die wir in den 10 Jahren der fortschreitenden Entwicklung gelernt haben, eingehen. Die von uns entwickelte Hybrid-Datenbank (Python-Objekte, partiell in SQL Server abgebildet) bildet dabei einen Schwerpunkt.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/mchs5LywPOs/hqdefault.jpg",

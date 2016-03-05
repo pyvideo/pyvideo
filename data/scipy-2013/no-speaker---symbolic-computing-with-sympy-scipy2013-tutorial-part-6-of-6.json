@@ -14,6 +14,7 @@
     "source_url": "http://www.youtube.com/watch?v=wPD7Y0sCO4I",
     "speakers": [],
     "state": 1,
+    "status": "published",
     "summary": "Ondrej Certik, Mateusz Paprocki, Aaron Meurer\n\nDescription\n\nSymPy is a library for symbolic mathematics (i.e., a computer algebra\nsystem) in Python. In this tutorial, we will introduce SymPy from\nscratch. We will show the basics of SymPy, such as how to define\nexpressions, manipulate them, common gotchas, how to simplify them,\nand calculus operations. We will then show some advanced examples of\nhow SymPy can be used to solve real-life problems in physics.\n\nRequired Packages\n\nPython 2.x or 3.x, SymPy (most recent version) Optional packages: IPython, matplotlib, NetworkX, GMPY, numpy, scipy\n\nDocumentation\n\nhttp://certik.github.io/scipy-2013-tutorial/html/index.html",
     "tags": [
         "Tech"

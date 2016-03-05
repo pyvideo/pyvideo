@@ -16,6 +16,7 @@
         "Stuart Mumford"
     ],
     "state": 1,
+    "status": "published",
     "summary": "SunPy is a project designed to provide a free, open and easy-to-use Python alternative to IDL and SolarSoft. SunPy provides unified, coordinate-aware data objects for many common solar data types and integrates into these plotting and analysis tools.",
     "tags": [
         "astronomy",

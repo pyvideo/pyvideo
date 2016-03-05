@@ -16,6 +16,7 @@
         "Flavia Missi"
     ],
     "state": 1,
+    "status": "published",
     "summary": "TDD can be tricky and many developers out there fail to perceive it's real value. This talk will show TDD's benefits and applications with real world examples.",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/tTRESSioRiI/maxresdefault.jpg",

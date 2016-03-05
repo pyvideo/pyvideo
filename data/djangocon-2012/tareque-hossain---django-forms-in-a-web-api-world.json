@@ -16,6 +16,7 @@
         "Tareque Hossain"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In a world of django powered web APIs and arbitrary consumers, traditional\nmethods of rendering & validating django forms are ineffective. We discuss how\nto uphold the API provider/ consumer separation, yet utilize provider's django\nform subsystem to power forms in a pure JS consumer. We achieve this by\nserializing form configurations, rendering metadata, error handlers & exposing\nthem over API.\n\n",
     "tags": [
         "django",

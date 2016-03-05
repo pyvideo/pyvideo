@@ -14,6 +14,7 @@
     "source_url": "http://www.youtube.com/watch?v=S6IbD86Dbvc",
     "speakers": [],
     "state": 1,
+    "status": "published",
     "summary": "Presenter: Olivier Grisel\n\nTrack: Keynotes\n\nThis will give an overview of recent trends in Machine Learning namely: Deep Learning, Probabilistic Programming and Distributed Computing for Machine Learning and will demonstrate how the SciPy community at large is building innovative tools to follow those trends and sometimes even lead them.",
     "tags": [
         "Tech"

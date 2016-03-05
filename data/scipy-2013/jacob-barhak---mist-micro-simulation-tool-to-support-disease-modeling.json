@@ -16,6 +16,7 @@
         "Jacob Barhak"
     ],
     "state": 1,
+    "status": "published",
     "summary": "MIST stands for Misco-Simulation Tool. It is a modeling and simulation framework that supports computational Chronic Disease Modeling activities.",
     "tags": [
         "bioinformatics"

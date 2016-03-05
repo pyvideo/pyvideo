@@ -25,6 +25,7 @@
         "Christopher Allan Webber"
     ],
     "state": 1,
+    "status": "published",
     "summary": "GNU MediaGoblin is a free software media publishing system written in Python\nfor images, video, and audio. This talk starts by tricking you into watching\nthe mediagoblin_campaign_pitch video, and then Chris explains how he used\nPython to drive Blender to make the animated effects.\n\n",
     "tags": [],
     "thumbnail_url": "http://i2.ytimg.com/vi/MrEoE0Py5ZY/hqdefault.jpg",

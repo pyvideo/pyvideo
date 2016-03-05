@@ -16,6 +16,7 @@
         "Edward Schofield"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This is a tutorial about using Python for scientific and engineering purposes,\nfocusing on the latest and best tools available in 2012. It will walk you\nthrough exploring a variety of interesting domains and problems using the\nlatest\n\n",
     "tags": [
         "science"

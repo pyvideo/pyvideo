@@ -16,6 +16,7 @@
         "Daniel Hepper"
     ],
     "state": 1,
+    "status": "published",
     "summary": "setup.py, PyPI, easy_install, pip, distutils, setuptools, virtualenv - wer ein Paket nutzen oder den eigenen Code als Paket verteilen will muss sich durch einen Dschungel von Modulen und Werkzeugen k\u00e4mpfen. Dieser Vortrag bringt Licht ins Dunkel und stellt aktuelle Best Practices f\u00fcr die Verwendung und Erstellung von Python-Paketen vor.",
     "tags": [
         "packaging",

@@ -16,6 +16,7 @@
         "Sven Rahmann"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Im Vortrag wird am Beispiel einer Vorlesung (\"Algorithmen auf Sequenzen\", TU Dortmund) gezeigt, wie Python eine Br\u00fccke zwischen pseudocode-\u00e4hnlicher Beschreibung von Algorithmen und deren Implementierung bildet. H\u00e4ufig (aber nicht immer) lassen sich Lesbarkeit und Laufzeit-Effizienz dabei gut verbinden. Im Vortrag werden verschiedene (Gegen-)Beispiele gegeben.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/HXqnXBSmbks/hqdefault.jpg",

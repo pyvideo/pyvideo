@@ -16,6 +16,7 @@
         "Clark C. Evans"
     ],
     "state": 1,
+    "status": "published",
     "summary": "HTSQL is a URI-based high-level query language for relational databases; it is\nwritten in the Python language. HTSQL is a wonderful complement existing WSGI-\nbased applications, making it trivial to create interactive dashboards,\ncomplex reports. We use HTSQL as a REST query interface for data integration\nand ad-hoc reporting by technical users or ``accidental programmers``.\n\n",
     "tags": [
         "htsql",

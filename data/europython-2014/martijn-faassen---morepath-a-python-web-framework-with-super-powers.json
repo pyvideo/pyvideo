@@ -21,6 +21,7 @@
         "Martijn Faassen"
     ],
     "state": 1,
+    "status": "published",
     "summary": "[Morepath](http://morepath.readthedocs.org) is a server web framework written with modern, rich client web development in mind. Why another new Python web framework in 2014? \r\n\r\nBecause it can be done better: Morepath understands how to construct hyperlinks from models. Writing a generic view in Morepath is like writing any other view. With Morepath, you can reuse, extend and override apps as easily as you can construct them.\r\n\r\nEven if you don't end up using Morepath, you will learn something about how the nature of web frameworks.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/gyDKMAWPyuY/hqdefault.jpg",

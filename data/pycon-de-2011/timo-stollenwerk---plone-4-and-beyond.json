@@ -16,6 +16,7 @@
         "Timo Stollenwerk"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Die kommenden 4.x Versionen von Plone halten viele interessante Neuerungen bereit. Der urspr\u00fcngliche Plan eines \"revolution\u00e4ren\" 5er Releases wurden zugunsten mehrerer \"evolution\u00e4rer\" 4.x Versionen verworfen, um neuere Technologien schneller im Kern verf\u00fcgbar zu machen.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/Gb3V23AvIWc/hqdefault.jpg",

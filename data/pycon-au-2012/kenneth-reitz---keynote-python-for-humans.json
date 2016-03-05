@@ -16,6 +16,7 @@
         "Kenneth Reitz"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python's ecosystem is held up to a high standard, but it falls short in a few\nkey areas. A handful of crucial APIs are an absolute pain to work with. We'll\ngo over where these APIs went wrong and learn about strong and elegant API\ndesig\n\n",
     "tags": [
         "api"

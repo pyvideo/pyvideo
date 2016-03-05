@@ -16,6 +16,7 @@
         "Andreas Schreiber"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Ein kompakter \u00dcberblick \u00fcber die rechtlichen Aspekte von Open-Source-Software.\nNeben den rechtlichen Grundlagen werden die wesentlichen Eigenschaften von\nOpen-Source-Lizenzen vorgestellt. Au\u00dferdem werden einige verbreitete Lizenzen\ndetaillierter erl\u00e4utert.\n\nInhalt:\n\n- Rechtliche Grundlagen: Urheberrecht und Lizenzrecht\n\n- Open-Source-Software: Lizenzarten von Software, Definition Open-Source-Software, Open-Source-Lizenzmodelle, Copyleft vs. Non-Copyleft\n\n- Ausgew\u00e4hlte Open-Source-Lizenzen: Apache License, GPL, AGPL, LGPL, BSD License, Eclipse Public License, ...\n\n- Praktische Nutzung von Open-Source-Software: Lizenzkompatibilit\u00e4t, Nutzung von Open-Source-Software in eigenen Programmen, Auswahl einer Open-Source-Lizenz f\u00fcr eigene Programme\n\n",
     "tags": [
         " open-source",

@@ -16,6 +16,7 @@
         "Robbie Clemons"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Is your website accessible? Have you tested it? What does it even mean for a\nwebsite to be accessible? In this talk we'll show some of the most common\nproblems disabled users have and demonstrate how to fix them. I'll also\nintroduce you to some tools that are written in Python to help you determine\nhow accessible your site is.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/jOu0D9ttCFI/hqdefault.jpg",

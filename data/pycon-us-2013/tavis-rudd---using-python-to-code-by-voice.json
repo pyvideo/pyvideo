@@ -21,6 +21,7 @@
         "Tavis Rudd"
     ],
     "state": 1,
+    "status": "published",
     "summary": "I dictate my code using a voice recognition system with Python embedded in it.  In a fast paced live demo, I will code a small system and deploy it without touching the keyboard. I hope to convince you that voice recognition is no longer a crutch for the disabled or limited to plain prose.",
     "tags": [
         "talk"

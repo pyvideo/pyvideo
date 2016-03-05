@@ -16,6 +16,7 @@
         "Christophe Pettus"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this DevOps world, Django developers are increasingly being asked to manage\nthe database as well. In 40 brisk minutes, we will talk about (nearly)\neverything you need to know to bring up, tune, and keep a PostgreSQL database\nhealth. We'll go over installation, basic tuning, backups, disaster recovery,\nand helpful tools and techniques.\n\n",
     "tags": [
         "django",

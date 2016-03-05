@@ -16,6 +16,7 @@
         "Maksim Tsvetovat"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Social Network data permeates our world -- yet we often don't know what to do\nwith it. In this tutorial, I will introduce both theory and practice of Social\nNetwork Analysis -- gathering, analyzing and visualizing data using Python and\nother open-source tools. I will walk the attendees through an entire project,\nfrom gathering and cleaning data to presenting results.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/qgGqaBAEy3Q/hqdefault.jpg",

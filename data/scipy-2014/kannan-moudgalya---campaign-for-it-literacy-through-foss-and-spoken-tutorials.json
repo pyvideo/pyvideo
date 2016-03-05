@@ -16,6 +16,7 @@
         "Kannan Moudgalya"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Textbook Companion (TBC) has code for solved problems of textbooks,\r\ncoordinated by FOSSEE (http://fossee.in).\r\nWe explain a collaborative method\r\nthat helped create 500 Scilab TBCs (http://cloud.scilab.in) and over 100\r\nPython TBCs (http://tbc-python.fossee.in/). We also explain a self learning\r\nmethod that trained 250,000 students on FOSS systems using spoken\r\ntutorials (http://spoken-tutorial.org).\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/rCSoGLjqyyE/hqdefault.jpg",

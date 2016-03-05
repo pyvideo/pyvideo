@@ -16,6 +16,7 @@
         "Perry Greenfield"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We report on the progress made on the Astropy Project in the past year highlighting the new capabilities added as well as the near-term development plans.",
     "tags": [
         "astropy"

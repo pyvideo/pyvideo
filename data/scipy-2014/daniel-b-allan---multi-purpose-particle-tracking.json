@@ -16,6 +16,7 @@
         "Daniel B. Allan"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In many scientific contexts it is necessary to identify and track features in video. Several labs with separate projects and priorities collaborated to develop a common, novice-accessible package of standard algorithms. The package manages optional high-performance components, such as numba, and interactive tools to tackle challenging data, while prioritizing testing and easy adoption by novices.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/MxK7Fe4xfXM/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Alan Barber II"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Nodality has pioneered a novel flow cytometry-based technology in the areas of oncology and autoimmunity to reveal underlying disease biology. We present a custom framework written in Python that uses Django, Matplotlib, MongoDB and Pandas to join this experimental data with clinical facts such as individual patient disease outcomes to develop actionable biological and clinical information.",
     "tags": [
         "poster"

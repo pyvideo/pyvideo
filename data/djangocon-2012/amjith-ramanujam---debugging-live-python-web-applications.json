@@ -16,6 +16,7 @@
         "Amjith Ramanujam"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Monitoring tools record the result of what happened to your web application\nwhen a problem arises, but for some classes of problems, monitoring systems\nare only a starting point. Sometimes it is necessary to take more intrusive\nsteps to plan for the unexpected by embedding mechanisms that will allow you\nto interact with a live deployed web application and extract even more\ndetailed information.\n\n",
     "tags": [
         "debugging",

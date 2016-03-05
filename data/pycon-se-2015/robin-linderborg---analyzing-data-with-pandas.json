@@ -16,6 +16,7 @@
         "Robin Linderborg"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A gentle introduction to data analysis and visualization in Python using the Pandas library. We will explore how to clean, restructure, analyze and visualize data sets.",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/kSM8S76qYz0/maxresdefault.jpg",

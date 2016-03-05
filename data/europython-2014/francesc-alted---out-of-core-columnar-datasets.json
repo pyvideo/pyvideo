@@ -16,6 +16,7 @@
         "Francesc Alted"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Tables are a very handy data structure to store\r\ndatasets to perform data analysis (filters, groupings, sortings,\r\nalignments...).\r\n\r\nBut it turns out that *how the tables are actually implemented* makes a large impact on how they perform.\r\n\r\nLearn what you can expect from the current tabular offerings in the Python ecosystem.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/-lKV4zC1gss/hqdefault.jpg",

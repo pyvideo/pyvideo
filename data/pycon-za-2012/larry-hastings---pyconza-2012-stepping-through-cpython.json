@@ -16,6 +16,7 @@
         "Larry Hastings"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Stepping through CPython: Larry Hastings' talk at PyConZA 2012",
     "tags": [
         "pyconza",

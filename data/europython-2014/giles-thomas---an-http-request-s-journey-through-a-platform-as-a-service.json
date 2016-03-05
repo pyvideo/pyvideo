@@ -16,6 +16,7 @@
         "Giles Thomas"
     ],
     "state": 1,
+    "status": "published",
     "summary": "PythonAnywhere hosts tens of thousands of Python web applications, with traffic ranging from a couple of hits a week to dozens of hits a second.  Hosting this many sites reliably at a reasonable cost requires a well-designed infrastructure, but it uses the same standard components as many other Python-based websites.  We've built our stack on GNU/Linux, nginx, uWSGI, Redis, and Lua -- all managed with Python.  In this talk we'll give a high-level overview of how it all works, by tracing how a request goes from the browser to the Python application and its response goes back again.  As well as showing how a fairly large deployment works, we'll give tips on scaling and share a few insights that may help people running smaller sites discover how they can speed things up.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/ZRCjfSIVMNA/hqdefault.jpg",

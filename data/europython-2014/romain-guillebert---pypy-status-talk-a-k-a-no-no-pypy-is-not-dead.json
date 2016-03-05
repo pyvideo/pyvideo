@@ -16,6 +16,7 @@
         "Romain Guillebert"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The current status of PyPy, with a particular focus on what happened in the last two years, since the last EuroPython PyPy talk.  We will give a brief overview of the current speed and the on-going development efforts on the JIT, the GC, NumPy, Python 3 compatibility, CFFI, STM...",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/1ZE0ESaafs4/hqdefault.jpg",

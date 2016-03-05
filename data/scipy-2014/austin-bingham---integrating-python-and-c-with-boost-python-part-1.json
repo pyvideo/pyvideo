@@ -16,6 +16,7 @@
         "Austin Bingham"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python and C++ can be powerful complements to one another. C++ is great for performance-critical calculations, while Python is great for everything else. In this tutorial we\u2019ll look at how to integrate Python and C++ using the Boost.Python library. You\u2019ll learn techniques for easily developing hybrid systems that use the right language for the right task, resulting in better software.\r\n",
     "tags": [
         "boost",

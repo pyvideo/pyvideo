@@ -16,6 +16,7 @@
         "Selena Deckelmann"
     ],
     "state": 1,
+    "status": "published",
     "summary": "DjangoCon 2012 Keynote - Selena Deckelmann\n\n",
     "tags": [
         "django"

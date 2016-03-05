@@ -16,6 +16,7 @@
         "Dami\u00e1n Avila"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Recently, many projects have been developed to make Python useful to do\nquantitative finance research. We proposed us not only to show you the\nintegration of these tools to perform time series analysis and modeling, but\nalso to show you how we can search for cointegrated pairs of asset and set up\na statistical arbitrage strategy - pairs trading - to get potential profit\nfrom financial market.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/MIAKOMzRl1I/hqdefault.jpg",

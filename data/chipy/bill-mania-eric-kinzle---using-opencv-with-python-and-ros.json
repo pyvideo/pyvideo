@@ -17,6 +17,7 @@
         "Eric Kinzle"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Bill Mania and Eric Kinzle A brief presentation of using the OpenCV computer\nvision toolset with Python and ROS. Included at the end will be a\ndemonstration of tracking a colored object using a camera with servo-driven\npan and tilt capability.\n\n",
     "tags": [
         "billmania",

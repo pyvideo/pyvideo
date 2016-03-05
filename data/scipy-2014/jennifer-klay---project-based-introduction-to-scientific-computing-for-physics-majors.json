@@ -16,6 +16,7 @@
         "Jennifer Klay"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will present an overview of a project-based introductory course in scientific computing using python for physics majors at Cal Poly San Luis Obispo.",
     "tags": [
         "education",

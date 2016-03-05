@@ -16,6 +16,7 @@
         "Francesc Alted"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this video from the 2012 PyData Workshop Francesc Alted from Continuum\nAnalytics is going to show you how you can boost NumPy with Numexpr and\nCython.\n\n",
     "tags": [
         "cython",

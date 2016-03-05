@@ -16,6 +16,7 @@
         "Armin Ronacher"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Things you didn't know about Python: Armin Ronacher's talk at PyConZA 2012",
     "tags": [
         "pyconza",

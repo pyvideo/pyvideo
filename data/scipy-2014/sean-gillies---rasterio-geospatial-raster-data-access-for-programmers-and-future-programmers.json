@@ -16,6 +16,7 @@
         "Sean Gillies"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Learn to read, manipulate, and write georeferenced imagery and other kinds of geospatial raster data using a productive and fun GDAL and Numpy-based library named Rasterio. It's a new open source project from the satellite team at Mapbox and is informed by a decade of experience using Python and GDAL.",
     "tags": [
         "gis"

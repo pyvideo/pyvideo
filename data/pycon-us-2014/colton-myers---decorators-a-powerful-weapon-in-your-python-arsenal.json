@@ -16,6 +16,7 @@
         "Colton Myers"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Decorators are an invaluable addition to anyone's arsenal of python tools and tricks. We will learn what a decorator is, how decorators are created, and then explore some of the cooler applications for decorators in our everyday projects.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/9oyr0mocZTg/hqdefault.jpg",

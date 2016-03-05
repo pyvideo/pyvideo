@@ -16,6 +16,7 @@
         "Jan Dittberner"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Im Vortrag wird vorgestellt, wie Pakete f\u00fcr Debian gebaut werden, welche Besonderheiten es dabei f\u00fcr Python gibt und wo man einen Einstieg in die Debian-Community, besonders als Python-Entwickler findet. Daneben werden Empfehlungen f\u00fcr Python-Entwickler gegeben, wie Software ausgeliefert werden sollte, um Distributionen wie Debian die Paketierung zu erleichtern.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/2c_L9HTN2Jk/hqdefault.jpg",

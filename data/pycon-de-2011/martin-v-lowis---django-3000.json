@@ -16,6 +16,7 @@
         "Martin v. L\u00f6wis"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Dieser Vortrag stellt einen Port von Django auf Python 3 vor und diskutiert die Portierung von Django-Anwendungen auf Python 3.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/L630R3ojToc/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Brianna Laugher"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Pytest is a mature and comprehensive testing suite for Python projects, but it\ncan be a little intimidating for newcomers. Where do these mysterious funcargs\ncome from, how do parametrised tests work, and where are my xUnit-style setUp\nand tearDown methods?\n\n",
     "tags": [
         "pytest",

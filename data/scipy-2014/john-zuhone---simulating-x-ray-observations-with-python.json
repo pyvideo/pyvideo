@@ -16,6 +16,7 @@
         "John ZuHone"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Constructing synthetic X-ray observations from hydrodynamical simulations and other data sources is made possible with a combination of the yt analysis toolkit with a number of other astronomical Python libraries.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/fUMq6rmNshc/hqdefault.jpg",

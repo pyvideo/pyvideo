@@ -16,6 +16,7 @@
         "\u0141ukasz Langa"
     ],
     "state": 1,
+    "status": "published",
     "summary": "One of the turning points in history was when manufacturing embraced intermediate production. By creating simple components that can be integrated into complex products, manufacturers are able to build faster and cheaper, achieving better quality. In this tale of developer meets engineer,I describe how I'm using Python's inheritance model to bring this manufacturing reality to life in source code.",
     "tags": [
         "talk"

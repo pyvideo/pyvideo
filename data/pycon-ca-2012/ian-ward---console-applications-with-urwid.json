@@ -16,6 +16,7 @@
         "Ian Ward"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Demonstration of some of the best Python console applications written\n\nusing Urwid:\n\n* bpython-urwid  \n* videotop  \n* alot  \n* turses  \n* hachoir-urwid  \n* speedometer  \n* pudb\n\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/4UwhXC1OP2A/hqdefault.jpg",

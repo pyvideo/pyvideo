@@ -16,6 +16,7 @@
         "Graham Dumpleton"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A benchmark of a hello world application is often what developers use to make\nthe all important decision of what web hosting infrastructure they use. Worse\nis that in many cases this is the only sort of performance testing or monitor\n\n",
     "tags": [
         "bottlenecks",

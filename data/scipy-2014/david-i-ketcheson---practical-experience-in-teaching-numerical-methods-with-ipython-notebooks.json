@@ -16,6 +16,7 @@
         "David I. Ketcheson"
     ],
     "state": 1,
+    "status": "published",
     "summary": "New tools like the IPython notebook can enhance both lectures and textbooks, by making class time and individual study more interactive through the inclusion of executable code and animations.  I will demo some materials and activities I've provided for students using the IPython notebook.  I will focus on practical issues I've faced that are particular to this teaching approach.\r\n",
     "tags": [
         "education",

@@ -16,6 +16,7 @@
         "John Hunter"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this video tutorial from the 2012 PyData Workshop, John Hunter, author of\nmatplotlib is going to give you some advanced insight into the plotting\nlibrary.\n\n",
     "tags": [
         "matplotlib"

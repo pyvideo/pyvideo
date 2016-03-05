@@ -16,6 +16,7 @@
         "Louis Goessling"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Serpint is software for controlling the GPIO pins on a Raspberry Pi over a socket or serial port.  It can be used to control the GPIO pins from languages that don't already have a GPIO library, but do for sockets or serial, or from programs that expect a serial port, and do that from half a world away.",
     "tags": [
         "poster"

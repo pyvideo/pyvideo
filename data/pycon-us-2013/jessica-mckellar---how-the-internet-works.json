@@ -16,6 +16,7 @@
         "Jessica McKellar"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk is an introduction to the Internet's structure and protocols through fun experiments from the Python perspective. We'll use Python libraries like Scapy and Twisted to explore what happens at a networking level as you surf the Web, how coffee shop Internet access works, and more.",
     "tags": [
         "talk"

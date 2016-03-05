@@ -16,6 +16,7 @@
         "Katarzyna Jachim"
     ],
     "state": 1,
+    "status": "published",
     "summary": "When you think about Python+testing, you usually think about testing your code - unittests, mostly. But it is not the only case! When you have a big system, you need to test it on much higher level - if only to check if all the components are wired in the right way. You may do it manually, but it is tedious and time-consuming - so you want to automate it. And here comes Python - the language of choice in many QA departments.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/I-Hbi81G6Ls/hqdefault.jpg",

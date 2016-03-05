@@ -16,6 +16,7 @@
         "Chris Fonnesbeck"
     ],
     "state": 1,
+    "status": "published",
     "summary": "PyMC is a Python module that implements Bayesian statistical models and fitting algorithms, including Markov chain Monte Carlo (MCMC). Its flexibility, extensibility, and clean interface make it applicable to a large suite of statistical modeling applications. The upcoming release of PyMC 3 features an expanded set of MCMC samplers, including Hamiltonian Monte Carlo.",
     "tags": [
         "markov",

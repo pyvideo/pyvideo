@@ -16,6 +16,7 @@
         "Jake VanderPlas"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Statistical analysis comes in two main flavors: frequentist and Bayesian. The subtle differences between the two can lead to widely divergent approaches to common data analysis tasks. After a brief discussion of the philosophical distinctions between the views, I\u2019ll utilize well-known Python libraries to demonstrate how this philosophy affects practical approaches to several common analysis tasks.",
     "tags": [
         "statistics"

@@ -16,6 +16,7 @@
         "Barry Warsaw"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Mailman 3 has been in development for several years. This is an evolution of\nthe ever popular mailing list management system that runs thousands of mailing\nlists around the world. This talk describes how the code has been modernized\nand how the architectural deficiencies of Mailman 2 have been addressed using\nREST and other technologies. This is a spinoff from the AOSA chapter on\nMailman 3.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/dX3DRdFKW_E/hqdefault.jpg",

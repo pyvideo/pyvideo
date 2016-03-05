@@ -16,6 +16,7 @@
         "Wolfgang Schnerring"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Werkzeuge erleichtern uns die Arbeit oder nehmen sie uns durch Automatisierung\nsogar ganz ab. In diesem Vortrag stelle ich einige Werkzeuge vor, die sich im\nAlltag bew\u00e4hrt haben, von der ersten Idee bis zur Live-Schaltung einer\nWebanwendung, von Testen \u00fcber Debugging bis Deployment, f\u00fcr Python bis\nJavascript.\n\nDer Vortrag richtet sich an (Web-)Entwickler aller Arten. Er soll als\nInspiration sowie als Ansto\u00df zum Gedankenaustausch miteinander dienen: Was f\u00fcr\nWerkzeuge benutze ich andauernd? Welche davon m\u00f6chte ich nie mehr missen? \u00dcber\nwelche \u00e4rgere ich mich, welche k\u00f6nnten deutlich besser sein? Wie l\u00f6sen andere\ndie \u00fcblichen Probleme?\n\n",
     "tags": [],
     "thumbnail_url": "http://i4.ytimg.com/vi/sJtPP2BO9BE/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Florian Ludwig"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Tornado ist eine asynchrone Netzwerkbibliothek mit der F\u00e4higkeit zehntausende Verbindungen zu verwalten. Dieser Vortrag legt dar, wie dies erreicht wird und f\u00fcr welche Probleme Tornado die L\u00f6sung ist - und f\u00fcr welche nicht. Mit Praxisbeispielen wird vorgestellt, wie TCP-Server und Webanwendungen realisiert werden k\u00f6nnen und wie man asynchron auch ohne Callback-Jungle programmieren kann.",
     "tags": [
         "asynchron",

@@ -16,6 +16,7 @@
         "Daniel Lindsley"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The focus of this talk will be on some pragmatic tips on how to design\nprogrammatic (non-web-based) APIs for use by other developers.\n\n",
     "tags": [
         "api",

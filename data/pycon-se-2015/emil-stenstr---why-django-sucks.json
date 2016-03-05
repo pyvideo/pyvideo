@@ -16,6 +16,7 @@
         "Emil Stenstr"
     ],
     "state": 1,
+    "status": "published",
     "summary": "When you love something very much, you run the risk of losing perspective. This is my chance to take on a more negative view of Django, and talk about its worst parts. I will talk about five problem areas: Async, Components, NoSQL, Isomorphic apps, and Single codebase.",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/Niq-HoraNPo/maxresdefault.jpg",

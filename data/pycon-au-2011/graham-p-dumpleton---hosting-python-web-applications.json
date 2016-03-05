@@ -16,6 +16,7 @@
         "Graham P Dumpleton"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Web applications which are able to dynamically deliver up content\nhave&nbsp_place_holder;become a crucial part of the Internet landscape, with\nPython becoming an increasingly popular choice for the implementation of all\nmanner of web applications. In order though for users to be able to access\nyour web application you need to host it. The choices available are however\nmany and varied with accurate information on which may be a good choice not\nalways easy to find.\n\n",
     "tags": [
         "hosting",

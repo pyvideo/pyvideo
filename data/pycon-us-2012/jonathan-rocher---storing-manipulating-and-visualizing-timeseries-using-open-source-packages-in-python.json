@@ -16,6 +16,7 @@
         "Jonathan Rocher"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Analyzing, storing and visualizing time-series efficiently are recurring\nthough difficult tasks in various aspects of scientific data analysis such as\nmeteorological forecasting, financial modeling, ... In this talk we will\nexplore the current Python ecosystem for doing this effectively, comparing\noptions, using only open source packages that are mature yet still under\nactive development.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/qTwvObrRGdY/hqdefault.jpg",

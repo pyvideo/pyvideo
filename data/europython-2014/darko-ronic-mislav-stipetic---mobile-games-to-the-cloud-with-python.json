@@ -17,6 +17,7 @@
         "Mislav Stipetic"
     ],
     "state": 1,
+    "status": "published",
     "summary": "When a mobile game development company decides to switch to a more cloud based development it is faced with obstacles different from those it's used to on mobile devices. This talk explains how Python provided us with most of the infrastructure for this task and how a Python game backend was built as a result.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/wWypp2KexGs/hqdefault.jpg",

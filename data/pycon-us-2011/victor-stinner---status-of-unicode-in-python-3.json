@@ -16,6 +16,7 @@
         "Victor Stinner"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Introduced in Python 2.0, unicode became the default string type in Python\n3.0. It took 8 years to switch to unicode, and since Python 3.0, a lot of bugs\nhas been fixed. The switch to unicode opened many questions. Should Python\nsupport both bytes and characters for filenames? What to do with undecodable\nbytes? etc.\n\n",
     "tags": [
         "pycon",

@@ -16,6 +16,7 @@
         "Rohit Sankaran"
     ],
     "state": 1,
+    "status": "published",
     "summary": "I'll introduce the WSGI ecosystem. We'll then setup a Django app and deploy it\nto a VM. I'll cover server setup/config and best practices and cover software\nused like Fabric, nginx etc. Sample nginx, WSGI and Apache configs will be\nprovided. People can follow along and I'll provide download links after so\nthey can try it at home. This will be the best meeting ever.\n\n",
     "tags": [
         "apache",

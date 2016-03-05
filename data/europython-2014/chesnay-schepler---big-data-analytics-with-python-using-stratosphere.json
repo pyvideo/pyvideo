@@ -16,6 +16,7 @@
         "Chesnay Schepler"
     ],
     "state": 1,
+    "status": "published",
     "summary": "[Stratosphere](http://stratosphere.eu/) is a distributed platform for advanced big data analytics. It features a rich set of operators, advanced, iterative data flows, an efficient runtime, and automatic program optimization. We present Stratophere's new Python programming interface. It allows Python developers to easily get their hands on Big Data.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/J3RMB4HgcRw/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Max Tepkeev"
     ],
     "state": 1,
+    "status": "published",
     "summary": "During the last 7 years the company I am working for developed more than 800 projects in PHP and Python. All this time we were using Apache+nginx for hosting this projects. In this talk I will explain why we decided to switch all our projects from Apache+nginx to uWSGI+nginx and how we did that.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/e8Fz3bxPFC4/hqdefault.jpg",

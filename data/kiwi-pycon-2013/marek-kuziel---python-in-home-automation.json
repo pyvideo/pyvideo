@@ -16,6 +16,7 @@
         "Marek Kuziel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Using Python to build a Home Automation system by connecting various bits of (open) hardware with protocols such as MQTT, or XMPP. Creating web-based interfaces for HA systems.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/hXnDyHidDqo/hqdefault.jpg",

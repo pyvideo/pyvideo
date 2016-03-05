@@ -16,6 +16,7 @@
         "Matt Davis"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The IPython Notebook offers a number of advantages when teaching programming. It eliminates the need to switch between the command line and an editor, provides a consistent interface for students, and provides an easy to share and reuse file format. I\u2019ll discuss how I and others are using the IPython Notebook to reduce the mental load on students to make learning and teaching easier for everyone.",
     "tags": [
         "talk"

@@ -21,6 +21,7 @@
         "andrea crotti"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Starting off with the meaning of metaprogramming we quickly dive into the different ways Python allows this.\r\n\r\nFirst we talk about class and functions decorators, when decorators are not enough anymore we'll explore the wonders of metaclasses.\r\n\r\nIn the last part of the talk we'll talk about macros, first in Lisp and then using the amazing [macropy library](https://github.com/lihaoyi/macropy).",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/-i3UXrCNjPM/hqdefault.jpg",

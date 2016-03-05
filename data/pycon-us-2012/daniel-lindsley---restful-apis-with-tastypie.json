@@ -16,6 +16,7 @@
         "Daniel Lindsley"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Providing full-featured REST APIs is an increasingly popular request. Tastypie\nallows you to easily implement a customizable REST API for your Python or\nDjango applications.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/Zv26xHYlc8s/hqdefault.jpg",

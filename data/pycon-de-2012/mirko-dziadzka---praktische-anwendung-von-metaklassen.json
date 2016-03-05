@@ -16,6 +16,7 @@
         "Mirko Dziadzka"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Metaklassen (metaclasses) in Python werden oft als exotische Spracheigenschaft\nbetrachtet. Der Vortrag zeigt anhand konkreter Beispiele, wie sich Metaklassen\nin realen Projekten zum Debuggen und zum Code vereinfachen einsetzen lassen.\n\n# Praktische Anwendungen von Metaklassen\n\nPython besitzt mit den Metaklassen ein sehr m\u00e4chtiges Werkzeug, um orthogonale\nEigenschaften eines Programms zu Implementieren. Das Stichwort dazu lautet\n\"aspektorientiertes Programmieren\". Leider werden Metaklassen aber oft als\nkomplex und schwierig angesehen.\n\nDer Vortrag zeigt an einem konkreten Beispiel, wie sich durch die Verwendung\nvon Metaklassen Programmentwicklung vereinfachen kann. Konkret wird die\nImplementation eines einfachen Debug- und Trace Frameworks vorgestellt.\n\nDieses erlaubt das nachtr\u00e4gliche instrumentieren von Klassen-Methoden, um eine\nselektive Ablaufverfolgung von Methodenaufrufen auf Objekten erm\u00f6glicht. Dies\nwird erreicht, ohne das diese Debug Aufrufe im normalen Quellcode erscheinen\noder bei nicht Benutzung Performance Auswirkungen haben.\n\n",
     "tags": [
         "debugging",

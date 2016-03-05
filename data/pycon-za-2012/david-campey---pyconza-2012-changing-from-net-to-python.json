@@ -16,6 +16,7 @@
         "David Campey"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Changing from .Net to Python: David Campey's talk at PyConZA 2012",
     "tags": [
         "pyconza",

@@ -16,6 +16,7 @@
         "Eric Snow"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In 2.6, Python introduced the Abstract Base Classes. Before that we had\n\"protocols\" (and we still do). In this talk we'll look at how the general\nconcept of interfaces fits into today's Python. We'll also look at some of the\nalternate proposals of the past, some of the controversies around ABCs, and\nthe direction interfaces might go in the future.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/4-TwdBuTR1A/hqdefault.jpg",

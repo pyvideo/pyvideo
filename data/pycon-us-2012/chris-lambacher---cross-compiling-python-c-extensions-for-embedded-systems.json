@@ -16,6 +16,7 @@
         "Chris Lambacher"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Cross-compiling is not a use case directly supported by the Python build and\nextension system. This talk will discuss the process of building python for\nyour embedded platform, and the basics of getting C extensions compiled and\nrunning. It will focus on Linux so that the build host and the build target\nare the same.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/nhr-YErfW8k/hqdefault.jpg",

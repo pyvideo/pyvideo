@@ -16,6 +16,7 @@
         "Ryan Kelly"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Do you enjoy writing test cases for your web application? If so then this may\nnot be the talk for you. I'm going to show you how to make a single test suite\nperform triple testing duty, so you can get on with writing the fun stuff.\n\n",
     "tags": [
         "WebTest"

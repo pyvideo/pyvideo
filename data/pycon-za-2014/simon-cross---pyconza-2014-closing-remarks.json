@@ -16,6 +16,7 @@
         "Simon Cross"
     ],
     "state": 1,
+    "status": "published",
     "summary": "PyConZA 2014 closing remarks.",
     "tags": [
         "pyconza",

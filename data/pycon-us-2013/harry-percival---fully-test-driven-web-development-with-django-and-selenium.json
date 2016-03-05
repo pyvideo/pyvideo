@@ -25,6 +25,7 @@
         "Harry Percival"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The concept: run through the official Django tutorial, but with full TDD.\r\n\r\nSo, Browser-based testing with Selenium + in-depth unit-testing; \r\n\r\nTDD Discussions: what to test, what not to test; \r\n\r\nAimed at beginners (new to Django, TDD or Selenium)\r\n\r\nCome prepared! you\u2019ll need Git, Firefox, Python2.7, Django1.4 and Selenium installed",
     "tags": [
         "tutorial"

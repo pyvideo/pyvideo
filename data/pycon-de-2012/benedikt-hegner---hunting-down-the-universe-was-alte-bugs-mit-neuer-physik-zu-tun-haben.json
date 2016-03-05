@@ -16,6 +16,7 @@
         "Benedikt Hegner"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Zur Zeit findet am CERN in Genf wohl eins der gr\u00f6\u00dften wissenschaftlichen\nExperimente der Menschheit statt - der LHC. Aber was wird an diesem\nTeilchenbeschleuniger eigentlich gemacht? Warum fasziniert die Suche nach dem\nHiggs eine ganze Physikergeneration? Wieso ist der LHC nicht nur\neinphysikalisches, sondern auch ein soziologisches Experiment? Und was hat\nschlussendlich die Suche nach neuen Teilchen mit Python und der Suche nach\nBugs zu tun? Diese Keynote wird versuchen, diese und andere Fragen zu\nbeleuchten.\n\n",
     "tags": [
         "keynote"

@@ -16,6 +16,7 @@
         "David Brown"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The Community Earth System Model produces orders of magnitude more data than earlier models, and the old data handling methods are no longer adequate. We discuss how PyNIO together with MPI for Python has provided the most efficient solution yet tested for the task of converting the raw output of the model to NetCDF files suitable both for archiving and for convenient use by scientists.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/egqo6NfAEtw/hqdefault.jpg",

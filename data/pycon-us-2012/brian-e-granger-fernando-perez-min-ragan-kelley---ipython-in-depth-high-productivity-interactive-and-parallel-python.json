@@ -18,6 +18,7 @@
         "Min Ragan-Kelley"
     ],
     "state": 1,
+    "status": "published",
     "summary": "IPython provides tools for interactive and parallel computing that are widely\nused in scientific computing, but can benefit any Python developer. We will\nshow how to use IPython in different ways, as: an interactive shell, an\nembedded shell, a graphical console, a network-aware VM in GUIs, a web-based\nnotebook with code, graphics and rich HTML, and a high-level framework for\nparallel computing.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/2G5YTlheCbw/hqdefault.jpg",

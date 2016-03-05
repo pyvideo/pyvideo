@@ -16,6 +16,7 @@
         "Patrick Peglar"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Biggus is a lightweight pure-Python package which implements lazy operations on numpy array-like objects. This provides dramatically improved efficiency in analysing large datasets, for minimal additional effort in the client code.",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/7rpcWZJaGFo/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Jim Baker"
     ],
     "state": 1,
+    "status": "published",
     "summary": "As a dynamic language, Python is difficult to optimize. In addition, these\ndynamic features make using Python code from Java currently too complex.\nHowever, Java 7 adds the invokedynamic bytecode and corresponding library\nsupport, making it possible to finally address these problems in Jython. This\ntalk will describe work in progress to make Jython faster and better\n(improving Java integration).\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/y_cXzaymXm0/hqdefault.jpg",

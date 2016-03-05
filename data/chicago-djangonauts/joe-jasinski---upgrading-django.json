@@ -16,6 +16,7 @@
         "Joe Jasinski"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Joe Jasinski: upgrading Django\r\n\r\n\r\n(Please expand - 1 or 2 lines is fine.  see http://pyvideo.org/category/17/pycon-us-2012 for how it will be used)",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/DvDX94_x1bk/hqdefault.jpg",

@@ -18,6 +18,7 @@
         "Thomas Robitaille"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Astropy is a community-based software project to coordinate the development of libraries and applications for astronomy. We will report on progress that has been made with astropy since the last scipy conference.",
     "tags": [
         "astronomy",

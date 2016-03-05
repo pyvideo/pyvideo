@@ -16,6 +16,7 @@
         "Toby Rosen"
     ],
     "state": 1,
+    "status": "published",
     "summary": "\"The Pyed Piper\", or pyp, is a linux command line text manipulation tool\nsimilar to awk or sed, but which uses standard python string and list methods\nas well as custom functions evolved to generate fast results in an intense\nproduction environment.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/3UHE-zD1r_M/hqdefault.jpg",

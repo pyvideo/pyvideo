@@ -16,6 +16,7 @@
         "Noah Gift"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Learn how cool it is to write command-line tools using IronPython and Visual\nStudios. In this talk we cover why command-lines tools are important for .NET\nshops, how to write one, and finally, how to distribute it as a standalone\n.exe.\n\n",
     "tags": [
         "commandline",

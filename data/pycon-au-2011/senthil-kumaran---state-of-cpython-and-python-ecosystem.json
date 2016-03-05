@@ -16,6 +16,7 @@
         "Senthil Kumaran"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This a high level overview of the State of CPython interpreter and other\npython interpreters. The talk will mention about the\n&nbsp_place_holder;changes in 3.2 release and changes coming up in 3.3 release\nand status of Python2.7. It will also give the details of current state of\nPyPy Project, IronPython project and Jython Project..\n\n",
     "tags": [
         "cpython",

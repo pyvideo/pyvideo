@@ -16,6 +16,7 @@
         "Josh Williams"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will primarily cover PL/Python, allowing you to write procedural functions inside yoour databases.  Specifically we'll cover the basics of writing a function, touch upon some advanced usage like trigger functions, and then display some fun things that can be done when Python runs inside the database.",
     "tags": [
         "talk"

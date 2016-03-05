@@ -16,6 +16,7 @@
         "Carl Meyer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Pip and virtualenv: many use them; not so many understand just how they work\ntheir magic. If you're a pip/virtualenv user but haven't yet dared crack the\nlid (or you have, and found it a bit difficult to follow), come along for a\nfast-paced guided tour. Knowing these tools will help you make more effective\nuse of them, and might also turn you into a contributor.\n\n",
     "tags": [
         "chipy",

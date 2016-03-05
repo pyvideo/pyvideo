@@ -16,6 +16,7 @@
         "M.Yasoob Khalid"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk is about web scraping in Python, why web scraping is useful and what Python libraries are available to help you. I will also look into proprietary alternatives and will discuss how they work and why they are not useful. I will show you different libraries used in web scraping and some example code so that you can choose your own personal favourite. I will also tell why writing your own scrapper in scrapy allows you to have more control over the scraping process.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/TeXRh17pB6c/hqdefault.jpg",

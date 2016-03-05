@@ -16,6 +16,7 @@
         "Mike M\u00fcller"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python supports several functional programming concepts. The presentations shows how to use functional features such as functions as first-class objects, closures, side-effect-fee functions, currying, lazy evaluation, no mutable data structures and use of iterators instead of loops. The focus is on integration of these concepts in existing programs.",
     "tags": [
         "talk"

@@ -16,6 +16,7 @@
         "Alexander Gaudio"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This is a two part class aimed at expanding a developer's toolset with both\ntmux and IPython. In the first half, we will learn about tmux. I will first\nexplain its client-server model and general architecture, compare it to GNU\nscreen, and show some use cases. Then, we will start using it, create a\ncustomized profile, and solve a simple distributed computing problem with\ntmux. In the second half of this class, we will start using IPython. I will\nfirst explain what it is and review different use cases. Then, we will start\nusing some basic commands, customize our profile and aliases, integrate python\nand shell scripting into the same code, and, time permitting, see some of the\ninteractive scientific computing and interactive distributed computing\npossibilities. If you have one, bring a laptop with tmux and IPython already\ninstalled.\n\n",
     "tags": [
         "gnuscreen",

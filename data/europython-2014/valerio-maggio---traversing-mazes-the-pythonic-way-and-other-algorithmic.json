@@ -16,6 +16,7 @@
         "Valerio Maggio"
     ],
     "state": 1,
+    "status": "published",
     "summary": "**Graphs** define a powerful mental (and mathematical) model of structure, \r\nrepresenting the building blocks of formulations and/or solutions \r\nfor many *hard problems*. In this talk, graphs and (*some of the*) main \r\ngraph-related algorithms will be analysed from a **very pythonic** angle:\r\nthe [Zen of Python][1] (e.g., *beautiful is better than ugly*, \r\n*simple is better than complex*, *readability counts*).\r\n\r\n[1]: http://www.python.org/dev/peps/pep-0020/ \"PEP20: The Zen of Python\"",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/TeWfOgjFeT0/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "David Warde-Farley"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk/poster will outline and present recent work in integrating Hyperopt, a package for the optimization of the hyperparameters of machine learning algorithms, with Pylearn2, a machine learning research and prototyping framework focused on \"deep learning\" algorithms, the technical challenges we faced and how we addressed them.",
     "tags": [
         "machine learning"

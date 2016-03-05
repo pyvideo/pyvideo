@@ -16,6 +16,7 @@
         "James Bennett"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A tutorial that goes beyond all other Django tutorials; we'll dive deep into\nthe guts of the framework, and learn how each commonly-used component -- ORM,\ntemplates, HTTP handling, views and the admin -- work from the bottom up,\ncovering both public and internal APIs in excruciating detail.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/t_ziKY1ayCo/hqdefault.jpg",

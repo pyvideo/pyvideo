@@ -16,6 +16,7 @@
         "Brian K. Jones"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Writing isn't just about dry project documentation or docstrings. It can actually be fun and interesting, and it's an enormous benefit to the community. This talk makes the case that writing is our civic duty to our community, and gives some tips to get started writing for various different venues & audiences.",
     "tags": [
         "talk"

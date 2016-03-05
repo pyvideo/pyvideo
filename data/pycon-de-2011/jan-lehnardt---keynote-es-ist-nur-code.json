@@ -16,6 +16,7 @@
         "Jan Lehnardt"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Jeder Programmierer kennt diese Unterhaltung. \"Ich mache grade ein Projekt in Sprache XY...\" \u2014 \"Ieh! In 'XY', wirklich?!\". Loyalit\u00e4tsbekundungen zu Programmiersprachen sind nicht nicht selten und in der Regel auch gut. Oft jedoch schwingt die Stimmung von \"wir finden alle Python/PHP/Ruby/Perl gut\" zu \"wir finden alles andere doof!\". Zu oft. Diese Keynote n\u00e4hert sich der Python Gemeinde von au\u00dfen und bringt zahlreiche Einblicke in andere \"Gemeinden\", und sogar \"Religionen\" mit und versucht mit gegenseitigen Vorurteilen aufzur\u00e4umen. Denn wenn wir alle (alle alle) zusammenarbeiten k\u00f6nnen wir besser voneinander lernen und unser Programmiererleben einfacher, sch\u00f6ner und entspannter machen.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/pu4zrlWzd6k/hqdefault.jpg",

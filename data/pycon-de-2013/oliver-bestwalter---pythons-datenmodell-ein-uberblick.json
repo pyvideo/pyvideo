@@ -16,6 +16,7 @@
         "Oliver Bestwalter"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Pythons Datenmodell ist sehr einfach: alles ist ein Objekt (wirklich *alles*).\r\nDar\u00fcberhinaus verf\u00fcgt die Sprache \u00fcber eine Reihe von Konventionen und Protokollen, die es sehr einfach machen, die eigenen Klassen dazu zu \u00fcberreden, sich wie native Datentypen zu verhalten.\r\n\r\nIn diesem Vortrag werden die daf\u00fcr n\u00f6tigen zentralen Konzepte eingef\u00fchrt und mittels einfacher Beispiele demonstriert.\r\n\r\n",
     "tags": [
         "datenmodell",

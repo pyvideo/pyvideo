@@ -16,6 +16,7 @@
         "Daniel Rocco"
     ],
     "state": 1,
+    "status": "published",
     "summary": "PostgreSQL is widely regarded as a powerful, full-featured, high-performance,\r\nscalable open source relational database management system.  But did you know\r\nthat Postgres has a built in publish-subscribe implementation? This powerful\r\nfeature offers exciting possibilities for distributed, data-centric\r\napplications.\r\n",
     "tags": [
         "talk"

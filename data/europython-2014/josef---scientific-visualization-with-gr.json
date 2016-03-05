@@ -16,6 +16,7 @@
         "Josef"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python developers often get frustrated when managing visualization packages that cover the specific needs in scientific or engineering environments. The [*GR* framework](http://gr-framework.org/) could help. *GR* is a library for visualization applications ranging from publication-quality 2D graphs to the creation of complex 3D scenes and can easily be integrated into existing Python environments or distributions like *Anaconda*.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/-oSAMkqbWjs/hqdefault.jpg",

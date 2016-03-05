@@ -16,6 +16,7 @@
         "Benjamin Peterson"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The Python community is abuzz about the major speed gains PyPy can offer pure\nPython code. But how does PyPy JIT actually work? This talk will discuss how\nthe PyPy JIT is implemented. It will include descriptions of the tracing,\noptimization, and assembly generation phases. I will demonstrate each step\nwith a example loop.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/NIcijUt-HlE/hqdefault.jpg",

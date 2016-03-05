@@ -16,6 +16,7 @@
         "Jason Wirth"
     ],
     "state": 1,
+    "status": "published",
     "summary": "ipython was a big focus of Scipy:  Fernando gave a keynote, Brian gave a talk, and there was a tutorial. \r\n\r\n ipython appeals to a broad audience from beginners to advanced users. \"IDLE is awful and I basically learned Python using iPython\" says Jason, whose presentation will touch on the powerful features and extensibility for advanced users.",
     "tags": [
         "ipython"

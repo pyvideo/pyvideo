@@ -16,6 +16,7 @@
         "Ari Lacenski"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Web APIs built with REST patterns may sometimes need to offer services that don't fit the REST model. This talk will discuss when an application might need to use both REST and RPC patterns, and delve into working examples for a Django site whose API runs on Tastypie.",
     "tags": [
         "talk"

@@ -16,6 +16,7 @@
         "Klaus Bremer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Django class based generic views k\u00f6nnen zu einer strukturell einheitlichen\nView-Programmierung beitragen, was Programm-Entwicklungen erleichtern und\nm\u00f6gliche Fehler verringern kann. Der Talk gibt eine Einf\u00fchrung in Struktur und\nFunktionsweise dieses Subframeworks.\n\nMit den class based generic views bietet Django ein umfangreiches Subframework\nzum erstellen von class based views. Die Dokumentation ist recht rudiment\u00e4r\nund erlaubt nur einen groben \u00dcberblick, erst die Studie des Quellcodes\noffenbart ein tieferes Verst\u00e4ndnis der Klassenhierarchie und Funktionsweise.\nZiel dieses Talks ist es, durch Vermitteln der Funktionsweise eine\nEinarbeitung zu erleichtern.\n\n",
     "tags": [
         " class based generic views",

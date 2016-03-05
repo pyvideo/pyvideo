@@ -16,6 +16,7 @@
         "Johann du Toit"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Millions of people read news monthly, and news tend to happen in bursts. The ideal infrastructure is able to scale up or down as soon as needed and provide a way to let you proactively manage your servers rather than reactively, which in the media game is a deal breaker. It gets even worse when you're running most of the local publication sites, including some big name players.",
     "tags": [
         "pyconza",

@@ -16,6 +16,7 @@
         "Ben Timby"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Ctypes is a great way to bring the depth and breadth of C libraries into Python. Whether trying not to reinvent the wheel, squeezing a bit more performance out of your code or needing to interoperate with C software, ctypes could be exactly what you need.",
     "tags": [
         "talk"

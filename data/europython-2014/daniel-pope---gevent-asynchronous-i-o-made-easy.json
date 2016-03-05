@@ -16,6 +16,7 @@
         "Daniel Pope"
     ],
     "state": 1,
+    "status": "published",
     "summary": "gevent provides highly scalable asynchronous I/O without becoming a nest of callbacks, or even needing code changes.\r\n\r\nDaniel will explain how to get started with gevent, discuss patterns for its use and describe the differences with Twisted, Tornado and Tulip/asyncio.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/0wpYQr-_kqg/hqdefault.jpg",

@@ -17,6 +17,7 @@
         "Min RK"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Learn about interactive parallel computing in IPython.parallel, with examples including parallel image processing, machine learning, and physical simulations. IPython provides an easy way to interact with your multicore laptop or compute cluster.",
     "tags": [
         "ipython"

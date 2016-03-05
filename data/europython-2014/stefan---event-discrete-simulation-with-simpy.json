@@ -16,6 +16,7 @@
         "Stefan"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Often, experiments with real world systems are high-risk, accompanied by high\r\ncosts or not even possible at all. That\u2019s when simulations come into play.\r\nThis talk will give a brief introduction into the topic of simulation. By means\r\nof simple examples, it will demonstrate how you can use SimPy to implement\r\nevent-discrete simulations and which features SimPy offers to help you doing\r\nthat.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/Bk91DoAEcjY/hqdefault.jpg",

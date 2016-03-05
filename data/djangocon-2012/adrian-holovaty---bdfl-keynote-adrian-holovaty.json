@@ -16,6 +16,7 @@
         "Adrian Holovaty"
     ],
     "state": 1,
+    "status": "published",
     "summary": "DjangoCon 2012 - BDFL Keynote - Adrian Holovaty\n\n",
     "tags": [
         "django"

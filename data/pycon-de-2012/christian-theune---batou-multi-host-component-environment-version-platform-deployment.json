@@ -16,6 +16,7 @@
         "Christian Theune"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Batou ist ein Open-Source Werkzeug um mit Python das Deployment von komplexen\nAnwendungen zu beschreiben und zu automatisieren.\n\nDas Konzept besteht darin eine passende allgemeine Modellsprache in Form einer\nAPI zu definieren. Dabei stehen Wiederverwendung, Toleranz gegen\u00fcber\nunbekannten Zust\u00e4nden und Ausdrucksst\u00e4rke im Vordergrund.\n\nDer Vortrag zeigt den Werdegang und unsere Motivation zur Entwicklung von\nbatou auf und zeigt die konzeptionellen St\u00e4rken anhand praktischer Beispiele.\n\nWir haben in den letzten Jahren eine Reihe gro\u00dfer und kleiner Projekte beim\nDeployment betreut.\n\nIm Rahmen unserer Plattform \"gocept.net\" bereiten wir unsere Erfahrungen in\nDokumentation und offenen Werkzeugen auf und haben daher batou entwickelt.\n\nbatou ist sowohl in Python geschrieben und nutzt Python um Deployment-\nStrukturen zu beschreiben.\n\nWir m\u00f6chten Batou gerne vorstellen um unsere Erfahrungen weiterzugeben und\n(auch auf den Sprints) anzuregen sich mit dem Werkzeug auseinanderzusetzen,\nFeedback zu bekommen, und daran weiterzuarbeiten.\n\nBeispiel-Code des Werkzeugs:\n\n[https://code.gocept.com/hg/public/batou/file/920e606b2959](https://code.gocep\nt.com/hg/public/batou/file/920e606b2959)\n\nBeispiel einer Deployment-Beschreibung:\n\n[https://bitbucket.org/ctheune/sprintsite](https://bitbucket.org/ctheune/sprin\ntsite)\n\n",
     "tags": [
         "deployment"

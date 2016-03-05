@@ -16,6 +16,7 @@
         "Tres Seaver"
     ],
     "state": 1,
+    "status": "published",
     "summary": "As more and more of the web experience moves into the browser, enabling acesss\nto your application's data via asynchronous HTTP calls is increasingly more\nimportant. Pyramid is a lightweight web framework which has several features\nfor serviing such queries easy.\n\n",
     "tags": [],
     "thumbnail_url": "http://i4.ytimg.com/vi/71Ln37E11Ls/hqdefault.jpg",

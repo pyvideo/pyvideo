@@ -16,6 +16,7 @@
         "Nicole White"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Flask, a popular Python web framework, has many tutorials available online that use an SQL database to store information about the website\u2019s users and their activities. In this session, we\u2019ll use Neo4j instead of SQL to build social aspects into our application, including recommending similar users to the logged-in user.",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/ZMOHEh-caTc/maxresdefault.jpg",

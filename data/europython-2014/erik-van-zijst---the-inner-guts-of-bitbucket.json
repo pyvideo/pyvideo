@@ -16,6 +16,7 @@
         "Erik van Zijst"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Today Bitbucket is more than 30 times bigger than at the time of acquisition almost 4 years ago and serves repositories to over a million developers.\r\n\r\nThis talk lays out its current architecture in great detail, from Gunicorn and Django to Celery and HA-Proxy to NFS.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/2ll2ER3wpus/hqdefault.jpg",

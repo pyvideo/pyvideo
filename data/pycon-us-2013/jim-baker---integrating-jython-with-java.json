@@ -16,6 +16,7 @@
         "Jim Baker"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Jython provides a nearly seamless integration when using Java\r\ncode. Using Jython from Java is not nearly as seamless, at least not\r\nyet. There are also several choices, depending on what you're doing,\r\nfrom object factories to using Java Scripting (JSR-223) support. This\r\ntalk will discuss techniques, gotchas, and ongoing work to improve integration.",
     "tags": [
         "talk"

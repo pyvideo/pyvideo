@@ -16,6 +16,7 @@
         "Laura Richter"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The ipython environment lends itself to teaching and learning: immediate feedback, flexible visualisation, easy access to docstrings and ability to explore modules.\nWith development of the ipython notebook, this is taken a step further, by providing browser-based access to an ipython environment with the ability to share notebooks with others, embed output products and annotate code.\nI will present some experience of using ipython as a teaching tool in a tertiary teaching environment in Radio Astronomy courses in Windhoek, Nairobi and Cape Town.",
     "tags": [
         "pyconza",

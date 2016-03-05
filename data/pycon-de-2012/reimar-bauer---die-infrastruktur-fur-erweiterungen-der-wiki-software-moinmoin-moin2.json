@@ -16,6 +16,7 @@
         "Reimar Bauer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Die Wiki Software moin2 kann mehr als nur ein Wiki betreiben.\n\nU.a. kann man moin2 f\u00fcr einen Pastebin, Blog und ein Ticket-System verwenden.\n\nDer Vortrag gibt Einblick in Erweiterungen und den Stand der Entwicklung.\n\nmoin2 ist ein Redesign der Wiki-Software von moin1.\n\nEs hat viele Merkmale mit einigen anderen Webanwendungen gemeinsam.\n\nDurch die offene Architektur und die vorhandenen Sicherheitsmechanismen gegen\nSpam ist es z.B. m\u00f6glich einen pastebin analog zu lodgeit zu integrieren.\n\nBlog Posts unterscheiden sich auch nicht wesentlich von Wiki Items. Mit einem\nTicket-System lassen sich Arbeitsabl\u00e4ufe optimieren.\n\nDer Vortrag zeigt, wie in moin2 solche Erweiterungen integriert werden und\nzeigt den Stand der aktuellen Entwicklung.\n\nF\u00fcr Eigenentwicklungen wird ein Einblick\n\nauf das neue Plugin Konzept gegeben.\n\n",
     "tags": [
         " moinmoin",

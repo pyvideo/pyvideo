@@ -14,6 +14,7 @@
     "source_url": "http://www.youtube.com/watch?v=PT-bvTXFk5Y",
     "speakers": [],
     "state": 1,
+    "status": "published",
     "summary": "[EuroPython 2011] Peter Geoghegan - 20 June 2011 in \"Track Ravioli\"\n\n",
     "tags": [
         "postgresql",

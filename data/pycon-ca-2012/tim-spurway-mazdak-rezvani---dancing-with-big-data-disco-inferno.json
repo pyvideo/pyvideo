@@ -16,6 +16,7 @@
         "Tim Spurway &  Mazdak Rezvani"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In our search for a better Map/Reduce framework we found Disco, an\nErlang/Python based Map/Reduce framework that's small, fast, elegant,\nunderstandable. We needed a way to tame the power of Disco and that's when we\ncame up with the Inferno project which takes even more complexity out of\nMap/Reduce. With Inferno you concentrate about what you want from your data\nand not the underlying complexity.\n\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/D3VFq97NhEk/hqdefault.jpg",

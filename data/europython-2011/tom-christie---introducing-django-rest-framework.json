@@ -16,6 +16,7 @@
         "Tom Christie"
     ],
     "state": 1,
+    "status": "published",
     "summary": "[EuroPython 2011] Tom Christie - 23 June 2011 in \"Track Tagliatelle\"\n\n",
     "tags": [
         "django",

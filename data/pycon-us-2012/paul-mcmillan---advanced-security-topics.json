@@ -16,6 +16,7 @@
         "Paul McMillan"
     ],
     "state": 1,
+    "status": "published",
     "summary": "If your Python application has users, you should be worried about security.\nThis talk will cover advanced material, highlighting common mistakes. Topics\nwill include hashing and salts, timing attacks, serialization, and much more.\nExpect eye opening demos, and an urge to go fix your code right away.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/JOXwclgvXB0/hqdefault.jpg",

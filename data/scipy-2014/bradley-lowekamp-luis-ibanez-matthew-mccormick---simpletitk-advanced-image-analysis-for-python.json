@@ -18,6 +18,7 @@
         "Matthew McCormick"
     ],
     "state": 1,
+    "status": "published",
     "summary": "SimpleITK brings advanced image analysis capabilities to Python. In particular, it provides support for 2D/3D and multi-components images with physical. SimpleITK exposes a large collection of image processing filters from ITK, including image segmentation and registration. SimpleITK is freely available as an open source package under the Apache 2.0 License.",
     "tags": [
         "image analysis"

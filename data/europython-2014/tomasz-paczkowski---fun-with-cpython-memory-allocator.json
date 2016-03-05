@@ -16,6 +16,7 @@
         "Tomasz Paczkowski"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Working with Python does not usually involve debugging memory problems: the interpreter takes care of allocating and releasing system memory and you get to enjoy working on real world issues. But what if you encounter such problems? What if your program never releases memory? How do you debug it?\r\n\r\nThis talk describes some of the lesser known properties of cPython memory allocator and some ways to debug memory-related problems, all this based on real events.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/l9Le_JOwgsM/hqdefault.jpg",

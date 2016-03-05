@@ -16,6 +16,7 @@
         "Benjamin Peterson"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will explore how garbage collection is implemented in CPython and PyPy. See how CPython deals reference counting's shortcomings with a special GC for cycle collection. Then dive into PyPy's sophisticated and high-performing GC implementations. The particularly thorny issue of finalizers in reference cycles will also be addressed.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/iHVs_HkjdmI/hqdefault.jpg",

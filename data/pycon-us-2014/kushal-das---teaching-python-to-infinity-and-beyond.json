@@ -16,6 +16,7 @@
         "Kushal Das"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Dgplug summer training is a free online IRC based course which aims to teach FOSS ideas and programming in general using Python to new programmers/stduents. In this talk we share our experiences, lesson learned, hoping that people will be able to replicate this in other parts of the world.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/j5YV5KzIbOc/hqdefault.jpg",

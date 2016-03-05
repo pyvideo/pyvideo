@@ -16,6 +16,7 @@
         "Jessica McKellar"
     ],
     "state": 1,
+    "status": "published",
     "summary": "What does it take to make a Python sandbox that can run untrusted code? Learn some surprising language features and experience security challenges first-hand as we work through building a Python sandbox from scratch. You'll leave this talk with renewed appreciation for the dynamic nature of Python, some sneaky language tricks, and a solid background in classes of sandboxing security issues.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/sL_syMmRkoU/hqdefault.jpg",

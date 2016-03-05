@@ -16,6 +16,7 @@
         "Fletcher Heisler"
     ],
     "state": 1,
+    "status": "published",
     "summary": "What does the perfect tweet or a viral blog post look like? When should it be posted? We'll introduce various tools for working with data in terms of collecting (requests), exploring (IPython, pandas), analyzing (NLTK, scikit-learn) and visualizing (matplotlib). In the process, we will uncover some surprising strategies for getting content shared across social media.",
     "tags": [
         "talk"

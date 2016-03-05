@@ -16,6 +16,7 @@
         "Richard Hattersley"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Cartopy is a Python package which builds on Proj.4 to define coordinate reference systems for the transformation and visualisation of geospatial data. It has a simple matplotlib interface for publication quality visualisation. This talk will outline some of cartopy's functionality and demonstrate some practical applications within the realm of scientific presentation of geospatial data.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/Ax75kA4_kRo/hqdefault.jpg",

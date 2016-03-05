@@ -16,6 +16,7 @@
         "Joe Jasinski"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Introduction to RabbitMQ, Celery, Django-celery, basic task types, and monitoring. This will provide a walk-through of how to get started and be productive with these tools.",
     "tags": [
         "RabbitMQ Celery"

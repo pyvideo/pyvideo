@@ -16,6 +16,7 @@
         "Justin Mayer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In addition to outlining strategies for proper configuration of unattended security updates, this talk briefly covers how to maintain the security of Docker container environments, where the above strategies generally do not apply. In such environments, an entirely different approach and workflow is usually required.",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/Vqs5opW8CAY/maxresdefault.jpg",

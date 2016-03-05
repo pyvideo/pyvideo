@@ -16,6 +16,7 @@
         "Brian Curtin"
     ],
     "state": 1,
+    "status": "published",
     "summary": "To a lot of people, the Python Software Foundation is a black box. After years of being on the outside of the box, a few years on the inside have given a good look at what this foundation is and why it matters. Come see what the PSF is about, what it's doing, and what you can do to help.",
     "tags": [
         "talk"

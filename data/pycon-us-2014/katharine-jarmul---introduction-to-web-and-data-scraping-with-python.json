@@ -16,6 +16,7 @@
         "Katharine Jarmul"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Want to learn how to scrape the web (and / or organized data sets and APIs) for content? This tutorial will give you the building blocks (and code) to begin your own scraping adventures. We will review basic data scraping, API usage, form submission as well as how to scrape pesky bits like Javascript-usage for DOM manipulation.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/p1iX0uxM1w8/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Brandon Rhodes"
     ],
     "state": 1,
+    "status": "published",
     "summary": "While Java and C# use static type declarations to eliminate ambiguity,\r\nthe Python programmer must survive\r\nthrough sheer clarity and consistency in naming variables.\r\nWe will explore the deep unspoken conventions\r\nthat the Python community has developed and honed over two decades\r\nto make Python code readable and meaningful within the freedom\r\nthat a dynamically-typed language grants us.",
     "tags": [
         "talk"

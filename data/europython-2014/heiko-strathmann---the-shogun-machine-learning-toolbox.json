@@ -16,6 +16,7 @@
         "Heiko Strathmann"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We present the Shogun Machine Learning Toolbox, a framework for Machine Learning, which is the art of finding structure in data, with applications in object recognition, brain-computer interfaces, robotics,  stock-prices prediction, etc. We give a gentle introduction to ML and Shogun's Python interface, focussing on intuition and visualisation.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/5Zuq0sLFkBY/hqdefault.jpg",

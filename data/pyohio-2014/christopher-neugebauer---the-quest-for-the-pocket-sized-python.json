@@ -16,6 +16,7 @@
         "Christopher Neugebauer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk surveys the current landscape of Python on the major Mobile platforms, and ways you can start targeting Mobile platforms with your Python code. We'll look at considerations for Mobile web development, the state of Python-based mobile toolkits, and progress towards Python-coded native UIs.",
     "tags": [
         "talk"

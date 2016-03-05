@@ -16,6 +16,7 @@
         "Kristen Thyng"
     ],
     "state": 1,
+    "status": "published",
     "summary": "An example of a Python wrapper of a FORTRAN code, applications of a Lagrangian trajectory model, and lessons learned about code development.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/8poLWacun50/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Rick Harding"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Everyone starts hacking on their little Python library or application, with\none goal in mind: Hacking Code! However, you need to do a little work to\nprepare your project for success. We'll discuss project layout, automation\nwith Make, and 3rd party services to help your project appear more organized,\naccessible, and dare I say, professional!\n\n",
     "tags": [],
     "thumbnail_url": "http://i3.ytimg.com/vi/VNSIDCwJxAg/hqdefault.jpg",

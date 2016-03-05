@@ -18,6 +18,7 @@
         "Marco Quaggiotto"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We describe the architecture of an application designed to enhance social interactions at conference gatherings by integrating data from online social networks and from wearable proximity sensors. The pipeline that processes the stream of sensor data and provides proximity-based services is implemented in Python and Twisted, and has been demonstrated to scale to thousands of simultaneous users.",
     "tags": [
         "poster"

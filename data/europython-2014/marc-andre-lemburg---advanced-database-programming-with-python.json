@@ -16,6 +16,7 @@
         "Marc-Andre Lemburg"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The Python DB-API 2.0 provides a direct interface to\r\nmany popular database backends. It makes interaction with\r\nrelational database very straight forward and allows tapping\r\ninto the full set of features these databases provide.\r\n\r\nThe talk will cover advanced database topics which are\r\nrelevant in production environments such as locks, distributed\r\ntransactions and transaction isolation.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/LyJ3evnz2Xw/hqdefault.jpg",

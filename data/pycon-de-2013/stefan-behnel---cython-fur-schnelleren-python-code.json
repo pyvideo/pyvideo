@@ -16,6 +16,7 @@
         "Stefan Behnel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Der [Cython-Compiler](http://cython.org) ist mehr als nur ein Weg, Erweiterungsmodule for CPython zu schreiben. Durch die statische \u00dcbersetzung von reinem Python-Code \u00f6ffnen sich neue M\u00f6glichkeiten, den Code vielfach zu beschleunigen. Anhand einiger Beispiele wird gezeigt, wie durch Profiling und gezielte manuelle Optimierung auch reiner Python-Code von statischer Kompilierung profitieren kann, ohne dabei das \u00d6kosystem der CPython-Laufzeitumgebung verlassen zu m\u00fcssen.\r\n",
     "tags": [
         "compiler",

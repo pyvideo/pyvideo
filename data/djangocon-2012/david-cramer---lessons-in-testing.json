@@ -16,6 +16,7 @@
         "David Cramer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Learn from failures (and successes) around testing patterns and culture in a\ngrowing company, both in amount of code, and number of engineers. We'll dive\ninto how DISQUS adopted testing, and the many challenges we've had to\novercome.\n\n",
     "tags": [
         "django",

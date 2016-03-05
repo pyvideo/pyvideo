@@ -16,6 +16,7 @@
         "Oliver Bestwalter"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Zusammenfassung der Diskussion um die Einf\u00fchrung einer Pfadklasse in die Python Standard Library. \u00dcberblick \u00fcber bereits existierende Bibliotheken, gefolgt von einem pragmatischen Ausblick.\r\n",
     "tags": [
         "peps",

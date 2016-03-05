@@ -16,6 +16,7 @@
         "Craig Hawco"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Big Data is not typically an area talked about when working with Python. We'll discuss some of the options out there, considerations about interfacing with the rest of your data solution, and the advantages and shortcomings of working with Python in the Hadoop ecosystem. ",
     "tags": [
         "talk"

@@ -18,6 +18,7 @@
         "Stefan Vollmar"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Wir haben mit VHIST ein Dateiformat entwickelt, um Workflows im Bereich Scientific Computing  m\u00f6glichst vollst\u00e4ndig zu erfassen. VHIST ist PDF-kompatibel sowie PDF-unabh\u00e4ngig auswertbar. Wir bieten Werkzeuge, um halb- bzw. vollautomatisch VHIST-Dateien zu generieren und auszuwerten. Die Referenzimplementierung verwendet Python; Python-(scriptable)-Programme k\u00f6nnen besonders gut integriert werden.\r\n\r\n",
     "tags": [
         "dokumentation",

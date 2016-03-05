@@ -16,6 +16,7 @@
         "Jiwon Seo"
     ],
     "state": 1,
+    "status": "published",
     "summary": "SociaLite is a Python-integrated query language for data analysis. It makes scientific data analysis simple, yet achieves fast performance with its compiler optimizations. We support relational tables and operations in SociaLite as well as Python integration, which makes it easy to implement various analysis algorithms, including Blast algorithm and genome assembly algorithm in bioinformatics.",
     "tags": [
         "bioinformatics",

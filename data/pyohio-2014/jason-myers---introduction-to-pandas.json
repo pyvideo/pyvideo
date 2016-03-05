@@ -16,6 +16,7 @@
         "Jason Myers"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Pandas is a great library for working reporting and statistical analysis.  We will cover data manipulation using Pandas, including indexing, alignment, join/merge methods, date/time types, and missing data.",
     "tags": [
         "talk"

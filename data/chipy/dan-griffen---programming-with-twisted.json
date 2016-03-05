@@ -16,6 +16,7 @@
         "Dan Griffen"
     ],
     "state": 1,
+    "status": "published",
     "summary": "  * What twisted is and its purpose in life (ie the reactor pattern).\n  * Non-blocking network programming.\n  * The confusing topic of deferreds and callbacks everywhere.\n  * Methods for dealing with blocking APIs.\n\n",
     "tags": [
         "chipy",

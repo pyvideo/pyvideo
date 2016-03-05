@@ -17,6 +17,7 @@
         "Nicole Zuckerman"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This is a talk about how to make junior and new engineers into independent and productive members of your engineering team faster and cheaper. We will focus on python specific resources and libraries that will help you create a simple but effective on boarding program, and talk about case studies of companies that have had success using these techniques.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/qxE1_MgHXI4/hqdefault.jpg",

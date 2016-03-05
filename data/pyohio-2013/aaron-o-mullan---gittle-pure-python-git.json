@@ -16,6 +16,7 @@
         "Aaron O'Mullan"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A talk about implementing the git protocol entirely in Python by building on top of Dulwich and then building a higher level library called gittle which basically is \"git for humans\".",
     "tags": [
         "talk"

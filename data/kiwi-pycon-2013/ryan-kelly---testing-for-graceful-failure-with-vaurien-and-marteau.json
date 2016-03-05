@@ -16,6 +16,7 @@
         "Ryan Kelly"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk shows how the Mozilla Services team test failure scenarios in their web services with two python-based tools: Marteau, a web-based UI for easily running load tests, and Vaurien, a misbehaving TCP proxy that can simulate various backend failures. Used together, these tools help ensure a service will not only scale up to meet demand, but will fail gracefully if it reaches breaking point.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/WSdyU5s-SMI/hqdefault.jpg",

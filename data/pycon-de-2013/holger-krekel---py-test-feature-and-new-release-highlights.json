@@ -16,6 +16,7 @@
         "Holger Krekel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "py.test is a popular tool for writing tests in Python.  It offers unique features not found in other testing tools.  Apart from some basics, this talk introduces the modular fixture mechanism, the assert statement reporting and discusses the latest news of pytest-2.4 such as better doctest support and using contextmanagers in conjunction with fixtures.  We'll also quickly discuss the most popular from the many existing plugins.\r\n",
     "tags": [
         "fixtures",

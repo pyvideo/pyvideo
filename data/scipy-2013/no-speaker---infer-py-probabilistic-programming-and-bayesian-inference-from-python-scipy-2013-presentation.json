@@ -14,6 +14,7 @@
     "source_url": "http://www.youtube.com/watch?v=x2od7tsPjQE",
     "speakers": [],
     "state": 1,
+    "status": "published",
     "summary": "Authors: Zinkov, Rob\n\nTrack: Machine Learning\n\nInfer.py is a wrapper around Microsoft Research's Infer.NET inference engine. Infer.py allows you to represent complex graphical models in terms of short pieces of code. In this talk, I will show how many popular machine learning algorithms can be modeled as short probabilistic programs and then simply trained. I will then show how to introspect on the models which were learned and debug these programs when they don't produce desired results.",
     "tags": [
         "Tech"

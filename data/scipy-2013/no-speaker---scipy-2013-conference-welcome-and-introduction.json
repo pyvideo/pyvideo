@@ -14,6 +14,7 @@
     "source_url": "http://www.youtube.com/watch?v=Oiy_hk4Qbbo",
     "speakers": [],
     "state": 1,
+    "status": "published",
     "summary": "The annual SciPy Conference allows participants from academic, commercial, and governmental organizations to showcase their latest Scientific Python projects, learn from skilled users and developers, and collaborate on code development.\n\nThe conference consists of two days of tutorials followed by two days of presentations, and concludes with two days of developer sprints on projects of interest to the attendees.",
     "tags": [
         "Tech"

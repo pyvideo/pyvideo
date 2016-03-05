@@ -16,6 +16,7 @@
         "Markus Zapke-Gr\u00fcndemann"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Dieser Vortrag stellt Mercurial vor, zeigt aber auch optimale Vorgehensweisen\nf\u00fcr den Entwicklungsalltag sowie die Grundlagen der Entwicklung von Mercurial\nExtensions.\n\nMercurial ist ein verteiltes Versionskontrollsystem. Die Befehle und\nFunktionen sind einfach zu lernen.\n\nDa es unabh\u00e4ngig vom einem Server arbeitet kann jeder lokal und auch ohne\nInternetverbindung Dokumente oder Quellcode damit verwalten. Trotzdem kann man\nmit Mercurial die Repositories untereinander austauschen und so auch \u00fcber\nweite Entfernungen zusammen arbeiten.\n\nMercurial ist komplett in Python geschrieben und l\u00e4sst sich deshalb einfach\nerweitern.\n\nViele bekannte Open Source Projekte und Firmen setzen Mercurial ein. So zum\nBeispiel Atlassian, Dovecot, Gajim, Google, Facebook, Mozilla, OpenOffice,\nOpenSolaris, Python, PyPy, RabbitMQ, Unity, Vim oder Xen.\n\n",
     "tags": [
         " dvcs",

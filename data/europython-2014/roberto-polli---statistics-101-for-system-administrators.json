@@ -16,6 +16,7 @@
         "Roberto Polli"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python allows every sysadmin to run  (and learn) basic statistics on system data, replacing sed, awk, bc and gnuplot with an unique, reusable and interactive framework. The talk is a case study where python allowed us to highlight some network performance points in minutes using itertools, scipy and matplotlib. The presentation includes code snippets and a brief plot discussion.",
     "tags": [
         "Tech"

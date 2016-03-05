@@ -16,6 +16,7 @@
         "Richard Signell"
     ],
     "state": 1,
+    "status": "published",
     "summary": "An end-to-end workflow for assessing storm-driven water levels predicted by coastal ocean models will be discussed which uses `OWSLib` for CSW Catalog access, `Iris` for ocean model access and `pyoos` for Sensor Observation Service data access. Analysis and visualization is done with `Pandas` and `Cartopy`, and the entire workflow is shared as in IPython Notebook with custom environment in Wakari.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/WHjU_rg81BI/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Matt Williams"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Ganga is a tool, designed and used by the large particle physics experiments at CERN. Written in pure Python, it delivers a clean, usable interface to allow thousands of physicists to interact with the huge computing resources available to them.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/SSdluuVNU3Y/hqdefault.jpg",

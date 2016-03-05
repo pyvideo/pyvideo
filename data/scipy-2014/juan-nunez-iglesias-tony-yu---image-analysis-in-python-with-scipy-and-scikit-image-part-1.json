@@ -17,6 +17,7 @@
         "Tony Yu"
     ],
     "state": 1,
+    "status": "published",
     "summary": "From telescopes to satellite cameras to electron microscopes, scientists are producing more images than they can manually inspect. This tutorial will introduce automated image analysis using the \"images as numpy arrays\" abstraction, run through various fundamental image analysis operations (filters, morphology, segmentation), and finally complete one or two more advanced real-world examples.",
     "tags": [
         "scikit"

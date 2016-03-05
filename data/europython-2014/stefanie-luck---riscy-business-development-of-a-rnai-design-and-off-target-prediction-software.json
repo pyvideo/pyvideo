@@ -16,6 +16,7 @@
         "Stefanie L\u00fcck"
     ],
     "state": 1,
+    "status": "published",
     "summary": "RNA interference (RNAi) is a biological mechanism for targeted inhibition of gene expression. It has also been used routinely to discover genes involved in the interaction of plants with pathogenic fungi. To minimize the miss-targeting of unrelated genes and to maximize the RNAi efficiency, we have developed a PyQt based cross- platform software tool called \u201csi-Fi\u201d. Our aim of the talk is to show that also hobby programmers can use Python in a very useful way.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/yKaE-zZ4pLY/hqdefault.jpg",

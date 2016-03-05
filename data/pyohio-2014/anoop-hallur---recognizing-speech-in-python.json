@@ -16,6 +16,7 @@
         "Anoop Hallur"
     ],
     "state": 1,
+    "status": "published",
     "summary": "When it comes to computing heavy application such as recognizing speech, there is a tendency to move towards statically typed compiled languages citing speed. However I have built a speech recognizer completely in Python and able to achieve very good performance with it and hence would like to give a demo of it and share my experience.",
     "tags": [
         "talk"

@@ -16,6 +16,7 @@
         "Matthew Lauber"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In a world of distributed programming and asynchronous web apps, a dedicated message passing service is useful.  Enter the Asynchronous Message Queue Protocol(AMQP) and Pika python library.  With RabbitMQ as our AMQP provider, we will explore the use of Pika to setup a workqueue between two services, distribute tasks between workers, setup a PubSub service, and improve responsiveness of websites.",
     "tags": [
         "talk"

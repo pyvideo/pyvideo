@@ -16,6 +16,7 @@
         "Mike Bayer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this talk I'll walk through some highlights of SQLAlchemy internal design\nand methodology, based on the upcoming chapter for the \"Architecture of Open\nSource Applications\" book. We'll have a little bit of SQLAlchemy philosophy,\nan overview of the Core, and then a 500-ft view of how the ORM goes about\nthings, with plenty of cool looking diagrams.\n\n",
     "tags": [
         "pygotham",

@@ -16,6 +16,7 @@
         "Jordan Bettis"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The talk will be about using the SQL Alchemy query expression language\n\nand how it can be combined with the ORM for noble ends.\n\n",
     "tags": [],
     "thumbnail_url": "http://i4.ytimg.com/vi/oy57f4evyO4/hqdefault.jpg",

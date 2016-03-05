@@ -17,6 +17,7 @@
         "Travis Oliphant"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Numba is a compiler for Python syntax that uses the LLVM library and llvmpy to convert specifically decorated Python functions to machine code at run-time.   It allows Python syntax to be used to do scientific and numerical computing that is blazing fast yet tightly integrated with the CPython run-time.      ",
     "tags": [
         "talk"

@@ -16,6 +16,7 @@
         "Timothy Wilson"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Networks are a convenient way to model messy problems. I will talk about my 2.5 year sideproject, my ambitious attempt to map and model the nuance and beautiful complexity of the twittersphere.",
     "tags": [
         "talk"

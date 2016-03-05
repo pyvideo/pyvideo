@@ -16,6 +16,7 @@
         "Chris Fonnesbeck"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This hands-on tutorial will introduce statistical analysis in Python using Bayesian methods. Bayesian statistics offer a flexible & powerful way of  analyzing data, but are computationally-intensive, for which Python is ideal. As a gentle introduction, we will solve simple problems using NumPy and SciPy, before moving on to Markov chain Monte Carlo methods to build more complex models using PyMC.",
     "tags": [
         "bayesian",

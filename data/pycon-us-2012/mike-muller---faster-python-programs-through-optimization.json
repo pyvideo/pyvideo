@@ -16,6 +16,7 @@
         "Mike M\u00fcller"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This tutorial provides an overview of techniques to improve the performance of\nPython programs. The focus is on concepts such as profiling, difference of\ndata structures and algorithms as well as a selection of tools and libraries\nthat help to speed up Python.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/Bs6-sai1fKE/hqdefault.jpg",

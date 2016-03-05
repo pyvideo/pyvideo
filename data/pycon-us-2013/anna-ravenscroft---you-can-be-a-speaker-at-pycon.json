@@ -16,6 +16,7 @@
         "Anna Ravenscroft"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Have you ever considered submitting a proposal to speak at PyCon but weren't sure how to even get started? This session will walk you through the steps to get there, so that you'll be ready to propose a talk for next year!",
     "tags": [
         "talk"

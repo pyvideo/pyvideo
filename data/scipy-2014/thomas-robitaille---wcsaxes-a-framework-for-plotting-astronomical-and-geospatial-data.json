@@ -16,6 +16,7 @@
         "Thomas Robitaille"
     ],
     "state": 1,
+    "status": "published",
     "summary": "I will present WCSAxes, a new framework for plotting astronomical data that seamlessly handles the plotting of ticks, tick labels, and grid lines for arbitrary coordinate systems and projections. While originally written for with astronomical data, it can be used for any kind of map provided that the projection and coordinate system can be represented by a pixel-to-world transformation.",
     "tags": [
         "astronomy",

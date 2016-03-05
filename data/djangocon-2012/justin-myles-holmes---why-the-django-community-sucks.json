@@ -16,6 +16,7 @@
         "Justin Myles Holmes"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Continuing in the tradition of self-deprecation that has made DjangoCon\nfamous, a relative newcomer will outline what the Django community can learn\nfrom the world of social activism.\n\n",
     "tags": [
         "django"

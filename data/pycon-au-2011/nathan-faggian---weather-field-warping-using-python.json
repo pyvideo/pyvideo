@@ -16,6 +16,7 @@
         "Nathan Faggian"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python is a great language for prototyping computer vision algorithms, the\navailability of libraries such as Numpy and Scipy make for rapid development\nsimilar to that of Matlab, R and IDL. At the Bureau of Meteorology (BoM) we\nare solving the interesting problem of weather field warping. Warping (aka\nnon-linear image registration) is used, for example, to determine what the\npredicted temperature will be hourly if we only have predictions every three\nhours\n\n",
     "tags": [
         "numpy",

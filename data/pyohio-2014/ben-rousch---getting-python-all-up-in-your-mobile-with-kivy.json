@@ -16,6 +16,7 @@
         "Ben Rousch"
     ],
     "state": 1,
+    "status": "published",
     "summary": "You know you can use Python to make apps for desktops and the web, but did you know you can also use it to make mobile apps? Kivy is a Python GUI framework for making cross-platform multitouch applications. This talk will introduce Kivy's mobile dev stack, focusing mainly on Android. It will be made using a Kivy app on an Android device, and which was developed entirely on an Android device. ",
     "tags": [
         "talk"

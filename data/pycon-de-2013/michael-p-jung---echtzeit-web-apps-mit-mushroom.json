@@ -16,6 +16,7 @@
         "Michael P. Jung"
     ],
     "state": 1,
+    "status": "published",
     "summary": "[Mushroom](https://bitbucket.org/terreon/mushroom) ist ein einfach zu verwendendes Echtzeit-Web-Messaging-Framework, welches neben Browser-Push-Nachrichten auch Funktionen f\u00fcr die Interprozesskommunikation zur Verf\u00fcgung stellt.\r\n\r\nDieser Vortrag versucht, Lust auf das Echtzeit-Web zu machen und beantwortet grundlegende Fragen zu Themen wie Skalierbarkeit und Deployment.",
     "tags": [
         "echtzeit",

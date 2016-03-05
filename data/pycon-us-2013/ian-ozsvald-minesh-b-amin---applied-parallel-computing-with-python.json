@@ -22,6 +22,7 @@
         "Minesh B Amin"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this tutorial we shall review three different and distinct approaches to parallel computing which can be used to solve problems in all manner of domains, including machine learning, natural language processing, finance, and computer vision. The first two approaches to be reviewed will be embarrassingly parallel in nature while the third approach will leverage fine-grain parallelism.",
     "tags": [
         "tutorial"

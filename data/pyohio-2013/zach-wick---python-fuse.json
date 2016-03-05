@@ -16,6 +16,7 @@
         "Zach Wick"
     ],
     "state": 1,
+    "status": "published",
     "summary": "FUSE allows you to fake a filesystem in your userspace without mucking around in the kernel. This allows you to do things like showing remote cloud-based backup products as local filesystems. This talk explores such an implementation for mounting a Copy.com account as a local filesystem, and addresses some of the common gotchas to help you implement a FUSE layer for your preferred service.",
     "tags": [
         "talk"

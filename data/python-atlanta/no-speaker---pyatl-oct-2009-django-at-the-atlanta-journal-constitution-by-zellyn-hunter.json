@@ -14,6 +14,7 @@
     "source_url": "",
     "speakers": [],
     "state": 1,
+    "status": "published",
     "summary": "Hear about the trials, tribulations, and successes of using Django for content\nproviding at a large urban newspaper. Includes a bit of discussion about how\nthey integrate Django with their Big Proprietary Java CMS, their Ruby on Rails\ncomponents, and Memcached.\n\n",
     "tags": [
         "pyatl"

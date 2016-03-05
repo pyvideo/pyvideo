@@ -16,6 +16,7 @@
         "Yves J. Hilpisch"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Bisher wenig verbreitet in der Praxis ist der Einsatz von Python zur Entwicklung von rechenintensiven Finanzanwendungen, z.B. zur Bewertung von Finanzderivaten -- hier dominieren u.a. C, C++, JAVA. Denn i.d.R. wird die Performance von Python bezweifelt. Der Vortag illustriert, weshalb Python jedoch die ideale Sprache f\u00fcr ein \"Rapid Financial Engineering\" ist.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/QV8fwUMvfBA/hqdefault.jpg",

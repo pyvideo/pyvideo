@@ -16,6 +16,7 @@
         "Chris Ridenour"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The Python and web development communities have gotten pretty good at writing REST APIs for browsers and desktop clients. But porting that to the high-latency wild-west of mobile networks requires a paradigm shift. Learn how you can speed up your mobile API using proven technologies - and avoid writing your own protocol!",
     "tags": [
         "talk"

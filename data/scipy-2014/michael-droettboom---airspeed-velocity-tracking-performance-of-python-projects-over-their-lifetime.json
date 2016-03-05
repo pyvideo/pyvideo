@@ -16,6 +16,7 @@
         "Michael Droettboom"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Presenting \"airspeed velocity\", a new tool for benchmarking Python software projects over their lifetime.",
     "tags": [
         "benchmarking",

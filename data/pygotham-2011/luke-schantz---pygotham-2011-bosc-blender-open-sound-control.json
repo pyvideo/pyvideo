@@ -16,6 +16,7 @@
         "Luke Schantz"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Blender Open Sound Control is a project enabling the use of Open Sound Control\nMessages within the Blender Game Engine.\n\n",
     "tags": [
         "blender",

@@ -19,6 +19,7 @@
         "Thomas Kluyver"
     ],
     "state": 1,
+    "status": "published",
     "summary": "IPython is widely used in the scientific community, but its various tools can\nbe used in any context. IPython gets you as close as possible to the Python\nlanguage, with an array of tools for productive work: at the terminal, in\nGUIs, through a web browser, and in high-level parallel computing. This talk\nwill explain the design of IPython and provide short, hands-on demos of its\nmain features.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/26wgEsg9Mcc/hqdefault.jpg",

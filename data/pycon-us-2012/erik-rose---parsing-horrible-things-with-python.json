@@ -16,6 +16,7 @@
         "Erik Rose"
     ],
     "state": 1,
+    "status": "published",
     "summary": "If you've ever wanted to get started with parsers, here's your chance for a\nground-floor introduction. A harebrained spare-time project gives birth to a\nwhirlwind journey from basic algorithms to Python libraries and, at last, to a\nparser for one of the craziest syntaxes out there: the MediaWiki grammar that\ndrives Wikipedia.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/tCUdeLIj4hE/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Greg Kettler"
     ],
     "state": 1,
+    "status": "published",
     "summary": "It's a compiled, statically typed, lazy, purely functional programming language. About as far as possible from Python? Not quite. The languages have a lot in common and Python has already borrowed a few tricks from Haskell.",
     "tags": [],
     "thumbnail_url": "http://i4.ytimg.com/vi/c5MPg88mdgc/hqdefault.jpg",

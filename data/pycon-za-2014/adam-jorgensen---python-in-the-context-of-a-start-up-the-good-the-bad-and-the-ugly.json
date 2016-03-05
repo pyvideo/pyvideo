@@ -16,6 +16,7 @@
         "Adam Jorgensen"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python is great language for developing software that works well in a short time-span. The ability to produce code quickly that is of a reasonable quality is very important in a work environment where productivity is of extreme importance. It would thus seem to be very well suited for usage in a start-up environment.",
     "tags": [
         "pyconza",

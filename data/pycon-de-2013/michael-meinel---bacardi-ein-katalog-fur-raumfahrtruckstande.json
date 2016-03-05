@@ -16,6 +16,7 @@
         "Michael Meinel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Das Thema Weltraumschrott tritt vermehrt in die \u00d6ffentlichkeit, denn nur wenn jetzt das Augenmerk der raumfahrenden Nationen darauf gerichtet wird, werden wir auch in Zukunft zu den Sternen reisen k\u00f6nnen. Die Grundlage f\u00fcr eine nachhaltige Raumfahrtstrategie ist die Beobachtung und Katalogisierung der Raumfahrtr\u00fcckst\u00e4nde f\u00fcr die Planung und Durchf\u00fchrung von Missionen. Am Deutschen Zentrum f\u00fcr Luft- und Raumfahrt e.V. entsteht derzeit der Backend Catalog for Relational Debris Information (BACARDI) als Technologiedemonstrator zum Umgang mit gro\u00dfen Datenmengen.\r\n\r\nDie Python-Software kombiniert dazu moderne Technologien wie ZeroMQ und Protocol Buffers zu einem flexiblen, skalierbaren Gesamtsystem, das in der Lage sein soll, den wachsenden Ressourcenanspr\u00fcchen zu gen\u00fcgen. Dank der plattformunabh\u00e4ngigen Schnittstellen k\u00f6nnen Komponenten sp\u00e4ter auch in anderen Programmiersprachen wie C, C# oder Java angebunden werden.",
     "tags": [
         "middleware",

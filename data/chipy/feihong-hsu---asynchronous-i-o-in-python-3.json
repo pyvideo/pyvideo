@@ -29,6 +29,7 @@
         "Feihong Hsu"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Feihong talks about PEP 3156 and the basic usage of Tulip,  the reference implementation.",
     "tags": [
         "asynchronous",

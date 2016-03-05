@@ -16,6 +16,7 @@
         "Nikolas Tezak"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Building on the new IPython 2.0 widget model and the jsPlumb package we create a schematic capture tool that allows graphically editing a circuit as well as its components' parameters and then instantly updating a domain specific modeling backend. This allows for an integrated circuit modeling workflow and to extend widget-based user interfaces for engineering and research projects.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/-kUzWdKOgqc/hqdefault.jpg",

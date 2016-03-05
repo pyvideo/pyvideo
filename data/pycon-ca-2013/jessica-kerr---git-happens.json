@@ -16,6 +16,7 @@
         "Jessica Kerr"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Git: it's all the rage in source control. You may use it, but do you understand it? A million tutorials on the\r\ninternet tell you what to type, but not why. Let me show you in pictures what's going on behind the scenes in git. \r\n\r\nLearn how to navigate, write, and untangle your commit history. Do more than control your source: make it tell a story. After this talk, git will make sense, and so will your project history.",
     "tags": [
         "talk"

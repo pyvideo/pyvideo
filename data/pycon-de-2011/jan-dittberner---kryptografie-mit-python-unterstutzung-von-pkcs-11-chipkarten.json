@@ -16,6 +16,7 @@
         "Jan Dittberner"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python eignet sich neben vielen anderen Themen auch f\u00fcr die Entwicklung und Einbindung von Kryptografie. Im Vortrag werden kurz einige Python-Bibliotheken f\u00fcr Verschl\u00fcsselung und Signatur gezeigt und anschlie\u00dfend die Verwendung einer PKCS#11-Chipkarte mit Python f\u00fcr die Ver- und Entschl\u00fcsselung demonstriert.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/MMeygxTBtWY/hqdefault.jpg",

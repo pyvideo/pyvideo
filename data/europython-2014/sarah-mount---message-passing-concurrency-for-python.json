@@ -16,6 +16,7 @@
         "Sarah Mount"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Concurrency and parallelism in Python are always hot topics. This talk will look the variety of forms of concurrency and parallelism. In particular this talk will give an overview of various forms of message-passing concurrency which have become popular in languages like Scala and Go. A Python library called python-csp which implements similar ideas in a Pythonic way will be introduced and we will look at how this style of programming can be used to avoid deadlocks, race hazards and \"callback hell\".",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/EsSdtvIGWAA/hqdefault.jpg",

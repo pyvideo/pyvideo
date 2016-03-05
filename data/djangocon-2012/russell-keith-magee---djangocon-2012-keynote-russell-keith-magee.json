@@ -16,6 +16,7 @@
         "Russell Keith-Magee"
     ],
     "state": 1,
+    "status": "published",
     "summary": "DjangoCon 2012 - Keynote - Russell Keith-Magee\n\n",
     "tags": [
         "django"

@@ -16,6 +16,7 @@
         "Jason Myers"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk provides a broad-based introduction to SQLAlchemy Core library. It is focused on someone new to SQLAlchemy Core, who has experience with other database technologies such as Django or SQLAlchemy ORM. We'll cover the differences between the domain-centric models of those tools compared to the schema-centric model and how we can use that to deal with common and unusual data sources.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/0PSdzUxRYpA/hqdefault.jpg",

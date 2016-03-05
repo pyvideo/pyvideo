@@ -16,6 +16,7 @@
         "Daniel B\u00f6hnke"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Der Konzeptentwurf schl\u00e4gt die Br\u00fccke zwischen Anforderungen und ersten Konfigurationen f\u00fcr neue Flugzeuge. Wechselnde Anforderungen und die Integration von Verfahren mit unterschiedlichem Detaillierungsgrad erfordern eine hohe Flexibilit\u00e4t innerhalb der verwendeten Software. Der Vortrag zeigt die Anwendung und Vorteile von Python am Beispiel eines Konzeptentwurfwerkzeuges.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/XNC9XaaxQ_0/hqdefault.jpg",

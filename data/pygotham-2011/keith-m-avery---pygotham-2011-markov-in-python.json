@@ -16,6 +16,7 @@
         "Keith M. Avery"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A talk about the uses and implementations of Markov models in Python, with an\nemphasis on Markov chains. A Markov chain program for generating a language\nglossary from corpora will be discussed as an example application.\n\n",
     "tags": [
         "markov",

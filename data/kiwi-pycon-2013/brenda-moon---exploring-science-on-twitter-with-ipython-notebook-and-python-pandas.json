@@ -16,6 +16,7 @@
         "Brenda Moon"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Exploring discussions of 'science' on Twitter by analysing 13.5 million tweets from 2011. I'll demonstrate how I've been using IPython notebook with the Pandas data analysis library to work with large data tables and time series data. You will see the strength of IPython Notebook for research in allowing you to keep notes interleaved with python code.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/FzCk747yjCU/hqdefault.jpg",

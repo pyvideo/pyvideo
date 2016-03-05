@@ -16,6 +16,7 @@
         "Benoit Chesneau"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Concurrent programming in Python may be hard. A lot of solutions exists\r\nthough. Most of them are based on an eventloop. This talk will present\r\nwhat I discovered and tested along the time and my little\r\n[experiment](http://github.com/benoitc/offset) in porting the Go\r\nconcurrency model in Python.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/snIHnStehIo/hqdefault.jpg",

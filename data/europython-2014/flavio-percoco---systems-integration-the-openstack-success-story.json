@@ -16,6 +16,7 @@
         "Flavio Percoco"
     ],
     "state": 1,
+    "status": "published",
     "summary": "OpenStack is a huge, open-source cloud provider. One of the main tenets of OpenStack is the (Shared Nothing Architecture) to which all modules stick very closely. In order to do that, services within OpenStack have adopted different strategies to integrate themselves and share data without sacrificing performance nor moving away from SNA.\r\n\r\nThis strategies are not applicable just to OpenStack but to any distributed system. Sharing data, regardless what that data is, is a must-have requirement of any successful cloud service.\r\n\r\nThis talk will present some of the existing integration strategies that are applicable to cloud infrastructures and enterprise services. The talk will be based on the strategies that have helped OpenStack to be successful and most importantly, scalable.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/pYzIOrAkb-A/hqdefault.jpg",

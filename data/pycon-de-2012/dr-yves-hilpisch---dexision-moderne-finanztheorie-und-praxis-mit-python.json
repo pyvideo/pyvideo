@@ -16,6 +16,7 @@
         "Dr. Yves Hilpisch"
     ],
     "state": 1,
+    "status": "published",
     "summary": "DEXISION ist eine kommerzielle Bewertungsl\u00f6sung f\u00fcr Finanzderivate. Sie wurde\ndurch die Visixion GmbH im Wesentlichen auf Basis von Python entwickelt. Der\nVortrag zeigt, wie moderne, Web-basierte Finanzl\u00f6sungen mittels Python zu\nimplementieren sind. Aspekte wie Effizienz in der Entwicklung, Performance,\nErweiterbarkeit, Wartbarkeit und Sicherheit sind dabei von besonderer\nBedeutung.\n\nDie Architektur von DEXISION fu\u00dft auf einem LAMP-Stack und es kommen dabei nur\nOpen Source-Komponenten zum Einsatz. Unseres Wissens nach ist DEXISION nach\nwie vor die einzige kommerzielle Finanzl\u00f6sung dieser Art, die in allen\nBereichn -- auch bei rechenintensiven Simulationsaufgaben -- voll auf Python\nsetzt.\n\n",
     "tags": [
         " bewertung von derivaten",

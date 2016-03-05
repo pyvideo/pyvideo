@@ -16,6 +16,7 @@
         "Robert Collins"
     ],
     "state": 1,
+    "status": "published",
     "summary": "OpenStack's infra team coordinates running ~500 test runs a day, across over 20 projects, most of which involve bringing up a test cloud... find out how to reuse this infrastructure yourself, in your own cloud or public clouds.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/eB5ZmU6KKoY/hqdefault.jpg",

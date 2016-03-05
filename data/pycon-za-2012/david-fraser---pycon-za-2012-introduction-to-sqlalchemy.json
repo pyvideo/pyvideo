@@ -16,6 +16,7 @@
         "David Fraser"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Introduction to SQLAlchemy: David Fraser's talk at PyConZA 2012",
     "tags": [
         "pyconza",

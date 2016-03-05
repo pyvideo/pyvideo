@@ -16,6 +16,7 @@
         "Wes McKinney"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The tutorial will give a hands-on introduction to manipulating and analyzing\nlarge and small structured data sets in Python using the pandas library. While\nthe focus will be on learning the nuts and bolts of the library's features, I\nalso aim to demonstrate a different way of thinking regarding structuring data\nin memory for manipulation and analysis.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/w26x-z-BdWQ/hqdefault.jpg",

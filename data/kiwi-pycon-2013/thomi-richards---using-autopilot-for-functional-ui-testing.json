@@ -16,6 +16,7 @@
         "Thomi Richards"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Autopilot is a tool designed for writing high-level functional tests for GUI applications. It is written by a team of engineers at Canonical, and is being used to test everything from the Unity desktop shell to desktop applications, to core phone applications for the Ubuntu Touch project.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/1NrykxuCcM0/hqdefault.jpg",

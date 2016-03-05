@@ -16,6 +16,7 @@
         "Thomas Smith"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Project Gado is an initiative which aims to create an open-source archival\nscanning robot which small archives can purchase for $500 and use to\nautonomously scan their photographic collections. This talk presents the Gado\n2, a prototype scanning robot built around Python and Arduino, and shares\nlessons learned from using Python as the primary language in a large-scale\narchival scanning project.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/1CjX385y3e4/hqdefault.jpg",

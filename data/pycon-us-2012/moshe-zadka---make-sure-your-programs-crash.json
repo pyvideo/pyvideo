@@ -16,6 +16,7 @@
         "Moshe Zadka"
     ],
     "state": 1,
+    "status": "published",
     "summary": "With Python, segmentation faults and the like simply don't happen -- programs\ndo not crash. However, the world is a messy, chaotic place. What happens when\nyour programs crash? I will talk about how to make sure that your application\nsurvives crashes, reboots and other nasty problems.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/OBbvj0WWT-g/hqdefault.jpg",

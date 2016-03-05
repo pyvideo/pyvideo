@@ -16,6 +16,7 @@
         "Ash Christopher"
     ],
     "state": 1,
+    "status": "published",
     "summary": "When web apps reach a certain size, often their data footprint will outgrow\nwhat can reasonably be stored on a single database. Scaling your database\nhorizontally by adding more servers is the dream but it can be a daunting\ntask. This talk outlines the process I used to add horizontal scaling to Wave\nAccounting's infrastructure.\n\n",
     "tags": [],
     "thumbnail_url": "http://i3.ytimg.com/vi/frlsGUHYu04/hqdefault.jpg",

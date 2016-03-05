@@ -17,6 +17,7 @@
         "Christine Cheung"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Sharing what you know with others is an extremely rewarding experience, and may challenge and develop your knowledge of Python.\r\n\r\nI will share my teaching experiences; covering venues, materials, lesson plans, technical difficulties, engagement, and more.\r\n\r\nIf you've considered teaching Python, this talk will give you insight into what it takes to keep your students engaged, and have some fun.",
     "tags": [
         "talk"

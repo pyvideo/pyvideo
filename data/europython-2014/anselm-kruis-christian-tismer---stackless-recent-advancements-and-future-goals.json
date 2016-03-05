@@ -17,6 +17,7 @@
         "Christian Tismer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Stackless (formerly known as Stackless-Python) is an enhanced variant of the Python-language. Stackless is best \r\nknown for its lightweight microthreads. But that's not all. In this talk Stackless core developers demonstrate\r\nrecent advancements regarding multi-threading, custom-scheduling, debugging with Stackless and explain future \r\nplans for Stackless.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/H3sQLC40GXU/hqdefault.jpg",

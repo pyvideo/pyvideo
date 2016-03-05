@@ -17,6 +17,7 @@
         "Ross Barnowski"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A system capable of imaging gamma rays in 3D in near real time has been developed. A flexible software framework has been developed using Python to acquire, analyze, and finally visualize data from multiple sensors, including novel gamma ray imaging detectors and a Microsoft Kinect.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/I_YpsekEhhg/hqdefault.jpg",

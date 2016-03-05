@@ -16,6 +16,7 @@
         "Elyse Maria Glina"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The Natural Language Toolkit (NLTK) suite offers powerful tools for natural\nlanguage processing and analysis. Like many other code libraries, it enables\nprogrammers to achieve results when working with data they may not be an\nexpert\n\n",
     "tags": [
         "nltk"

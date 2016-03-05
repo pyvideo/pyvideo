@@ -17,6 +17,7 @@
         "Shannon -jj Behrens"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk covers scalability at YouTube. It's given by one of the original\nengineers at YouTube, Mike Solomon. It's a rare glimpse into the heart of\nYouTube which is one of the largest websites in the world, and one of the few\nextremely large websites to be written in Python.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/G-lGCC4KKok/hqdefault.jpg",

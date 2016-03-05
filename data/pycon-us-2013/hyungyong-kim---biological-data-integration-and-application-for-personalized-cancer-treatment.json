@@ -16,6 +16,7 @@
         "Hyungyong Kim"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Personalized approach is important in the area of cancer treatment.  We constructed a data-warehouse which integrates 3 ontologies and 4 clinical databases semantically using Django's ORM. For the clinical use, a mobile web application was developed so that patients can get their personal pharmaceutical information about cancer therapy.",
     "tags": [
         "poster"

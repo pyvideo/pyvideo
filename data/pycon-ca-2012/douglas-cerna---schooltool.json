@@ -16,6 +16,7 @@
         "Douglas Cerna"
     ],
     "state": 1,
+    "status": "published",
     "summary": "SchoolTool is an FOSS student information system developed in Python using the\nZope 3 framework. It has several basic components a teacher could use:\ngradebook, attendance, calendars, etc and some \"advanced\" ones like\ninterventions and skill tracking. It's easily available in the Ubuntu Linux\ndistribution.\n\n",
     "tags": [],
     "thumbnail_url": "http://i4.ytimg.com/vi/wC6SYGtW9Go/hqdefault.jpg",

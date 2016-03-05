@@ -16,6 +16,7 @@
         "Thomas Lotze"
     ],
     "state": 1,
+    "status": "published",
     "summary": "zc.buildout ist ein erweiterbares Werkzeug, um mehrteilige Anwendungen zu installieren und zu konfigurieren. Der Vortrag stellt zc.buildout vor und erl\u00e4utert den Einsatz des Systems an einem Fallbeispiel.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/pEtp3wdrFso/hqdefault.jpg",

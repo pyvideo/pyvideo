@@ -16,6 +16,7 @@
         "Reimar Bauer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Dieser Vortrag zeigt auf, wie man ein MoinMoin Wiki verwenden kann, um\nmeteorologische Daten f\u00fcr Flugplanungen mit einem Forschungsflugzeug\nbereitzustellen. Die Werkzeuge, die bei einer Messkampagne eine Plattform f\u00fcr\nden Austausch von Daten sowie Beschreibungen bilden, werden vorgestellt.\n\nIm Vortrag werden einige Werkzeuge und deren API vorgestellt. Z.B. arnica, ein\nMoinMoin Wiki Plugin, das u.a. f\u00fcr die Darstellung von Vorhersage Modell Daten\nf\u00fcr die Flugplanung von Forschungsmissionen Verwendung findet.\n\nAndere Werkzeuge dienen dem Organisieren von Informationen auf Wiki Seiten und\nderen Darstellung. Es wird z.B. gezeigt wie Seiteninhalte in Tabellen\nabgebildet werden k\u00f6nnen.\n\nDie Beispiele k\u00f6nnen auch f\u00fcr die Entwicklung eigener Plugins herangezogen\nwerden.\n\n",
     "tags": [
         "moinmoin",

@@ -16,6 +16,7 @@
         "Aashish Chaudhary"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Understanding environmental and climate change requires data fusion, format conversions, processing and visualization to gain insight into the data. Our open source scientific Python and JavaScript based tools makes it easy to manipulate geo-spatial and climate data, create and execute workflows, and produce visualizations over the web for scientific and decision making tools.",
     "tags": [
         "climate"

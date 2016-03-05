@@ -16,6 +16,7 @@
         "Dan Crosta"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python is an interpreted language, right? Wrong! In this talk, dive deep into\nPython bytecode, and learn what actually happens in everyone's favorite Python\nprogram, 'print \"Hello world\"'. Learn to use the compile() and exec statement,\nunderstand what your Python code is doing with the dis and compiler modules,\nand discover new ways to explore and enjoy Python at a low level.\n\n",
     "tags": [],
     "thumbnail_url": "http://i2.ytimg.com/vi/uO7kLb5rVTM/hqdefault.jpg",

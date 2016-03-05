@@ -16,6 +16,7 @@
         "David Gouldin"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Celery is great for asynchronously sending emails from your web app.  But what happens when you grow beyond simple \"set it and forget it\" tasks? This talk explores Celery's workflow primitives and how to create complex distributed applications. It assumes knowledge of Python and Celery. By the end, you will better understand how to structure distributed work that robustly scales.",
     "tags": [
         "talk"

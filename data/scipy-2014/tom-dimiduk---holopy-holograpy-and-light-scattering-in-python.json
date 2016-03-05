@@ -16,6 +16,7 @@
         "Tom Dimiduk"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Digital holography microscopy is a powerful tool for fast 3D imaging of soft matter systems. However, making measurements from holograms requires special computation. HoloPy is a set of tools for reconstructing and fitting to holograms. It also includes tools for computing light scattering, setting up inverse problems, and working with images and metadata.",
     "tags": [
         "holopy"

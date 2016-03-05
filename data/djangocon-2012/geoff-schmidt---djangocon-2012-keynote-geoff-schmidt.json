@@ -16,6 +16,7 @@
         "Geoff Schmidt"
     ],
     "state": 1,
+    "status": "published",
     "summary": "DjangoCon 2012 - Keynote - Geoff Schmidt\n\n",
     "tags": [
         "django"

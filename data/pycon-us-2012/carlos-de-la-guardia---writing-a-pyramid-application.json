@@ -16,6 +16,7 @@
         "Carlos de la Guardia"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Pyramid is the web framework at the core of the Pylons Project. It's a \"pay\nonly for what you eat\" framework. You can get started easily and learn new\nconcepts as you go, and only if you need them. It's simple, well tested, well\ndocumented, and fast. This course will present Pyramid and lead you through\nthe creation of a an application as the concepts from the framework are\nintroduced.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/NBSosX8xiRk/hqdefault.jpg",

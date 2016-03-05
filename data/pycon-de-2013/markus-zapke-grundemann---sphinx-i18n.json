@@ -16,6 +16,7 @@
         "Markus Zapke-Gr\u00fcndemann"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Sphinx hat schon rudiment\u00e4re Unterst\u00fctzung f\u00fcr die Internationalisierung von Dokumentationen mit Hilfe von gettext. Dieser Vortrag berichtet \u00fcber die eigenen Erfahrungen und diskutiert weitergehende L\u00f6sungsans\u00e4tze.",
     "tags": [
         "dokumentation",

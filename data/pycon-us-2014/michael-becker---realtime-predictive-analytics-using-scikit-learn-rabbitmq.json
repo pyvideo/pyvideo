@@ -16,6 +16,7 @@
         "Michael Becker"
     ],
     "state": 1,
+    "status": "published",
     "summary": "scikit-learn is an awesome tool allowing developers with little or no machine learning knowledge to predict the future! But once you've trained a scikit-learn algorithm, what now? In this talk, I describe how to deploy a predictive model in a production environment using scikit-learn and RabbitMQ. You'll see a realtime content classification system to demonstrate this design.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/WPyNdHygBD0/hqdefault.jpg",

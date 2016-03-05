@@ -17,6 +17,7 @@
         "Thomas Hansen"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will introduce the Kivy project (http://kivy.org).  Kivy\u2019s mission is to make building graphical user interfaces on any device fun, efficient, and pythonic. \r\n\r\nThe talk will focus on giving attendees an overview of how they can use kivy to build exiting UIs and mobile apps.  ",
     "tags": [
         "talk"

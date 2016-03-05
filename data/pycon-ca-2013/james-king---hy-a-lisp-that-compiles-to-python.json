@@ -16,6 +16,7 @@
         "James King"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Hy is a Lisp that compiles to Python AST.  It has full interoperability with Python and macros!  This talk introduces Hy and will dig into the compiler and demonstrate how dynamically generating Python ASTs can be fun and useful.",
     "tags": [
         "talk"

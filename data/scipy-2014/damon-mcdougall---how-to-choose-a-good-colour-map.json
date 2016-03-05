@@ -16,6 +16,7 @@
         "Damon McDougall"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Representing data through colours is a very common approach to conveying important information to an audience. We suggest some best practices scientists should consider when deciding how they should present their results.",
     "tags": [
         "vis"

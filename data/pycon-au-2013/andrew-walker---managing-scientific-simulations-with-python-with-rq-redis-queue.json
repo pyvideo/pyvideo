@@ -16,6 +16,7 @@
         "Andrew Walker"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Writing scientific software in support of experimentation and simulation is a challenging task. It is even more challenging in cases where such software must be distributed across multiple machines.  Existing methods for addressing this problem can require either significant effort to maintain and extend. Alternative approaches such as message queues can be incredibly difficult to install for novices.\r\n\r\nThis presentation will demonstrate a quick and easy approach to solving this problem using the redis-queue module.  This approach makes it easy to make efficient use of multiple cores and multiple machines, with only minimal dependence on external packages.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/Ttw816mwnQY/hqdefault.jpg",

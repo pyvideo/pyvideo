@@ -16,6 +16,7 @@
         "Peter Carswell"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In the brief amount of time available, this tutorial will take a simple game\nconcept and implement a multi-player game. Game development with Panda3D will\nconsist of writing a Python program that controls the Panda3D library.\nComputer lab projects will provide hands-on experience investigating the\nvarious components of a network game.\n\n",
     "tags": [],
     "thumbnail_url": "http://i2.ytimg.com/vi/Qou-6d5qEw4/hqdefault.jpg",

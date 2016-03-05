@@ -16,6 +16,7 @@
         "Maxime No\u00ebl"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In January 2012, Amazon introduced DynamoDB, a NoSQL database service with\nseamless, linear scalability. How can we neatly integrate it in Python\napplications and address its shortcomings?\n\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/D91s8onqYJk/hqdefault.jpg",

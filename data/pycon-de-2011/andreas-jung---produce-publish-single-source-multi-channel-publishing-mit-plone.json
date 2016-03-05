@@ -16,6 +16,7 @@
         "Andreas Jung"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Der Vortrag beschreibt die Plone-basierte Plattform Produce & Publish zur Generierung von verschiedener Ausgabeformate (PDF, EBook, RTF, ODT, Word) unter Verwendung der selben Eingabedaten.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/LTKP8vA42JE/hqdefault.jpg",

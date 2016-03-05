@@ -16,6 +16,7 @@
         "Peter Fein"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Twiggy is an early-stage project to build a more Pythonic logging module. It\nwas started at Pycon 2010.\n\nHome: [http://python-twiggy.googlecode.com](http://python-\ntwiggy.googlecode.com).\n\nSee the notes for a quick overview [http://pythontwiggy.googlecode.com/hg/note\ns.html](http://pythontwiggy.googlecode.com/hg/notes.html).\n\n",
     "tags": [
         "chipy",

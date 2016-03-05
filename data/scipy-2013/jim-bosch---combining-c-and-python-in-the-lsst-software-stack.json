@@ -16,6 +16,7 @@
         "Jim Bosch"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The software system for the Large Synoptic Survey Telescope is completely open-source, and at every stage we've focused on making it usable not just with LSST, but with generic astronomical image data.",
     "tags": [
         "astronomy",

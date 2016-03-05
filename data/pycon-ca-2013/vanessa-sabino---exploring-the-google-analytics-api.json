@@ -16,6 +16,7 @@
         "Vanessa Sabino"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Google Analytics is an excellent tool to track what happens in your website or your mobile app. In this talk, you'll learn how to query your data using the Python library for the Core Reporting API and why you should be doing it.",
     "tags": [
         "talk"

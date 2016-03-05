@@ -17,6 +17,7 @@
         "Rick Copeland"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This intermediate-level class will teach you techniques using the popular\nNoSQL database MongoDB, its driver PyMongo, and the object-document mapper\nMing to write maintainable, high-performance, and scalable applications. We\nwill cover everything you need to become an effective Ming/MongoDB developer\nfrom basic PyMongo queries to high-level object-document mapping setups in\nMing.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/SULKL7TMRsU/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Tal Liron"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will introduce Genie, a new programming language with a Python-\ninspired syntax that compiles into binary executables and libraries. Behind\nthe scenes, Genie is a dialect of Vala, and a full participant in the GObject\nuniverse. I will cover the language basics, with an eye to comparing them with\nPython, and guide you around some potential pitfalls. This is the second in a\nseries of talks I am giving on the topic of Python/GObject integration.\n\n",
     "tags": [
         "Genie",

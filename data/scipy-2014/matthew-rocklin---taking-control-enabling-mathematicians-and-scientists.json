@@ -16,6 +16,7 @@
         "Matthew Rocklin"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Good solutions to hard problems require both domain and algorithmic expertise.\r\nDomain experts know what to do and computer scientists know how to do it\r\nwell. This talk discusses challenges and experiences trying to reconcile these\r\ntwo groups, particularly within SymPy. It proposes concrete approaches\r\nincluding multiple dispatch, pattern matching, and programmatic strategies.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/QldxygVVj-s/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Dmitry Jemerov"
     ],
     "state": 1,
+    "status": "published",
     "summary": "PyCharm is a new integrated development environment for Python and Django. During the talk we will show you how PyCharm can be used to find and correct coding errors in real-time, navigate and refactor complex project structures easily, and develop new code quickly and correctly.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/PCgHVHhLBFY/hqdefault.jpg",

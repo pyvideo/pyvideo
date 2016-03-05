@@ -16,6 +16,7 @@
         "Senthil Kumuran"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will explore the core networking libraries available in Python.\n\n",
     "tags": [
         "framework",

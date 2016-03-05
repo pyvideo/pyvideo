@@ -17,6 +17,7 @@
         "Mike Biglan"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Most mid-sized Django websites thrive by relying on memcached. Though what\nhappens when basic memcached is not enough? And how can one identify when the\ncaching architecture is becoming a bottleneck? We'll cover the problems we've\nencountered and solutions we've put in place.\n\n",
     "tags": [
         "caching",

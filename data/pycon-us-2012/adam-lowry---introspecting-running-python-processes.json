@@ -16,6 +16,7 @@
         "Adam Lowry"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Understanding the internal state of a running system can be vital to\nmaintaining a high performance, stable system, but conventional approaches\nsuch as logging and error handling only expose so much. This talk will touch\non how to instrument Python programs in order to observe the state of the\nsystem, measure performance, and identify ongoing problems.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/YdnBK5yO4zU/hqdefault.jpg",

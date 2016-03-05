@@ -16,6 +16,7 @@
         "Karl Schleicher"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Spitz' paper on FX pattern recognition contains a long paragraph that describes a model, an algorithm, and the results of applying the algorithm to the model.  The algorithm requires Fourier transforms, convolutional filtering, matrix multiplication, and solving linear equations.  I describe how to use numpy, scipy, and mapplotlib to prototype the algorithm and display the processed model.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/kFXVOaZZr-E/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Bob Hancock"
     ],
     "state": 1,
+    "status": "published",
     "summary": "From how the operating system handles your requests through design principles\non how to use concurrency and parallelism to optimize your program's\nperformance and scalability. We will cover processes, threads, generators,\ncoroutines, non-blocking IO, and the gevent library.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/ULdDuwf48kM/hqdefault.jpg",

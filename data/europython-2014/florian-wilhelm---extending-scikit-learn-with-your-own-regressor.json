@@ -16,6 +16,7 @@
         "Florian Wilhelm"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We show how to write your own robust linear estimator within the Scikit-Learn framework using as an example the Theil-Sen estimator known as \"the most popular nonparametric technique for estimating a linear trend\".",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/ZT9NvTXusDk/hqdefault.jpg",

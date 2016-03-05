@@ -16,6 +16,7 @@
         "Ravi Chandra"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A practical introduction to unit testing decoupled, service-oriented, Python applications using with Mock library. A three-tiered (server, client, and view) Flask web application is used as a motivating example across the talk. Mock helps to isolate functionality specific to a layer to facilitate fast, compact, unit testing while avoiding writing specific mock classes or using fixtures.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/HbJZu2qcC-s/hqdefault.jpg",

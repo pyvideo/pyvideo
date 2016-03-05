@@ -16,6 +16,7 @@
         "Paul Everitt"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Pyramid has emerged as a fast, modern, lightweight web framework. This lively, hands-on tutorial covers a little about a lot: practical introductions to the most common facilities.  Fun, fast-paced, and most certainly not aimed at experts.\r\n",
     "tags": [
         "tutorial"

@@ -16,6 +16,7 @@
         "Jan Vandrol"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Data gathered by personal GPS trackers are becoming a major source of information pertaining to human activity and behaviour. This presentation will include python work flows which aim to accurately and efficiently carry out the necessary computation required to process volunteered GPS trajectories into useful spatial information.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/8t__23WhJ1U/hqdefault.jpg",

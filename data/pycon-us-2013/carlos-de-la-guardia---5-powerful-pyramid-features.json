@@ -16,6 +16,7 @@
         "Carlos de la Guardia"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Pyramid is a web framework designed to do very well the fundamentals of web applications. Even though it's minimalist in its goals, it provides strong features to let developers deal with these fundamentals. In this talk, we'll look at 5 specific Pyramid features that offer web developers unique flexibility and power. ",
     "tags": [
         "talk"

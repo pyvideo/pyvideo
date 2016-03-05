@@ -16,6 +16,7 @@
         "Jordan Bettis"
     ],
     "state": 1,
+    "status": "published",
     "summary": "It's a very educational presentation of Unicode, what it is, where it comes\nfrom, how it works, Unicode in Python, ....\n\n",
     "tags": [
         "chipy",

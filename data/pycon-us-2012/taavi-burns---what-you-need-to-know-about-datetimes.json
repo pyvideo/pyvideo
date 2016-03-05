@@ -16,6 +16,7 @@
         "Taavi Burns"
     ],
     "state": 1,
+    "status": "published",
     "summary": "`time`, `datetime`, and `calendar` from the standard library are a bit messy.\nFind out what to use where and how (particularly when you have users in many\ntimezones), and what extra modules you might want to look into.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/LnVkLXRIbIg/hqdefault.jpg",

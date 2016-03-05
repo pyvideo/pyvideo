@@ -16,6 +16,7 @@
         "Christine Spang"
     ],
     "state": 1,
+    "status": "published",
     "summary": "While the Tor client software itself is written in C, there's more to the Tor\nproject than just the core client. Come see how the Tor project uses Python\nfor network analysis, metrics, and various front- and back-end services.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/CFt6QrzavH0/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Raymond Chandler III"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this tutorial we will touch on some of the more complex features of the Python programming language including, functional tools(filter map reduce), itertools, metaclasses, decorators and more.",
     "tags": [
         "tutorial"

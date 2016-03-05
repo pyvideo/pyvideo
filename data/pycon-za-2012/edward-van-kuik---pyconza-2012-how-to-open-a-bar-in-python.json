@@ -16,6 +16,7 @@
         "Edward van Kuik"
     ],
     "state": 1,
+    "status": "published",
     "summary": "How to open a bar in Python: Edward van Kuik's talk at PyConZA 2012",
     "tags": [
         "pyconza",

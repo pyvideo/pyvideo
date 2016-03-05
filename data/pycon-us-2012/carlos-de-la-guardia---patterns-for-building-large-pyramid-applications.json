@@ -16,6 +16,7 @@
         "Carlos de la Guardia"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Pyramid is a very flexible framework, but when dealing with large projects and\nmultiple developers it pays to establish a few ground rules and follow some\nconventions. In this talk we'll discuss some patterns for organizing and\ndeveloping a large Pyramid application.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/NUQMr5R3dlk/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Mike Bayer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A detailed walkthrough of SQLAlchemy's Session, describing the rationale for\nits existence, its driving philosophies, and finally a walkthrough of Session\nlifecycle through the use of an animated diagram. We'll cover how the\nrelational database refers to database rows within a transaction, and how the\nSession has over the years developed a tight, proxied integration with this\nlifecycle.\n\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/PKAdehPHOMo/hqdefault.jpg",

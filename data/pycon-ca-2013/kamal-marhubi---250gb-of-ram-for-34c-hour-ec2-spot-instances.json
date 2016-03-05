@@ -16,6 +16,7 @@
         "Kamal Marhubi"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Ever needed 250GB of RAM, but just for a few minutes or hours? With Amazon's EC2 spot instances, you can get a machine with 250GB of RAM for as little as 34\u00a2/hour! I'll give a recipe for getting set up with Python + your packages in 10 minutes, and get a remote IPython Notebook to work with.",
     "tags": [
         "Lightning talk"

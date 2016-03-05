@@ -16,6 +16,7 @@
         "Tim Kuehlhorn"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Django is a great platform for developing the  infrastructure for mobile apps. This talk will cover API design, prototyping, and writing excellent documentation.",
     "tags": [
         "talk"

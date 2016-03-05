@@ -16,6 +16,7 @@
         "Erik Evensen"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The \u201cWar on Cancer\u201d was declared over 40 years ago. Despite tremendous advances in understanding cancer biology and developing cancer treatments, it remains a significant cause of suffering and death. We will describe Python-based data management and analysis tools and show how they have enabled a novel flow cytometry-based technology focused on studying disease biology to improve cancer outcomes.",
     "tags": [
         "talk"

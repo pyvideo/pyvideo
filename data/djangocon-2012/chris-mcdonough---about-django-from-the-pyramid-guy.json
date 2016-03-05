@@ -16,6 +16,7 @@
         "Chris McDonough"
     ],
     "state": 1,
+    "status": "published",
     "summary": "An opinionated recounting of the features Django shares with the Pyramid web\nframework, and how the two frameworks differ, as well as a prescription for\ncollaboration between the Django and Pyramid communities.\n\n",
     "tags": [
         "django"

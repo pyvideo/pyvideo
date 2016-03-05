@@ -16,6 +16,7 @@
         "Daniele Sluijters"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Building tooling around Puppet, but in Python! People forget that even though a tool like Puppet is written in Ruby or PuppetDB in Clojure, as long as we have an API to talk to we can build anything we need by layering in some Python.",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/sTVSCoylluc/maxresdefault.jpg",

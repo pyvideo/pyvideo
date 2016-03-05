@@ -16,6 +16,7 @@
         "Wes McKinney"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Coming from the 2012 PyData Workshop, Wes McKinney, CTO and cofounder of\nLambda Foundry, gives us a tour of Pandas, a rich data manipulation tool built\non top of NumPy. Frustrated with working in R, Wes started building Pandas in\n2008 with a focus on fast, intuitive data structures and data manipulation\ncapabilities. The Pandas project has seen huge growth in the last few years,\nand aims to be the ultimate data tool for Python.\n\n",
     "tags": [
         "numpy",

@@ -16,6 +16,7 @@
         "Ryan F Kelly"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will explore the use of python's meta-programming facilities to\ncreate a simple declarative API so that you can *say what you mean* - write\ncode that focuses on the what and the why without being cluttered by the how.\nIf you've ever wondered how the Django ORM or SQLObject work their magic, this\nis the talk for you.\n\n",
     "tags": [
         "api",

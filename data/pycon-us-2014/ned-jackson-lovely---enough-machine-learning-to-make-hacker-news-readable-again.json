@@ -16,6 +16,7 @@
         "Ned Jackson Lovely"
     ],
     "state": 1,
+    "status": "published",
     "summary": "It's inevitable that online communities will change, and that we'll remember the community with a fondness that likely doesn't accurately reflect the former reality. We'll explore how we can take a set of articles from an online community and winnow out the stuff we feel is unworthy. We'll explore some of the machine learning tools that are just a \"pip install\" away, such as scikit-learn and nltk.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/O7IezJT9uSI/hqdefault.jpg",

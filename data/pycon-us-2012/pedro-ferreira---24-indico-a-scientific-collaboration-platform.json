@@ -16,6 +16,7 @@
         "Pedro Ferreira"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Indico is an open source CMS developed at CERN and currently used in more than\n90 scientific institutions world-wide. Indico provides a multitude of features\nto conference/meeting organizers, merging the capabilities of a powerful CMS\nwith a calendaring layer, thus allowing users to keep track of past and future\nmeetings, and to quickly access all the resources concerning a particular\nevent.\n\n",
     "tags": [
         "casestudy",

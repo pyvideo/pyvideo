@@ -16,6 +16,7 @@
         "yarko"
     ],
     "state": 1,
+    "status": "published",
     "summary": "What you think Love is - is (probably) wrong.\r\n\r\nThe correct metaphor / definition for live will make much more sense to the software person.  In fact, it will help with team building and design too.  Yup.\r\n\r\nGrab a beer.   I'll tell you a story about how this evolved (turing machine example), how and where evolution selected it, and why it works - and how it works for approaching problems (design) too.\r\n\r\nThen I'll lay out the api (functional description).\r\n\r\nDon't take it too seriously.\r\nYou couldn't have known.\r\nNow you will.\r\nCheers!",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/Qu6MVLnt2D8/hqdefault.jpg",

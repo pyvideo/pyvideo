@@ -16,6 +16,7 @@
         "Eric Floehr"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk is a \"how I did it\" talk about how I took an idea, a web cam,\nPython, Django, and the Python Imaging Library and created art, explored\nscience, and illustrated concepts that our ancestors knew by watching the sky\nbut we have lost.\n\n",
     "tags": [],
     "thumbnail_url": "http://i4.ytimg.com/vi/Wlkhy8rXOjE/hqdefault.jpg",

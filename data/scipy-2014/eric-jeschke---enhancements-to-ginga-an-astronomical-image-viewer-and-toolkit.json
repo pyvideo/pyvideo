@@ -16,6 +16,7 @@
         "Eric Jeschke"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We describe recent developments in the Ginga package, a open-source astronomical image viewer and toolkit written in python and hosted on Github.  The package was introduced to the scientific python community at SciPy 2013 and has received a number of enhancements since then based on user feedback.  The talk includes an image mosaicing demo of a wide-field camera exposure with 116 4Kx2K CCDs.",
     "tags": [
         "astronomy"

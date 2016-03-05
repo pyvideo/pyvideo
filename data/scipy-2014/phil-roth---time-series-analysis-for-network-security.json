@@ -16,6 +16,7 @@
         "Phil Roth"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Endgame seeks to develop products that allow customers to gain visibility into their networks and discover anomalies. I will describe how Endgame brings together various Python packages (scipy, pandas, statsmodels, kairos, etc...) in order to collect, record, and then analyze time series that are collected from network security data feeds.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/ZSM-tmbBZ5E/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Andy Smith"
     ],
     "state": 1,
+    "status": "published",
     "summary": "",
     "tags": [
         "openstack",

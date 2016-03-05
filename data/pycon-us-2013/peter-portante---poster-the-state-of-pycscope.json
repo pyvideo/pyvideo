@@ -16,6 +16,7 @@
         "Peter Portante"
     ],
     "state": 1,
+    "status": "published",
     "summary": "PyCscope V1.0 has been released and we want to bring folks up to speed on the current state of its features and a bit about how it works.",
     "tags": [
         "poster"

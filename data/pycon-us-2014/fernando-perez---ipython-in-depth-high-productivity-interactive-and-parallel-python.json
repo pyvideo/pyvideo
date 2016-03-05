@@ -16,6 +16,7 @@
         "Fernando P\u00e9rez"
     ],
     "state": 1,
+    "status": "published",
     "summary": "IPython provides tools for interactive and parallel computing that are widely used in scientific computing, but can benefit any Python developer.\r\n\r\n We will show how to use IPython in different ways, as: an interactive shell, an embedded shell, a graphical console, a network-aware VM in GUIs, a web-based notebook with code, graphics and rich HTML, and a high-level framework for parallel computing.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/XFw1JVXKJss/hqdefault.jpg",

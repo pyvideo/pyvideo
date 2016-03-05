@@ -16,6 +16,7 @@
         "Eric Jeschke"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Ginga is a new astronomical image viewer written in python. It uses and inter-operates with several key scientific python packages: numpy, pyfits, and scipy.",
     "tags": [
         "astronomy",

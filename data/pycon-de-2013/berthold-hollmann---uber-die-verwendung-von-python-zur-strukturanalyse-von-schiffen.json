@@ -16,6 +16,7 @@
         "Berthold H\u00f6llmann"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Der Germanische Lloyd ist ein international t\u00e4tiges technisches Dienstleistungsunternehmen, das sich mit u.a. mit der sicherheitsrelevanten Bewertung von Schiffsstrukturen befasst.\r\n\r\nF\u00fcr die Festigkeits- und Schwingungsberechnung von neuen Konstruktionen wurden und werden beim Germanischen Lloyd Python Tools eingesetzt. Diese dienen zur Manipulation von Berechnungsmodellen, zur Bereitstellung von Simulationsmodellen in unterschiedlichste Berechnungsformate, zur Kopplung unterschiedlicher (kommerzieller und nicht kommerzieller) Berechnungsprogramme, zur Implementierung eigener Berechnungsverfahren sowie zur Ergebnisdarstellung. F\u00fcr die unterschiedlichen Aufgaben werden verschiedene frei verf\u00fcgbare Bibliotheken wie numpy oder scipy sowie eigene in C, C++ und FORTRAN geschriebene Extensions und Module eingesetzt. F\u00fcr die Anbindung der Extensions an Python werden sowohl Interface Generatoren (f2py, Cython) als auch handgeschriebener Code unter Verwendung der Python C API verwendet.",
     "tags": [
         "extension",

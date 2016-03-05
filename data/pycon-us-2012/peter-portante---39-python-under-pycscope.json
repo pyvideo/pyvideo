@@ -16,6 +16,7 @@
         "Peter Portante"
     ],
     "state": 1,
+    "status": "published",
     "summary": "CScope has been around for years, and is a very useful tool to get a handle on\nC source code. Pycscope is an attempt to bring those benefits to the world of\nPython. Unfortunately, the existing version is woefully out of date. We take a\nwalk through an attempt to update it, correct some flaws and make it more\ngenerally useful to us, while giving us a view into the Python parser.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/QCQ0EX6SLl4/hqdefault.jpg",

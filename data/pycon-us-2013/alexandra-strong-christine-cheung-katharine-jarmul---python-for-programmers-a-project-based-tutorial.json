@@ -18,6 +18,7 @@
         "Katharine Jarmul"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Are you a Python-curious programmer? Learn by writing your first project! You'll build a complete quiz creation web application. We will cover topics from data structures and classes, to debugging and testing.\r\n\r\nBefore the day of the workshop, you will need to have Python 2.7, CherryPy, IPython, and Jinja2 installed. Alternatively, you may arrive at the venue an hour early to receive assistance.",
     "tags": [
         "tutorial"

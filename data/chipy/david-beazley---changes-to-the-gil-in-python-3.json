@@ -16,6 +16,7 @@
         "David Beazley"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Follow-up to David's last GIL talk in June 2009. This presentation walks\nthrough changes to the GIL that are being made.\n\n",
     "tags": [
         "chipy",

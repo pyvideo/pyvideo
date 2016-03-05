@@ -16,6 +16,7 @@
         "John Barham"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Presentation will go in-depth on the architecture of a web application service\nbuilt on Amazon Web Services (AWS) cloud infrastructure, including: -\ndeveloping a responsive, high-performance web application in Django -\nimplementing\n\n",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/R4feORh5MrU/hqdefault.jpg",

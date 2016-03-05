@@ -16,6 +16,7 @@
         "Thomas Winningham"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The RTL-SDR is a ~$20 USB stick made for watching the European digital TV DVB standard. It was discovered it can also be a general purpose radio receiver and spectrum analyzer. We will evaluate these devices by listening to broadcast FM or emergency frequencies, and demonstrate an original open source Python library I wrote for them.",
     "tags": [
         "talk"

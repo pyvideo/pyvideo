@@ -16,6 +16,7 @@
         "Walker Hale"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Learn the in's and out's of creating Unix Daemons in Python. Walker Hale will\nwalk you through several examples, gotchas, and tips and tricks.\n\n",
     "tags": [
         "gotchas"

@@ -16,6 +16,7 @@
         "Piotr Przymus"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Have you ever wondered what happens to all the precious RAM after running your 'simple' CPython code? \r\nPrepare yourself for a short introduction to CPython memory management!\r\nThis presentation will try to answer some memory related questions you always wondered about. It will also discuss basic memory profiling tools and techniques.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/hf4MKeP5oxg/hqdefault.jpg",

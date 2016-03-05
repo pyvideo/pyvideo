@@ -16,6 +16,7 @@
         "Melvyn Ian Drag"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this talk we will solve two partial differential equations by using a very small subset of numpy, scipy, matplotlib, and python. We will then use a couple of techniques to generate beautiful animations of the solutions we find. The listeners will see how easy it is to get serious work done with only a beginner's knowledge of Python. ",
     "tags": [
         "talk"

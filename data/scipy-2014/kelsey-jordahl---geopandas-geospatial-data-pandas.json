@@ -16,6 +16,7 @@
         "Kelsey Jordahl"
     ],
     "state": 1,
+    "status": "published",
     "summary": "GeoPandas extends the pandas data analysis library to work with geographic objects.",
     "tags": [
         "gis"

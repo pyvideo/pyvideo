@@ -16,6 +16,7 @@
         "Kurt Grandis"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Interest and activity in computing education is on the rise. Other language communities and projects have stepped up to promote early childhood programming. What tools are available for teaching Python? How do they compare?\r\n\r\nThis talk aims to discuss current trends, examine the current education landscape, question our goals as a community, and discuss opportunities for growing young developers.",
     "tags": [
         "talk"

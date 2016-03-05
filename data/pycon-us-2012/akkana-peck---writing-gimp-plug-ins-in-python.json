@@ -16,6 +16,7 @@
         "Akkana Peck"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Learn how to write Python plug-ins for GIMP, the GNU Image Manipulation\nProgram. With PyGIMP, you can automate simple image processing tasks in just a\nfew lines of PyGIMP, develop elaborate plug-ins that do low-level pixel\nmanipulation, or anything in between.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/YHXX3KuB23Q/hqdefault.jpg",

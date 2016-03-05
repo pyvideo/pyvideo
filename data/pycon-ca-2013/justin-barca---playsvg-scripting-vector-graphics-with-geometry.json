@@ -16,6 +16,7 @@
         "Justin Barca"
     ],
     "state": 1,
+    "status": "published",
     "summary": "* Python and SVG: why is it relevant ?\r\n* pLAySVG structure\r\n* new constructs in geometric programming\r\n* gallery showing and Inkscape extension demo",
     "tags": [
         "Lightning talk"

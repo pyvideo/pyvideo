@@ -17,6 +17,7 @@
         "Kevin Colville"
     ],
     "state": 1,
+    "status": "published",
     "summary": "High-performance Computing with Python: Kevin Colville and Andy Rabagliati's talk at PyConZA 2012",
     "tags": [
         "pyconza",

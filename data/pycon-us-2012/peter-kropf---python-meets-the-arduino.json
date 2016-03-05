@@ -16,6 +16,7 @@
         "Peter Kropf"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Arduino is an open-source electronics prototyping platform based on flexible,\neasy-to-use hardware and software. Python is our favorate programming language\nthat allows you to integrate systems more effectively. Learn how to use Python\nto communicate with an Arduino and interact with sensors, solenoids and\nmotors.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/54XwSUC8klI/hqdefault.jpg",

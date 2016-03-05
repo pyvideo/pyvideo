@@ -16,6 +16,7 @@
         "vid ayer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Managing scientific data in the Bioinformatics domain is a complex process and\nthis talk will introduce you to MongoDB used to enable datamining and\nprocessing of very large Gene datasets obtained from various sources.\n\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/L4ITLOWQhjY/hqdefault.jpg",

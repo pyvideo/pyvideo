@@ -16,6 +16,7 @@
         "Dr. Yves Hilpisch"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python hat sich als eine der bedeutendsten Programmiersprachen in vielen Bereichen der Wissenschaft etabliert. J\u00fcngere Entwicklungen im Bereich des Publizierens machen die Nutzung von Python noch attraktiver. So ist es heute recht einfach m\u00f6glich ausf\u00fchrbaren Python-Code in Dokument-Sourcen zu integrieren und die Ergebnisse dieses Codes direkt in das Dokument zu importieren (z.B. Formeln, Berechnungen, Abbildungen).\r\n\r\nDer Vortrag skizziert Tools wie IPython Notebook, Sphinx (inkl. IPython Extension) oder auch PythonTEX. Er zeigt auch, wie einfach Open Research mit Hilfe dieser Tools zu realisieren ist.",
     "tags": [
         "latex",

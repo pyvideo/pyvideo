@@ -16,6 +16,7 @@
         "Andrew Schoen"
     ],
     "state": 1,
+    "status": "published",
     "summary": "There are literally thousands of CMS options out there, so why not choose one\nthat\u2019s built with Python and on the amazing Django web framework. In this talk\nwe\u2019ll discuss the basics of django-cms and how to use it to build a great CMS\nsolution for your clients. We\u2019ll go over templates, menus, settings, user\npermissions, asset management, plugins and extending the CMS with your own\nDjango apps.\n\n",
     "tags": [],
     "thumbnail_url": "http://i2.ytimg.com/vi/ynsBhCXm5Jk/hqdefault.jpg",

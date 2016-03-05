@@ -16,6 +16,7 @@
         "Greg Malcolm"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This is a hands-on workshop for learning Python, mixed into a Test Driven\nDevelopment setting.\n\n",
     "tags": [],
     "thumbnail_url": "http://i2.ytimg.com/vi/M64aoqgVsMM/hqdefault.jpg",

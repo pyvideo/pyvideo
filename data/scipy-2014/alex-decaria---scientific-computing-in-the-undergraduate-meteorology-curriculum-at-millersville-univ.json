@@ -16,6 +16,7 @@
         "Alex DeCaria"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Scientific computing is an important aspect of the undergraduate meteorology curriculum at Millersville University.  All students take a course in Fortran, and many take additional courses in Python and atmospheric numerical modeling.  This presentation discusses how scientific computing is incorporated into the curriculum, and why Fortran and Python were chosen as the languages to be taught.",
     "tags": [
         "education",

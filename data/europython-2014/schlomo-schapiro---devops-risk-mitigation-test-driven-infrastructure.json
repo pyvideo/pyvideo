@@ -16,6 +16,7 @@
         "Schlomo Schapiro"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The (perceived) risk of the DevOps is that too many people get the right to \"break\" the platform.\r\n\r\nTest Driven Infrastructure is about adapting proven ideas from our developer colleagues to the development and operations of Infrastructure services like virtualization, OS provisioning, postfix configuration, httpd configuration, ssh tuning, SAN LUN mounting and others.\r\n\r\nThis talk shows how ImmobilienScout24 utilizes more and more test driven development in IT operations to increase quality and to mitigate the risk of opening up the infrastructure developmen to all developers.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/L6TtXrLmdKA/hqdefault.jpg",

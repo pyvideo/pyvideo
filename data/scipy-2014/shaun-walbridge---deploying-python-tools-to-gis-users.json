@@ -16,6 +16,7 @@
         "Shaun Walbridge"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The geospatial community has coalesced around Python, both in the commercial and open source spaces. In this talk, I'll show how Python tools can be shared with users of ArcGIS, a commercial GIS system which uses Python as its primary development environment. By constructing small Python wrappers, code can be shared in graphical tools which enable non-programmers to use what you've built.",
     "tags": [
         "gis"

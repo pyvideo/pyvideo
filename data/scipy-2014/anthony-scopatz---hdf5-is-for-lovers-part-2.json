@@ -16,6 +16,7 @@
         "Anthony Scopatz"
     ],
     "state": 1,
+    "status": "published",
     "summary": "HDF5 is a hierarchical, binary database format that has become the de facto standard for \r\nscientific computing. While the spec may be used in a relatively simple way it also supports several high-level features that prove invaluable. HDF5 bindings exist for almost every language - including two Python libraries (PyTables and h5py). This tutorial will cover HDF5 through the lens of PyTables.",
     "tags": [
         "HDF5",

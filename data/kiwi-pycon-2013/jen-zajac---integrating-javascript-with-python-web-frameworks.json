@@ -16,6 +16,7 @@
         "Jen Zajac"
     ],
     "state": 1,
+    "status": "published",
     "summary": "For today's modern web applications it's inevitable that you're going to need some client side magic to give your application the responsiveness it needs. This talk covers some of the dos and don'ts of integrating JavaScript with various Python web frameworks like Django.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/efzaKGnNAjE/hqdefault.jpg",

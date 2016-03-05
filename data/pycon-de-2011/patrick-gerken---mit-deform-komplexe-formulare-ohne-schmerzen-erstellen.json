@@ -16,6 +16,7 @@
         "Patrick Gerken"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Deform ist eine Form Bibliothek die sich einen engen Fokus setzt und dadurch sehr flexibel einsetzbar ist. In dem Vortrag zeigen wir, wie man damit arbeitet, und wie man es in Plone integrieren kann.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/zbUamIyygr4/hqdefault.jpg",

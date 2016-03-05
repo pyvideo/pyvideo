@@ -16,6 +16,7 @@
         "Vlad Filippov"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The goal of this talk is to showcase how App Engine makes it exciting to\nprototype back-end services for larger projects. Creating such prototypes\nhelps shape project requirements, develop datastores and improve testing\ncoverage.\n\n",
     "tags": [],
     "thumbnail_url": "http://i4.ytimg.com/vi/7wS0owpZwe4/hqdefault.jpg",

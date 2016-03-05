@@ -16,6 +16,7 @@
         "Andrew Montalenti"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Tutorial participants will build a real-world web application rapidly using lightweight tools, such as Flask, Jinja2, MongoDB, and Twitter Bootstrap. By building the apps from scratch using tools whose size matches the task at hand, participants will be able to churn out working applications by the end of the tutorial that can solidify their Python and modern web dev knowledge.",
     "tags": [
         "tutorial"

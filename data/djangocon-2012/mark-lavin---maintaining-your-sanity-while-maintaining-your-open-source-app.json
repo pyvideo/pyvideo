@@ -16,6 +16,7 @@
         "Mark Lavin"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Django has a thriving community of open source pluggable applications.\nMaintaining an external application can be a rewarding experience and doesn't\nneed to take over your life. Learn what it takes to package, document and test\nyour Django app so that others can use and contribute to what you've built.\n\n",
     "tags": [
         "django"

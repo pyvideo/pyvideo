@@ -16,6 +16,7 @@
         "Kai Diefenbach"
     ],
     "state": 1,
+    "status": "published",
     "summary": "LFS ist ein Online-Shop basieren auf Python, Django und jQuery. Er erfreut\nsich zunehmender Aufmerksamkeit, sowohl bei Entwicklern als auch bei\nAnwendern. Laut [djangopackages.com](http://djangopackages.com) ist LFS der am\nh\u00e4ufigsten heruntergeladene Shop f\u00fcr Django. \u00c4nderungen am Source Code\nverfolgen \u00fcber 200 Entwickler und die Google-Gruppe hat zur Zeit \u00fcber 170\nMitglieder.\n\nLFS ist praxiserprobt. Beispiele f\u00fcr gro\u00dfe und erfolgreiche Shops sind:\n\n* [demmelhuber.net](http://demmelhuber.net)  \n* [holzimgarten.com](http://holzimgarten.com)  \n* [anwaltakademie.de](http://anwaltakademie.de)\n\nKai Diefenbach, Gr\u00fcnder und einer der Kern-Entwickler, gibt in diesem Vortrag\nein \u00dcberblick zu folgenden Themen:\n\n* Live-Shops. Vorstellung von einigen Live-Shops: Zahlen und Fakten.\n\n* Features. Vorstellung der wichtigsten Features, beispielsweise: Produktarten, Katalog, Zahlmethoden, Liefermethoden, Mehrwertsteuer, Checkout, etc.\n\n* Entwicklung. Alles rund um die Entwicklung: Wie geht diese vor sich? Wie kann ich teilnehmen? Wie k\u00f6nnen Erweiterungen entwickelt werden?\n\n* Ausblick. Die Zukunft von LFS: Releases, neue Features, etc.\n\n",
     "tags": [
         "django",

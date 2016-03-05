@@ -16,6 +16,7 @@
         "Kenneth Reitz"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python\u2019s ecosystem is held up to a high standard, but it falls short in a few\nkey areas. A handful of crucial APIs are an absolute pain to work with. We\u2019ll\ngo over where these APIs went wrong and learn about strong and elegant API\ndesign. The high barriers to entry in Python will be discussed. Potential\nsolutions will be proposed.\n\n",
     "tags": [],
     "thumbnail_url": "http://i2.ytimg.com/vi/uqIx4VRIuwM/hqdefault.jpg",

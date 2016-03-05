@@ -16,6 +16,7 @@
         "Chris Esther"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This is an introduction to OSINT, the Maltego OSINT visualisation tool and Canari a Python framework for creating custom transforms for Maltego.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/HkRuVNRbieU/hqdefault.jpg",

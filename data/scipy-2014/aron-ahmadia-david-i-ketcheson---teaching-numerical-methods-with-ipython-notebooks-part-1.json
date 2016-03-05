@@ -17,6 +17,7 @@
         "David I. Ketcheson"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This tutorial will give participants an introduction to the use of IPython notebooks in teaching numerical methods or scientific computing, at the level of an undergraduate or graduate university course.  Prior familiarity with notebooks is not necessary.  Participants will create an interactive notebook that explains and helps students to implement and explore a numerical algorithm.",
     "tags": [
         "ipython",

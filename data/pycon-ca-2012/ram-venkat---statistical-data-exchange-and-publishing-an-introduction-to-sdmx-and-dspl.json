@@ -16,6 +16,7 @@
         "Ram Venkat"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In the era of big data analytics it makes even more sense to have efficient\nand standardized way of exchanging, sharing and publishing statistical data.\nThis talk explores two such mechanisms - SDMX , a standard for exchange of\nstatistical data for national statistical organizations and Google's DSPL that\nallows data to be published to Google Public Data Explorer.\n\n",
     "tags": [],
     "thumbnail_url": "http://i4.ytimg.com/vi/WSB_xv0t384/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Kenneth Reitz"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk dives into the specifics of why Django isn't always the best tool\nfor the job, general frustrations with the framework, and potential fixes. It\nwill balance out with many Django praises too, of course.\n\n",
     "tags": [
         "flask"

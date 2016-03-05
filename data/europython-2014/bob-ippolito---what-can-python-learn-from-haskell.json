@@ -16,6 +16,7 @@
         "Bob Ippolito"
     ],
     "state": 1,
+    "status": "published",
     "summary": "What can we learn from Erlang or Haskell for building reliable high\r\nconcurrency services?\r\n",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/eVChXmNjV7o/hqdefault.jpg",

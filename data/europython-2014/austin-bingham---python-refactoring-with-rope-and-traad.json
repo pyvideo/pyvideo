@@ -16,6 +16,7 @@
         "Austin Bingham"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Rope is a powerful Python refactoring library. Traad (Norwegian for \"thread\") is a tool which makes it simpler to integrate rope into IDEs via a simple HTTP API. In this session we'll look at how traad and rope work together and how traad integrates with at least one popular editor.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/NvV5OrVk24c/hqdefault.jpg",

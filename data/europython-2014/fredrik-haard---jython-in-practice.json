@@ -16,6 +16,7 @@
         "Fredrik H\u00e5\u00e5rd"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A lot of people have heard of Jython, some have tried it, but it seems few have actually deployed it in a corporate environment. In this talk I'll share my experiences in using Jython as a testbed for Java applications, for rapid prototyping in Java desktop and web environments, and for embedding scripting capabilities in Java products.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/VAg-UuieTUw/hqdefault.jpg",

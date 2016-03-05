@@ -16,6 +16,7 @@
         "Michael Sims"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The control of the Mars Exploration Rovers (MER) requires a complex set of\ncoordinated activites by a team. Early in the MER mission the author automated\nin Python much of the task of one of the operation positions, the Payload\nUplink Lead, for 7 of the 9 cameras on each rover. This talk describes the MER\nrovers, the operation tasks and that implemented system.\n\n",
     "tags": [
         "casestudy",

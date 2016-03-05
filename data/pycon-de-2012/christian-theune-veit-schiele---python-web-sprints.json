@@ -17,6 +17,7 @@
         "Veit Schiele"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Seit April 2011 finden regelm\u00e4\u00dfig dreit\u00e4gige Sprints zu verschiedenen Themen\r\nrund um Python-Web Anwendungen statt. Dabei geht es meist nicht um die\r\nschnelle Implementierung spezifischer Features sondern um grundlegende, von\r\nden Beteiligten mitgetragene Konzepte. Meist wird auch nicht an einzelnen\r\nKomponenten, sondern an einer Toolchain zur L\u00f6sung konkreter Probleme\r\ngearbeitet. Schlie\u00dflich werden die Ergebnisse in einer Anwenderdokumentation\r\nfestgehalten.\r\n\r\nDie Initiatoren des Sprints, Christian Theune und Veit Schiele, stellen das\r\nKonzept der Sprint-Reihe vor und gehen auch die Ergebnisse der bisherigen\r\nSprints ein. Die Themen der bisherigen Sprints waren: PyPI-Mirroring und\r\nPerformance-Optimierungen, Sicherheit und Datenschutz bei Web-Anwendungen\r\nsowie Betrieb und Deployment von Python-Webanwendungen.\r\n\r\n",
     "tags": [
         "sprint",

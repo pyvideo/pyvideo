@@ -16,6 +16,7 @@
         "Nick Coghlan"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The CPython reference interpreter lies at the heart of a much wider Python\necosystem. The decisions that shape the future development of CPython ripple\nout and have a broad impact on the entire Python community. This talk covers\nthe special place CPython occupies in the broader Python community, how the\ndecisions that affect CPython's development are made, and how new developers\ncan become involved in that process..\n\n",
     "tags": [
         "cpython"

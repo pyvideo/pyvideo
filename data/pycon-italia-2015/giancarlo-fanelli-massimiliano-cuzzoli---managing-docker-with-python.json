@@ -17,6 +17,7 @@
         "Massimiliano Cuzzoli"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk gives an overview about the Python modules that allow you to interact with Docker.",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/5ph4Ou4SNlw/maxresdefault.jpg",

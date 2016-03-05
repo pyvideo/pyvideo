@@ -16,6 +16,7 @@
         "Ying Li"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A brief overview of what multifactor authentication is, focusing particularly on possession factors, including what common options are available. One-time-passwords, an important concept many possession factor types, will also be discussed.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/aYywSlNdP5I/hqdefault.jpg",

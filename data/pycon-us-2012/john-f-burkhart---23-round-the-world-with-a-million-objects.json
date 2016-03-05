@@ -16,6 +16,7 @@
         "John F Burkhart"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python has provided a suite of tools required for our Lagrangian Particle\nModeling Framework that is used for simulation of atmospheric transport. The\nPython language is used for generating input files for our FORTRAN codebase,\nusing f2py to control several aspects of running the model and reading output,\nand dynamically generating content with matplotlib for web-display using\nPlone.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/q_i3CHNITQ4/hqdefault.jpg",

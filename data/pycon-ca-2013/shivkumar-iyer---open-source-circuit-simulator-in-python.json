@@ -16,6 +16,7 @@
         "Shivkumar Iyer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Simulation of large interconnected electrical circuits particularly with nonlinear controllable devices requires significant computational overhead and also generates a large amount of data. The proposed circuit simulator intends to be able to solve nonlinear systems for large time intervals.",
     "tags": [
         "Lightning talk"

@@ -16,6 +16,7 @@
         "Eric Snow"
     ],
     "state": 1,
+    "status": "published",
     "summary": "To really take advantage of Python you must understand how imports work and\nhow to use them effectively. In this talk we'll discuss both of these. After a\nshort introduction to imports, we'll dive right in and look at how customizing\nimport behavior can make all your wildest dreams come true.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/kdZuUIj4lMo/hqdefault.jpg",

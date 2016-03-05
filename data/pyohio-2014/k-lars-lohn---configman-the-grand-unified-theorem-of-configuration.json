@@ -16,6 +16,7 @@
         "K Lars Lohn"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Have you ever noticed that none of the the Pythonic methods of configuration are compatible with each other? Command line modules know nothing of the multiple types of configuration files or environment variables. Configman,  the grand unified theorem of configuration, unites them all, giving a single API for all configuration and offering an inadvertent dependency injection framework with it.",
     "tags": [
         "talk"

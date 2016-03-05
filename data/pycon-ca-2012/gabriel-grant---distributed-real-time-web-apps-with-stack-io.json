@@ -16,6 +16,7 @@
         "Gabriel Grant"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Stack.io[1] is an open-source tool to quickly build real-time web apps. By\ndirectly linking clients to back-end services via WebSockets, Stack.io helps\ndecompose complex code into a set of simple components in Python or Node.js.\nIt augments standard RPC with bi-directional streaming, and provides a layer\nof auth and service discovery on top.\n\n[1]:\n[https://github.com/dotcloud/stack.io](https://github.com/dotcloud/stack.io)\n\n",
     "tags": [],
     "thumbnail_url": "http://i3.ytimg.com/vi/VWe5dosKL6g/hqdefault.jpg",

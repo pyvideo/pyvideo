@@ -16,6 +16,7 @@
         "Nickolas Grigoriadis"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We all know writing documentation is an arduous exercise. We all know how useless and frustrating out-of-date or just plain incorrect documentation is. In this talk I'd like to demonstrate how Python can help make writing documentation, keeping it up-to-date and verifying its validity. It can be surprising what happens when other people discover your little-but-well-documented API.\nPython has several built-in concepts and standard tools to help making this easier, such as docstrings, help(), Sphinx, Sphinx plugins, Doctests and generating documentation off tests themselves.\nI'll focus on not only using Sphinx as a tool, but also on how to structure your application/library/tool so as to make writing accurate documentation as simple as possible.",
     "tags": [
         "pyconza",

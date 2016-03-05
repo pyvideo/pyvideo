@@ -16,6 +16,7 @@
         "Brad Montgomery"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Graphs are a powerful data structure and are increasingly relevant for today's social and data-centric applications. This talk offers a brief overview of Graphs, Graph theory, and explores scenarios where using a Graph database (particularly Neo4j) can be of great benefit.",
     "tags": [
         "talk"

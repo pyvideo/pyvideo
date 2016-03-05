@@ -16,6 +16,7 @@
         "Reinhard Wobst"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Mit boost.python kann man Klassen und Klasseninstanzen an einen eingebetteten Python-Interpreter weiterreichen und die Instanzen dort ver\u00e4ndern; ebenso lassen sich Python-Objekte bequem in C++ verarbeiten. Gegen\u00fcber der Python-C-API entf\u00e4llt das fehlertr\u00e4chtige Referenz-Handling, und der Stil ist n\u00e4her an Python. Eigentlich ist diese Bibliothek die erste Wahl f\u00fcr diese Situation, doch leider ist die Dokumentation v\u00f6llig unzureichend. Hilfe gibt es im Netz, doch unstrukturiert und nicht immer optimal. Der Vortrag geht auf Missverst\u00e4ndnisse und typische Fehler ein, die bei der Nutzung wenigstens anfangs auftreten, zeigt die (noch vorhandenen) Grenzen auf und bietet einige \"Kochrezepte\". Au\u00dferdem zeigt er, wozu das alles in der Praxis gut sein kann.",
     "tags": [
         "boost.python",

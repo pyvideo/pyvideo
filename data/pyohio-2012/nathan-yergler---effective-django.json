@@ -16,6 +16,7 @@
         "Nathan Yergler"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Django is a popular, powerful web framework for Python. It has lots of\n\"batteries\" included, and makes it easy to get up and going. But all of the\npower means you can write low quality code that still seems to work. Effective\nDjango development means building applications that are testable,\nmaintainable, and scalable. This talk-torial will cover the skills needed to\neffective use Django.\n\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/T0_yaDz8Kd4/hqdefault.jpg",

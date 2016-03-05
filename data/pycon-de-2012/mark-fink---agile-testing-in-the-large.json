@@ -16,6 +16,7 @@
         "Mark Fink"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Im Vortrag \"Agile testing in the large\" nutze ich wieder OpenSource Tools die\nleider nicht alle in Python implementiert sind, jedoch hervorragend geeignet\nsind, um u.a. Python Webapplikationen zu testen.\n\nDer Vortrag erl\u00e4uterte das Testen moderner Web-Anwendungen und gliedert sich\nso:\n\n* Einleitung  \n* Continuous Integration  \n* kleine Entwickler-Tests  \n* mittlere und gro\u00dfe Entwickler-Tests  \n* Acceptance Testing mit Selenium2\n\nThemen exploratory Testing und Performance Testing bleiben absichtlich\nunbehandelt.\n\n",
     "tags": [
         "testing"

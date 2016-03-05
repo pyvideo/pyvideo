@@ -16,6 +16,7 @@
         "Chris McDonough"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Pyramid web framework authentication and authorization subsystems are powerful and pluggable, but using them to their max isn't always easy.  This talk will discuss how to get the most out of those subsystems.",
     "tags": [
         "talk"

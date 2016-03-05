@@ -16,6 +16,7 @@
         "Tim McNamara"
     ],
     "state": 1,
+    "status": "published",
     "summary": "NuPIC is an open source platform for building prediction models from data streams, such as sensor data. Two models will be discussed, an earthquake damage predictor built from from GeoNet data and a flood level warning system.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/rY7GLyxINFY/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Chris Cope"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will educate the audience about Python tools and best practices for creating reproducible petabyte-scale pipelines. This is done within the context of demonstrating a new grammar-based approach to comparative genomics. The genome grammars are produced using public data from the National Institutes of Health, streamed over a high-throughput Internet2 connection to Amazon Web Services.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/g_QVAp1YkRI/hqdefault.jpg",

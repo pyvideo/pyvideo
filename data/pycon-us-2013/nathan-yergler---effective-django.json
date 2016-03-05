@@ -16,6 +16,7 @@
         "Nathan Yergler"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Django is a popular, powerful web framework for Python. It has lots of \"batteries\" included, and makes it easy to get started. But all of the power means you can write low quality code that still works. Effective Django means building applications that are testable, maintainable, and scalable. This tutorial will introduce attendees to Django with an emphasis on testing, maintenance, and scale.",
     "tags": [
         "tutorial"

@@ -16,6 +16,7 @@
         "Cody Lovett"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Have you ever wanted to write a game? This talk will give you all the stuff that you will need to make a game using the pygame game making library. Come to this talk so you don't make all the mistakes that I did.\r\nThis talk will cover all kinds of awesome things that your game will need like images, music, sound effects, drawing, and all the vital things you will need to know. And I will show you how to do it right!",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/RQ-lIU0jWwg/hqdefault.jpg",

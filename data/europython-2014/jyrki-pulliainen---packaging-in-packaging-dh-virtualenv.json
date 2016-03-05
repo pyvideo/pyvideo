@@ -16,6 +16,7 @@
         "Jyrki Pulliainen"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Deploying your software can become a tricky task, regardless of the\r\nlanguage. In the spirit of the Python conferences, every conference\r\nneeds at least one packaging talk.\r\n\r\nThis talk is about dh-virtualenv. It's a Python packaging tool aimed\r\nfor Debian-based systems and for deployment flows that already take\r\nadvantage of Debian packaging with Python virtualenvs",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/d_jqe1O31X8/hqdefault.jpg",

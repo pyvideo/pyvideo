@@ -16,6 +16,7 @@
         "Hannah Aizenman"
     ],
     "state": 1,
+    "status": "published",
     "summary": "When people hear of matplotlib, they think rudimentary graphs that will need to be touched up in photoshop. This tutorial aims to teach attendees how to exploit the functionality provided by various matplotlib libraries to create professional looking data visualizations.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/Eu8nLAIRuwM/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "J Gregory Caporaso"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We present scikit-bio, a library based on the Python scientific computing stack implementing core bioinformatics data structures, algorithms and parsers. scikit-bio is useful for students in bioinformatics, who can learn topics such as iterative progressive multiple sequence alignment from the source code and accompanying documentation, and for real-world bioinformatics applications developers.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/hgBx_DBiPxA/hqdefault.jpg",

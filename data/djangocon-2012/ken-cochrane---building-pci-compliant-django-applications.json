@@ -16,6 +16,7 @@
         "Ken Cochrane"
     ],
     "state": 1,
+    "status": "published",
     "summary": "If you currently accept credit cards with your Django application today, or\nyou plan on accepting them in the future, then you will need to worry about\nPCI DSS. Learn what you need to do to make sure that your application is PCI\nDSS compliant, and if it is not, what you need to do to bring it into\ncompliance.\n\n",
     "tags": [
         "django",

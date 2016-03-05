@@ -16,6 +16,7 @@
         "holger krekel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk discusses good ways to organise packaging and testing\r\nfor Python projects.  It walks through a per-company and an\r\nopen source scenario and explains how to best use the\r\n\"devpi-server\" and \"tox\" for making sure you are delivering\r\ngood and well tested and documented packages.  As time permits, we also\r\ndiscuss in-development features such as real-time mirroring and\r\nsearch.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/s_YjaODzM1E/hqdefault.jpg",

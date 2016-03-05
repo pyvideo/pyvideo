@@ -16,6 +16,7 @@
         "Sameer Khan"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We'll go over some intermediate to advanced topics and consider pros and cons\nof choosing the simpler approach vs. the possibly more complicated or\nredundant one. The aim is to reduce the number of language APIs and constructs\nmost programmers have to carry in their head to a smaller and more coherent\nset. Along the way some best practices will also be discussed that are at a\nhigher level than things that can be flagged by automated syntax checking\ntools such as pylint, pyflakes, etc.\n\n",
     "tags": [],
     "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-SimplifyYourPythonLife131-952.jpg",

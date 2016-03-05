@@ -16,6 +16,7 @@
         "Mike M\u00fcller"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Although Python programs may be slow for certain types of tasks, there are many different ways to improve the performance. This tutorial will introduce optimization strategies and demonstrate techniques to implement them. Another objective of this course is to help the participants to gain the ability to decide what might be the optimal solution for a specific performance problem.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/wNBJDpyRm8w/hqdefault.jpg",

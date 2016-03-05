@@ -16,6 +16,7 @@
         "Alexey Malashkevich"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Pony ORM is an Object-Relational Mapper implemented in Python. It uses an unusual approach for writing database queries using Python generators. Pony analyzes the abstract syntax tree of a generator and translates it to its SQL equivalent. The translation process consists of several non-trivial stages. In this talk one of Pony ORM authors will reveal the internal details of this process.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/xjikvIHjvHs/hqdefault.jpg",

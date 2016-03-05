@@ -14,6 +14,7 @@
     "source_url": "",
     "speakers": [],
     "state": 1,
+    "status": "published",
     "summary": "I plan on showing a live example and customizing as we go. This will be a\npretty mid-level talk and should be interesting to those not familiar, those\nwho know django and considered using the admin, and for djangonuts who want to\ndo some pretty advanced stuff.\n\n",
     "tags": [
         "admin",

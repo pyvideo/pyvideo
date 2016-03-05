@@ -16,6 +16,7 @@
         "Adam Terrey"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Moving old sites into a new web platform is a pain. Often you need to pull\napart perfectly good HTML just to spend time painstakingly putting back\ntogether again and converting hundreds of pages of content is a chore.\nRecently PretaWeb used tools to drastically simplify this process when\nconverting genetics.edu.au to Plone 4.1. Diazo is a platform independent\ntheming engine that leaves HTML untouched. Funnelweb is a static content\nmigration tool for crawling and manipulating site content.\n\n",
     "tags": [
         "migration",

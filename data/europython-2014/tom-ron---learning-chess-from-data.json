@@ -21,6 +21,7 @@
         "Tom Ron"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Is watching a chess game enough to figure out the rules?\r\nWhat is common denominator between different plays and game ending?\r\nIn this presentation, we will show how Machine Learning and Hadoop \r\ncan help us re-discover chess rules and gain new understanding of the game.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/1WeX6oRw5Y8/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Kurt Grandis"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Has your garden been ravaged by the marauding squirrel hordes? Has your bird\nfeeder been pillaged? Tired of shaking your fist at the neighbor children?\nLearn how to use Python to tap into computer vision libraries and build an\nautomated sentry water cannon capable of soaking intruders.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/QPgqfnKG_T4/hqdefault.jpg",

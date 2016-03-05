@@ -16,6 +16,7 @@
         "Mark Kohler"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The continual decrease in the cost of computer hardware is allowing more\nembedded systems to be built with Linux and Python, instead of the traditional\napproach of a real-time operating system and C. This talk reviews the\ndifferences between those approaches and describes problems, solutions, and\ntools that can be used when building embedded systems with Python.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/WZoeqnsY9AY/hqdefault.jpg",

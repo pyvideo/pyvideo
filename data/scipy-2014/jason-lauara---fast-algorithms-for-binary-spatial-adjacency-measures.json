@@ -16,6 +16,7 @@
         "Jason Lauara"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Spatial weights matrices, $W$, represent potential interaction between all $i,j$ in a study area and play an essential role in many spatial analysis tasks. Commonly applied binary adjacency algorithms using decomposition and tree representations scale quadratically and are ill suited for large data sets. We present a linearly scaling, adjacency algorithm with significantly improved performance.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/kNcA-yE_iNI/hqdefault.jpg",

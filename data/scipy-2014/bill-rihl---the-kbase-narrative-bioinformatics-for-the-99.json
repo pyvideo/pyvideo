@@ -16,6 +16,7 @@
         "Bill Rihl"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The KBase Narrative builds on the IPython Notebook to provide a multi-user, virtualized Bioinformatics Laboratory Notebook that brings Experimental/Wetlab Biologists, students and the bio-curious into the world of Computational Biology. Tools for genome annotation, visualization, metabolic modeling and more are made available in a collaborative and educational web interface.",
     "tags": [
         "bioinformatics"

@@ -16,6 +16,7 @@
         "Jason Zylks"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Message queues provide a reliable, language agnostic method for sharing data\nbetween processes for distributed processing, and to manage work flows. This\ntalk will examine the role of message queues in a redesign of the provisioning\nprocess for Texas A&M; University's enterprise directory.\n\n",
     "tags": [],
     "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-UsingMessageQueuesForDistributedProcessing897-27.jpg",

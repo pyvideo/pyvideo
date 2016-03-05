@@ -14,6 +14,7 @@
     "source_url": "",
     "speakers": [],
     "state": 1,
+    "status": "published",
     "summary": "Fellow Python Atlanta member Alfredo Deza talks about how his recent project\nto write a daemon library for Python benefitted from the popular \"nose\"\ntesting framework and how its test coverage module guided him into creating\nmore complete testing.\n\n",
     "tags": [
         "nose",

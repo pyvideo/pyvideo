@@ -18,6 +18,7 @@
         "Zach Howard"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this tutorial we'll set ourselves the goal of building a minimal recommendation engine, and in the process learn about Python's excellent Pydata and related projects and tools: NumPy, pandas, and the IPython Notebook.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/MFWAAPReG1M/hqdefault.jpg",

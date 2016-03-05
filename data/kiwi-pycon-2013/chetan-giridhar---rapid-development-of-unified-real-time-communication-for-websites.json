@@ -16,6 +16,7 @@
         "Chetan Giridhar"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Development of real time communication channels like instant chat or media calls has been difficult. Integrating it in a scalable and responsive way for websites has been a bigger concern. This talk describes how instant chat or media calls can be developed in a rapid way with Python modules and demonstrates the concept with a working prototype.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/fB_XzU8sRbU/hqdefault.jpg",

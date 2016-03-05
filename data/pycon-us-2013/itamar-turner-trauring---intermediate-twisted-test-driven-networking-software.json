@@ -16,6 +16,7 @@
         "Itamar Turner-Trauring"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Writing tests for networking code presents special challenges, which Twisted tries to address. In this tutorial you will implement a toy HTTP server using test-first methodology: first the tests are written, and then the code. You will learn how to write well-tested network applications using Twisted, and the general virtues of doing test-driven development.",
     "tags": [
         "tutorial"

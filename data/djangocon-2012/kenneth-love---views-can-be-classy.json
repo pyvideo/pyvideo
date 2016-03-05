@@ -16,6 +16,7 @@
         "Kenneth Love"
     ],
     "state": 1,
+    "status": "published",
     "summary": "An overview of what class-based views (CBVs) are, which ones are available,\nand how to use them in your projects. I'll also cover creating mixins, where\nfunction-based views still make sense, and how to test CBVs. As part of this,\nI'll be covering my django-braces (https://crate.io/packages/django-braces/)\npackage.\n\n",
     "tags": [
         "class-based-views",

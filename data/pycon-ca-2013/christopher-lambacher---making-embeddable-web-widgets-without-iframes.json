@@ -16,6 +16,7 @@
         "Christopher Lambacher"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will cover how Tindie created embeddable widgets using Django, TastyPie &, Sqwidget... without iframes.",
     "tags": [
         "Lightning talk"

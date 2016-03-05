@@ -16,6 +16,7 @@
         "Carson Farmer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Using the wide range of tools and libraries available for working with geospatial data, it is now possible to transport geospatial data from a database to a web-interface in only a few lines of code. In this tutorial, we explore some of these libraries and work through examples which showcase the power of Python for geospatial data.",
     "tags": [
         "geospatial",

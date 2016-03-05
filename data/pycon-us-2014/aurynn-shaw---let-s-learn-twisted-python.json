@@ -16,6 +16,7 @@
         "Aurynn Shaw"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Let's Learn Twisted is a short 3-hour tutorial covering the basics of writing a Twisted Python client-server application using Twisted Python's Factory and Endpoint APIs to construct a peer-to-peer chat and RPC network.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/XTMsUuWX02Q/hqdefault.jpg",

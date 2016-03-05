@@ -16,6 +16,7 @@
         "Brandon Rhodes"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Projects can succeed or fail because of their documentation. When you write, you need to concentrate on your prose\u2014not on how to get text rendered, indexed, highlighted, and cross-referenced. The Sphinx documentation framework exists to make these parts easy so you can focus on writing. This tutorial will use hands-on exercises to teach you to write, theme, and deploy documentation using Sphinx!",
     "tags": [
         "tutorial"

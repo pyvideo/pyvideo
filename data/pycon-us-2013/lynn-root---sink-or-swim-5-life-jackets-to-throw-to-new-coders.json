@@ -16,6 +16,7 @@
         "Lynn Root"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Many want to learn to code, and many choose Python as a first language. You direct them to Learn Python the Hard Way, or Dive into Python. Great!  But now what? I will present 5 digestible projects to gradually progress the Python learner from near drowning to a decent swimmer. The goal is to have new coders feeling accomplished and to continuing learning.",
     "tags": [
         "talk"

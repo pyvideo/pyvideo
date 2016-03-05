@@ -16,6 +16,7 @@
         "Graeme Cross"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Whirrr, buzz, squelch, click, smash, bing! Python is so much more than a\nlanguage for Web 2.0 and system administration: Python can also be used for\ninterfacing into the real world. Learn how to connect Python up to stepper\nmotors, micro-fluidic pumps, A/D sensors, switches, solenoids, vacuum/pressure\nvalves and XYZ robots, with simple off-the-shelf control hardware.\n\n",
     "tags": [
         "web"

@@ -16,6 +16,7 @@
         "Paul Winkler"
     ],
     "state": 1,
+    "status": "published",
     "summary": "OpenBlock ([http://openblockproject.org/](http://openblockproject.org/)) is an\nopen-source (GPL) hyperlocal news website / service built on Django. This talk\nwould be an overview of the project: what it does, how it works, its history\nand future. And a brief live demo.\n\n",
     "tags": [
         "openblock",

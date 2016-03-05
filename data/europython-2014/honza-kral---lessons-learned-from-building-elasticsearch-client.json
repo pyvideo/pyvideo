@@ -16,6 +16,7 @@
         "Honza Kr\u00e1l"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Lessons learned when building a client for a fully distributed system and trying to minimize context-switching pains when using multiple languages.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/rPpiOQNNm8U/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Laurens Van Houtven"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A talk about mixing Twisted, an asynchronous IO framework for Python, with other Python code: blocking code, other asynchronous code...",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/A_NnHC2LcaE/hqdefault.jpg",

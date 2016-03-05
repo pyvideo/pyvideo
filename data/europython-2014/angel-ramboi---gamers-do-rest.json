@@ -16,6 +16,7 @@
         "Angel Ramboi"
     ],
     "state": 1,
+    "status": "published",
     "summary": "An overview (sprinkled with implementation details and solutions to issues we encountered) of how Demonware uses Python and Django to build RESTful APIs and how we manage to reliably serve millions of gamers all over the world that play Activision-Blizzard's successful franchises Call of Duty and Skylanders.\r\n\r\nTopics the presentation will touch: tech stack overview; API design; configuration handling; middleware usage for logging, metrics and error handling; authentication/authorization.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/l8itUalxsDY/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Astrid Malo"
     ],
     "state": 1,
+    "status": "published",
     "summary": "TDI ist ein ein in Python geschriebenes Template-System auf Basis von \"Annotated Templates\". Es ist schnell, leicht zu erlernen, einfach zu nutzen und m\u00e4chtig. TDI trennt nicht nur strikt zwischen Layout (WYSIWYG) und Logik sondern erm\u00f6glicht auch mittels Overlays die Komposition beliebiger Templates zu einem jeweils individuellem Ergebnis.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/49ERjKlpY10/hqdefault.jpg",

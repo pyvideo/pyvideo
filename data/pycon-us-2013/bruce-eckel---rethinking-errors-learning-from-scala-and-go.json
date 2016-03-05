@@ -16,6 +16,7 @@
         "Bruce Eckel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "C++ brought exceptions to mainstream programming; Java goes further with checked exceptions. But are exceptions the one way to report all errors? Scala and Go suggest there is more than one kind of error, so there should be more than one kind of error reporting, and different responses to errors. I\u2019ll show the Scala and Go approaches to the error problem, and how to apply this to Python.",
     "tags": [
         "talk"

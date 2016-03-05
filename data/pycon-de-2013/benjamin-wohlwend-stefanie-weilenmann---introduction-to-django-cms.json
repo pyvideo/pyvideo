@@ -17,6 +17,7 @@
         "Stefanie Weilenmann"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Wir werden das Open Source Content Management System \u00abdjango CMS\u00bb vorstellen. Einerseits zeigen wir das Backend, aber auch das Frontend, geben Erfahrungen von Developern weiter und von CMS-Verwendern. Patrick Lauber, als Senior Web Developer geht in die Tiefe, Stefanie Weilenmann wir das CMS anhand einer kurzen Schulung zeigen. ",
     "tags": [
         "django",

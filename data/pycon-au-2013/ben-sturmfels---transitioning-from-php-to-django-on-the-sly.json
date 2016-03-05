@@ -16,6 +16,7 @@
         "Ben Sturmfels"
     ],
     "state": 1,
+    "status": "published",
     "summary": "You know that Python and Django is the way forward for your client, but with a mountain of legacy PHP code, where do you start?\r\n\r\nBen spent the last 3 years working with a thriving charity organisation to migrate their large PHP system to Django. He'd like to share some survival strategies.\r\n\r\nThis talk covers:\r\n\r\n - explaining the transition to your client\r\n - first steps and initial experiments\r\n - running PHP and Django in parallel\r\n - why incremental migration beats the \"big switch\"\r\n - sharing databases and authentication\r\n - making the experience seamless for visitors and staff\r\n - strategies for converting the code",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/wWlmpoSN34I/hqdefault.jpg",

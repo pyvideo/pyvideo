@@ -16,6 +16,7 @@
         "Jason K. Moore"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this tutorial, attendees will learn how to derive, simulate, and visualize\r\nthe motion of a multibody dynamic system with Python tools. These methods and\r\ntechniques play an important role in the design and understanding of robots,\r\nvehicles, spacecraft, manufacturing machines, human motion, etc. Attendees will\r\ndevelop code to simulate the motion of a human or humanoid robot.",
     "tags": [
         "robots",

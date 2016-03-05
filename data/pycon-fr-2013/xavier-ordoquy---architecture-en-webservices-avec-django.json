@@ -16,6 +16,7 @@
         "Xavier Ordoquy"
     ],
     "state": 1,
+    "status": "published",
     "summary": "L'architecture d'une plateforme sous forme de webservices est de plus en plus commune. Comment Django peut-il aider \u00e0 mettre en place une telle architecture ?\n\nL'architecture d'une plateforme sous forme de webservices est de plus en plus commune. Quels sont les avantages et probl\u00e8mes d'une telle architecture ? Comment Django peut-il aider \u00e0 mettre en place une telle architecture, du cot\u00e9 du serveur comme du cot\u00e9 du client ? Qu'en est-il des performances ?",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/GHMgXXNOu0g/maxresdefault.jpg",

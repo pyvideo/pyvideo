@@ -16,6 +16,7 @@
         "Stefano Cotta Ramusino"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Do want to test the connection code to a wifi/gsm network, but you haven't any dongle? Do you want to check your software notification when the battery is low, but you're testing your application on your desktop? Do you want to manipulate the data coming from a device, but you've lend it to someone else? *No problem, you can emulate all these with Python!*",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/UhLP0TJg5T8/hqdefault.jpg",

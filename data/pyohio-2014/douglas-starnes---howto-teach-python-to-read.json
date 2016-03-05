@@ -16,6 +16,7 @@
         "Douglas  Starnes"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Not all data is numeric!  People find words a more efficient means of communication.  Manually analyzing text can be slow, subjective and inconsistent.  Fortunately, the Natural Language ToolKit (NLTK) is ready to help.  NLTK can perform many techniques in natural language processing (NLP) and ships with many corpora.  This talk will survey fundamental NLP methods and how to use them with NLTK.",
     "tags": [
         "talk"

@@ -21,6 +21,7 @@
         "Taavi Burns"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Use iPython, matplotlib, and Pandas to slice, dice, and visualize your application's behaviour through its logs.",
     "tags": [
         "talk"

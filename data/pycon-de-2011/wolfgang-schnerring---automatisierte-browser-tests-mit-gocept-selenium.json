@@ -16,6 +16,7 @@
         "Wolfgang Schnerring"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Die Browser-Fernsteuerung Selenium ist ein unverzichtbares Werkzeug zum automatisierten Testen von Web-Anwendungen. In diesem Vortrag wird gocept.selenium vorgestellt, ein Paket, das zum einen Anweisungen bereitstellt, die das pr\u00e4gnante Formulieren von Tests erleichtern, und zum anderen Selenium und die zu testende Anwendung (z.B. per WSGI) miteinander integriert.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/c-8h2CRfWs4/hqdefault.jpg",

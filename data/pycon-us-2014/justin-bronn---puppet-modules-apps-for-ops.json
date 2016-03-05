@@ -16,6 +16,7 @@
         "Justin Bronn"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Puppet modules provide reusable operations (\"ops\") code in a manner analogous to Django apps. This talk explores the Puppet ecosystem through the eyes of a typical Python developer, and demonstrates how to use Puppet modules effectively to deploy and secure Python web applications.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/RrUf0q-tZiE/hqdefault.jpg",

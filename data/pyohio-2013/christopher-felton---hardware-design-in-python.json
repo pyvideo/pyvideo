@@ -16,6 +16,7 @@
         "Christopher Felton"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will review the MyHDL package and digital hardware design at the RTL level with Python.",
     "tags": [
         "talk"

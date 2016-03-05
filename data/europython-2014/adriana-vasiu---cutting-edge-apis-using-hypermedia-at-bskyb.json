@@ -16,6 +16,7 @@
         "Adriana Vasiu"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this talk I will explain what hypermedia enabled API means, I will give an example of such an API and I will take you through the implementation details and the usage of flask, dougrain and HAL in this context. Also, I will present a brief comparison with an API that is not hypermedia enabled and take you through the advantages of using the hypermedia approach.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/7rSLyLMaWXQ/hqdefault.jpg",

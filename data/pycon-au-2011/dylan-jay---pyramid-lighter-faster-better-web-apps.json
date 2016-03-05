@@ -16,6 +16,7 @@
         "Dylan Jay"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Introduction to the Pyramid, the new web framework taking the python world by\nstorm. This tutorial will cover the basics of a hello world app and cover some\nof the advanced features of pyramid that give it it's power such as traversal.\nPyramid is part of the pylons project and is a successor to pylons and a\ncontinuation of the BFG framework. It's very simple to learn, runs fast yet\nhas powerful concepts which help keep large web app creation a sane process..\n\n",
     "tags": [
         "framework",

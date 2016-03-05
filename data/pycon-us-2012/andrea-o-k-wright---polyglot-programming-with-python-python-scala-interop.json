@@ -16,6 +16,7 @@
         "Andrea O. K. Wright"
     ],
     "state": 1,
+    "status": "published",
     "summary": "I won't just demonstrate how to use projects that bridge programming\nlanguages, I'll walk through the lower-level code that allows inter-language\ncommunication to happen.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/fWONoZvTi80/hqdefault.jpg",

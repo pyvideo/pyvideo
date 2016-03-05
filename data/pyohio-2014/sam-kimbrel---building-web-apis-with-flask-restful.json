@@ -16,6 +16,7 @@
         "Sam Kimbrel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The Flask framework\u2019s DIY nature makes it ideal for implementing REST APIs. Flask-RESTful is a Flask extension providing reusable, extensible behavior for common elements of REST APIs like content negotiation, input validation, and output marshalling. This talk will show how to use Flask-RESTful to build a REST API, demonstrating how to start from a blueprint to adapt it for your own use cases.",
     "tags": [
         "talk"

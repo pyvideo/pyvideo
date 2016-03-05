@@ -16,6 +16,7 @@
         "Mahdi Yusuf"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will teach you how to grow a community around your project. I will be sharing interesting data points from the PyCoder's Weekly newsletter on what resonates well with developers, specifically in the Python community. ",
     "tags": [
         "talk"

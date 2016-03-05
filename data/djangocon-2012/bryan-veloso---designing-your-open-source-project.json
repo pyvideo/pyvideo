@@ -16,6 +16,7 @@
         "Bryan Veloso"
     ],
     "state": 1,
+    "status": "published",
     "summary": "There is an ever present rift between designers and developers and it is one\nthat has existed since our paths started crossing. We'll talk about how to be\nmindful of design in your own open source project and how to attract designers\nto help your project become even more awesome.\n\n",
     "tags": [
         "django",

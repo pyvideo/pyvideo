@@ -16,6 +16,7 @@
         "Brian Curtin"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Rackspace is rolling out a new service to allow your cloud to scale on its own, called Auto Scale. Built on Monitoring, Auto Scale allows you to grow or shrink your fleet of resources as demand changes.\r\n\r\npyrax, a Python package for working with OpenStack-based clouds like Rackspace's, just released Auto Scale and Monitoring support with version 1.5.0.\r\n\r\nI'll show how you can use pyrax to deploy servers and automatically add or remove them based on their usage.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/-0P5EvYI0Rk/hqdefault.jpg",

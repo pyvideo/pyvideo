@@ -16,6 +16,7 @@
         "Nik Klever"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In diesem Vortrag geht es darum, dass im Herbst am Zentrum f\u00fcr\nHochschuldidaktik der bayerischen Hochschulen f\u00fcr Angewandte Wissenschaften\nein Fachdidaktikarbeitskreis \"didaktische Anforderungen an die erste\nProgrammiersprache\" eingerichtet wird, in dem herausgearbeitet werden soll,\nwelche Anforderungen an eine Programmiersprache aus didaktischer Sicht f\u00fcr\neinen Einstieg in die Programmierung am besten geeignet ist. Die Erfahrungen\nder anwesenden Experten soll in einer Art Brainstorming genutzt werden, um\n\"didaktische\" Argumente f\u00fcr die Verwendung von Python als erste\nProgrammiersprache zu sammeln und in diesen Arbeitskreis einfliessen zu\nlassen. Evtl. k\u00f6nnte dieser Vortrag / dieses Brainstorming auch als Start f\u00fcr\neine Open Space Session innerhalb vom Barcamp zu diesem Thema sein. Die\nZielgruppe f\u00fcr diesen Vortrag ist neben den Experten sicherlich auch f\u00fcr\nNeulinge geeignet.\n\n",
     "tags": [
         "didaktik",

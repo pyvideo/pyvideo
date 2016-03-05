@@ -16,6 +16,7 @@
         "adam goucher"
     ],
     "state": 1,
+    "status": "published",
     "summary": "WebDriver is actually not that complicated. No, really! If you know about Page\nObjects, synchronization and the JS Executor you can solve just about any\nproblem. 20 minutes is not a lot of time, but we'll cover all three of those\nthings. Honest!\n\n",
     "tags": [],
     "thumbnail_url": "http://i2.ytimg.com/vi/eJUDZ7_Xg6I/hqdefault.jpg",

@@ -17,6 +17,7 @@
         "Jacqueline Kazil"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Exploring and analyzing data can be daunting and time-consuming, even for data\nlovers. Python can make the process fun and exciting. We will present\ntechniques of data analysis, along with python tools that help you explore and\nmap data. Our talk includes examples that show how python libraries such as\ncsvkit, matplotlib, scipy, networkx and pysal can help you dig into and make\nsense of your data.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/GxyfYEe8MiQ/hqdefault.jpg",

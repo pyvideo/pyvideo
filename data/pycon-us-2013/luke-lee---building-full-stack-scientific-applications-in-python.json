@@ -16,6 +16,7 @@
         "Luke Lee"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python has a large collection of tools for scientific computing.  However,\r\nfinding the right pieces and assembling them into a fast and scale-able app can\r\nbe a daunting task.  This talk will explore common requirements of scientific\r\napps and how to fulfill those from the Python ecosystem.  It will also provide a\r\nblueprint for building apps using tools like PyQt, PyQwt, numpy, and HDF5.",
     "tags": [
         "talk"

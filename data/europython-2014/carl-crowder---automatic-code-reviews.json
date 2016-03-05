@@ -16,6 +16,7 @@
         "Carl Crowder"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A lot of great Python tools exist to analyse and report on your codebase, but they can require a lot of  initial set up to be useful. Done right, they can be like an automatic code review. This talk will explain how to set up and get the best out of these tools, especially for an existing, mature codebase.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/ILBsJXRQ008/hqdefault.jpg",

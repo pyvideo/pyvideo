@@ -16,6 +16,7 @@
         "Jonathan Schemoul"
     ],
     "state": 1,
+    "status": "published",
     "summary": "On verra comment architecturer une solution domotique simple en python en utilisant des p\u00e9riph\u00e9riques \u00e9lectroniques sur une carte avec linux embarqu\u00e9e comme un Raspberry Pi ou une Beagle Bone Black.\n\nOn verra \u00e9galement comment mettre en place un syst\u00e8me d'\u00e9v\u00e8nements et un moteur de r\u00e8gles en python pour la gestion domotique.",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/UHOgBzvBRq0/maxresdefault.jpg",

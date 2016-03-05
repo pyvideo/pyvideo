@@ -16,6 +16,7 @@
         "Maik Derstappen"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Das Theming von komplexen Content Management Systemen, ist h\u00e4ufige eine sehr arbeitsintensive Angelegenheit. Mit Plone erfordert es heute, dank des Einsatzes von Diazo und plone.app.theming, kaum mehr Wissen \u00fcber die Interna des CMS. Das Designtemplate kann komplett unabh\u00e4ngig vom CMS gehalten werden. Ein einfaches Regelwerk verkn\u00fcpft das Designtemplate mit dem CMS.\r\n\r\n[First four minutes missing]",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/1lcXuTamb0U/hqdefault.jpg",

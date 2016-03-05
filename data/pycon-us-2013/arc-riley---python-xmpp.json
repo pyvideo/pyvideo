@@ -16,6 +16,7 @@
         "Arc Riley"
     ],
     "state": 1,
+    "status": "published",
     "summary": "XMPP (eXtensible Messaging and Presence Protocol) is a versatile protocol used for chat, social networking, content distribution, cloud management, embedded devices, and more. This poster covers several modern Python packages that make working with XMPP easier and examples of applications built with them.",
     "tags": [
         "poster"

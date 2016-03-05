@@ -17,6 +17,7 @@
         "Karen Rustad"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This tutorial teaches basic web development for people who have some experience writing HTML, CSS, and front-end Javascript, but have little or no experience building an end-to-end web application.\r\n\r\nTogether we will build a basic social bookmarking application using Django!",
     "tags": [
         "tutorial"

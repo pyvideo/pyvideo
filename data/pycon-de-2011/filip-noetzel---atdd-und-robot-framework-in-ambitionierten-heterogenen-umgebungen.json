@@ -16,6 +16,7 @@
         "Filip Noetzel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Robot Framework ist ein generisches Testautomatisierungs-Framework und eignet sich besonders gut f\u00fcr heterogene Umgebungen in denen viel unterschiedlichste Software zusammenspielen muss.  Der Vortrag kl\u00e4rt kurz, was Acceptance Test Driven Development ist, warum es eine gute Idee ist und wie man das mit Robot Framework in den eigenen Softwareprozess integriert.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/vfRysNuPSq4/hqdefault.jpg",

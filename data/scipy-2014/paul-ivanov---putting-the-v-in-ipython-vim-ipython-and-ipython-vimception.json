@@ -16,6 +16,7 @@
         "Paul Ivanov"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will explain how to intimately integrate IPython with your favorite text editor, as well as how to customize the IPython Notebook interface to behave in a way that makes sense to *you*. Though the concrete examples are centered around the world-view of a particular text editor, the content will be valuable to anyone wishing to extend and customize IPython for their own purposes.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/p9gnhmX1sPo/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Mirabai Knight"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Stenographic technology has been locked down to expensive, proprietary hardware and software for decades, depriving the world of the most efficient text entry system devised to date. Plover, a free, cross-platform steno engine that works with $45 hardware, offers hackers and hobbyists the ability to type at up to 240 WPM in applications ranging from wearable computing to captioning to coding.",
     "tags": [
         "talk"

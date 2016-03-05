@@ -16,6 +16,7 @@
         "James King"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Starting with the theory behind eventual consistency we'll dive into a\npractical toolkit, knockblock, for programming these types of systems.\n\n",
     "tags": [],
     "thumbnail_url": "http://i3.ytimg.com/vi/B1iAGfe6-UI/hqdefault.jpg",

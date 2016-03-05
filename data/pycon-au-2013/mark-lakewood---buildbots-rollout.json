@@ -16,6 +16,7 @@
         "Mark Lakewood"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A Continuous Integration (CI) server is an essential tool for any developer, but with so many different servers out there its hard to choose which one to use. Buildbot has a pretty steep learning curve, but rewards with a very light footprint and amazing flexibility and configurability. In this talk I will walk through the build(ing) blocks and concepts required to put together a simple CI server based upon buildbot, and also suggest some more advanced features.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/7HLtPKU0-vE/hqdefault.jpg",

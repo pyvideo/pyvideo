@@ -16,6 +16,7 @@
         "George Kappel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "django-rest-framework and angularjs lightning talk",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/Q8FRBGTJ020/hqdefault.jpg",

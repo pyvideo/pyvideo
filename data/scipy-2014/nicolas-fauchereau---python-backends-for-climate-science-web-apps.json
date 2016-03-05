@@ -16,6 +16,7 @@
         "Nicolas Fauchereau"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We present two web applications:  (PICT: Past Interpretation of Climate Tool), a paleo-climates reconstruction tool and CLIDESC, a climate services layer built on top of the Clide database, a database system used widely in the National Meteorological services across the Pacific. Both these tools have been developed at NIWA in New Zealand. ",
     "tags": [
         "climate"

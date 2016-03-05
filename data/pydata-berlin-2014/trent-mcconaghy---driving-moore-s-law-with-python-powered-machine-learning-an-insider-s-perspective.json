@@ -16,6 +16,7 @@
         "Trent McConaghy"
     ],
     "state": 1,
+    "status": "published",
     "summary": "People talk about a Moore's Law for gene sequencing, a Moore's Law for software, etc. This is talk is about *the* Moore's Law, the bull that the other \"Laws\" ride; and how Python-powered ML helps drive it. How do we keep making ever-smaller devices? How do we harness atomic-scale physics? Large-scale machine learning is key. The computation drives new chip designs, and those new chip designs are used for new computations, ad infinitum. High-dimensional regression, classification, active learning, optimization, ranking, clustering, density estimation, scientific visualization, massively parallel processing -- it all comes into play, and Python is powering it all.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/Jm-eBD9xR3w/hqdefault.jpg",

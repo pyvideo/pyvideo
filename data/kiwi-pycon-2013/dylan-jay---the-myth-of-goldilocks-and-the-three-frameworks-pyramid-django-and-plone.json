@@ -16,6 +16,7 @@
         "Dylan Jay"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Some people say micro-frameworks like pyramid are too small. Some people say CMS's like Plone are too big. Some people say django is juuuust right. They are all wrong. Come to this talk to find out the other hammers in the world, when you might use them, where I've used them to solve some hard problems and some of the clever ideas behind these technologies demystified.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/XdKk5rrZG8E/hqdefault.jpg",

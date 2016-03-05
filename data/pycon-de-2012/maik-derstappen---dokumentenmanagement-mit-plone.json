@@ -16,6 +16,7 @@
         "Maik Derstappen"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Plone ist weit mehr als nur ein CMS, es bietet mit seiner einfachen\nRechteverwaltung, dem flexiblen Arbeitsabl\u00e4ufen (Workflows), der m\u00f6glichen\nAnbindung an Dateisysteme per Web-Dav und der ausgereiften Suchfunktion, die\nmit Volltextindizierung und Livesearch aufwarten kann, gute Voraussetzungen\nf\u00fcr den Einsatz im Intra- und Extranet.\n\nDer Vortrag gibt aus Anwendersicht einen kurzen Einblick in die M\u00f6glichkeiten,\nPlone im Intranet oder Extranet zur Verwaltung von Dokumenten und\nInformationen einzusetzen. Es werden Themen wie Rechteverwaltung, globale und\nlokale Arbeitsabl\u00e4ufe, Regeln zur Ereignissteuerung, M\u00f6glichkeiten der\neingebauten Suchfunktionen (Volltextsuche/Verschlagwortung), sowie der Einsatz\nvon Kollektionen zur Aufbereitung von Inhalten behandelt.\n\n",
     "tags": [
         "cms",

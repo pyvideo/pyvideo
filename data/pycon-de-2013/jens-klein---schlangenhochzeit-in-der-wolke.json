@@ -16,6 +16,7 @@
         "Jens Klein"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Googles Appengine steht f\u00fcr hochskalierbare Anwendungen in der Cloud. Locandy ist unser Startup f\u00fcr mobile Location based Games.\r\n\r\nAuf der Cloud-Platform mit ihrer sehr restriktiven Python-Umgebung haben wir das Portal f\u00fcr Spieler, Autoren und Business Kunden umgesetzt. Browser, Mobile-App und PDF-Server werden damit bedient.\r\n\r\nDabei ist nicht alles so rund gelaufen, wie wir es gerne gehabt h\u00e4tten. Die Probleme wurden gel\u00f6st - dank Python mit seinem starken Werkzeugkasten. \r\n\r\nDer Vortrag geht kurz auf die Anforderungen ein, zeigt auf welche Probleme es gab und wie wir sie gel\u00f6st haben. In einem Github Repository stelle ich ein Buildout inkl. kleiner Beispielapplikation mit den meisten dieser L\u00f6sungen zur Verf\u00fcgung.",
     "tags": [
         "appengine",

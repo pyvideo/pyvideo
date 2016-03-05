@@ -16,6 +16,7 @@
         "R. David Murray"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The email package in the Python Standard library has had a somewhat rocky\ntransition into the Python3 era, and still doesn't handle non-ASCII easily.\nThat is about to change. This talk will compare how things worked in Python2\n(the past), how things work now (in Python3.2), and how things will work much\nbetter in the future (hopefully Python3.3).\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/C9K8DOe1zWw/hqdefault.jpg",

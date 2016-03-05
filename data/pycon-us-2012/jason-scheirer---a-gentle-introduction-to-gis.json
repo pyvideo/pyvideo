@@ -16,6 +16,7 @@
         "Jason Scheirer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Datums! Coordinate systems! Map projections! Topologies! Spatial applications\nare a nebulous, daunting concept to most Pythonistas. This talk is a gentle\nintroduction into the concepts, terminology and tools to demystify the world\nof the world.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/LddeJ06JoXE/hqdefault.jpg",

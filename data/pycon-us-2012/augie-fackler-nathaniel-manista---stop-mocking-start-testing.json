@@ -17,6 +17,7 @@
         "Nathaniel Manista"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Project Hosting at Google Code is a large, well-established system written\nmostly in Python. We'll share our battle-born convictions about creating tests\nfor test-unfriendly code and the larger topic of testing.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/Xu5EhKVZdV8/hqdefault.jpg",

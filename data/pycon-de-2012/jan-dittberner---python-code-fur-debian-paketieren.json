@@ -16,6 +16,7 @@
         "Jan Dittberner"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Das Debian-Projekt ist mit mehr als 30000 Bin\u00e4rpaketen eine der gr\u00f6\u00dften\nDistributionen freier Software. Auch viele Python-Bibliotheken und Anwendungen\nwurden bereits f\u00fcr Debian paketiert. Es gibt aber viele Software die noch auf\neine Paketierung oder bessere Pflege wartet.\n\nIm Vortrag wird gezeigt, wie man Python-Code f\u00fcr Debian paketiert. Dabei wird\nanhand eines Beispielpakets auf folgende Punkte n\u00e4her eingegangen:\n\n* Wie erleichtert man als Upstream die Paketierung seiner Python-Software?  \n* Was sind die aktuellen Tools f\u00fcr das Python-Packaging?  \n* Wie baue ich Python2-, Python3- und (sphinx-)Dokumentations-Pakete?  \n\n",
     "tags": [
         "debian",

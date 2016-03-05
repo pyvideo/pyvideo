@@ -16,6 +16,7 @@
         "Eric Lofgren"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Zeke is an educational platform implemented using Python, SciPy and Django which allows students and researchers interested in the modeling of infectious diseases to learn both modeling and scientific computing skills in an interactive environment, without forcing theoretical and computational skills to be developed simultaneously.",
     "tags": [
         "education"

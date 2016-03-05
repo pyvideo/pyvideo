@@ -16,6 +16,7 @@
         "Simon Meers"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A compilation of outstanding tips, tricks and tools for meeting perfectionist's deadlines with even greater elegance and efficiency. Topics include project structure tips, time-saving template tags, handy model mixin classes, admin ninja skills, testing tools, robust handling of dynamic hyperlinks within rich text content, replacing raw ID widgets with client-friendly ones, convenient view and model method decorators, novel ways of keeping DRY, harnessing inheritance in CBVs, and as much more as I can fit into my time allocation.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/drsuU7OdmOM/hqdefault.jpg",

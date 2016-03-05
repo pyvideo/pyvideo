@@ -16,6 +16,7 @@
         "Nicholas Malaya"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Numerical simulations have a broad range of application, from aircraft design to drug discovery. However, any prediction from a computer must be tested to ensure its reliability. Verification ensures the outputs of a computation accurately reflect the underlying model. This talks covers MASA, a tool for the verification of software used in a large class of problems in applied mathematics.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/OvyqO4fxdKs/hqdefault.jpg",

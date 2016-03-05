@@ -17,6 +17,7 @@
         "Robert Kluin"
     ],
     "state": 1,
+    "status": "published",
     "summary": "With the growth of Coffeescript, Less, SASS, etc..., compiling the assets for your project is becoming more useful.  This talk covers using a Python library called Webassets to automate your build process.  We specifically focus on getting your Javascript and CSS compiling automatically as you work.  We show examples of integrating with common web frameworks like Django and Flask.\r\n",
     "tags": [
         "talk"

@@ -16,6 +16,7 @@
         "Stefan Schwarzer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In diesem Vortrag soll es um Grundlagen nebenl\u00e4ufiger Programme gehen, wie sie\nmit den Modulen threading und multiprocessing m\u00f6glich sind.\n\nZuerst wird erkl\u00e4rt, in welchen F\u00e4llen Nebenl\u00e4ufigkeit sinnvoll ist. Danach\nwird auf die grunds\u00e4tzlichen Probleme nebenl\u00e4ufiger Programme eingegangen,\ninsbesondere \u00c4nderungen an gemeinsam genutzten Ressourcen (zum Beispiel\nDateien oder auch \"nur\" Objekte im Speicher) durch mehrere Threads oder\nProzesse. Schlie\u00dflich wird gezeigt, wie man solche Ressourcen-Zugriffe durch\nLocks oder Queues entsch\u00e4rfen kann.\n\n",
     "tags": [
         " deadlock",

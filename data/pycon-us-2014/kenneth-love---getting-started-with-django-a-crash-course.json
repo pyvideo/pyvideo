@@ -16,6 +16,7 @@
         "Kenneth Love"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Getting Started With Django is a well-established series of videos teaching best practices and common approaches for building web apps to people new to Django. This tutorial combines the first few lessons into a single lesson. Attendees will follow along as I start and build an entire simple web app and, network permitting, deploy it to Heroku.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/KZHXjGP71kQ/hqdefault.jpg",

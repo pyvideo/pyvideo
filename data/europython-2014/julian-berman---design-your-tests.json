@@ -16,6 +16,7 @@
         "Julian Berman"
     ],
     "state": 1,
+    "status": "published",
     "summary": "While getting started testing often provides noticeable immediate improvement for any developer, it's often not until the realization that tests are things that need *design* to provide maximal benefit that developers begin to appreciate or even *enjoy* them.\r\n\r\nWe'll investigate how building shallow, transparent layers for your tests makes for better failures, clearer tests, and quicker diagnoses.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/xkwBjsjSERU/hqdefault.jpg",

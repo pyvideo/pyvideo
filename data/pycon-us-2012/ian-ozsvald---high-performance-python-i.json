@@ -16,6 +16,7 @@
         "Ian Ozsvald"
     ],
     "state": 1,
+    "status": "published",
     "summary": "At EuroPython 2011 I ran a very hands-on tutorial for High Performance Python\ntechniques. This updated tutorial will cover profiling, PyPy, Cython, numpy,\nNumExpr, ShedSkin, multiprocessing, ParallelPython and pyCUDA. Here's a 55\npage PDF write-up of the EuroPython material: http://ianozsvald.com/2011/07/25\n/high-performance-python-tutorial-v0-2-from-europython-2011/\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/Iw9-GckD-gQ/hqdefault.jpg",

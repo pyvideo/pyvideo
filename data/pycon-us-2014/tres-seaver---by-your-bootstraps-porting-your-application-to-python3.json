@@ -16,6 +16,7 @@
         "Tres Seaver"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk is an experience report / best practices summary, based on work porting a very large stack to Python 3.x. The stack includes the Zope3 component architecture, ZODB, WebOb, pyramid, other dependencies, totalling ~180 KLOC Python + ~25 KLOC C.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/nx0sXSeJbmI/hqdefault.jpg",

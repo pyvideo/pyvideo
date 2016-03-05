@@ -18,6 +18,7 @@
         "Shashank Belvadi"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Much attention has been focused on the application of machine learning approaches to detection of gene interactions. Our method is based upon training a supervised learning algorithm to detect disease, and then quantifying the effect on prediction accuracy when alleles of two or more genes are perturbed to unmutated in patterns so as to reveal and characterize gene interactions.",
     "tags": [
         "bioinformatics",

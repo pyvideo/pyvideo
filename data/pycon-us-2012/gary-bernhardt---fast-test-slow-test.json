@@ -16,6 +16,7 @@
         "Gary Bernhardt"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Most unit tests aren't and their authors suffer for it. What is a unit test,\nreally? How can writing them prevent classic testing problems? If you do write\nthem, what trade-offs are you implicitly making?\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/RAxiiRPHS9k/hqdefault.jpg",

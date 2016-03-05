@@ -16,6 +16,7 @@
         "Jeff Rush"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Learn the magic of writing programs that monitor, alter and react to the\nexecution of program code by responding to imports, changes to variables,\ncalls to functions and invocations of the builtins. This talk goes beyond the\nstatic world of metaclasses and class decorators into the dynamics of\ntracepoints.\n\n",
     "tags": [],
     "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-TheMagicOfMetaprogramming664-615.jpg",

@@ -16,6 +16,7 @@
         "Dan Callahan"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Learn quick, easy, and lesser-known techniques to improve your website's security, protect against session hijacking, and defend against XSS and data injection attacks.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/T-5p5ewqhVw/hqdefault.jpg",

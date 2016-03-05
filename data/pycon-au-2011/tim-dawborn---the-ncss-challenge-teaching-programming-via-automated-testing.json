@@ -16,6 +16,7 @@
         "Tim Dawborn"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The NCSS Challenge (http://challenge.ncss.edu.au/) is an online programming\ncompetition for Australian high school students. There are four different\ncourses being run during 2011: Introductory Python, Intermediate Python,\nAdvanced Python, and Embedded Systems (using the Arduino). In 2010 we had over\n1700 students participate in the Challenge. There are a number of interesting\ntechnical challenges which had to be overcome in order to facilitate such a\nsystem.\n\n",
     "tags": [
         "embedded",

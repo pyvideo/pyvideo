@@ -16,6 +16,7 @@
         "Benjamin Peterson"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We show off the security improvements made to the standard library TLS\r\nand networking modules over the last year.",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/4o-xqqidvKA/hqdefault.jpg",

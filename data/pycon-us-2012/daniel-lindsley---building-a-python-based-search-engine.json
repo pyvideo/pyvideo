@@ -16,6 +16,7 @@
         "Daniel Lindsley"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Search is an increasingly common request in all types of applications as the\namount of data all of us deal with continues to grow. The\ntechnology/architecture behind search engines is wildly different from what\nmany developers expect. This talk will give a solid grounding in the\nfundamentals of providing search using Python to flesh out these concepts in a\nsimple library.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/cY7pE7vX6MU/hqdefault.jpg",

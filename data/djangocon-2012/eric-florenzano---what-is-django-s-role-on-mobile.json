@@ -16,6 +16,7 @@
         "Eric Florenzano"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Mobile grows bigger each year, but we love the web, and Django. Where does our\nknowledge and experience fit in this new ecosystem? What kind of a role can\nDjango play on fast-growing platforms like iOS and Android?\n\n",
     "tags": [
         "django",

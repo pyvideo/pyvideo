@@ -16,6 +16,7 @@
         "Hadrien David"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Pyramid provides a great foundation to build applications that follow the Resource-Oriented Architecture described in the book RESTful Web services, but you have to build the top layer.  Discover Pyramid-Royal, an Open Source library that provides that layer.",
     "tags": [
         "Lightning talk"

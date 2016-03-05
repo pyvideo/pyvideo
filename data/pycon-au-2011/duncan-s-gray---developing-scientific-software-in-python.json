@@ -16,6 +16,7 @@
         "Duncan S Gray"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This presentation will outline key lessons learnt in developing scientific\nsoftware in Python. Methods of maintaining and assuring code quality will be\ndiscussed.\n\n",
     "tags": [
         "scientific"

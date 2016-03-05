@@ -14,6 +14,7 @@
     "source_url": "",
     "speakers": [],
     "state": 1,
+    "status": "published",
     "summary": "This tutorial provides an introduction to Python focused on HPC and scientific\ncomputing. Throughout, we provide concrete examples, hands-on examples, and\nlinks to additional sources of information. The result will be a clear sense\nof possibilities and best practices using Python in HPC environments.\n\n",
     "tags": [
         "chipy",

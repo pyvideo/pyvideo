@@ -16,6 +16,7 @@
         "Alex Gaynor"
     ],
     "state": 1,
+    "status": "published",
     "summary": "You may have encountered the pickle or cPickle libraries, and used them to persist some state about your program. But how do they work? This talk explores how the pickle protocol works, what its advantages are, and its disadvantages",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/7KnfGDajDQw/hqdefault.jpg",

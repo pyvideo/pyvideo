@@ -16,6 +16,7 @@
         "Sean Zicari"
     ],
     "state": 1,
+    "status": "published",
     "summary": "I find it very handy to be able to fire up the command line and make changes through a well-designed CLI tool. I'd like to show how the 3rd party urwid library or the built-in curses library can be used to build such tools easily.",
     "tags": [
         "talk"

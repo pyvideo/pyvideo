@@ -16,6 +16,7 @@
         "Ash Christopher"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Tests are extremely useful to developers, but as projects get larger, tests can begin to get in the way of a smooth delivery pipeline. In this talk I present some issues I have experienced, and offer 10 pragmatic guidelines that may help developers maximize their test usefulness.",
     "tags": [
         "talk"

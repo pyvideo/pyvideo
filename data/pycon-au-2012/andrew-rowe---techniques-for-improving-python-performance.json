@@ -16,6 +16,7 @@
         "Andrew Rowe"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Andrew Rowe will detail and demonstrate a number of proven techniques for\nimproving the performance of large Python programs.\n\n",
     "tags": [
         "optimizing"

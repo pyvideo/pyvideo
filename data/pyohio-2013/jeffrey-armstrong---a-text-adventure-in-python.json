@@ -16,6 +16,7 @@
         "Jeffrey Armstrong"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Ever want to write interactive fiction using your favorite language?  Using only the Python standard library, one can write a modestly functional text adventure from scratch. This interactive talk will quickly walk through the process, touching a number of standard library modules, from command lines to string handling to data storage, that can help bring a game to life.",
     "tags": [
         "talk"

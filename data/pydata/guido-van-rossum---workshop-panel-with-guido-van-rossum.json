@@ -16,6 +16,7 @@
         "Guido Van Rossum"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this presentation from the 2012 PyData Workshop hosted at Google on March\r\n2-3, Guido van Rossum, author of the Python programming language, engages in\r\nan open discussion on the intersection of the evolution of Python and the\r\ngrowth of the scientific community. Panelists include Fernando Perez, Travis\r\nOliphant, and David Cournapeau.\r\n\r\n",
     "tags": [
         "science",

@@ -16,6 +16,7 @@
         "Brenda Moon"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Starting with 13.5 million tweets from 2011 containing the word science: How I\u2019ve explored the way people use \u2018science\u2019 on Twitter. The IPython notebook (http://ipython.org/notebook.html) is a great tool for research, allowing me to keep notes about my research interleaved with the python code. In addition, the Pandas python data analysis library (http://pandas.pydata.org/) supports working with large data tables with excellent support for time series data.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/xoFZPCziIac/hqdefault.jpg",

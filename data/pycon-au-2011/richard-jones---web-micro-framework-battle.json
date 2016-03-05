@@ -16,6 +16,7 @@
         "Richard Jones"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this talk I'll be running through the current choices of web micro\nframeworks and comparing them by implementing a simple application.\n\n",
     "tags": [
         "web"

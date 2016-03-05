@@ -16,6 +16,7 @@
         "Ruchi Varshney"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A short intro to all aspects of making your Python web app ready for an international audience, right from marking Python source, templates and Javascript for translation to working with translation services, maintaining and testing translation files. The talk will cover details on Python gettext and open-source packages such as Babel and Potpie. Examples are based on the Django i18n framework.",
     "tags": [
         "talk"

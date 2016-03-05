@@ -16,6 +16,7 @@
         "Hendrik Heuer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "If you convert words into numbers, you can do interesting things with them. You can compare the topics in a book, make better translations and tell if a sentence is positive or negative. Python libraries like gensim and spaCy make it easy to play with this for fun, profit or social science.",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/JXjB8yO-M7k/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Travis Oliphant"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Travis Oliphant, CEO of Continuum Analytics, kicks off the PyData Workshop\nwith a talk on Python in Big Data. Topics addressed include what Python has to\noffer the world of Big Data, specific use-cases, as well asking why Hadoop is\nconsidered the de-facto standard.\n\nAdditionally, Travis gives an overview of NumPy and SciPy.\n\n",
     "tags": [
         "hadoop",

@@ -16,6 +16,7 @@
         "Asheesh Laroia"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk covers the practical use of Python packaging tools. You'll see how to keep your system clean as an end user excited about installing a Python module from the web, the purpose of setup.py, how virtualenv makes life easier (and sometimes harder), what Ubuntu/Debian tools can offer, and how to make a complex app easier for new contributors to run. It is heavy on stories and recommendations.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/eLPiPHr6TVI/hqdefault.jpg",

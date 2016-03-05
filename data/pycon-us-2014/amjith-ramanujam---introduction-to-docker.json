@@ -16,6 +16,7 @@
         "Amjith Ramanujam"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Docker is a tool for sandboxing entire application environments using Linux containers. Docker's feature set includes versioning, sharing etc. They are light-weight and fast, you can recreate a deployment environment in development or push your development containers to production. Imagine never having to worry about fragmentation of servers or syncing the versions of different libraries.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/9bvdc55xYdo/hqdefault.jpg",

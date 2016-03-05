@@ -16,6 +16,7 @@
         "Amol Kher"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Best Practices for creating and booking Appointment Slots functionality. Many services marketplaces need or will need to build a system such as this. Building a booking system in-house gives you far better control and a much more elegant workflow rather than using a third-party scheduling service. We hope to share what we have learnt over the past year doing so.",
     "tags": [
         "poster"

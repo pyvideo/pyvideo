@@ -16,6 +16,7 @@
         "Christian Theune"
     ],
     "state": 1,
+    "status": "published",
     "summary": "batou ist ein Werkzeug um das Deployment f\u00fcr server-basierte Anwendungen zu automatisieren.\r\n\r\nEs basiert auf vielen Ideen von Puppet, Fabric und anderen Werkzeugen, bietet aber einen spezifische Modellierungsansatz, der das Konzept von \"Konvergenz\" einfach umsetzbar macht.\r\n\r\nIn dem Vortrag m\u00f6chte ich erl\u00e4utern warum Deployments zu automatisieren schwierig ist, was \"Konvergenz\" dazu beitragen kann um es einfach zu machen, und wie das in Batou ganz praktisch aussieht.",
     "tags": [
         "administration",

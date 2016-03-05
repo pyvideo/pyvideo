@@ -16,6 +16,7 @@
         "Tyler Hobbs"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Apache Cassandra is an open source, distributed (NoSQL) database. This will\ngive a high level introduction to Cassandra and its data model; it will detail\nthe features of pycassa, the Python client library for Cassandra, and how to\ninteract with Cassandra through it.\n\n",
     "tags": [
         "fetching"

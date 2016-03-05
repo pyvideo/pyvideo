@@ -16,6 +16,7 @@
         "Christian Wyglendowski"
     ],
     "state": 1,
+    "status": "published",
     "summary": "An introduction to writing client and server applications using the diesel network programming framework. ",
     "tags": [
         "talk"

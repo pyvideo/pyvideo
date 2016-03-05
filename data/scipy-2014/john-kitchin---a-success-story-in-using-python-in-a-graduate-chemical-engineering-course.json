@@ -16,6 +16,7 @@
         "John Kitchin"
     ],
     "state": 1,
+    "status": "published",
     "summary": "I recently used Python in a new required graduate level chemical reaction engineering core course. The course was taken by 60 Master's students with a broad set of educational backgrounds and programming experience. Several factors contributed to the success of this course, which I will present and discuss. Based on my experience, it is feasible to use Python in engineering courses.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/IsSMs-4GlT8/hqdefault.jpg",

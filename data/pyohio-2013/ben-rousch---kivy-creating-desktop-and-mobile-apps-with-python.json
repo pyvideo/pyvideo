@@ -21,6 +21,7 @@
         "Ben Rousch"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Learn to create cross-platform apps with Kivy, a multitouch desktop and mobile GUI framework for Python.",
     "tags": [
         "tutorial"

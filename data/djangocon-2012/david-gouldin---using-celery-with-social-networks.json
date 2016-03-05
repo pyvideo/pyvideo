@@ -16,6 +16,7 @@
         "David Gouldin"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Many web applications need to interface with social networks, and celery, a\nPython distributed task queue library, is a great tool for the job. However,\nachieving speed and stability can be difficult. This talk will cover task\norganization/distribution, rate limiting, failover, and other practices to aid\nin working with social networks at scale.\n\n",
     "tags": [
         "celery",

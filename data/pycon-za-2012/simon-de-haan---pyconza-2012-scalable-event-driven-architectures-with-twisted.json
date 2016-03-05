@@ -16,6 +16,7 @@
         "Simon de Haan"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Scalable event-driven architectures with Twisted: Simon de Haan's talk at PyConZA 2012",
     "tags": [
         "pyconza",

@@ -16,6 +16,7 @@
         "Dave Brondsema"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Learn how decorators and context managers work, see several popular examples,\nand get a brief intro to writing your own. Decorators wrap your functions to\neasily add more functionality. Context managers use the 'with' statement to\nmake indented blocks magical. Both are very powerful parts of the python\nlanguage; come learn how to use them in your code.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/cSbD5SKwak0/hqdefault.jpg",

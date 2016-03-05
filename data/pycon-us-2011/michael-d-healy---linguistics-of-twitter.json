@@ -16,6 +16,7 @@
         "Michael D. Healy"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Dialectical changes in America are influencing expression online. This talk\nwill discuss a current project which is using the Natural Language Toolkit to\ndevelop up to date reference materials to measure and monitor online natural\nlanguage.\n\n",
     "tags": [
         "nltk",

@@ -16,6 +16,7 @@
         "Mark Kohler"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Cython and SWIG are excellent, and yet very different tools for using C libraries from Python. The goal of this talk is to introduce both tools, discuss their strengths, their weaknesses, and the situations that clearly favor one tool over the other.\r\n",
     "tags": [
         "talk"

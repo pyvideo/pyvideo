@@ -16,6 +16,7 @@
         "Chris Calloway"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This tutorial imparts the basics of testing Python code using assert,\nunittest, and doctest.\n\n",
     "tags": [],
     "thumbnail_url": "http://i3.ytimg.com/vi/jTJHQ-zQMk4/hqdefault.jpg",

@@ -19,6 +19,7 @@
         "Russell Keith-Magee"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This will be a panel discussion wherein we wax philosophical about the state\nof web frameworks in Python - talking about invention, reinvention, multitudes\nof choice, how all of them suck, etc. Panelists will include Dylan Jay,\nMalcolm Tredinnick, Russell Keith-Magee and Richard Jones.\n\n",
     "tags": [
         "panel",

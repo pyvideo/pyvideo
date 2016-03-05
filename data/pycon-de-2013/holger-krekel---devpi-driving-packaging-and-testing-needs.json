@@ -16,6 +16,7 @@
         "Holger Krekel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "devpi provides both a private pypi server, a self-updating pypi.python.org package cache, and work flow commands for uploading, testing and installing packages.  This talk shows some example scenarios and discusses the unique feature of seemlessly \"inheriting\" the pypi.python.org packages into your private index.  We'll also look into how you can perform testing of a package before you push a release to the public index or your company-specific private index. ",
     "tags": [
         "packaging",

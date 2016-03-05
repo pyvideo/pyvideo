@@ -16,6 +16,7 @@
         "Narahari Allamraju"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Celery is a distributed task queue for Python that is used by a large number of web applications to off load tasks that can be executed asynchronously. This workshop will demonstrate how we can use Celery for a use case that isn't a web site or a web application and is something which could happen in a hospital or a bank or any other such large organization.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/3mB5uWY3FT4/hqdefault.jpg",

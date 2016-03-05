@@ -17,6 +17,7 @@
         "Luke Cawood"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Modern web applications can quickly develop many moving parts. As they grow in\ntraffic, infrastructure, services and features, keeping track of errors and\ncommunicating about them becomes more challenging.\n\n",
     "tags": [
         "error-logging",

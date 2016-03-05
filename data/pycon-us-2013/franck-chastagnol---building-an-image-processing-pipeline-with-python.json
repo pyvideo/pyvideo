@@ -16,6 +16,7 @@
         "Franck Chastagnol"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk covers the details of how to build a highly scalable image processing pipeline using Python and third-party open source libraries and tools such as OpenCV, NumPy, Tesseract, ImageMagick, Tornado, Nginx and MySQL.",
     "tags": [
         "talk"

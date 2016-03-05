@@ -16,6 +16,7 @@
         "G. Clifford Williams"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This tutorial teaches basic web development for people who have some experience with HTML. No experience with CSS or JavaScript is required. We will build a basic web application using AJAX, web forms, and a local SQL database.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/GeQt7CxzmPo/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Stefan Behnel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The Cython compiler is the most widely used static compiler for Python. It is used to speed up Python code and to extend CPython with fast native extension modules that process huge amounts of data all around the world. This talk by one of the core developers gives an intro to using the compiler and an overview of its major features.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/ZHpkLX2VFMU/hqdefault.jpg",

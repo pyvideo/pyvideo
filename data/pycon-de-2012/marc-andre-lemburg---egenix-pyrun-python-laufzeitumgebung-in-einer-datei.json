@@ -16,6 +16,7 @@
         "Marc-Andr\u00e9 Lemburg"
     ],
     "state": 1,
+    "status": "published",
     "summary": "eGenix PyRun kondensiert eine komplette Python Laufzeitumgebung mit\nInterpreter und Standardbibliothek in eine einzige sehr kompakte ausf\u00fchrbare\npyrun Programmdatei.\n\nDa PyRun keine Installation ben\u00f6tigt und unabh\u00e4ngig von einer Python System\nInstallation arbeitet, bietet es sich damit als portable L\u00f6sung f\u00fcr Skripte,\nApplikationen und in der Entwicklung als virtualenv Ersatz an.\n\nPyRun ist nur 12-13MB gro\u00df, enth\u00e4lt aber den gr\u00f6\u00dften Teil einer \u00fcblicherweise\nca. 100MB gro\u00dfen Python Installation. Die Gr\u00f6\u00dfe kann per gzexe oder upx auf\nunter 4MB reduziert werden.\n\nEs bietet damit eine ganze Reihe von Vorteilen gegen\u00fcber einer regul\u00e4ren\nPython Installation. Hier die wichtigsten Aspekte:\n\n* Sehr kompakt  \n* Keine Installation oder Root Rechte notwendig  \n* Kann unabh\u00e4ngig von einer System Python Installation verwendet werden  \n* Bessere Startzeit als regul\u00e4res Python  \n* Kompatibel mit distutils/setuptools/pip/etc.  \n* virtualenv Ersatz\n\nDerzeit unterst\u00fctzte Systeme sind Linux, Mac OS X und FreeBSD. Es sollte aber\nauch auf anderen Unix Systemen verwendbar sein. PyRun wird von eGenix unter\neiner Open Source Lizenz verf\u00fcgbar gemacht.\n\nDer Vortrag wird das Projekt vorstellen, eine Anwendungsdemo zeigen und je\nnach verf\u00fcgbarer Zeit auch die \u00dcbersetzung demonstrieren.\n\n",
     "tags": [
         " interpreter",

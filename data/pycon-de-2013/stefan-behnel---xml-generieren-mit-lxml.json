@@ -16,6 +16,7 @@
         "Stefan Behnel"
     ],
     "state": 1,
+    "status": "published",
     "summary": "[lxml](http://lxml.de/) ist der Platzhirsch unter den XML-Tools f\u00fcr Python. \u00dcber das \u00fcbliche Parsen hinaus bietet es auch einige sch\u00f6ne M\u00f6glichkeiten, XML-Dokumente effizient zu generieren. Der Vortrag bietet eine Einf\u00fchrung in die Teile von lxml, die das Erzeugen von XML einfach und \u00fcbersichtlich machen.\r\n",
     "tags": [
         "lxml",

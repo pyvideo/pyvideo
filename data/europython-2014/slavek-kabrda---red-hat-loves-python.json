@@ -16,6 +16,7 @@
         "Slavek Kabrda"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Come learn about what Red Hat is doing with Python and the Python community, and how you can benefit from these efforts. Whether it is the new Python versions in Red Hat Enterprise Linux via the new Red Hat Software Collections, compatible Python cartridges in OpenShift Platform-as-a-Service (PaaS), or being the leading contributor to OpenStack, there's a lot going on at Red Hat. We're Pythonistas, too!",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/gRp70jL1Wjw/hqdefault.jpg",

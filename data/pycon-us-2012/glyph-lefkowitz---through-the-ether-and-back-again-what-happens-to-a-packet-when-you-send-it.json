@@ -16,6 +16,7 @@
         "Glyph Lefkowitz"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Many - perhaps even most - Python software involves a network, at least a\nlittle bit. You've probably written some yourself. But do you really know what\nhappens - to your kernel, to your ethernet card, to Python - when you call\nsocket.send()? Come to this talk and find out: if you dare.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/Xk6gQ6s2QjU/hqdefault.jpg",

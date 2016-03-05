@@ -20,6 +20,7 @@
         "Ondrej Certik"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk introduces HashDist, a critical component of the scientific software development workflow.  HashDist enables highly customizable, source-driven, and reproducible builds for scientific software stacks.  HashDist builds can be made relocatable, allowing the easy redistribution of binaries on all three major operating systems as well as cloud and supercomputing platforms. ",
     "tags": [
         "packaging",

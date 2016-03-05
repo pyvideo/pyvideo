@@ -16,6 +16,7 @@
         "Timo Stollenwerk"
     ],
     "state": 1,
+    "status": "published",
     "summary": "plone.app.discussion ist ein Kommentarsystem f\u00fcr Plone, dass seit der Version 4.1 ein Kernbestandteil von Plone ist und das alte Kommentarsystem abl\u00f6st. Dar\u00fcberhinaus ist es als Zusatzprodukt f\u00fcr Plone 3 und 4.0 verf\u00fcgbar.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/aS5Rjwb3up0/hqdefault.jpg",

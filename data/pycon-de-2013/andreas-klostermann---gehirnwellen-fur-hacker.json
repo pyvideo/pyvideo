@@ -16,6 +16,7 @@
         "Andreas Klostermann"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Dieser Vortrag beschreibt das Neurosky Mindwave Headset, wie man es mit Python von einem Linuxsystem aus ansteuert.\r\n\r\nMinimale biophysikalische Grundlagen zu Gehirnstr\u00f6men werden erkl\u00e4rt um ein Gef\u00fchl f\u00fcr F\u00e4higkeiten und Grenzen dieses Systems zu vermitteln.\r\n\r\nEs werden Anwendungen im Neurofeedback vorgestellt, wie sie zum Beispiel gegen das Aufmerksamkeitsdefizit-/Hyperaktivit\u00e4tsst\u00f6rungssyndrom (ADHS)  als unterst\u00fctzende Ma\u00dfnahme eingesetzt werden k\u00f6nnten.\r\n\r\nZum Thema Brain Computer Interfaces stelle ich vor was mit diesem Headset funktioniert und was nicht.",
     "tags": [
         "biology",

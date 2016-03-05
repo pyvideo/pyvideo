@@ -16,6 +16,7 @@
         "Valentin Haenal"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Compression is a general technique for reducing the size of datasets that normally lie on disk or that should be sent remotely.  But time has come to use it as a means to accelerate applications that uses in-memory data too.\r\n\r\n[Blosc](http://www.blosc.org) is a high-performance meta-compressor that is meant to do that.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/rilU44j_wUU/hqdefault.jpg",

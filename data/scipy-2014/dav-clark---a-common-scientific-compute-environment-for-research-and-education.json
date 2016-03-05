@@ -29,6 +29,7 @@
         "Dav Clark"
     ],
     "state": 1,
+    "status": "published",
     "summary": "I provide an overview of the challenges we\u2019ve tackled at UC Berkeley deploying scientific compute environments in both educational and research contexts. After a discussion of how these needs can be served by devops tools like Docker and Ansible, I argue that a coherent, easy-to-understand philosophy around reproducible compute environments is fundamental.\r\n",
     "tags": [
         "devops",

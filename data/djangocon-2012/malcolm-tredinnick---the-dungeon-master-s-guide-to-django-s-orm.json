@@ -16,6 +16,7 @@
         "Malcolm Tredinnick"
     ],
     "state": 1,
+    "status": "published",
     "summary": "If you've ever been curious about Django's ORM implementation, you will have\nnoticed the required learning curve. Some of the code is fairly complicated.\nOther bits are worse. Here comes a 30 or 40 minute guided tour of the\nuncharted realms: how the pieces fit together, where to look for things, why\nthe current design is what it is. A portion of this is my fault; I should\nprobably explain myself.\n\n",
     "tags": [
         "django",

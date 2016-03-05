@@ -16,6 +16,7 @@
         "Ann Elliott"
     ],
     "state": 1,
+    "status": "published",
     "summary": "PyEphem is a powerful astronomy library. This talk covers some simple things you can do with PyEphem that relate to your everyday life, such as matching your sleep cycle to the sunrise and seeing what the moon is up to tonight. This will also include plotting data about the sky using matplotlib.",
     "tags": [
         "talk"

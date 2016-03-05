@@ -16,6 +16,7 @@
         "Chayim Kirshen"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk covers using Python to initiate change on the infrastructure side;\nwe'll discuss on great tools like Django, libCloud, and Celery. We will focus\non node creation and destruction within multiple clouds, as well as the\nframeworks used to achieve this.\n\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/PUpCeJg4w40/hqdefault.jpg",

@@ -16,6 +16,7 @@
         "Dr. Yves Hilpisch"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Datenanalyse ist eine der Kernaufgaben moderner Technologie. pandas (vgl.\n[http://pandas.pydata.org](http://pandas.pydata.org)) ist eine leistungsstarke\nPython-Bibliothek, die die M\u00f6glichkeiten zur Datenanalyse mit\nPython/NumPy/SciPy in viele Richtungen erweitert. Der Fokus liegt dabei auf\nConvenience und Performance.\n\nPython in Kombination mit pandas macht Datenanalyse im Unternehmens- und\nForscheralltag effizient und kann z.T. sogar komplexe und kostenintensive\nBusiness Intelligence-L\u00f6sungen ersetzen. Besondere St\u00e4rken zeigen sich im\nZeitreihenmanagement, was f\u00fcr viele Branchen und Unternehmen eine immer h\u00f6here\nBedeutung erlangt (z.B. Finanzbranche, Energieversorger).\n\nMit pandas werden die guten Datenanalysef\u00e4higkeiten von einer typischen\nPython-Installation mit NumPy, SciPy etc. in vielerlei Hinsicht erweitert,\nindem z.B. viele Eigenschaften und Features der statistischen Sprache R in die\nPython-Welt portiert werden. Es ist dabei kein Ersatz f\u00fcr Standard-\nBibliotheken wie NumPy, sondern eine n\u00fctzliche Erweiterung mit viel\n\"eingebauter Intelligenz\" f\u00fcr die Datenanalyse.\n\n",
     "tags": [
         "datenanalyse",

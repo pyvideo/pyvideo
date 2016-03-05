@@ -16,6 +16,7 @@
         "Mike Bayer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this talk we'll illustrate a simple web application using SQLAlchemy, showing off the style of development that SQLAlchemy is most geared towards, the so-called \"\"foundational\"\" style which provides for development and maintainance of custom conventions which then service the needs of the model declarations and use case\n implementations.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/5SSC6nU314c/hqdefault.jpg",

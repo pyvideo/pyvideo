@@ -16,6 +16,7 @@
         "Taylor Oshan"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Spatial Interaction Modelling is a method for calibrating parameters for components within a system of flows, such as migration or trade, and then using those parameters to estimate new flows. Despite their popularity, a unified Python framework to employ them does not exist. In response, pySI was created as a coherent tool for calibrating models and simulating flows for a variety of models.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/VokeBZarsNM/hqdefault.jpg",

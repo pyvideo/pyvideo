@@ -16,6 +16,7 @@
         "Josh Marshall"
     ],
     "state": 1,
+    "status": "published",
     "summary": "An introduction to non-blocking web development with Tornado, an open-source\r\nserver and simple framework from Facebook/FriendFeed.\r\n\r\n",
     "tags": [],
     "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-AsynchronousWebDevelopmentWithTornado459-712.jpg",

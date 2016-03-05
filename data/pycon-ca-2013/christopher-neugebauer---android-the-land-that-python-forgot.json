@@ -16,6 +16,7 @@
         "Christopher Neugebauer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "A fast-paced overview of mobile development for Python programmers. Is Android the land that Python forgot, and if so, what can we do about it?",
     "tags": [
         "talk"

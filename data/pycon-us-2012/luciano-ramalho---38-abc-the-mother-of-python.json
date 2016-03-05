@@ -16,6 +16,7 @@
         "Luciano Ramalho"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Before Python, Guido was a contributor to the ABC language and environment.\nABC was designed to teach programming, and introduced many \"Pythonic\" ideas:\nintegrated dicts and tuples, structure by indentation, strong typing without\ndeclarations etc. With high demand for Python in education, the legacy of ABC\nis more relevant than ever as we design courses and environments for learners.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/u2-MbpX-bxQ/hqdefault.jpg",

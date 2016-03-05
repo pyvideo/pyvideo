@@ -16,6 +16,7 @@
         "Jon Nials"
     ],
     "state": 1,
+    "status": "published",
     "summary": "virtualenv, pip, and virtualenvwrapper are vital tools for any Python\ndeveloper. This beginner-level presentation will introduce each of these.\n\n",
     "tags": [],
     "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-virtualenvPipAndVirtualenvwrapper256-563.jpg",

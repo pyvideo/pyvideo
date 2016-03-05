@@ -16,6 +16,7 @@
         "A. Jesse Jiryu Davis"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python's asynchronous frameworks, like Tulip, Tornado, and Twisted, are increasingly important for writing high-performance web applications. Even if you're an experienced web programmer, you may lack a rigorous understanding of how these frameworks work and when to use them. Let's see how Tulip's event loop works, and learn how to efficiently handle very large numbers of concurrent connections.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/9WV7juNmyE8/hqdefault.jpg",

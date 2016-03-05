@@ -16,6 +16,7 @@
         "Klaus Bremer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Die AVM Fritzbox ist ein weit verbreiteter Router f\u00fcr den Internet-Zugang und bietet dar\u00fcber hinaus auch Funktionen einer Telefonanlage.\r\n\r\nFritzConnection ist eine Sammlung von Modulen, die eine Python-API zur FritzBox implementieren.\r\n\r\nDer Vortrag gibt einen \u00dcberblick \u00fcber das Funktionsprinzip, den Stand der Entwicklung sowie Beispiele f\u00fcr den Einsatz.\r\n\r\nDer Sourcecode ist verf\u00fcgbar auf Bitbucket:\r\nhttps://bitbucket.org/kbr/fritzconnection",
     "tags": [
         "fritzbox",

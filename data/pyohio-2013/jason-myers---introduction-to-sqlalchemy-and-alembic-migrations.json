@@ -16,6 +16,7 @@
         "Jason Myers"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this talk, we'll examine how to use SQLAlchemy ORM and Core in both simple queries and query builder type applications.  Next, we'll explore Alembic database migrations and how we can use them to handle database changes.",
     "tags": [
         "talk"

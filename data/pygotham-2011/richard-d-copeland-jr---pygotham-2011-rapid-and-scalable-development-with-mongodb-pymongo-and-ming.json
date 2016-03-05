@@ -16,6 +16,7 @@
         "Richard D. Copeland, Jr."
     ],
     "state": 1,
+    "status": "published",
     "summary": "This intermediate-level talk will teach you techniques using the popular NoSQL\ndatabase MongoDB and the Python library Ming to write maintainable, high-\nperformance, and scalable applications. We will cover everything you need to\nbecome an effective Ming/MongoDB developer from basic PyMongo queries to high-\nlevel object-document mapping setups in Ming.\n\n",
     "tags": [
         "ming",

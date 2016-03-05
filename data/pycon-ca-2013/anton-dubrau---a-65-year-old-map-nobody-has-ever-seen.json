@@ -16,6 +16,7 @@
         "Anton Dubrau"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In March, the city of Montreal released thousands of aerial photos taken in 1947. I combined some of these images and overlaid them on a current satellite map. I'll explain what went into making this (~100 hours of work), and how I'm going to extend it to the whole island.",
     "tags": [
         "Lightning talk"

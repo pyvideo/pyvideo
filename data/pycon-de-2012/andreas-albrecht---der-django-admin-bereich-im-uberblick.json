@@ -16,6 +16,7 @@
         "Andreas Albrecht"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Das Django-Webframework bringt mit einem automatisch generierten Admin-Bereich\nein m\u00e4chtiges Werkzeug zur Administration von Webapplikation mit.\n\nDer Vortrag stellt den Admin-Bereich des Django-Webframeworks in den\nVordergrund und richtet sich an Django-Einsteiger und -Interessierte, aber\nauch an Entwickler, die sich bisher noch nicht sehr intensiv mit dem Admin-\nBereich auseinander gesetzt haben.\n\nDazu wird kurz das Berechtigungskonzept als Grundlage des Admin-Bereichs\nerl\u00e4utert, die Erstkonfiguration beschrieben und die Funktionalit\u00e4t\nvorgestellt. Der zweite Teil des Vortrags besch\u00e4ftigt sich dann mit den\nErweiterungs- und Anpassungsm\u00f6glichkeiten, die die Django-API bereit stellt.\n\nDie abschlie\u00dfende Diskussionszeit kann f\u00fcr Fragen verwendet werden.\n\n",
     "tags": [
         "django"

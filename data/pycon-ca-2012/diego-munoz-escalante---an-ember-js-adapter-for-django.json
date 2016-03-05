@@ -16,6 +16,7 @@
         "Diego Mu\u00f1oz Escalante"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Ember is a JS framework based on established conventions that allows writing\ncomplex applications with a small amount of code. Ember-data is the component\nthat connects this framework with a REST API. Unfortunately, the conventions\nfollowed by its community are not compatible with Tastypie, one of the most\nwidely used Django libraries. This adapter makes all these technologies work\ntogether.\n\n",
     "tags": [],
     "thumbnail_url": "http://i3.ytimg.com/vi/2SXtNV_knDk/hqdefault.jpg",

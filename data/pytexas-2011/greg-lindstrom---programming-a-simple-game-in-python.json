@@ -16,6 +16,7 @@
         "Greg Lindstrom"
     ],
     "state": 1,
+    "status": "published",
     "summary": "If you missed Greg Lindstrom's first talk on programming a simple game in\nPython, check out this one. This time, you'll be building a \"Wheel of\nFortune\"-style game.\n\n",
     "tags": [],
     "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-ProgrammingASimpleGameInPython300-773.jpg",

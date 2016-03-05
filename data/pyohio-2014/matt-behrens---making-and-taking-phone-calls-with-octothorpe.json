@@ -16,6 +16,7 @@
         "Matt Behrens"
     ],
     "state": 1,
+    "status": "published",
     "summary": "An introduction to and demonstration of octothorpe, Matt's Twisted library for controlling the Asterisk telephony engine.  Watch what's going on inside Asterisk, answer the phone with \"hello world\", ring phones, and present an interactive phone menu, connecting up to just about anything else with Twisted.",
     "tags": [
         "talk"

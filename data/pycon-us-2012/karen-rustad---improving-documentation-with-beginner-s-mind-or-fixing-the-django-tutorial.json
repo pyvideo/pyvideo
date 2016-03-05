@@ -16,6 +16,7 @@
         "Karen Rustad"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk evaluates a well-known free software tutorial (the official Django\ntutorial) from the perspective of a web development novice in order to point\nout omissions and common sticking points and suggest improvements. More\ngenerally, this talk is useful to anyone looking to improve their project's\ntutorials and other newcomer-targeted documentation by approaching them with\n\"beginner's mind\".\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/euh9ZQi339o/hqdefault.jpg",

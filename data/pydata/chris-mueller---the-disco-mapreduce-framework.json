@@ -16,6 +16,7 @@
         "Chris Mueller"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Chris Mueller from Life Technologies introduces us to Disco, a MapReduce\nframework built in Python and Erlang.\n\nShowing that Hadoop is not alone in the MapReduce world, Chris reviews the\nbasic MapReduce paradigm, dataflow, file and job distribution, and goes on to\nexplain the Disco Distributed Filesystem (DDFS) before going into some use-\ncase scenarios in next generation genomic sequencing.\n\n",
     "tags": [
         "disco",

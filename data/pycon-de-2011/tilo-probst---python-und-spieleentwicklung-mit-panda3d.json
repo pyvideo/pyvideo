@@ -16,6 +16,7 @@
         "Tilo Probst"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python eignet sich nicht nur zur Entwicklung von \"serious apps\", sondern spielt gerade in der Spieleentwicklung seine St\u00e4rken aus. Dazu geh\u00f6rt u.a. ein schnelles Prototyping sowie die leichte Erlernbarkeit der Sprache, die einen Einsatz im Bildungsbereich nahelegt. Im Workshops wird Spieleentwicklung mit Python am Beispiel des Python/C++-Frameworks \"Panda3D\" veranschaulicht.\r\n\r\n[audio is very poor for the first few minutes.  it gets better.]",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/dsfXO0vr0hk/hqdefault.jpg",

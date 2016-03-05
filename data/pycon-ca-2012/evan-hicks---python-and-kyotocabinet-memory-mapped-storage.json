@@ -16,6 +16,7 @@
         "Evan Hicks"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The problem of how to store and access data in real time is one with many\ndifferent variations and flavours that applications today are trying to solve.\nOne version of this problem is storing data in a way that optimizes for\nreading data, while sacrificing performance from writing data. One piece of\nsoftware that Chango uses to solve this problem is Kyotocabinet. This is a\nmemory-mapped, key ...\n\n",
     "tags": [],
     "thumbnail_url": "http://i2.ytimg.com/vi/uJxCmczXgNU/hqdefault.jpg",

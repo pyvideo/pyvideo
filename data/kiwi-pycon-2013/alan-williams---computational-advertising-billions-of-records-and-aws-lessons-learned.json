@@ -16,6 +16,7 @@
         "Alan Williams"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Lessons learned while setting up a computational advertising platform on AWS with emphasis on experimental data analysis and scaling.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/CxK-v0pSpjo/hqdefault.jpg",

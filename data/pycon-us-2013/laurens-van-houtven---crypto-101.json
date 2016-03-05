@@ -16,6 +16,7 @@
         "Laurens Van Houtven"
     ],
     "state": 1,
+    "status": "published",
     "summary": "An introduction to applied cryptography and information security suitable for programmers of all ages and skill levels.",
     "tags": [
         "talk"

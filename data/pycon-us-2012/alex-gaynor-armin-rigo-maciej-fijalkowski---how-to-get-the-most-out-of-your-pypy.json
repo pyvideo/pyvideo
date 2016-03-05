@@ -18,6 +18,7 @@
         "Maciej Fijalkowski"
     ],
     "state": 1,
+    "status": "published",
     "summary": "For many applications PyPy can provide performance benefits right out of the\nbox. However, little details can push your application to perform much better.\nIn this tutorial we'll give you insights on how to push pypy to it's limites.\nWe'll focus on understanding the performance characteristics of PyPy, and\nlearning the analysis tools in order to maximize your applications\nperformance.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/oZw8m_lyhvo/hqdefault.jpg",

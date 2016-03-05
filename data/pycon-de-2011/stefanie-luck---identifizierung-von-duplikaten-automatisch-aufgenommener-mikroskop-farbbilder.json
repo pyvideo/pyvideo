@@ -16,6 +16,7 @@
         "Stefanie L\u00fcck"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Der Getreidemehltau kann viele Gr\u00e4serarten befallen. Um dies zu Untersuchen verwenden wir ein transientes Testverfahren, welches auf mikroskopische Ph\u00e4notypisierung beruht. Zur manuellen Kontrolle eines automatischen Hochdurchsatz Screeningsystems implementierten wir in Python eine Annotationssoftware mit integriertem Kreuzkorrelationsalgorithmus, welcher aufgenommene Bildduplikate ausschlie\u00dft.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/nr_WIFZPMN8/hqdefault.jpg",

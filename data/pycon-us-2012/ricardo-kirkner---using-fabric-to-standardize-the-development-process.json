@@ -16,6 +16,7 @@
         "Ricardo Kirkner"
     ],
     "state": 1,
+    "status": "published",
     "summary": "By ensuring consistency and repeatability in setting up the development\nenvironments of a team of developers, errors can be avoided (by automating\nrepetitive tasks). It also helps by lowering the entry barrier for new\ndevelopers, and letting existing developers focus on development tasks without\nhaving to worry about infrastructure or process issues.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/bTXert2uRco/hqdefault.jpg",

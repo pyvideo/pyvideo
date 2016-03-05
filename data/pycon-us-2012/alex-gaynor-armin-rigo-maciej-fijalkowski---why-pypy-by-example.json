@@ -18,6 +18,7 @@
         "Maciej Fijalkowski"
     ],
     "state": 1,
+    "status": "published",
     "summary": "One of the goals of PyPy is to make existing Python code faster, however an\neven broader goal was to make it possible to write things in Python that\nprevious would needed to be written in C or other low-level language. This\ntalk will show examples of this, and describe how they represent the\ntremendous progress PyPy has made, and what it means for people looking to use\nPyPy.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/P5ad6NpjR3M/hqdefault.jpg",

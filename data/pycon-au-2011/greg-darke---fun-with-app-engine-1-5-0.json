@@ -16,6 +16,7 @@
         "Greg Darke"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Using generators as coroutines in App Engine to get more done.\n\n",
     "tags": [
         "coroutines",

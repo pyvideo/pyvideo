@@ -16,6 +16,7 @@
         "Andreas Bresser"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In diesem Vortrag wird gezeigt, wie man ein Robotik-Board (Arduino) \u00fcber Bluetooth durch ein Smartphone steuern kann. Hierbei kommt Kivy als Framework f\u00fcr die Grafische Oberfl\u00e4che zum Einsatz.",
     "tags": [
         "arduino",

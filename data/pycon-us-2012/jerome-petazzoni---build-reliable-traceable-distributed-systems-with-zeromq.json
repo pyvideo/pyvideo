@@ -16,6 +16,7 @@
         "J\u00e9r\u00f4me Petazzoni"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We will show how to build simple yet powerful RPC code with ZeroMQ, with very\nfew (if any!) modification to existing code. We will build fan-in and fan-out\ntopologies with ZeroMQ special socket types to implement PUB/SUB patterns and\nscale up job-processing tasks. Thanks to introspection, the resulting services\nwill be self-documented. Finally, we will show how to implement distributed\ntracing.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/9G6-GksU7Ko/hqdefault.jpg",

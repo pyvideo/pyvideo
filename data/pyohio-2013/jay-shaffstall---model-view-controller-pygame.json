@@ -16,6 +16,7 @@
         "Jay Shaffstall"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The presentation starts by introducing the Model-View-Controller (MVC) architecture.  We\u2019ll develop a complete MVC program with two separate views, a text based view and a Pygame based view.   If you\u2019re experienced with Python but new to MVC, come prepared to code!  If you\u2019re new to Python, you can follow along with the concepts and get the source code to the example after the conference.",
     "tags": [
         "tutorial"

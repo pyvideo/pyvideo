@@ -21,6 +21,7 @@
         "Adam McKerlie"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this talk, aimed at novice Python and Django developers, we'll have a look\r\nat getting started with testing your Django applications, how to properly\r\nwrite your first test case and then moving to automated testing with Travis\r\nCI.\r\n\r\n",
     "tags": [],
     "thumbnail_url": "http://i2.ytimg.com/vi/uFRJsbV8W_4/hqdefault.jpg",

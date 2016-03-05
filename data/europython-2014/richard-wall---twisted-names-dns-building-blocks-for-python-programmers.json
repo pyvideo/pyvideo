@@ -21,6 +21,7 @@
         "Richard Wall"
     ],
     "state": 1,
+    "status": "published",
     "summary": "In this talk I will report on my efforts to update the DNS components of Twisted\r\nand discuss some of the things I've learned along the way. I'll demonstrate the\r\nEDNS0, DNSSEC and DANE client support which I have been working on and show how\r\nthese new Twisted Names components can be glued together to build novel DNS\r\nservers and clients.\r\n\r\nTwisted is an event-driven networking engine written in Python and\r\nlicensed under the open source MIT license.  It is a platform for\r\ndeveloping internet applications.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/kuSXK4gNYqw/hqdefault.jpg",

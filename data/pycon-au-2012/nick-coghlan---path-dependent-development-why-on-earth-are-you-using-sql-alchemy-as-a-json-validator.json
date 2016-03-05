@@ -16,6 +16,7 @@
         "Nick Coghlan"
     ],
     "state": 1,
+    "status": "published",
     "summary": "The PulpDist project uses SQL Alchemy as part of a custom JSON validator. This\ncould be seen as an unusual choice, so it's worth exploring the way this\napproach came to be adopted. Practicing iterative development means coping\nwith the tension between \"doing the simplest thing that could possibly work\"\nto meet immediate project requirements and avoiding \"reinventing the wheel\".\n\n",
     "tags": [
         "pulpdist"

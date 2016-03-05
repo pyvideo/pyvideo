@@ -16,6 +16,7 @@
         "Stefan Schwarzer"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Your library supports only Python 2, - but your users keep nagging you about Python 3 support?\r\n\r\nAs Python 3 gets adopted more and more, users ask for Python 3 support in existing libraries for Python 2. Although there are several approaches, this talk focuses on using the very same code for a Python 2 and a Python 3 version.\r\n\r\nThe talk discusses the main problems when supporting Python 3 and best practices to apply for compatibility with Python 2 and 3.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/elAV6aZDMvg/hqdefault.jpg",

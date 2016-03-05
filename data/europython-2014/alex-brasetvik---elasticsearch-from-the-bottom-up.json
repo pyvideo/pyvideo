@@ -16,6 +16,7 @@
         "Alex Brasetvik"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This talk will teach you about Elasticsearch and Lucene's architecture.\r\n\r\nThe key data structure in search is the powerful inverted index, which is actually simple to understand. We start there, then ascend through abstraction layers to get an overview of how a distributed search cluster processes searches and changes.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/PpX7J-G2PEo/hqdefault.jpg",

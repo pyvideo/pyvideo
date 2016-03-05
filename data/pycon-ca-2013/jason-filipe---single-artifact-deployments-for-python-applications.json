@@ -16,6 +16,7 @@
         "Jason Filipe"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Deploying python applications should be fast, safe and repeatable. In this talk I will outline a new deployment process developed at Wave Accounting and show you the tips and tricks you'll need to build your own system.",
     "tags": [
         "talk"

@@ -16,6 +16,7 @@
         "Richard Jones"
     ],
     "state": 1,
+    "status": "published",
     "summary": "This tutorial will walk the attendees through development of a simple game using PyGame with time left over for some experimentation and exploration of different types of games.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/bMt47wvK6u0/hqdefault.jpg",

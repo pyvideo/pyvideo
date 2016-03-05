@@ -16,6 +16,7 @@
         "Andreas Klostermann"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Using the Neurosky Mindwave headset we can read brain waves via bluetooth. In this talk I will present ways to interface with this device and to analyze their data, mostly from the perspective of a Python hacker, and not so much from the perspective of academic research or the development of production-ready software. \r\n\r\nI will convey the basic scientific and technical background, keeping in mind the non-medical audience, and touch on several practical applications, especially Neurofeedback and its use for personal mental training and potential therapeutic uses.\r\n\r\nThe Audience can expect to walk away with a basic knowledge of EEG analysis, Neurofeedback and how to start experimenting with these devices on their own.",
     "tags": [],
     "thumbnail_url": "http://i.ytimg.com/vi/6ewIEOyC5v0/hqdefault.jpg",

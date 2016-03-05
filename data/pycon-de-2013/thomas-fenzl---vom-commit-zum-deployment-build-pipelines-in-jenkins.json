@@ -16,6 +16,7 @@
         "Thomas Fenzl"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Wenn man Code in ein Repository eincheckt m\u00f6chte man dazu schnelles und aussagekr\u00e4ftiges Feedback. \r\n\r\nNat\u00fcrlich sind lokal die Tests durchgelaufen (oder etwa nicht?), aber wie kann man weitere \u00dcberpr\u00fcfungen automatisieren? Dieser Vortrag zeigt, wie man in Jenkins und Werkzeugen wie nose/pylint/coverage build pipelines anlegt, die von Unittests und linting bis zum Deployment gehen k\u00f6nnen.\r\n",
     "tags": [
         "build pipeline",

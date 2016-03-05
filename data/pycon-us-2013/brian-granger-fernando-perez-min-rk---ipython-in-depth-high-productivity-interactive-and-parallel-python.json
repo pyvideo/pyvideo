@@ -18,6 +18,7 @@
         "Min RK"
     ],
     "state": 1,
+    "status": "published",
     "summary": "IPython provides tools for interactive and parallel computing that are widely used in scientific computing, but can benefit any Python developer.\r\n\r\nWe will show how to use IPython in different ways, as: an interactive shell, an embedded shell, a graphical console, a network-aware VM in GUIs, a web-based notebook with code, graphics and rich HTML, and a high-level framework for parallel computing.\r\n\r\nAll materials for this tutorial can be found on our [github\r\nrepository](https://github.com/ipython/ipython-in-depth)\r\n",
     "tags": [
         "tutorial"

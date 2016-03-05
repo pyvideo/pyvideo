@@ -16,6 +16,7 @@
         "Andrew Reid"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We discuss recent advances in the Object Oriented Finite-Element project at NIST, a Python and C++ tool designed to bring sophisticated numerical modeling capabilities to users in the field of Materials Science.",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/VzXiPmR_wQk/hqdefault.jpg",

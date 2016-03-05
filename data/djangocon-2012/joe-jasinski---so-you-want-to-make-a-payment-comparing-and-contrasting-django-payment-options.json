@@ -16,6 +16,7 @@
         "Joe Jasinski"
     ],
     "state": 1,
+    "status": "published",
     "summary": "So you've developed an eCommerce site and now you want users to be able to\nmake payments. The aim of this talk will be to introduce and compare some\ncommon payment gateway options, such as Payflow, Authorize.net, Stripe, and\nBraintree, with the focus of integrating them into Django projects.\n\n",
     "tags": [
         "django",

@@ -16,6 +16,7 @@
         "Dimitris Glezos"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Localization of Python apps used to be hard, but not any more. This talk will\noffer a short intro on software localization in Python and discuss today's\nbest practices. It will present Transifex, a modern, Django-based SaaS, also\nreferred to as 'The Github of translations', used by 2.000 open-source\nprojects including Django, Mercurial, Fedora and Firefox.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/KOfB5WQb39g/hqdefault.jpg",

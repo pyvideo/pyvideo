@@ -16,6 +16,7 @@
         "Armin Ronacher"
     ],
     "state": 1,
+    "status": "published",
     "summary": "For many DSLs such as templating languages it's important to use code\ngeneration to achieve acceptable performance in Python. The current version of\nJinja went through many different iterations to end up where it is currently.\nThis talk walks through the design of Jinja2's compiler infrastructure and why\nit works the way it works and how one can use newer Python features for better\nresults.\n\n",
     "tags": [],
     "thumbnail_url": "http://img.youtube.com/vi/jXlR0Icvvh8/hqdefault.jpg",

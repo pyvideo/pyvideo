@@ -16,6 +16,7 @@
         "Medhat Gayed"
     ],
     "state": 1,
+    "status": "published",
     "summary": "How to use python's built in multiprocessing module to speed up the processing of large amounts of data.\r\n",
     "tags": [],
     "thumbnail_url": "http://i1.ytimg.com/vi/CObboy8XzaM/hqdefault.jpg",

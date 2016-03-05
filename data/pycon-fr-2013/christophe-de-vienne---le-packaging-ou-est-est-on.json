@@ -16,6 +16,7 @@
         "Christophe de Vienne"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Wheel, pypi, setuptools... l'actualit\u00e9 du packaging a \u00e9t\u00e9 riche en 2013. Petit \u00e9tat des lieux.\n\n- Pourquoi utiliser le nouveau format wheel ?\n- Que s'est-il pass\u00e9 cette ann\u00e9e pour que l'installation de package python soit plus simple, fiable et rapide ?\n- Distribute ou setuptools ?\n\nLe packaging s'est peut-\u00eatre enfin simplifi\u00e9 cette ann\u00e9e, nous verrons pourquoi et comment en profiter.",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/-Wx3FToSPT8/maxresdefault.jpg",

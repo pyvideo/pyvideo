@@ -23,6 +23,7 @@
         "Ondrej Certik"
     ],
     "state": 1,
+    "status": "published",
     "summary": "SymPy is a pure Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python and does not require any external libraries.",
     "tags": [
         "mathematics",

@@ -33,6 +33,7 @@
         "John Kitchin"
     ],
     "state": 1,
+    "status": "published",
     "summary": "We discuss the use of emacs + org-mode + python in enabling reproducible research.",
     "tags": [
         "emacs",

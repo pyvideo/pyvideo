@@ -16,6 +16,7 @@
         "Dr. Yves Hilpisch"
     ],
     "state": 1,
+    "status": "published",
     "summary": "Python hat sich als ernste Alternative f\u00fcr die effiziente und hochperformante Analyse auch von gro\u00dfen Datenmengen etabliert. Der Vortrag stellt die wesentlichen Python-basierten Tools f\u00fcr die interaktive Datenanalyse und Visualisierung vor und veranschaulicht diese an Hand von praxisnahen Beispielen.\r\n\r\nDer Vortag nutzt IPython Notebooks um die Interaktivit\u00e4t in Echzeit zu veranschaulichen.",
     "tags": [
         "data analytics",
