@@ -16,6 +16,7 @@
         "Eric Schles"
     ],
     "state": 1,
+    "status": "draft",
     "summary": "",
     "tags": [],
     "thumbnail_url": "https://i.ytimg.com/vi/APC5HvHZaf0/hqdefault.jpg",
@@ -33,6 +34,5 @@
     "video_webm_download_only": false,
     "video_webm_length": null,
     "video_webm_url": "",
-    "whiteboard": "",
-    "status": "draft"
+    "whiteboard": ""
 }
