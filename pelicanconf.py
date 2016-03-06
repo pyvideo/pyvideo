@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 AUTHOR = 'Paul Logston'
 SITENAME = 'PyTube.org'
@@ -37,6 +38,9 @@ THEME = 'themes/pytube-201601/'
 
 GITHUB_URL = 'https://github.com/pytube/pytube'
 CONTRIBUTE_URL = 'https://github.com/pytube/pytube/wiki/How-to-Contribute-Media'
+
+PUBLISHER_URL = (os.environ.get('PUBLISHER_URL') or '').strip()
+PUBLISHER_URL = PUBLISHER_URL or 'https://publisher.pytube.org/publish'
 
 STATIC_PATHS = [
     'images',

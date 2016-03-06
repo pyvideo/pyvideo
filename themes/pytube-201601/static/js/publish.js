@@ -1,10 +1,7 @@
 $('#js-publish-btn').click(function onClick() {
   "use strict";
 
-  var url = 'http://publisher.pytube.org/publish';
-
-  // for testing
-  var url = 'http://publisher.pytube.vg/publish';
+  var url = $('#publisher_url').val();
 
   var data = {
     data_file: $('#data_file').val(),
