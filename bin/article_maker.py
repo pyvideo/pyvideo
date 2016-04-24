@@ -214,15 +214,16 @@ class ArticleMaker:
         return thumbnail_url
 
     def build_body(self):
-        image_block = '.. image:: {}\n'
-        image_block += OPTION_INDENT + ':width: 600px\n'
-        image_block += OPTION_INDENT + ':target: {}\n'
-        image_block += OPTION_INDENT + ':alt: {}'
-        image_block = image_block.format(
-            self.media_thubmnail_url,
-            self.media_url,
-            self.data.get('title', '').strip()
-        )
+        #image_block = '.. image:: {}\n'
+        #image_block += OPTION_INDENT + ':width: 600px\n'
+        #image_block += OPTION_INDENT + ':target: {}\n'
+        #image_block += OPTION_INDENT + ':alt: {}'
+        #image_block = image_block.format(
+        #    self.media_thubmnail_url,
+        #    self.media_url,
+        #    self.data.get('title', '').strip()
+        #)
+        image_block = ''
 
         summary = self.data.get('summary') or ''
         summary = summary.strip()
