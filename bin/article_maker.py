@@ -6,6 +6,7 @@ import multiprocessing
 import os
 import re
 import shutil
+from urllib.parse import urlparse
 
 from pelican import DEFAULT_CONFIG_NAME
 from pelican.readers import RstReader
@@ -204,7 +205,23 @@ class ArticleMaker:
             msg = 'no valid media URL found for file {}'.format(self.title)
             raise ValueError(msg)
 
+        if 'youtu' in url:
+            url = self.get_youtube_url(url)
+
         return url
+
+    def get_youtube_url(url):
+        video_id = ''
+        if '/watch?v=' in url:
+            o = urlparse(url)
+            query_pairs = o.query.split('&')
+            pairs = (pair.split('=') for pair in query_pairs if '=' in pair)
+            video_id = dict(pairs).get('v')
+        elif '/v/' in url:
+            o = urlparse(url)
+            video_id = o.path.replace('/v/', '')
+
+        return 'https://www.youtube.com/embed/{}'.format(video_id)
 
     @property
     def media_thubmnail_url(self):
