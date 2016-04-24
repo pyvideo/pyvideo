@@ -210,16 +210,17 @@ class ArticleMaker:
 
         return url
 
-    def get_youtube_url(url):
+    def get_youtube_url(self, url):
         video_id = ''
+        o = urlparse(url)
         if '/watch?v=' in url:
-            o = urlparse(url)
             query_pairs = o.query.split('&')
             pairs = (pair.split('=') for pair in query_pairs if '=' in pair)
             video_id = dict(pairs).get('v')
         elif '/v/' in url:
-            o = urlparse(url)
             video_id = o.path.replace('/v/', '')
+        elif 'youtu.be/' in url:
+            video_id = o.path
 
         return 'https://www.youtube.com/embed/{}'.format(video_id)
 
