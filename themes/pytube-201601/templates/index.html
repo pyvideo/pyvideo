@@ -4,6 +4,15 @@
   <div class="index-content">
     <div class="row">
       <div class="col-lg-12">
+        <div class="alert alert-info" role="alert">
+          UPDATE: This site will is still in its beginning stages of life.
+          Development is currently paused as pyvideo-data (the data that is
+          used to generate this site) is converted from markdown to reST.
+        </div>
+      </div>
+    </div> 
+    <div class="row">
+      <div class="col-lg-12">
         <h3>Latest Talks</h3>
         {% for article in articles_page.object_list %}
           <article>
@@ -21,8 +30,8 @@
               </h4>
 
               <footer class="post-info">
-                <time class="published" 
-                      datetime="{{ article.date.isoformat() }}"> 
+                <time class="published"
+                      datetime="{{ article.date.isoformat() }}">
                   {{ article.locale_date }}
                 </time>
                 <address class="vcard author">
