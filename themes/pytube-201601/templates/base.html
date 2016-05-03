@@ -68,6 +68,10 @@
             <a href="{{ SITEURL }}/tags.html">Tags</a>
           </li>
 
+          <li role="presentation"{% if output_file == "authors.html" %} class="active"{% endif %}>
+            <a href="{{ SITEURL }}/authors.html">Authors</a>
+          </li>
+
           {% for p in pages %}
             <li role="presentation"{% if p == page %} class="active"{% endif %}>
               <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
