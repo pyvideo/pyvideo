@@ -57,6 +57,9 @@
 <body>
   {% include 'github.html' %}
   <div class="container">
+    <div class="pull-right search">
+      <gcse:search></gcse:search>
+    </div>
     <header id="banner" class="header clearfix">
       <nav>
         <ul class="nav nav-pills pull-right">
@@ -96,6 +99,17 @@
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha256-KXn5puMvxCw+dAYznun+drMdG1IFl3agK0p/pqT9KAo= sha512-2e8qq0ETcfWRI4HJBzQiA3UoyFk6tbNyG+qSaIBZLyW9Xf3sWZHN/lxe9fTh1U45DpPf07yj94KsUHHWe4Yk1A==" crossorigin="anonymous"></script>
       <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
       <script src="/theme/js/ie10-viewport-bug-workaround.js"></script>
+      <script>
+        (function() {
+          var cx = '015807541390881580335:zhcawcwq8uo';
+          var gcse = document.createElement('script');
+          gcse.type = 'text/javascript';
+          gcse.async = true;
+          gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(gcse, s);
+        })();
+      </script>
       {% include 'analytics.html' %}
     {% endblock endbodyjs %}
 </body>
