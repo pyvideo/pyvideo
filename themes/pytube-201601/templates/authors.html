@@ -1,13 +1,17 @@
 {% extends "base.html" %}
 
 {% block subtitle %} &middot; Speakers{% endblock %}
+{% block head %}
+    {{ super()}}
+    <link href="/theme/css/jquery-listnav.css" rel="stylesheet">
+{% endblock %}
 
 {% block content %}
 
 <h1>All Speakers</h1>
 
 <div class="row">
-    <ul>
+    <ul id="speaker-list">
       {% for author, articles in authors|sort %}
         <li>
           <a href="{{ SITEURL }}/{{ author.url }}">{{ author }} ({{ articles|length }})</a>
@@ -16,4 +20,16 @@
     </ul>
 </div>
 
+{% endblock %}
+
+{% block endbodyjs %}
+    {{ super() }}
+      <script src="/theme/js/jquery-listnav.js"></script>
+      <script>
+        $("#speaker-list").listnav({
+            includeOther: true,
+            includeNums: false,
+            showCounts: false
+        });
+      </script>
 {% endblock %}

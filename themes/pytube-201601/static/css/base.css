@@ -128,4 +128,13 @@ div.index-content section.details {
   left: 0;
   width: 100%;
   height: 100%;
+
+/* speaker list styles */
+.listNav {
+    padding: 5px 0px;
+}
+
+#speaker-list li {
+    width: 33%;
+    float: left;
 }
