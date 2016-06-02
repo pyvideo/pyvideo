@@ -15,6 +15,7 @@ body {
 .header {
   padding-bottom: 20px;
   border-bottom: 1px solid #e5e5e5;
+  clear: right;
 }
 /* Make the masthead heading the same height as the navigation */
 .header h3 {
@@ -138,4 +139,8 @@ div.index-content section.details {
 #speaker-list li {
     width: 33%;
     float: left;
+
+/* Search */
+.search {
+  width: 50%;
 }
