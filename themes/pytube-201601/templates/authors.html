@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block subtitle %} &middot; Speakers{% endblock %}
+
+{% block content %}
+
+<h1>All Speakers</h1>
+
+<div class="row">
+    <ul>
+      {% for author, articles in authors|sort %}
+        <li>
+          <a href="{{ SITEURL }}/{{ author.url }}">{{ author }} ({{ articles|length }})</a>
+        </li>
+      {% endfor %}
+    </ul>
+</div>
+
+{% endblock %}
