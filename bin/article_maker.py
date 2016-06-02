@@ -1,10 +1,10 @@
 import argparse
+from collections import defaultdict
 from datetime import datetime
 import docutils
 import glob
 import io
 import json
-import multiprocessing
 import os
 import re
 import shutil
@@ -47,27 +47,14 @@ MEDIA_URL_KEYS = (
 OPTION_INDENT = ' ' * 4
 
 
-class TimeoutWrapper:
-    def __init__(self, seconds=1):
-        self.seconds = seconds
-
-    def handler(self, _sig_num, _frame):
-        raise TimeoutError()
-
-    def __enter__(self):
-        signal.signal(signal.SIGALRM, self.handler)
-        signal.alarm(self.seconds)
-
-    def __exit__(self, _type, _value, _traceback):
-        signal.alarm(0)
+TITLES_BY_CATEGORY = defaultdict(set)
 
 
 class ArticleMaker:
     """
     Take a JSON file and make an rST file out of the data it contains.
     """
-    def __init__(self, json_file_path, lock):
-        self.lock = lock
+    def __init__(self, json_file_path):
         self.json_file_path = json_file_path
         with open(self.json_file_path) as fp:
             data = json.load(fp)
@@ -92,6 +79,10 @@ class ArticleMaker:
         self.parse_modified_datetime()
         self.parse_tags()
         self.parse_category()
+        if self.title in TITLES_BY_CATEGORY[self.category]:
+            raise ValueError('Duplicate file {}'.format(self.json_file_path))
+        else:
+            TITLES_BY_CATEGORY[self.category].add(self.title)
         self.parse_authors()
         self.parse_thubmnail_url()
         self.parse_media_url()
@@ -113,8 +104,7 @@ class ArticleMaker:
             date = (self.data.get('recorded') or '').strip()
 
         if not date:
-        #    msg = 'Error in {}: No date provided'.format(self.json_file_path)
-        #    raise ValueError(msg)
+            # fall back to an old date
             date = datetime(1990, 1, 1).date().strftime(DATE_FORMAT)
 
         self.date = self.coerce_datetime(date)
@@ -288,22 +278,18 @@ class ArticleMaker:
         subdirectory = path_parts[-3]
         sub_dir_path = os.path.join(CONTENT_DIR, subdirectory)
 
-        self.lock.acquire(timeout=1)
         if not os.path.exists(sub_dir_path):
             if self.verbose:
                 print('Creating sub dir {}'.format(sub_dir_path), flush=True)
             os.mkdir(sub_dir_path)
-        self.lock.release()
 
         name = path_parts[-1][:-4] + 'rst'
         path = os.path.join(sub_dir_path, name)
 
-        self.lock.acquire(timeout=1)
         if self.verbose:
             print('Writing {}'.format(path), flush=True)
         with open(path, 'w') as fp:
             fp.write(self.output)
-        self.lock.release()
 
     def validate_rst(self, body):
         if self.verbose:
@@ -384,17 +370,11 @@ class StdErrRedirect(object):
 
 def process_json_file(args):
     json_file_path, verbose = args
-    maker = ArticleMaker(json_file_path, lock)
+    maker = ArticleMaker(json_file_path)
     try:
         maker.make(verbose=verbose)
     except BaseException as e:
         print(e, flush=True)
-
-
-def set_lock(lock_instance):
-    """Add lock to worker globals"""
-    global lock
-    lock = lock_instance
 
 
 def remove_old_content(verbose=False):
@@ -415,7 +395,7 @@ def remove_old_content(verbose=False):
         shutil.rmtree('output')
 
 
-def run_article_maker_pool(data_dir, process_count, verbose=False):
+def run_article_maker(data_dir, process_count, verbose=False):
     if verbose:
         print('Searching for media records (JSON files) ...', flush=True)
 
@@ -428,20 +408,8 @@ def run_article_maker_pool(data_dir, process_count, verbose=False):
             json_file_paths.append(path)
 
     args_gen = ((path, verbose) for path in json_file_paths)
-
-    process_count = process_count or multiprocessing.cpu_count()
-    pool_kwargs = {
-        'processes': process_count,
-        'initializer': set_lock,
-        'initargs': (multiprocessing.Lock(),),
-    }
-
-    if verbose:
-        msg = 'Starting pool of {} processes ...'.format(process_count)
-        print(msg, flush=True)
-
-    with multiprocessing.Pool(**pool_kwargs) as p:
-        p.map(process_json_file, args_gen)
+    for args in args_gen:
+        process_json_file(args)
 
 
 def parse_arguments():
@@ -479,10 +447,9 @@ def main():
     args = parse_arguments()
 
     if args.file:
-        set_lock(multiprocessing.Lock())
         process_json_file((args.file, args.verbose))
     else:
-        run_article_maker_pool(args.data_dir, args.process_count, args.verbose)
+        run_article_maker(args.data_dir, args.process_count, args.verbose)
 
 
 if __name__ == '__main__':
