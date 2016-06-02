@@ -81,6 +81,7 @@ div.row ul li img {
 
 article img {
   border-radius: 20px;
+  width: 100%;
 }
 
 div.entry-content img {
