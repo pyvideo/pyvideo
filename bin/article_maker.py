@@ -1,16 +1,19 @@
 import argparse
 from datetime import datetime
+import docutils
 import glob
+import io
 import json
 import multiprocessing
 import os
 import re
 import shutil
 import signal
+import sys
 from urllib.parse import urlparse
 
 from pelican import DEFAULT_CONFIG_NAME
-from pelican.readers import RstReader
+from pelican.readers import RstReader, PelicanHTMLTranslator
 from pelican.settings import read_settings
 from pelican.utils import slugify
 
@@ -18,12 +21,13 @@ from pelican.utils import slugify
 CONTENT_DIR = 'content'
 CONTENT_DIR_KEEP = set(('pages', 'images', 'extra'))
 DEFUALT_DATA_DIR = os.path.join('pyvideo-data', 'data')
+DATE_FORMAT = '%Y-%m-%d'
 DATETIME_FORMAT = '%Y-%m-%d %H:%M'
 DATETIME_FORMATS_BY_RE_PATTERN = {
     r'^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$': '%Y-%m-%d %H:%M:%S',
     r'^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$': '%Y-%m-%dT%H:%M:%S',
     r'^\d{4}-\d{2}-\d{2} \d{2}:\d{2}$': '%Y-%m-%d %H:%M',
-    r'^\d{4}-\d{2}-\d{2}$': '%Y-%m-%d',
+    r'^\d{4}-\d{2}-\d{2}$': DATE_FORMAT,
 }
 DATETIME_FORMATS_BY_RE_PATTERN = {
     re.compile(key): value for key, value in
@@ -41,14 +45,6 @@ MEDIA_URL_KEYS = (
     'video_webm_url'
 )
 OPTION_INDENT = ' ' * 4
-
-
-class RstValidationError(Exception):
-    pass
-
-
-class PyTubeError(Exception):
-    pass
 
 
 class TimeoutWrapper:
@@ -117,8 +113,9 @@ class ArticleMaker:
             date = (self.data.get('recorded') or '').strip()
 
         if not date:
-            msg = 'Error in {}: No date provided'.format(self.json_file_path)
-            raise PyTubeError(msg)
+        #    msg = 'Error in {}: No date provided'.format(self.json_file_path)
+        #    raise ValueError(msg)
+            date = datetime(1990, 1, 1).date().strftime(DATE_FORMAT)
 
         self.date = self.coerce_datetime(date)
 
@@ -145,7 +142,7 @@ class ArticleMaker:
                 return dt.strftime(DATETIME_FORMAT)
 
         msg = 'Error in {}: Date pattern not recognized'.format(datetime_string)
-        raise PyTubeError(msg)
+        raise ValueError(msg)
 
     def parse_tags(self):
         tags = self.data.get('tags') or ()
@@ -160,10 +157,7 @@ class ArticleMaker:
         self.category = (self.data.get('category') or '').strip()
         if not self.category:
             path = self.json_file_path.replace(CONTENT_DIR, '')
-            self.category = path.split(os.sep)[0]
-
-        if not self.category:
-            raise ValueError('Each article requires a category')
+            self.category = path.split(os.sep)[-3]
 
     def parse_authors(self):
         authors = self.data.get('speakers') or ()
@@ -197,7 +191,7 @@ class ArticleMaker:
 
         if not url:
             msg = 'Error in {}: no valid media URL found'.format(self.json_file_path)
-            raise PyTubeError(msg)
+            raise ValueError(msg)
 
         if 'youtu' in url:
             url = self.get_youtube_url(url)
@@ -261,9 +255,6 @@ class ArticleMaker:
         media_url = self.media_url.replace('_', 'UNDERSCORE')
         lines.append(':media_url: {}'.format(media_url))
 
-        status_string = self.data.get('status') or 'draft'
-        lines.append(':status: {}'.format(status_string))
-
         lines.append(':data_file: {}'.format(self.json_file_path))
 
         self.output += '\n'.join(lines)
@@ -281,14 +272,20 @@ class ArticleMaker:
             self.description = description_header + self.description
             lines.append(self.description)
 
-        self.output += '\n'.join(lines)
-        self.output += '\n'
+        body = '\n'.join(lines)
+
+        error_string = self.validate_rst(body)
+        if error_string:
+            msg = '\n\nRendering Error. Could not render {}\n'
+            self.output += msg.format(self.json_file_path)
+        else:
+            self.output += body + '\n\n'
 
     def write(self):
         path_parts = self.json_file_path.split(os.sep)
 
         # make category dir if necessary
-        subdirectory = path_parts[2]
+        subdirectory = path_parts[-3]
         sub_dir_path = os.path.join(CONTENT_DIR, subdirectory)
 
         self.lock.acquire(timeout=1)
@@ -308,22 +305,81 @@ class ArticleMaker:
             fp.write(self.output)
         self.lock.release()
 
-        self.validate_rst(path)
+    def validate_rst(self, body):
+        if self.verbose:
+            print('Validating {}'.format(self.json_file_path), flush=True)
 
-    def validate_rst(self, path):
+        source = io.StringIO(body)
+        error_string = None
+        try:
+            with StdOutRedirect(os.devnull), StdErrRedirect(os.devnull):
+                TestRstReader(DEFAULT_SETTINGS).read(source)
+        except BaseException as e:
+            error_string = str(e)
+
         if self.verbose:
-            print('Validating {}'.format(path), flush=True)
-        with TimeoutWrapper(seconds=2):
-            content, metadata = RstReader(DEFAULT_SETTINGS).read(path)
-        if self.verbose:
-            print('Validation complete {}'.format(path), flush=True)
-        if all(map(lambda x: x in content, ('system-message', 'docutils'))):
-            start = content.find('<p class="system-message')
-            end = content.find('</p>', start)
-            snippet = content[start:end]
-            msg = 'Unable to parse rST document generated from {}\n{}'
-            msg = msg.format(self.json_file_path, snippet)
-            raise RstValidationError(msg)
+            print('Validation complete {}'.format(self.json_file_path), flush=True)
+
+        return error_string
+
+
+class TestRstReader(RstReader):
+    def _get_publisher(self, source):
+        extra_params = {'initial_header_level': '2',
+                        'syntax_highlight': 'short',
+                        'input_encoding': 'utf-8',
+                        'exit_status_level': 2,
+                        'embed_stylesheet': False}
+        user_params = self.settings.get('DOCUTILS_SETTINGS')
+        if user_params:
+            extra_params.update(user_params)
+
+        pub = docutils.core.Publisher(
+            source_class=self.FileInput,
+            destination_class=docutils.io.StringOutput)
+        pub.set_components('standalone', 'restructuredtext', 'html')
+        pub.writer.translator_class = PelicanHTMLTranslator
+        pub.process_programmatic_settings(None, extra_params, None)
+        pub.set_source(source=source)
+        pub.publish(enable_exit_status=True)
+        return pub
+
+    def read(self, source):
+        """Parses restructured text"""
+        pub = self._get_publisher(source)
+        parts = pub.writer.parts
+        content = parts.get('body')
+
+        metadata = self._parse_metadata(pub.document)
+        metadata.setdefault('title', parts.get('title'))
+
+        return content, metadata
+
+
+class StdOutRedirect(object):
+    def __init__(self, filename):
+        self.stream = open(filename, 'w')
+        self.old_stdout = None
+
+    def __enter__(self):
+        self.old_stdout = sys.stdout
+        sys.stdout = self.stream
+
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        sys.stdout = self.old_stdout
+
+
+class StdErrRedirect(object):
+    def __init__(self, filename):
+        self.stream = open(filename, 'w')
+        self.old_stderr = None
+
+    def __enter__(self):
+        self.old_stderr = sys.stderr
+        sys.stderr = self.stream
+
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        sys.stderr = self.old_stderr
 
 
 def process_json_file(args):
@@ -332,7 +388,7 @@ def process_json_file(args):
     try:
         maker.make(verbose=verbose)
     except BaseException as e:
-        print(e)
+        print(e, flush=True)
 
 
 def set_lock(lock_instance):

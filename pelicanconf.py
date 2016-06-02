@@ -57,7 +57,3 @@ EXTRA_PATH_METADATA = {
 
 PLUGINS = ['bin.plugins']
 
-DEFAULT_METADATA = {
-    'status': 'draft',
-}
-
