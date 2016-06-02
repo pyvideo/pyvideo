@@ -81,7 +81,7 @@ div.row ul li img {
 
 article img {
   border-radius: 20px;
-  width: 100%;
+  max-width: 100%;
 }
 
 div.entry-content img {
@@ -95,7 +95,7 @@ article.list_item div {
 
 /* index.html styles */
 div.index-content {
-    width: 480px
+  max-width: 480px
 }
 
 div.index-content h3 {
@@ -112,4 +112,20 @@ div.index-content section.details {
   text-align: left;
 }
 
+/* Responsive video iframe based on
+ * https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php
+ */
+.videocontainer {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
 
+.videocontainer iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

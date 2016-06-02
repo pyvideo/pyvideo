@@ -1,14 +1,10 @@
 {% if article.media_url and 'youtu' in article.media_url %}
-    <iframe width="560"
-            height="315"
-            src="{{ article.media_url }}"
-            frameborder="0" allowfullscreen></iframe>
+    <div class="videocontainer"><iframe src="{{ article.media_url }}"
+            frameborder="0" allowfullscreen></iframe></div>
 {% else %}
     <a class="reference external image-reference"
        href="{{ article.media_url }}">
         <img alt="{{ article.title }}"
-             src="{{ article.thumbnail_url }}"
-             style="width: 560px;">
+             src="{{ article.thumbnail_url }}">
     </a>
 {% endif %}
-
