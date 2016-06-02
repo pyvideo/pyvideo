@@ -56,4 +56,5 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'}
 }
 
-PLUGINS = ['bin.plugins']
+
+PLUGINS = ['bin.plugins', 'extended_sitemap']
