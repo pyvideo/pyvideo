@@ -29,6 +29,8 @@ help:
 	@echo '   make clean                          remove the generated files         '
 	@echo '   make regenerate                     regenerate files upon modification '
 	@echo '   make publish                        generate using production settings '
+	@echo '   make content                        build content dir from data dir    '
+	@echo '   make purge-content                  purge all non-essential content    '
 	@echo '   make serve [PORT=8000]              serve site at http://localhost:8000'
 	@echo '   make serve-global [SERVER=0.0.0.0]  serve (as root) to $(SERVER):80    '
 	@echo '   make devserver [PORT=8000]          start/restart develop_server.sh    '
@@ -42,6 +44,9 @@ help:
 
 content:
 	python bin/article_maker.py -d $(DATADIR)
+
+purge:
+	python bin/purge.py
 
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
@@ -90,5 +95,5 @@ production_push:
 
 deploy: publish production_push
 
-.PHONY: html help clean content deploy production_push regenerate serve serve-global devserver publish github
+.PHONY: html help clean content purge deploy production_push regenerate serve serve-global devserver publish github
 
