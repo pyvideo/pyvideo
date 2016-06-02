@@ -1,0 +1,25 @@
+404
+#####
+
+:date: 2016-06-02 12:00
+:modified: 2016-06-02 12:00
+:slug: 404
+:status: hidden
+
+Whoops!
+-------------------
+
+Can't find the page you're looking for- try returning to PyTube.org_.
+
+Bug reporting
+------------------
+
+If this was an error on our end, please file an issue on our github page GitHub.com_.
+
+Questions or concerns regarding the site can be addressed to
+`pytube.org@gmail.com`_.
+
+.. _`pytube.org@gmail.com`: mailto: pytube.org@gmail.com
+.. _`PyTube.org`: http://pytube.org
+.. _`GitHub.com`: https://github.com/pytube/pytube
+
