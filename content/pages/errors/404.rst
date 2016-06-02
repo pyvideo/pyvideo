@@ -5,21 +5,38 @@
 :modified: 2016-06-02 12:00
 :slug: 404
 :status: hidden
+:title: Not Found
+:save_as: 404.html
 
-Whoops!
--------------------
+::
 
-Can't find the page you're looking for- try returning to PyTube.org_.
+        _  _    ___  _  _   _
+       | || |  / _ \| || | | |
+       | || |_| | | | || |_| |
+       |__   _| |_| |__   _|_|
+          |_|  \___/   |_| (_)
+
+
+           ?      ?    ?
+     ___  ?    ?         ? ___
+    / _ \  ?   .---.    ? / _ \
+    \/_) )   _|o__  |_    \/_) )
+     / ,-   '       | '    / ,-'
+     '-'   (   .----'  )   '-'
+     (_)    '_|   ____'    (_)
+              |   o |
+               '---'
+
+          WHERE MY PYTHONS
+             AT?!!!?!!
+
 
 Bug reporting
 ------------------
 
-If this was an error on our end, please file an issue on our github page GitHub.com_.
-
-Questions or concerns regarding the site can be addressed to
-`pytube.org@gmail.com`_.
+If this was an error on our end, please file an issue on our github page 
+GitHub.com_ or email `pytube.org@gmail.com`_.
 
 .. _`pytube.org@gmail.com`: mailto: pytube.org@gmail.com
-.. _`PyTube.org`: http://pytube.org
 .. _`GitHub.com`: https://github.com/pytube/pytube
 
