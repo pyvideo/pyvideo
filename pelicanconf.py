@@ -20,7 +20,7 @@ DRAFT_URL = DRAFT_SAVE_AS = 'drafts/{category}/{slug}.html'
 DRAFT_LANG_URL = DRAFT_LANG_SAVE_AS = 'drafts/{category}/{slug}-{lang}.html'
 PAGE_URL = PAGE_SAVE_AS = 'pages/{slug}.html'
 PAGE_LANG_URL = PAGE_LANG_SAVE_AS = 'pages/{slug}-{lang}.html'
-CATEGORY_URL = CATEGORY_SAVE_AS = 'category/{slug}.html'
+CATEGORY_URL = CATEGORY_SAVE_AS = 'events/{slug}.html'
 TAGS_URL = TAGS_SAVE_AS = 'tags.html'
 # Hack to avoid this issue: https://github.com/getpelican/pelican/issues/1137
 TAG_URL = 'tag/{slug}/'
@@ -28,6 +28,7 @@ TAG_SAVE_AS = 'tag/{slug}/index.html'
 # End hack to avoid issue #1137
 YEAR_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/{date:%b}/index.html'
+CATEGORIES_SAVE_AS = 'events.html'
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -56,4 +57,3 @@ EXTRA_PATH_METADATA = {
 }
 
 PLUGINS = ['bin.plugins']
-

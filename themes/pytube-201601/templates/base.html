@@ -21,10 +21,10 @@
     <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
     {% endif %}
     {% if CATEGORY_FEED_ATOM and category %}
-    <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM|format(category.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Categories Atom Feed" />
+    <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM|format(category.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Events Atom Feed" />
     {% endif %}
     {% if CATEGORY_FEED_RSS and category %}
-    <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Categories RSS Feed" />
+    <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Events RSS Feed" />
     {% endif %}
     {% if TAG_FEED_ATOM and tag %}
     <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM|format(tag.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed" />
@@ -60,8 +60,8 @@
     <header id="banner" class="header clearfix">
       <nav>
         <ul class="nav nav-pills pull-right">
-          <li role="presentation"{% if output_file == "categories.html" %} class="active"{% endif %}>
-            <a href="{{ SITEURL }}/categories.html">Categories</a>
+          <li role="presentation"{% if output_file == "events.html" %} class="active"{% endif %}>
+            <a href="{{ SITEURL }}/events.html">Events</a>
           </li>
 
           <li role="presentation"{% if output_file == "tags/index.html" %} class="active"{% endif %}>
