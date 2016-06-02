@@ -89,6 +89,10 @@ article.list_item div {
   max-width: 450px;
 }
 
+article.list_item div.thumb {
+    background: url('/theme/images/loading.gif') 50% no-repeat;
+}
+
 /* index.html styles */
 div.index-content {
   max-width: 480px
