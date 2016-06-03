@@ -26,7 +26,6 @@ help:
 	@echo 'Makefile for a pelican Web site                                           '
 	@echo '                                                                          '
 	@echo 'Usage:                                                                    '
-	@echo '   make content                        (re)generate article source        '
 	@echo '   make purge                          purge all non-essential content    '
 	@echo '   make html                           (re)generate the web site          '
 	@echo '   make clean                          remove the generated files         '
@@ -42,9 +41,6 @@ help:
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
 	@echo '                                                                          '
-
-content:
-	python bin/article_maker.py -d $(DATADIR)
 
 purge:
 	python bin/purge.py $(NOPURGE)
@@ -96,5 +92,5 @@ production_push:
 
 deploy: publish production_push
 
-.PHONY: html help clean content purge deploy production_push regenerate serve serve-global devserver publish github
+.PHONY: html help clean purge deploy production_push regenerate serve serve-global devserver publish github
 
