@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 import os
 
-AUTHOR = 'Paul Logston'
+AUTHOR = 'Unknown'
 SITENAME = 'PyTube.org'
 
 PATH = 'content'
@@ -61,5 +61,5 @@ EXTRA_PATH_METADATA = {
 #sys.path.append(os.path.abspath("."))
 #from plugins import json_reader
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['json_reader', 'bin.plugins', 'extended_sitemap']
+PLUGINS = ['json_reader', 'bin.plugins', 'extended_sitemap', 'bin.aggregations']
 #PLUGINS = ['bin.plugins', 'extended_sitemap']
