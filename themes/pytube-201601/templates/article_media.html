@@ -1,4 +1,4 @@
-{% if article.media_url and 'youtu' in article.media_url %}
+{% if article.media_url and ('youtu' in article.media_url or 'vimeo' in article.media_url) %}
     <div class="videocontainer"><iframe src="{{ article.media_url }}"
             frameborder="0" allowfullscreen></iframe></div>
 {% else %}
