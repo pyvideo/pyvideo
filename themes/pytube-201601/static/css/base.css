@@ -13,6 +13,7 @@ body {
   background: #FAFAFA;
   box-sizing: border-box;
   margin-bottom: 20px;
+  clear: right;
 }
 
 .header nav {
@@ -169,28 +170,6 @@ h1 {
   color: #fd343;
 }
 
-.header__searchbox {
-  text-align: right;
-  padding-top: 35px;
-}
-
-.header__searchbox input {
-  border: none;
-  background: transparent;
-  border-bottom: 2px solid #CCC;
-  color: #CCC;
-}
-
-.header__searchbox input:focus {
-  border-bottom: 2px solid #2B5B84;
-  color: #2B5B84;
-  outline: none;
-}
-
-.header__searchbox button {
-  display: none;
-}
-
 .header__nav a {
   color: #FFFFFF;
   line-height: 20px;
@@ -246,7 +225,31 @@ h1 {
     text-align: center;
   }
 
-  .header__searchbox {
-    padding: 0 0 10px 0;
-  }
+}
+
+/* Google Custom Search Engine - fix here is for conflict with bootstrap */
+.gsc-control-cse .gsc-table-result {
+	font-family : inherit;
+}
+
+.gsc-control-cse .gsc-input-box {
+	height : inherit;
+}
+
+input.gsc-input,
+.gsc-input-box,
+.gsc-input-box-hover,
+.gsc-input-box-focus,
+.gsc-search-button, input.gsc-search-button-v2 {
+	box-sizing  : content-box;
+	line-height : normal;
+	margin-top  : 0px;
+}
+.gsc-control-cse {
+  background: none !important;
+  border: none !important;
+}
+
+.gsc-search-button {
+  display: none;
 }

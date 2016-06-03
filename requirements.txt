@@ -10,6 +10,7 @@ feedgenerator==1.7        # via pelican
 jinja2==2.8               # via pelican
 MarkupSafe==0.23
 pelican==3.6.3
+pelican-extended-sitemap==1.0.2
 pygments==2.1             # via pelican
 python-dateutil==2.4.2    # via pelican
 pytz==2015.7              # via feedgenerator, pelican

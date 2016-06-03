@@ -46,7 +46,7 @@ content:
 	python bin/article_maker.py -d $(DATADIR)
 
 purge:
-	python bin/purge.py
+	python bin/purge.py $(NOPURGE)
 
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)

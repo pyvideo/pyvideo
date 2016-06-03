@@ -2,6 +2,23 @@
 
 {% block head %}
   {{ super() }}
+  <meta property="og:site_name" content="{{ SITENAME }}" />
+  <meta property="og:title" content="{{ article.title }}" />
+  <meta property="og:type" content="video" />
+  <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
+  {% if article.thumbnail_url.startswith("http") %}
+    <meta property="og:image" content="{{ article.thumbnail_url }}" />
+    <meta property="og:image:secure_url" content="{{ article.thumbnail_url.replace("http:", "https:") }}" />
+  {% else %}
+    <meta property="og:image" content="{{ SITEURL }}{{ article.thumbnail_url }}" />
+  {% endif %}
+  {% if article.thumbnail_url and article.thumbnail_url.endswith("pg") %}
+    <meta property="og:image:type" content="image/jpeg" />
+  {% endif %}
+  {% if article.media_url %}
+    <meta property="og:video:url" content="{{ article.media_url }}" />
+  {% endif %}
+
   {% if article.description %}
     <meta name="description" content="{{article.description}}" />
   {% endif %}
