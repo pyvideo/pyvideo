@@ -6,8 +6,8 @@ import os
 AUTHOR = 'Paul Logston'
 SITENAME = 'PyTube.org'
 
-#PATH = 'content'
-PATH = 'pyvideo-data/data'
+PATH = 'content'
+#PATH = 'pyvideo-data/data'
 
 TIMEZONE = 'UTC'
 
@@ -45,16 +45,16 @@ PUBLISHER_URL = (os.environ.get('PUBLISHER_URL') or '').strip()
 PUBLISHER_URL = PUBLISHER_URL or 'https://publisher.pytube.org/publish'
 
 STATIC_PATHS = [
-    '../../content/images',
-    '../../content/extra/robots.txt',
-    '../../content/extra/favicon.ico',
-    '../../content/extra/CNAME',
+    'images',
+    'extra/robots.txt',
+    'extra/favicon.ico',
+    'extra/CNAME',
 ]
 
 EXTRA_PATH_METADATA = {
-    '../../content/extra/CNAME': {'path': 'CNAME'},
-    '../../content/extra/robots.txt': {'path': 'robots.txt'},
-    '../../content/extra/favicon.ico': {'path': 'favicon.ico'}
+    'extra/CNAME': {'path': 'CNAME'},
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/favicon.ico': {'path': 'favicon.ico'}
 }
 
 #import sys

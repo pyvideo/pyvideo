@@ -3,8 +3,8 @@ PELICAN?=pelican
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)
-#INPUTDIR=$(BASEDIR)/content
-INPUTDIR=$(BASEDIR)/pyvideo-data/data
+INPUTDIR=$(BASEDIR)/content
+#INPUTDIR=$(BASEDIR)/pyvideo-data/data
 OUTPUTDIR=$(BASEDIR)/output
 DATADIR=$(BASEDIR)/pyvideo-data/data
 CONFFILE=$(BASEDIR)/pelicanconf.py
@@ -50,7 +50,7 @@ purge:
 	python bin/purge.py $(NOPURGE)
 
 html:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS); cp -r content/* output
+	cp -r $(DATADIR) $(INPUTDIR); $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
