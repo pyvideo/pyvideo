@@ -3,7 +3,8 @@ PELICAN?=pelican
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)
-INPUTDIR=$(BASEDIR)/content
+#INPUTDIR=$(BASEDIR)/content
+INPUTDIR=$(BASEDIR)/pyvideo-data/data
 OUTPUTDIR=$(BASEDIR)/output
 DATADIR=$(BASEDIR)/pyvideo-data/data
 CONFFILE=$(BASEDIR)/pelicanconf.py

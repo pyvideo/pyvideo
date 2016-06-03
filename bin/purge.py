@@ -11,7 +11,7 @@ def purge_content():
     contents = os.listdir(CONTENT_DIR)
 
     dirs_to_keep = CONTENT_DIR_KEEP.copy()
-    if sys.argv[1].strip():
+    if len(sys.argv) > 1 and sys.argv[1].strip():
         dirs = (dir_.strip() for dir_ in sys.argv[1].strip().split(','))
         dirs_to_keep.update(dirs)
     for dir_ in contents:

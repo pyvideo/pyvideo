@@ -6,7 +6,8 @@ import os
 AUTHOR = 'Paul Logston'
 SITENAME = 'PyTube.org'
 
-PATH = 'content'
+#PATH = 'content'
+PATH = 'pyvideo-data/data'
 
 TIMEZONE = 'UTC'
 
@@ -44,17 +45,21 @@ PUBLISHER_URL = (os.environ.get('PUBLISHER_URL') or '').strip()
 PUBLISHER_URL = PUBLISHER_URL or 'https://publisher.pytube.org/publish'
 
 STATIC_PATHS = [
-    'images',
-    'extra/robots.txt',
-    'extra/favicon.ico',
-    'extra/CNAME',
+    '../../content/images',
+    '../../content/extra/robots.txt',
+    '../../content/extra/favicon.ico',
+    '../../content/extra/CNAME',
 ]
 
 EXTRA_PATH_METADATA = {
-    'extra/CNAME': {'path': 'CNAME'},
-    'extra/robots.txt': {'path': 'robots.txt'},
-    'extra/favicon.ico': {'path': 'favicon.ico'}
+    '../../content/extra/CNAME': {'path': 'CNAME'},
+    '../../content/extra/robots.txt': {'path': 'robots.txt'},
+    '../../content/extra/favicon.ico': {'path': 'favicon.ico'}
 }
 
-
-PLUGINS = ['bin.plugins', 'extended_sitemap']
+#import sys
+#sys.path.append(os.path.abspath("."))
+#from plugins import json_reader
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['json_reader', 'bin.plugins', 'extended_sitemap']
+#PLUGINS = ['bin.plugins', 'extended_sitemap']
