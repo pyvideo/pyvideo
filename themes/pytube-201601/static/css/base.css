@@ -130,20 +130,41 @@ h1 {
   margin-top: 0;
 }
 
-/* speaker list styles */
-.listNav {
-  padding: 5px 0px;
-}
-
-#speaker-list li {
-  width: 33%;
-  float: left;
-}
-
 .container {
   margin: auto;
 }
 
+/* list styles (speakers, events, tags) */
+.listNav {
+  padding: 5px 0;
+  margin-bottom: 5px;
+}
+
+.ln-letters a {
+  display: inline-block;
+  width: calc(100% / 28);
+}
+
+@media screen and (max-width: 768px) {
+  .ln-letters a {
+    width: calc(100% / 14);
+  }
+  .ln-letters a:nth-child(-n+14) {
+    border-bottom: none;
+  }
+
+}
+
+#element-list li {
+  float: left;
+  margin-bottom: 3px;
+}
+
+#element-list li .badge {
+  background-color: #ffd343;
+  color: #2b5b84;
+  float: right;
+}
 
 .header__title,
 .header__searchbox {

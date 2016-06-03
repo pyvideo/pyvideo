@@ -1,4 +1,4 @@
-{% extends "base.html" %}
+{% extends "list_filterable.html" %}
 
 {% block subtitle %} &middot; Events{% endblock %}
 
@@ -6,12 +6,14 @@
 
 <h2>All Events</h2>
 
-<ul>
-  {% for category, articles in categories %}
-    <li>
-      <a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<div class="row">
+    <ul id="element-list">
+      {% for category, articles in categories %}
+        <li class="col-md-4 col-xs-6">
+          <a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a> <span class="badge">{{ articles|length }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+</div>
 
 {% endblock %}
