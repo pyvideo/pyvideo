@@ -73,6 +73,7 @@ div.row ul li {
 div.row ul li img {
   padding-right: 10px;
   width: 200px;
+  min-height: 100px;
 }
 
 article img {
@@ -87,10 +88,6 @@ div.entry-content img {
 article.list_item div {
   display: inline-block;
   max-width: 450px;
-}
-
-article.list_item div.thumb {
-    background: url('/theme/images/loading.gif') 50% no-repeat;
 }
 
 /* index.html styles */

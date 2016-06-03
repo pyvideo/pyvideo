@@ -1,11 +1,11 @@
-var $thumbs = $('article.list_item div.thumb a img');
-$.each($thumbs, function(index, image) {
-    var $image = $(image);
-    var $downloadingImage = $("img");
-    $downloadingImage.load(function(){
-        console.log($(this).attr("src"));
-        $image.attr("src", $(this).attr("src"));
-    });
-    $downloadingImage.attr("src", $image.attr('data-src'));
-});
+var thumbs = $('article.list_item div.thumb a img');
+$.each(thumbs, function(index, image) {
+    // Add the spinner icon
+    $( image ).css("background", "url('/theme/images/loading.gif') 50% no-repeat");
 
+    // Handle error of image download
+    $(image).error(function() {
+        $( this ).attr( "src", "/images/default_thumbnail_url.png" );
+        $( this ).css("background", "none");
+    });
+});
