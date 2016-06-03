@@ -1,5 +1,9 @@
 #! /bin/bash
 
+echo "start";
+echo ${TRAVIS_PULL_REQUEST};
+echo "End";
+
 if [[ "${TRAVIS_PULL_REQUEST}" == "false" ]]; then
     # Set correct permissions on deploy key
     chmod 600 .ssh/travis
