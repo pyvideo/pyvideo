@@ -31,6 +31,11 @@ YEAR_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/{date:%b}/index.html'
 CATEGORIES_SAVE_AS = 'events.html'
 
+# Feeds
+FEED_RSS = 'rss.xml'
+CATEGORY_FEED_RSS = 'events/%s/rss.xml'
+AUTHOR_FEED_RSS = 'author/%s/rss.xml'
+
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
