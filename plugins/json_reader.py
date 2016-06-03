@@ -24,10 +24,17 @@ def _get_youtube_url(url):
 
     return 'https://www.youtube.com/embed/{}'.format(video_id)
 
+def _get_vimeo_url(url):
+    o = urlparse(url)
+    video_id = o.path.replace('/', '')
+    return 'https://player.vimeo.com/video/{}'.format(video_id)
+
 def _get_media_url(json_data):
-    source_url = _get_and_check_none(json_data, "source_url", "")
-    if "youtu" in source_url:
+    source_url = _get_and_check_none(json_data, 'source_url', '')
+    if 'youtu' in source_url:
         source_url = _get_youtube_url(source_url)
+    elif 'vimeo' in source_url:
+        source_url = _get_vimeo_url(source_url)
     return source_url
 
 # Create a new reader class, inheriting from the pelican.reader.BaseReader
