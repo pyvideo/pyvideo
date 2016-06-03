@@ -1,6 +1,7 @@
 #! /bin/bash
 
 if [[ "${TRAVIS_PULL_REQUEST}" == "false" ]]; then
+    echo "Building and deploying";
     # Set correct permissions on deploy key
     chmod 600 .ssh/travis
     # Set global configs for author of repo
@@ -12,6 +13,7 @@ if [[ "${TRAVIS_PULL_REQUEST}" == "false" ]]; then
     export DEPLOY_KEY=../.ssh/travis
     make content && make deploy
 else
+    echo "Building PR ${TRAVIS_PULL_REQUEST}";
     make content && make html
 fi
 
