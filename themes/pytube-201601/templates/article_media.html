@@ -1,10 +1,21 @@
-{% if article.media_url and ('youtu' in article.media_url or 'vimeo' in article.media_url) %}
-    <div class="videocontainer"><iframe src="{{ article.media_url }}"
-            frameborder="0" allowfullscreen></iframe></div>
-{% else %}
+{% for video in article.videos %}
+    <p>{{ video }}<br>type: {{ video.type }}<br>media url: {{ video.media_url }}</p>
+
+    {% if video.tag_type == 'iframe' %}
+    <div class="videocontainer">
+        <iframe src="{{ video.media_url }}" frameborder="0" allowfullscreen></iframe>
+    </div>
+    {% elif video.tag_type == 'html5' %}
+    <div class="videocontainer">
+        <video controls>
+            <source src="{{ video.media_url }}" type="video/{{ video.type }}">
+        </video>
+    </div>
+    {% else %}
     <a class="reference external image-reference"
-       href="{{ article.media_url }}">
-        <img alt="{{ article.title }}"
+       href="{{ video.media_url }}">
+        <img alt="{{ video.title }}"
              src="{{ article.thumbnail_url }}">
     </a>
-{% endif %}
+    {% endif %}
+{% endfor %}
