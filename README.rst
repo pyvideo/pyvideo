@@ -72,7 +72,7 @@ Want to help?
 =============
 
 We'd love the help! All feature ideas and bugs-to-be-fixed are listed in the
-`issues <issue_>`_ associated with this repo. Please check there for ideas on
+`issues <https://github.com/pytube/pytube/issues>`_ associated with this repo. Please check there for ideas on
 how to contribute. Thanks!
 
 If you want to contribute new media, please check the `pyvideo-data`_ project
