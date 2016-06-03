@@ -33,6 +33,8 @@ MONTH_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/{date:%b}/index.html'
 CATEGORIES_SAVE_AS = 'events.html'
 AUTHORS_SAVE_AS = 'speakers.html'
 
+USE_FOLDER_AS_CATEGORY = False
+
 # Feeds
 FEED_RSS = 'rss.xml'
 CATEGORY_FEED_RSS = 'events/%s/rss.xml'
