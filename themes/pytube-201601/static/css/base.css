@@ -7,6 +7,10 @@ body {
   padding-bottom: 20px;
 }
 
+a {
+  color: #2B5B84;
+}
+
 /* Custom page header */
 .header {
   width: 100%;
@@ -166,8 +170,8 @@ h1 {
 
 .header__title i {
   font-weight: bold;
-  text-style: italic;
-  color: #fd343;
+  font-style: italic;
+  color: #ffd343;
 }
 
 .header__nav a {
