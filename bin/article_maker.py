@@ -1,3 +1,9 @@
+"""
+NOTE: This file is no longer being used to generate the website.
+      However, it is possible that not all logic has been ported over,
+      so we will keep it around for now as a reference.
+"""
+
 import argparse
 from collections import defaultdict
 from datetime import datetime
@@ -16,7 +22,6 @@ from pelican import DEFAULT_CONFIG_NAME
 from pelican.readers import RstReader, PelicanHTMLTranslator
 from pelican.settings import read_settings
 from pelican.utils import slugify
-
 
 CONTENT_DIR = 'content'
 CONTENT_DIR_KEEP = set(('pages', 'images', 'extra'))

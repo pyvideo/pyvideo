@@ -4,6 +4,7 @@ PELICANOPTS=
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
+#INPUTDIR=$(BASEDIR)/pyvideo-data/data
 OUTPUTDIR=$(BASEDIR)/output
 DATADIR=$(BASEDIR)/pyvideo-data/data
 CONFFILE=$(BASEDIR)/pelicanconf.py
@@ -25,7 +26,6 @@ help:
 	@echo 'Makefile for a pelican Web site                                           '
 	@echo '                                                                          '
 	@echo 'Usage:                                                                    '
-	@echo '   make content                        (re)generate article source        '
 	@echo '   make purge                          purge all non-essential content    '
 	@echo '   make html                           (re)generate the web site          '
 	@echo '   make clean                          remove the generated files         '
@@ -42,14 +42,11 @@ help:
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
 	@echo '                                                                          '
 
-content:
-	python bin/article_maker.py -d $(DATADIR)
-
 purge:
 	python bin/purge.py $(NOPURGE)
 
 html:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	cp -r $(DATADIR) $(INPUTDIR); $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
@@ -95,5 +92,5 @@ production_push:
 
 deploy: publish production_push
 
-.PHONY: html help clean content purge deploy production_push regenerate serve serve-global devserver publish github
+.PHONY: html help clean purge deploy production_push regenerate serve serve-global devserver publish github
 

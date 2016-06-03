@@ -7,6 +7,7 @@ AUTHOR = 'Paul Logston'
 SITENAME = 'PyTube.org'
 
 PATH = 'content'
+#PATH = 'pyvideo-data/data'
 
 TIMEZONE = 'UTC'
 
@@ -56,5 +57,9 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'}
 }
 
-
-PLUGINS = ['bin.plugins', 'extended_sitemap']
+#import sys
+#sys.path.append(os.path.abspath("."))
+#from plugins import json_reader
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['json_reader', 'bin.plugins', 'extended_sitemap']
+#PLUGINS = ['bin.plugins', 'extended_sitemap']
