@@ -94,7 +94,7 @@ class JSONReader(BaseReader):
         videos = list()
         iframe_types = ["youtube", "vimeo"]
         html5_types = ["ogv", "mp4"]
-        if 'videos' in json_data and isinstance(json_data['videos'], list):
+        if 'videos' in json_data and isinstance(json_data['videos'], list) and len(json_data['videos']) > 0:
             for v in json_data['videos']:
                 v_data = dict()
                 v_data["type"] = v["type"]
@@ -105,6 +105,21 @@ class JSONReader(BaseReader):
                     v_data["tag_type"] = "html5"
 
                 videos.append(v_data)
+        else:
+            # Handle data which doesn't have the videos list
+            v_data = dict()
+            v_data["media_url"] = _get_media_url(_get_and_check_none(json_data, 'source_url', ''))
+            if "youtube" in v_data["media_url"]:
+                v_data["type"] = "youtube"
+                v_data["tag_type"] = "iframe"
+            elif "vimeo" in v_data["media_url"]:
+                v_data["type"] = "vimeo"
+                v_data["tag_type"] = "iframe"
+            elif v_data["media_url"].endswith(".mp4"):
+                v_data["type"] = "mp4"
+                v_data["tag_type"] = "html5"
+
+            videos.append(v_data)
 
         metadata = {'title': _get_and_check_none(json_data, 'title', 'Title'),
                     'category': _get_and_check_none(json_data, 'category',
@@ -119,9 +134,11 @@ class JSONReader(BaseReader):
                     'language': _get_and_check_none(json_data, 'language', ''),
         }
 
+        # Send metadata through pelican parser to check pelican required formats
         parsed = {}
         for key, value in metadata.items():
             parsed[key] = self.process_metadata(key, value)
+        metadata = parsed
 
         content = []
         for part in ['summary', 'description']:
@@ -140,7 +157,6 @@ class JSONReader(BaseReader):
                     content.append('<pre>{}</pre>'.format(json_part))
 
         return "".join(content), parsed
-
 
 def register():
     def add_reader(readers):

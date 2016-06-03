@@ -1,21 +1,34 @@
-{% for video in article.videos %}
-    <p>{{ video }}<br>type: {{ video.type }}<br>media url: {{ video.media_url }}</p>
+{% set classname = "active" %}
 
-    {% if video.tag_type == 'iframe' %}
-    <div class="videocontainer">
-        <iframe src="{{ video.media_url }}" frameborder="0" allowfullscreen></iframe>
-    </div>
-    {% elif video.tag_type == 'html5' %}
-    <div class="videocontainer">
-        <video controls>
-            <source src="{{ video.media_url }}" type="video/{{ video.type }}">
-        </video>
-    </div>
-    {% else %}
-    <a class="reference external image-reference"
-       href="{{ video.media_url }}">
-        <img alt="{{ video.title }}"
-             src="{{ article.thumbnail_url }}">
-    </a>
-    {% endif %}
+<ul class="nav nav-tabs" role="tablist">
+{% for video in article.videos %}
+    <li class="{{ classname }}" role="presentation"><a href="#{{ video.type }}" aria-controls="{{ video.type }}" role="tab" data-toggle="tab">{{ video.type }}</a></li>
+    {% set classname = "" %}
 {% endfor %}
+</ul>
+
+{% set classname = "active" %}
+<div class="tab-content">
+{% for video in article.videos %}
+    <div role="tabpanel" class="tab-pane {{ classname }}" id="{{ video.type }}">
+        {% if video.tag_type == 'iframe' %}
+        <div class="embed-responsive embed-responsive-16by9 videocontainer">
+            <iframe class="embed-responsive-item" src="{{ video.media_url }}" frameborder="0" allowfullscreen></iframe>
+        </div>
+        {% elif video.tag_type == 'html5' %}
+        <div class="embed-responsive embed-responsive-16by9 videocontainer">
+            <video class="embed-responsive-item" controls>
+                <source src="{{ video.media_url }}" type="video/{{ video.type }}">
+            </video>
+        </div>
+        {% else %}
+        <a class="reference external image-reference"
+           href="{{ video.media_url }}">
+            <img alt="{{ video.title }}"
+                 src="{{ article.thumbnail_url }}">
+        </a>
+        {% endif %}
+    </div>
+    {% set classname = "" %}
+{% endfor %}
+</div>
