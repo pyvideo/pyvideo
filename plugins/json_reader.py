@@ -1,12 +1,33 @@
 from pelican import signals
 from pelican.readers import BaseReader
 import json
+from urllib.parse import urlparse
 
 def _get_and_check_none(my_dict, key, default=None):
     if key not in my_dict or my_dict[key] == None:
         return default
     else:
         return my_dict[key]
+
+def _get_youtube_url(url):
+    video_id = ''
+    o = urlparse(url)
+    if '/watch?v=' in url:
+        query_pairs = o.query.split('&')
+        pairs = (pair.split('=') for pair in query_pairs if '=' in pair)
+        video_id = dict(pairs).get('v')
+    elif '/v/' in url:
+        video_id = o.path.replace('/v/', '')
+    elif 'youtu.be/' in url:
+        video_id = o.path
+
+    return 'https://www.youtube.com/embed/{}'.format(video_id)
+
+def _get_media_url(json_data):
+    source_url = _get_and_check_none(json_data, "source_url", "")
+    if "youtu" in source_url:
+        source_url = _get_youtube_url(source_url)
+    return source_url
 
 # Create a new reader class, inheriting from the pelican.reader.BaseReader
 class JSONReader(BaseReader):
@@ -30,7 +51,7 @@ class JSONReader(BaseReader):
                     'slug': _get_and_check_none(json_data, 'slug', 'Slug'),
                     'authors': _get_and_check_none(json_data, 'speakers', []),
                     'videos': _get_and_check_none(json_data, 'videos', []),
-                    'media_url': _get_and_check_none(json_data, 'source_url', ''),
+                    'media_url': _get_media_url(json_data),
                     'thumbnail_url': _get_and_check_none(json_data, 'thumbnail_url', ''),
                     'language': _get_and_check_none(json_data, 'language', ''),
         }
