@@ -19,6 +19,9 @@
             datetime="{{ article.date.isoformat() }}">
         <i class="fa fa-calendar"></i> {{ article.locale_date }}
       </time>
+      <nav class="conference">
+        From <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+      </nav>
       <address class="vcard author">
         By
         {% for author in article.authors %}
