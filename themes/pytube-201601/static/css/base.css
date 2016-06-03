@@ -73,6 +73,7 @@ div.row ul li {
 div.row ul li img {
   padding-right: 10px;
   width: 200px;
+  min-height: 100px;
 }
 
 article img {
