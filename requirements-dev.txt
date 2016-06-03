@@ -1,2 +1,0 @@
--r requirements.txt
-pip-tools==1.6.3

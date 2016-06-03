@@ -20,7 +20,7 @@
     $.fn.listnav = function (options) {
 
         var opts = $.extend({}, $.fn.listnav.defaults, options),
-            letters = ['_', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '-'],
+            letters = ['_', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'other'],
             firstClick = false,
             //detect if you are on a touch device easily.
             clickEventType=((document.ontouchstart!==null)?'click':'touchend');
@@ -228,7 +228,7 @@
 
                 if ( /\W/.test(firstChar) ) {
 
-                    firstChar = '-'; // not A-Z, a-z or 0-9, so considered "other"
+                    firstChar = 'other'; // not A-Z, a-z or 0-9, so considered "other"
 
                 }
 
@@ -403,7 +403,7 @@
                     if (html.length === 0) {
                         html.push('<a class="all" href="#">'+ opts.allText + '</a><a class="_" href="#">0-9</a>');
                     }
-                    html.push('<a class="' + letters[i] + '" href="#">' + ((letters[i] === '-') ? '...' : letters[i].toUpperCase()) + '</a>');
+                    html.push('<a class="' + letters[i] + '" href="#">' + ((letters[i] === 'other') ? '...' : letters[i].toUpperCase()) + '</a>');
                 }
                 return '<div class="ln-letters">' + html.join('') + '</div>' + ((opts.showCounts) ? '<div class="ln-letter-count listNavHide">0</div>' : '');
                 // Remove inline styles, replace with css class

@@ -47,7 +47,7 @@ into either using virtualenvwrapper::
 
 From the root of the repo, run the following command::
 
-  $ pip install -r requirements-dev.txt
+  $ pip install -r requirements/dev.txt
 
 Next, create the content directory. This is the directory that contains the reST
 files that Pelican will render into the HTML site. From the root of the repo,
@@ -67,6 +67,15 @@ To view the site, run the following command::
 This will start development server on port 8000. Goto browser and open
 http://localhost:8000 to view your local version of pytube.org!
 
+Accessibility tests
+===================
+
+There are automated tests to ensure that none of the pages have significant
+accessibility problems; to run them:
+
+1. Download `chromedriver <https://sites.google.com/a/chromium.org/chromedriver/downloads>`_
+   and add it to your PATH environment variable.
+2. Run ``tox``
 
 Want to help?
 =============
