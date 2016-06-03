@@ -54,12 +54,6 @@ From the root of the repo, run the following command::
 
   $ pip install -r requirements/dev.txt
 
-Next, create the content directory. This is the directory that contains the reST
-files that Pelican will render into the HTML site. From the root of the repo,
-run the following command::
-
-  $ make content
-
 Finally, you'll be able to generate the HTML site. From the root of the repo,
 run the following command::
 
