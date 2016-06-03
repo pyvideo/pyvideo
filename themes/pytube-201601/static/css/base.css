@@ -1,26 +1,23 @@
+/**
+ * blue: #2B5B84
+ */
 /* Space out content a bit */
 body {
-  padding-top: 20px;
+  padding-top: 0;
   padding-bottom: 20px;
-}
-
-/* Everything gets side spacing for mobile first views */
-.header,
-.footer {
-  padding-right: 15px;
-  padding-left: 15px;
 }
 
 /* Custom page header */
 .header {
-  padding-bottom: 20px;
-  border-bottom: 1px solid #e5e5e5;
+  width: 100%;
+  background: #FAFAFA;
+  box-sizing: border-box;
+  margin-bottom: 20px;
 }
-/* Make the masthead heading the same height as the navigation */
-.header h3 {
-  margin-top: 0;
-  margin-bottom: 0;
-  line-height: 40px;
+
+.header nav {
+  background: #2B5B84;
+  background: linear-gradient(to bottom, #2b5b84 0%,#2A677F 100%);
 }
 
 /* Custom page footer */
@@ -42,12 +39,6 @@ body {
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
-  /* Remove the padding we set earlier */
-  .header,
-  .footer {
-    padding-right: 0;
-    padding-left: 0;
-  }
   /* Space out the masthead */
   .header {
     margin-bottom: 30px;
@@ -128,13 +119,134 @@ div.index-content section.details {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+h1 {
+  margin-top: 0;
+}
 
 /* speaker list styles */
 .listNav {
-    padding: 5px 0px;
+  padding: 5px 0px;
 }
 
 #speaker-list li {
-    width: 33%;
-    float: left;
+  width: 33%;
+  float: left;
+}
+
+.container {
+  margin: auto;
+}
+
+
+.header__title,
+.header__searchbox {
+  width: 50%;
+  float: left;
+  padding: 20px 0;
+}
+
+.header__title {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 50px;
+  font-size: 40px;
+}
+
+.header__title a:hover {
+  text-decoration: none;
+}
+
+.header__title span {
+  font-weight: normal;
+  text-transform: lowercase;
+}
+
+.header__title i {
+  font-weight: bold;
+  text-style: italic;
+  color: #fd343;
+}
+
+.header__searchbox {
+  text-align: right;
+  padding-top: 35px;
+}
+
+.header__searchbox input {
+  border: none;
+  background: transparent;
+  border-bottom: 2px solid #CCC;
+  color: #CCC;
+}
+
+.header__searchbox input:focus {
+  border-bottom: 2px solid #2B5B84;
+  color: #2B5B84;
+  outline: none;
+}
+
+.header__searchbox button {
+  display: none;
+}
+
+.header__nav a {
+  color: #FFFFFF;
+  line-height: 20px;
+  text-align: center;
+}
+
+.header__nav a:hover {
+  background: #81A7C7 !important;
+}
+
+.header__nav li {
+  border-top: 5px solid #2B5B84;
+  border-radius: 5px 5px 0 0;
+  float: left;
+  width: 20%;
+  box-sizing: border-box;
+}
+
+.header__nav li.active a {
+  color: #2B5B84;
+}
+
+.header__nav li.active {
+  background: #FAFAFA;
+}
+
+.header__nav ul {
+  width: 100%;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 767px) {
+  .header__nav a {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  .header__nav span {
+    display: block;
+  }
+  body > container {
+    padding: 0 10px;
+  }
+  nav ul.container {
+    padding: 0;
+  }
+  .github {
+    display: none;
+  }
+
+  .header__title,
+  .header__searchbox {
+    width: 100%;
+    text-align: center;
+  }
+
+  .header__searchbox {
+    padding: 0 0 10px 0;
+  }
 }

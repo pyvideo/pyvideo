@@ -25,7 +25,7 @@
 
   <footer class="post-info">
     <time class="published" datetime="{{ article.date.isoformat() }}">
-      {{ article.locale_date }}
+      <i class="fa fa-calendar"></i> {{ article.locale_date }}
     </time>
     {% if article.authors %}
     <address class="vcard author">
@@ -55,7 +55,7 @@
 </button>
 
 <!-- Modal -->
-<div class="modal fade" id="publishModal" tabindex="-1" role="dialog" 
+<div class="modal fade" id="publishModal" tabindex="-1" role="dialog"
      aria-labelledby="publishModalLabel">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
@@ -75,7 +75,7 @@
         </p>
 
         <p>
-          Please note that the publishing process is not immediate and 
+          Please note that the publishing process is not immediate and
           can take several minutes.
         </p>
 
@@ -112,4 +112,3 @@
     <script src="/theme/js/publish.js"></script>
   {% endblock %}
 {% endif %}
-
