@@ -1,33 +1,44 @@
-from pelican import signals
-from pelican.readers import BaseReader
 import json
+import logging
 from urllib.parse import urlparse
-from docutils.core import publish_parts
 
-def _get_and_check_none(my_dict, key, default=None):
-    if key not in my_dict or my_dict[key] == None:
+import docutils
+import docutils.io
+from docutils.core import publish_parts
+from pelican import signals
+from pelican.readers import BaseReader, PelicanHTMLTranslator
+
+
+log = logging.getLogger(__name__)
+
+
+def _get_and_check_none(target, key, default=None):
+    value = target.get(key)
+    if value is None:
         return default
-    else:
-        return my_dict[key]
+    return value
+
 
 def _get_youtube_url(url):
     video_id = ''
-    o = urlparse(url)
+    url_parsed = urlparse(url)
     if '/watch?v=' in url:
-        query_pairs = o.query.split('&')
+        query_pairs = url_parsed.query.split('&')
         pairs = (pair.split('=') for pair in query_pairs if '=' in pair)
         video_id = dict(pairs).get('v')
     elif '/v/' in url:
-        video_id = o.path.replace('/v/', '')
+        video_id = url_parsed.path.replace('/v/', '')
     elif 'youtu.be/' in url:
-        video_id = o.path
+        video_id = url_parsed.path
 
     return 'https://www.youtube.com/embed/{}'.format(video_id)
+
 
 def _get_vimeo_url(url):
     o = urlparse(url)
     video_id = o.path.replace('/', '')
     return 'https://player.vimeo.com/video/{}'.format(video_id)
+
 
 def _get_media_url(json_data):
     source_url = _get_and_check_none(json_data, 'source_url', '')
@@ -37,19 +48,40 @@ def _get_media_url(json_data):
         source_url = _get_vimeo_url(source_url)
     return source_url
 
-# Create a new reader class, inheriting from the pelican.reader.BaseReader
+
 class JSONReader(BaseReader):
-    enabled = True  # Yeah, you probably want that :-)
+    enabled = True
 
     # The list of file extensions you want this reader to match with.
     # If multiple readers were to use the same extension, the latest will
     # win (so the one you're defining here, most probably).
     file_extensions = ['json']
 
+    def _get_publisher(self, source, source_file_path):
+        # This is a slightly modified copy of `RstReader._get_publisher`
+        extra_params = {'initial_header_level': '2',
+                        'syntax_highlight': 'short',
+                        'input_encoding': 'utf-8',
+                        'exit_status_level': 2,
+                        'embed_stylesheet': False}
+        user_params = self.settings.get('DOCUTILS_SETTINGS')
+        if user_params:
+            extra_params.update(user_params)
+
+        pub = docutils.core.Publisher(
+            source_class=docutils.io.StringInput,
+            destination_class=docutils.io.StringOutput)
+        pub.set_components('standalone', 'restructuredtext', 'html')
+        pub.writer.translator_class = PelicanHTMLTranslator
+        pub.process_programmatic_settings(None, extra_params, None)
+        pub.set_source(source=source, source_path=source_file_path)
+        pub.publish(enable_exit_status=True)
+        return pub
+
     # You need to have a read method, which takes a filename and returns
     # some content and the associated metadata.
     def read(self, filename):
-        with open(filename, 'r') as f:
+        with open(filename, 'rt', encoding='UTF-8') as f:
             json_data = json.loads(f.read())
 
         metadata = {'title': _get_and_check_none(json_data, 'title', 'Title'),
@@ -68,23 +100,27 @@ class JSONReader(BaseReader):
         for key, value in metadata.items():
             parsed[key] = self.process_metadata(key, value)
 
-        content = '<h1>Summary</h1>'
-        if 'summary' in json_data:
-            try:
-                content += publish_parts(json_data['summary'], writer_name='html')['html_body']
-            except:
-                content += '<p>{}</p>'.format(json_data['summary'])
-        if 'description' in json_data:
-            try:
-                content += publish_parts(json_data['description'], writer_name='html')['html_body']
-            except:
-                content += '<p>{}</p>'.format(json_data['description'])
+        content = []
+        for part in ['summary', 'description']:
+            content.append('<h1>{}</h1>'.format(part.title()))
+            json_part = json_data.get(part)
+            if json_part:
+                try:
+                    publisher = self._get_publisher(json_part, filename)
+                    content.append(publisher.writer.parts.get('body'))
+                except SystemExit:
+                    log.warn(
+                        "Invalid ReST markup in %s['%s']. Rendering as plain text.",
+                        filename.replace(self.settings.get('PATH'), "").strip("/"),
+                        part
+                    )
+                    content.append('<pre>{}</pre>'.format(json_part))
 
-        return content, parsed
+        return "".join(content), parsed
 
-def add_reader(readers):
-    readers.reader_classes['json'] = JSONReader
 
-# This is how pelican works.
 def register():
+    def add_reader(readers):
+        readers.reader_classes['json'] = JSONReader
+
     signals.readers_init.connect(add_reader)
