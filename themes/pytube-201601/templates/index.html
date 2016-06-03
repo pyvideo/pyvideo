@@ -3,18 +3,9 @@
 {% block content %}
   <div class="index-content">
     <div class="row">
-      <div class="col-lg-12">
-        <div class="alert alert-info" role="alert">
-          UPDATE: This site is still in its beginning stages of life.
-          Development is currently paused as pyvideo-data (the data that is
-          used to generate this site) is converted from markdown to reST.
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-12">
-        <h3>Latest Talks</h3>
-        {% for article in articles_page.object_list %}
+      <div class="col-lg-6">
+        <h3>Latest talks</h3>
+        {% for article in articles_page.object_list[:3] %}
           <article>
             <a href="{{ SITEURL }}/{{ article.url }}">
               <img src="{{ article.thumbnail_url }}" />
@@ -48,6 +39,31 @@
           </article>
         {% endfor %}
       </div>
+
+      <div class="col-lg-6"><aside>
+        <p class="info info--stats">Want to find Python related videos? So far
+        we have indexed <strong>{{ articles|length }}</strong> of
+        those from <strong>{{ categories|length }} events</strong> all over the
+        world!</p>
+        <section>
+            <h3>Latest events</h3>
+            <ul>
+            {% for category in latest_categories[:5] %}
+                <li><a href="{{ SITEURL }}/events/{{ category.slug }}.html">{{ category.name }}</a> <span class="badge">{{ category.count }}</span></li>
+            {% endfor %}
+            </ul>
+            <p><a href="{{ SITE_URL }}/events.html">See all events...</a></p>
+        </section>
+        <section>
+            <h3>Most active speakers</h3>
+            <ul>
+            {% for speaker in active_speakers[:5] %}
+                <li><a href="{{ SITEURL }}/author/{{ speaker.slug }}.html">{{ speaker.name }}</a> <span class="badge">{{ speaker.count }}</span></li>
+            {% endfor %}
+            </ul>
+            <p><a href="{{ SITE_URL }}/authors.html">See all speakers...</a></p>
+        </section>
+      </aside></div>
     </div>
   </div>
 {% endblock content %}

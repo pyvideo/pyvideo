@@ -91,6 +91,11 @@ article.list_item div {
   max-width: 450px;
 }
 
+.index-content article {
+    margin-bottom: 40px;
+}
+
+
 div.index-content h3 {
   margin-top: 0px;
   margin-bottom: 20px;
@@ -98,12 +103,15 @@ div.index-content h3 {
 
 div.index-content img {
   border-radius: 10px;
-  margin-bottom: 20px;
   border: 1px solid #e0e0e0;
 }
 
 div.index-content section.details {
   text-align: left;
+}
+
+.index-content aside section {
+    margin-top: 40px;
 }
 
 /* Responsive video iframe based on
@@ -158,9 +166,12 @@ h1 {
   margin-bottom: 3px;
 }
 
-#element-list li .badge {
+.badge {
   background-color: #ffd343;
   color: #2b5b84;
+}
+
+#element-list li .badge {
   float: right;
 }
 
@@ -276,4 +287,7 @@ input.gsc-input,
 
 .gsc-search-button {
   display: none;
+}
+
+.info--stats {
 }
