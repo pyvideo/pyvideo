@@ -91,11 +91,6 @@ article.list_item div {
   max-width: 450px;
 }
 
-/* index.html styles */
-div.index-content {
-  max-width: 480px
-}
-
 div.index-content h3 {
   margin-top: 0px;
   margin-bottom: 20px;
@@ -273,9 +268,10 @@ input.gsc-input,
 	line-height : normal;
 	margin-top  : 0px;
 }
-.gsc-control-cse {
+.header__searchbox .gsc-control-cse {
   background: none !important;
   border: none !important;
+  padding: 1em 0;
 }
 
 .gsc-search-button {
