@@ -71,13 +71,14 @@ div.row ul li {
 }
 
 div.row ul li img {
-  padding-right: 10px;
+  margin-right: 10px;
   width: 200px;
 }
 
 article img {
   border-radius: 20px;
   max-width: 100%;
+  border: 1px solid #e0e0e0;
 }
 
 div.entry-content img {
@@ -102,6 +103,7 @@ div.index-content h3 {
 div.index-content img {
   border-radius: 10px;
   margin-bottom: 20px;
+  border: 1px solid #e0e0e0;
 }
 
 div.index-content section.details {
