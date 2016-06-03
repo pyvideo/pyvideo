@@ -74,8 +74,8 @@
           <a href="{{ SITEURL }}/tags.html"><i class="fa fa-fw fa-tags"></i> <span>Tags</span></a>
         </li>
 
-        <li role="presentation"{% if output_file == "authors.html" or output_file.startswith("author/") %} class="active"{% endif %}>
-          <a href="{{ SITEURL }}/authors.html"><i class="fa fa-fw fa-users"></i> <span>Speakers</span></a>
+        <li role="presentation"{% if output_file == "speakers.html" or output_file.startswith("speaker/") %} class="active"{% endif %}>
+          <a href="{{ SITEURL }}/speakers.html"><i class="fa fa-fw fa-users"></i> <span>Speakers</span></a>
         </li>
 
         {% for p in pages %}

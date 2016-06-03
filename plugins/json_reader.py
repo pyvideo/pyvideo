@@ -85,7 +85,8 @@ class JSONReader(BaseReader):
             json_data = json.loads(f.read())
 
         metadata = {'title': _get_and_check_none(json_data, 'title', 'Title'),
-                    'category': _get_and_check_none(json_data, 'category', 'Default'),
+                    'category': _get_and_check_none(json_data, 'category',
+                                                    self.settings['DEFAULT_CATEGORY']),
                     'tags': _get_and_check_none(json_data, 'tags', []),
                     'date': _get_and_check_none(json_data, 'recorded', '1990-01-01'),
                     'slug': _get_and_check_none(json_data, 'slug', 'Slug'),

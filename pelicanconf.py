@@ -15,6 +15,9 @@ DEFAULT_LANG = 'en'
 
 DEFAULT_PAGINATION = 10
 
+DEFAULT_CATEGORY = "Undefined"
+
+AUTHOR_URL = AUTHOR_SAVE_AS = 'speaker/{slug}.html'
 ARTICLE_URL = ARTICLE_SAVE_AS = '{category}/{slug}.html'
 ARTICLE_LANG_URL = ARTICLE_LANG_SAVE_AS = '{category}/{slug}-{lang}.html'
 DRAFT_URL = DRAFT_SAVE_AS = 'drafts/{category}/{slug}.html'
@@ -30,6 +33,9 @@ TAG_SAVE_AS = 'tag/{slug}/index.html'
 YEAR_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/{date:%b}/index.html'
 CATEGORIES_SAVE_AS = 'events.html'
+AUTHORS_SAVE_AS = 'speakers.html'
+
+USE_FOLDER_AS_CATEGORY = False
 
 # Feeds
 FEED_RSS = 'rss.xml'
