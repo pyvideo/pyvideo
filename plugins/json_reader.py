@@ -2,6 +2,7 @@ from pelican import signals
 from pelican.readers import BaseReader
 import json
 from urllib.parse import urlparse
+from docutils.core import publish_parts
 
 def _get_and_check_none(my_dict, key, default=None):
     if key not in my_dict or my_dict[key] == None:
@@ -62,9 +63,15 @@ class JSONReader(BaseReader):
 
         content = '<h1>Summary</h1>'
         if 'summary' in json_data:
-            content += '<p>{}</p>'.format(json_data['summary'])
+            try:
+                content += publish_parts(json_data['summary'], writer_name='html')['html_body']
+            except:
+                content += '<p>{}</p>'.format(json_data['summary'])
         if 'description' in json_data:
-            content += '<p>{}</p>'.format(json_data['description'])
+            try:
+                content += publish_parts(json_data['description'], writer_name='html')['html_body']
+            except:
+                content += '<p>{}</p>'.format(json_data['description'])
 
         return content, parsed
 
