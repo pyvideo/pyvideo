@@ -15,6 +15,8 @@ DEFAULT_LANG = 'en'
 
 DEFAULT_PAGINATION = 10
 
+DEFAULT_CATEGORY = "Undefined"
+
 AUTHOR_URL = AUTHOR_SAVE_AS = 'speaker/{slug}.html'
 ARTICLE_URL = ARTICLE_SAVE_AS = '{category}/{slug}.html'
 ARTICLE_LANG_URL = ARTICLE_LANG_SAVE_AS = '{category}/{slug}-{lang}.html'
