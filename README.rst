@@ -4,14 +4,19 @@ pytube
 |travis|
 
 http://pytube.org is simply an index of Python-related media records. The raw
-data being used here comes out of the `pyvideo-data`_ project.
+data being used here comes out of the `pytube fork`_ of the
+`pyvideo-data`_ project.
 
 
 .. |travis| image:: https://travis-ci.org/pytube/pytube.svg?branch=master
     :target: https://travis-ci.org/pytube/pytube
 
+.. _`pytube fork`: https://github.com/pytube/pyvideo-data
 .. _`pyvideo-data`: https://github.com/pyvideo/pyvideo-data
 
+Before opening a PR, please check out our `Development Philosophy`_.
+
+.. _`Development Philosophy`: https://github.com/pytube/pytube/wiki/Development-Philosophy
 
 Development setup
 =================
