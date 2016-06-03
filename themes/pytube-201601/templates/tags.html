@@ -1,15 +1,20 @@
-{% extends "base.html" %}
+{% extends "list_filterable.html" %}
 
 {% block subtitle %} &middot; Tags{% endblock %}
 
 {% block content %}
-  <h2>All Tags</h2>
-  <ul>
-  {%- for tag, articles in tags|sort %}
-    <li>
-      <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})
-    </li>
-  {% endfor %}
-  </ul>
+
+<h2>All Tags</h2>
+
+<div class="row">
+    <ul id="element-list">
+      {%- for tag, articles in tags|sort %}
+        <li class="col-md-3 col-sm-4 col-xs-6">
+           <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> <span class="badge">{{ articles|length }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+</div>
+
 {% endblock %}
 

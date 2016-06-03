@@ -1,0 +1,20 @@
+{# This is used as the common base template for the authors, categories and tags pages #}
+{% extends "base.html" %}
+
+{% block head %}
+    {{ super()}}
+    <link href="/theme/css/jquery-listnav.css" rel="stylesheet">
+{% endblock %}
+
+{% block endbodyjs %}
+    {{ super() }}
+      <script src="/theme/js/jquery-listnav.js"></script>
+      <script>
+        $("#element-list").listnav({
+            includeOther: true,
+            includeNums: false,
+            showCounts: false
+        });
+      </script>
+{% endblock %}
+
