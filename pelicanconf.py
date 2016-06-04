@@ -38,9 +38,14 @@ AUTHORS_SAVE_AS = 'speakers.html'
 USE_FOLDER_AS_CATEGORY = False
 
 # Feeds
-FEED_RSS = 'rss.xml'
-CATEGORY_FEED_RSS = 'events/%s/rss.xml'
-AUTHOR_FEED_RSS = 'author/%s/rss.xml'
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_RSS = 'feeds/all.rss.xml'
+CATEGORY_FEED_ATOM = 'feeds/event_%s.atom.xml'
+CATEGORY_FEED_RSS = 'feeds/event_%s.rss.xml'
+AUTHOR_FEED_ATOM = 'feeds/speaker_%s.atom.xml'
+AUTHOR_FEED_RSS = 'feeds/speaker_%s.rss.xml'
+TAG_FEED_ATOM = 'feeds/tag_%s.atom.xml'
+TAG_FEED_RSS = 'feeds/tag_%s.rss.xml'
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
