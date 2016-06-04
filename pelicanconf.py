@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 import os
 
-AUTHOR = 'Paul Logston'
+AUTHOR = 'Unknown'
 SITENAME = 'PyTube.org'
 
 PATH = 'content'
@@ -15,6 +15,9 @@ DEFAULT_LANG = 'en'
 
 DEFAULT_PAGINATION = 10
 
+DEFAULT_CATEGORY = "Undefined"
+
+AUTHOR_URL = AUTHOR_SAVE_AS = 'speaker/{slug}.html'
 ARTICLE_URL = ARTICLE_SAVE_AS = '{category}/{slug}.html'
 ARTICLE_LANG_URL = ARTICLE_LANG_SAVE_AS = '{category}/{slug}-{lang}.html'
 DRAFT_URL = DRAFT_SAVE_AS = 'drafts/{category}/{slug}.html'
@@ -30,6 +33,14 @@ TAG_SAVE_AS = 'tag/{slug}/index.html'
 YEAR_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/{date:%b}/index.html'
 CATEGORIES_SAVE_AS = 'events.html'
+AUTHORS_SAVE_AS = 'speakers.html'
+
+USE_FOLDER_AS_CATEGORY = False
+
+# Feeds
+FEED_RSS = 'rss.xml'
+CATEGORY_FEED_RSS = 'events/%s/rss.xml'
+AUTHOR_FEED_RSS = 'author/%s/rss.xml'
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -61,5 +72,5 @@ EXTRA_PATH_METADATA = {
 #sys.path.append(os.path.abspath("."))
 #from plugins import json_reader
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['json_reader', 'bin.plugins', 'extended_sitemap']
+PLUGINS = ['json_reader', 'bin.plugins', 'extended_sitemap', 'bin.aggregations']
 #PLUGINS = ['bin.plugins', 'extended_sitemap']

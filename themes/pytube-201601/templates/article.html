@@ -127,5 +127,8 @@
   {% block endbodyjs %}
     {{ super() }}
     <script src="/theme/js/publish.js"></script>
+    <script>
+    $("ul[role='tablist']").tab();
+    </script>
   {% endblock %}
 {% endif %}
