@@ -39,13 +39,20 @@ def _get_vimeo_url(url):
     video_id = o.path.replace('/', '')
     return 'https://player.vimeo.com/video/{}'.format(video_id)
 
+def _get_media_url(url, media_type=""):
+    source_url = url
 
-def _get_media_url(json_data):
-    source_url = _get_and_check_none(json_data, 'source_url', '')
-    if 'youtu' in source_url:
+    # If specified in data, prefer to use the media type
+    # Otherwise, try to infer from the url
+    if media_type == "youtube" or "youtu" in source_url:
         source_url = _get_youtube_url(source_url)
-    elif 'vimeo' in source_url:
+    elif media_type == "vimeo" or "vimeo" in source_url:
         source_url = _get_vimeo_url(source_url)
+    elif media_type == "mp4":
+        pass
+    elif media_type == "ogv":
+        pass
+
     return source_url
 
 
@@ -84,6 +91,36 @@ class JSONReader(BaseReader):
         with open(filename, 'rt', encoding='UTF-8') as f:
             json_data = json.loads(f.read())
 
+        videos = list()
+        iframe_types = ["youtube", "vimeo"]
+        html5_types = ["ogv", "mp4"]
+        if 'videos' in json_data and isinstance(json_data['videos'], list) and len(json_data['videos']) > 0:
+            for v in json_data['videos']:
+                v_data = dict()
+                v_data["type"] = v["type"]
+                v_data["media_url"] = _get_media_url(v["url"], media_type=v["type"])
+                if v["type"] in iframe_types:
+                    v_data["tag_type"] = "iframe"
+                elif v["type"] in html5_types:
+                    v_data["tag_type"] = "html5"
+
+                videos.append(v_data)
+        else:
+            # Handle data which doesn't have the videos list
+            v_data = dict()
+            v_data["media_url"] = _get_media_url(_get_and_check_none(json_data, 'source_url', ''))
+            if "youtube" in v_data["media_url"]:
+                v_data["type"] = "youtube"
+                v_data["tag_type"] = "iframe"
+            elif "vimeo" in v_data["media_url"]:
+                v_data["type"] = "vimeo"
+                v_data["tag_type"] = "iframe"
+            elif v_data["media_url"].endswith(".mp4"):
+                v_data["type"] = "mp4"
+                v_data["tag_type"] = "html5"
+
+            videos.append(v_data)
+
         metadata = {'title': _get_and_check_none(json_data, 'title', 'Title'),
                     'category': _get_and_check_none(json_data, 'category',
                                                     self.settings['DEFAULT_CATEGORY']),
@@ -91,15 +128,17 @@ class JSONReader(BaseReader):
                     'date': _get_and_check_none(json_data, 'recorded', '1990-01-01'),
                     'slug': _get_and_check_none(json_data, 'slug', 'Slug'),
                     'authors': _get_and_check_none(json_data, 'speakers', []),
-                    'videos': _get_and_check_none(json_data, 'videos', []),
-                    'media_url': _get_media_url(json_data),
+                    'videos': videos,
+                    'media_url': _get_media_url(_get_and_check_none(json_data, 'source_url', '')),
                     'thumbnail_url': _get_and_check_none(json_data, 'thumbnail_url', ''),
                     'language': _get_and_check_none(json_data, 'language', ''),
         }
 
+        # Send metadata through pelican parser to check pelican required formats
         parsed = {}
         for key, value in metadata.items():
             parsed[key] = self.process_metadata(key, value)
+        metadata = parsed
 
         content = []
         for part in ['summary', 'description']:
@@ -118,7 +157,6 @@ class JSONReader(BaseReader):
                     content.append('<pre>{}</pre>'.format(json_part))
 
         return "".join(content), parsed
-
 
 def register():
     def add_reader(readers):

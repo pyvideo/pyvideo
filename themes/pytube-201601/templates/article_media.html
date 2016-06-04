@@ -1,10 +1,34 @@
-{% if article.media_url and ('youtu' in article.media_url or 'vimeo' in article.media_url) %}
-    <div class="videocontainer"><iframe src="{{ article.media_url }}"
-            frameborder="0" allowfullscreen></iframe></div>
-{% else %}
-    <a class="reference external image-reference"
-       href="{{ article.media_url }}">
-        <img alt="{{ article.title }}"
-             src="{{ article.thumbnail_url }}">
-    </a>
-{% endif %}
+{% set classname = "active" %}
+
+<ul class="nav nav-tabs" role="tablist">
+{% for video in article.videos %}
+    <li class="{{ classname }}" role="presentation"><a href="#{{ video.type }}" aria-controls="{{ video.type }}" role="tab" data-toggle="tab">{{ video.type|title }}</a></li>
+    {% set classname = "" %}
+{% endfor %}
+</ul>
+
+{% set classname = "active" %}
+<div class="tab-content">
+{% for video in article.videos %}
+    <div role="tabpanel" class="tab-pane {{ classname }}" id="{{ video.type }}">
+        {% if video.tag_type == 'iframe' %}
+        <div class="embed-responsive embed-responsive-16by9 videocontainer">
+            <iframe class="embed-responsive-item" src="{{ video.media_url }}" frameborder="0" allowfullscreen></iframe>
+        </div>
+        {% elif video.tag_type == 'html5' %}
+        <div class="embed-responsive embed-responsive-16by9 videocontainer">
+            <video class="embed-responsive-item" controls>
+                <source src="{{ video.media_url }}" type="video/{{ video.type }}">
+            </video>
+        </div>
+        {% else %}
+        <a class="reference external image-reference"
+           href="{{ video.media_url }}">
+            <img alt="{{ video.title }}"
+                 src="{{ article.thumbnail_url }}">
+        </a>
+        {% endif %}
+    </div>
+    {% set classname = "" %}
+{% endfor %}
+</div>
