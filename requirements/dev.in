@@ -1,4 +1,3 @@
 # dev.in
 -r ../requirements.in
 pip-tools==1.6.3
-tox

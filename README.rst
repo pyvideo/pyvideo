@@ -73,8 +73,8 @@ There are automated tests to ensure that none of the pages have significant
 accessibility problems; to run them:
 
 1. Download `chromedriver <https://sites.google.com/a/chromium.org/chromedriver/downloads>`_
-   and add it to your PATH environment variable.
-2. Run ``tox``
+   and add it to your PATH environment variable (copy to ``/usr/local/bin``, etc.)
+2. Run ``make test``
 
 Want to help?
 =============
