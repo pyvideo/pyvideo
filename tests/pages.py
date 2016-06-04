@@ -10,7 +10,7 @@ class AboutPage(PageObject):
     """
     Testing representation of the About page
     """
-    url = 'http://localhost:{}/about.html'.format(PORT)
+    url = 'http://localhost:{}/pages/about.html'.format(PORT)
 
     def is_browser_on_page(self):
         return self.browser.title == 'PyTube.org \u00B7 About'

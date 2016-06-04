@@ -22,6 +22,8 @@ ifeq ($(RELATIVE), 1)
 	PELICANOPTS += --relative-urls
 endif
 
+CHROMEDRIVER := $(shell which chromedriver)
+
 help:
 	@echo 'Makefile for a pelican Web site                                           '
 	@echo '                                                                          '
@@ -36,6 +38,7 @@ help:
 	@echo '   make stopserver                     stop local server                  '
 	@echo '   make github                         upload the web site via gh-pages   '
 	@echo '   make deploy                         upload the web site to production  '
+	@echo '   make test                           run the accessibility tests        '
 	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
@@ -90,6 +93,13 @@ production_push:
 	echo "Upload complete"
 
 deploy: publish production_push
+
+test:
+ifndef CHROMEDRIVER
+	$(error "Could not find chromedriver, download from https://sites.google.com/a/chromium.org/chromedriver/downloads and add it to a directory in your PATH")
+endif
+	pip install -r requirements/tests.txt
+	cd $(BASEDIR) && SELENIUM_BROWSER=chrome py.test tests/test_a11y.py
 
 .PHONY: html help clean purge deploy production_push regenerate serve serve-global devserver publish github
 

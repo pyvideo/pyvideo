@@ -1,20 +1,32 @@
 from multiprocessing import Process
 import os
 from socketserver import TCPServer
-import sys
-from time import sleep
+import time
 import unittest
 
 from bok_choy.web_app_test import WebAppTest
 from pelican.server import ComplexHTTPRequestHandler
+import requests
 
 from .pages import AboutPage, EventsPage, IndexPage, PORT, SpeakersPage, TagsPage
 
-def start_test_server():
+def start_pelican():
     os.chdir('output')
     TCPServer.allow_reuse_address = True
     httpd = TCPServer(('', PORT), ComplexHTTPRequestHandler)
     httpd.serve_forever()
+
+def wait_for_pelican(seconds):
+    end = time.time() + seconds
+    url = 'http://localhost:{}/pages/about.html'.format(PORT)
+    while time.time() < end:
+        try:
+            response = requests.get(url, timeout=(end - time.time()))
+            response.raise_for_status()
+            return
+        except requests.ConnectionError:
+            continue
+    raise Exception('Timed out connecting to pelican server')
 
 class TestAccessibility(WebAppTest):
     """
@@ -23,8 +35,9 @@ class TestAccessibility(WebAppTest):
 
     @classmethod
     def setUpClass(cls):
-        cls.server = Process(target=start_test_server)
+        cls.server = Process(target=start_pelican)
         cls.server.start()
+        wait_for_pelican(seconds=30)
 
     @classmethod
     def tearDownClass(cls):
