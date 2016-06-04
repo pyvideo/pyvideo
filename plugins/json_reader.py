@@ -158,8 +158,10 @@ class JSONReader(BaseReader):
 
         return "".join(content), parsed
 
-def register():
-    def add_reader(readers):
-        readers.reader_classes['json'] = JSONReader
 
+def add_reader(readers):
+    readers.reader_classes['json'] = JSONReader
+
+
+def register():
     signals.readers_init.connect(add_reader)

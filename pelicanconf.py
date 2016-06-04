@@ -73,9 +73,5 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'}
 }
 
-#import sys
-#sys.path.append(os.path.abspath("."))
-#from plugins import json_reader
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['json_reader', 'bin.plugins', 'extended_sitemap', 'bin.aggregations', 'event_info']
-#PLUGINS = ['bin.plugins', 'extended_sitemap']
+PLUGINS = ['json_reader', 'replace_underscore', 'extended_sitemap', 'aggregations', 'event_info']
