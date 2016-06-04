@@ -8,7 +8,7 @@
         {% for article in articles_page.object_list[:3] %}
           <article>
             <a href="{{ SITEURL }}/{{ article.url }}">
-              <img src="{{ article.thumbnail_url }}" />
+              <img src="{{ article.thumbnail_url }}" alt="Image from {{ article.title|striptags }}" />
             </a>
 
             <section class="details">

@@ -8,7 +8,10 @@ from bok_choy.web_app_test import WebAppTest
 from pelican.server import ComplexHTTPRequestHandler
 import requests
 
-from .pages import AboutPage, EventsPage, IndexPage, PORT, SpeakersPage, TagsPage
+from .pages import (
+    AboutPage, EventPage, EventsPage, MP4Page, IndexPage, OGVPage, PORT,
+    SpeakerPage, SpeakersPage, TagPage, TagsPage, VimeoPage, YouTubePage
+)
 
 def start_pelican():
     os.chdir('output')
@@ -49,6 +52,12 @@ class TestAccessibility(WebAppTest):
         """
         self._check_a11y(AboutPage)
 
+    def test_event(self):
+        """
+        The page for a single event should have good accessibility
+        """
+        self._check_a11y(EventPage)
+
     def test_events(self):
         """
         The events listing page should have good accessibility
@@ -61,11 +70,32 @@ class TestAccessibility(WebAppTest):
         """
         self._check_a11y(IndexPage)
 
+    def test_search_results(self):
+        """
+        The search results should have good accessibility
+        """
+        page = IndexPage(self.browser)
+        page.visit()
+        page.search('accessibility')
+        page.a11y_audit.check_for_accessibility_errors()
+
+    def test_speaker(self):
+        """
+        The page for a single speaker should have good accessibility
+        """
+        self._check_a11y(SpeakerPage)
+
     def test_speakers(self):
         """
         The speakers listing page should have good accessibility
         """
         self._check_a11y(SpeakersPage)
+
+    def test_tag(self):
+        """
+        The page for a single tag should have good accessibility
+        """
+        self._check_a11y(TagPage)
 
     def test_tags(self):
         """
@@ -73,13 +103,39 @@ class TestAccessibility(WebAppTest):
         """
         self._check_a11y(TagsPage)
 
+    def test_video_mp4(self):
+        """
+        Video pages using MP4 files should have good accessibility
+        """
+        self._check_a11y(MP4Page)
+
+    def test_video_ogv(self):
+        """
+        Video pages using OGV files should have good accessibility
+        """
+        self._check_a11y(OGVPage)
+
+    def test_video_vimeo(self):
+        """
+        Video pages using Vimeo should have good accessibility
+        """
+        self._check_a11y(VimeoPage)
+
+    def test_video_youtube(self):
+        """
+        Video pages using YouTube should have good accessibility
+        """
+        self._check_a11y(YouTubePage)
+
     def _check_a11y(self, page_class):
         """
         Visit the specified page and run accessibility checks on it
         """
         page = page_class(self.browser)
         page.visit()
-        report = page.a11y_audit.check_for_accessibility_errors()
+        # Disabled page elements are exempt from minimum contrast requirements
+        page.a11y_audit.config.set_scope(exclude=['.ln-disabled'])
+        page.a11y_audit.check_for_accessibility_errors()
 
 if __name__ == '__main__':
     unittest.main()

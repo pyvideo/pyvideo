@@ -13,7 +13,7 @@
     <div role="tabpanel" class="tab-pane {{ classname }}" id="{{ video.type }}">
         {% if video.tag_type == 'iframe' %}
         <div class="embed-responsive embed-responsive-16by9 videocontainer">
-            <iframe class="embed-responsive-item" src="{{ video.media_url }}" frameborder="0" allowfullscreen></iframe>
+            <iframe class="embed-responsive-item" src="{{ video.media_url }}" title="Video for {{ video.title }}" frameborder="0" allowfullscreen></iframe>
         </div>
         {% elif video.tag_type == 'html5' %}
         <div class="embed-responsive embed-responsive-16by9 videocontainer">
