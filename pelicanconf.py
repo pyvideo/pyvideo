@@ -77,5 +77,5 @@ EXTRA_PATH_METADATA = {
 #sys.path.append(os.path.abspath("."))
 #from plugins import json_reader
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['json_reader', 'bin.plugins', 'extended_sitemap', 'bin.aggregations']
+PLUGINS = ['json_reader', 'bin.plugins', 'extended_sitemap', 'bin.aggregations', 'event_info']
 #PLUGINS = ['bin.plugins', 'extended_sitemap']
