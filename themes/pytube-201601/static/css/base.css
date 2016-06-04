@@ -95,7 +95,6 @@ article.list_item div {
     margin-bottom: 40px;
 }
 
-
 div.index-content h3 {
   margin-top: 0px;
   margin-bottom: 20px;
@@ -289,5 +288,6 @@ input.gsc-input,
   display: none;
 }
 
-.info--stats {
+.event__description {
+  margin-bottom: 40px;
 }
