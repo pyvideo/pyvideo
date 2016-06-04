@@ -74,4 +74,5 @@ EXTRA_PATH_METADATA = {
 }
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['json_reader', 'replace_underscore', 'extended_sitemap', 'aggregations', 'event_info']
+PLUGINS = ['json_reader', 'replace_underscore', 'extended_sitemap', 'aggregations',
+           'event_series', 'event_info']
