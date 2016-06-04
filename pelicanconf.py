@@ -7,7 +7,7 @@ AUTHOR = 'Unknown'
 SITENAME = 'PyTube.org'
 
 PATH = 'content'
-#PATH = 'pyvideo-data/data'
+IGNORE_FILES = ['.#*', 'category.json']
 
 TIMEZONE = 'UTC'
 
