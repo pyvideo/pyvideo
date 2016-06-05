@@ -49,7 +49,9 @@
             <h3>Latest events</h3>
             <ul>
             {% for category in latest_categories[:5] %}
-                <li><a href="{{ SITEURL }}/events/{{ category.slug }}.html">{{ category.name }}</a> <span class="badge">{{ category.count }}</span></li>
+                <li>
+                    <a href="{{ SITEURL }}/{{ category.url }}">{{ category.name }}</a> <span class="badge">{{ category.count }}</span>
+                </li>
             {% endfor %}
             </ul>
             <p><a href="{{ SITE_URL }}/events.html">See all events...</a></p>
@@ -58,7 +60,7 @@
             <h3>Most active speakers</h3>
             <ul>
             {% for speaker in active_speakers[:5] %}
-                <li><a href="{{ SITEURL }}/author/{{ speaker.slug }}.html">{{ speaker.name }}</a> <span class="badge">{{ speaker.count }}</span></li>
+                <li><a href="{{ SITEURL }}/{{ speaker.url }}">{{ speaker.name }}</a> <span class="badge">{{ speaker.count }}</span></li>
             {% endfor %}
             </ul>
             <p><a href="{{ SITE_URL }}/speakers.html">See all speakers...</a></p>
