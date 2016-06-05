@@ -10,6 +10,7 @@ SLUG_BLACKLIST = {'Undefined'}
 SPEAKER_BLACKLIST = {'Unknown'}
 
 
+
 def _handle_content_object_init(obj):
     if isinstance(obj, Article):
         category = getattr(obj, 'category')
@@ -24,11 +25,13 @@ def _handle_content_object_init(obj):
                 _categories[category.slug]['latest'] = latest
                 _categories[category.slug]['name'] = category.name
                 _categories[category.slug]['slug'] = category.slug
+                _categories[category.slug]['url'] = category.url
         if speaker:
             if speaker.name not in SPEAKER_BLACKLIST:
                 count = _speakers[speaker.slug].get('count', 0)
                 _speakers[speaker.slug]['name'] = speaker.name
                 _speakers[speaker.slug]['slug'] = speaker.slug
+                _speakers[speaker.slug]['url'] = speaker.url
                 _speakers[speaker.slug]['count'] = count + 1
 
 
