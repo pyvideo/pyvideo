@@ -1,4 +1,4 @@
-{% extends "list_filterable.html" %}
+{% extends "base.html" %}
 
 {% block subtitle %} &middot; Events{% endblock %}
 
@@ -7,13 +7,34 @@
 <h2>All Events</h2>
 
 <div class="row">
-    <ul id="element-list">
-      {% for category, articles in categories %}
-        <li class="col-md-4 col-xs-6">
-          <a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a> <span class="badge">{{ articles|length }}</span>
-        </li>
-      {% endfor %}
-    </ul>
+    <nav class="events">
+        <div class="col-md-12">
+            <div class="row">
+            {% for batch in event_series|batch(event_series|length / 2) %}
+                <div class="col-md-6 col-sm-12">
+                    <ul class="events">
+                        {% for event in batch %}
+                            <li role="presentation">
+                                {% if event.members %}
+                                    {{ event.name }}
+                                    <ul class="list-inline">
+                                        {% for member in event.members %}
+                                            <li role="presentation">
+                                                <a href="{{ SITEURL }}/{{ member.url }}" title="{{ member.name }}">{{ member.series.label }}</a>
+                                            </li>
+                                        {% endfor %}
+                                    </ul>
+                                {% else %}
+                                    <a href="{{ SITEURL }}/{{ event.url }}">{{ event.name }}</a>
+                                {% endif %}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </nav>
 </div>
 
 {% endblock %}

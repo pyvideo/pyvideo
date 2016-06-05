@@ -91,12 +91,16 @@ article.list_item div {
   max-width: 450px;
 }
 
+article.list_item .thumb {
+  vertical-align: top;
+}
+
 .index-content article {
     margin-bottom: 40px;
 }
 
 div.index-content h3 {
-  margin-top: 0px;
+  margin-top: 0;
   margin-bottom: 20px;
 }
 
@@ -129,6 +133,25 @@ div.index-content section.details {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+nav.event-series {
+  margin-bottom: 40px;
+}
+
+nav.event-series ul {
+  margin-top: -5px;
+}
+
+ul.events > li {
+  line-height: 30px;
+  border-top: 1px solid #d0d0d0;
+  padding-left: 10px;
+}
+
+ul.events > li > ul {
+  border-top: 1px solid #e0e0e0;
+  padding-left: 30px;
 }
 
 h1 {
@@ -289,5 +312,5 @@ input.gsc-input,
 }
 
 .event__description {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }

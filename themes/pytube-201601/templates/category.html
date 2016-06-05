@@ -11,6 +11,19 @@
   </section>
   {% endif %}
 
+    {% if category.series and category.series.members|length > 1 %}
+    <nav class="event-series">
+        <p>Other events in this series:</p>
+        <ul class="nav nav-pills">
+            {% for member in category.series.members %}
+                <li role="presentation" {% if member.series.label == category.series.label %}class="active"{% endif %}>
+                    <a href="{{ SITEURL }}/{{ member.url }}" title="{{ member.name }}">{{ member.series.label }}</a>
+                </li>
+            {% endfor %}
+        </ul>
+    </nav>
+    {% endif %}
+
   <div class="row">
     <div class="col-lg-12">
       <ul class="content-list">

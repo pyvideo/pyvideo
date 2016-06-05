@@ -39,6 +39,7 @@ def _get_vimeo_url(url):
     video_id = o.path.replace('/', '')
     return 'https://player.vimeo.com/video/{}'.format(video_id)
 
+
 def _get_media_url(url, media_type=""):
     source_url = url
 
@@ -135,10 +136,7 @@ class JSONReader(BaseReader):
         }
 
         # Send metadata through pelican parser to check pelican required formats
-        parsed = {}
-        for key, value in metadata.items():
-            parsed[key] = self.process_metadata(key, value)
-        metadata = parsed
+        metadata = {key: self.process_metadata(key, value) for key, value in metadata.items()}
 
         content = []
         for part in ['summary', 'description']:
@@ -156,10 +154,12 @@ class JSONReader(BaseReader):
                     )
                     content.append('<pre>{}</pre>'.format(json_part))
 
-        return "".join(content), parsed
+        return "".join(content), metadata
+
+
+def add_reader(readers):
+    readers.reader_classes['json'] = JSONReader
+
 
 def register():
-    def add_reader(readers):
-        readers.reader_classes['json'] = JSONReader
-
     signals.readers_init.connect(add_reader)

@@ -3,7 +3,7 @@
   <ul>
       <li>
         Event:
-        <a href="/events/{{ article.slugified_category }}">{{ article.category }}</a>
+        <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
       </li>
       {% if article.language %}
         <li>Language: {{ article.language }}</li>

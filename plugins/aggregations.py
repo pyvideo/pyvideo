@@ -6,8 +6,9 @@ from collections import defaultdict
 _categories = defaultdict(dict)
 _speakers = defaultdict(dict)
 
-SLUG_BLACKLIST = set(['videos'])
-SPEAKER_BLACKLIST = set(['Unknown'])
+SLUG_BLACKLIST = {'Undefined'}
+SPEAKER_BLACKLIST = {'Unknown'}
+
 
 
 def _handle_content_object_init(obj):
@@ -15,7 +16,7 @@ def _handle_content_object_init(obj):
         category = getattr(obj, 'category')
         speaker = getattr(obj, 'author')
         if category and category.slug:
-            if not category.slug in SLUG_BLACKLIST:
+            if category.slug not in SLUG_BLACKLIST:
                 count = _categories[category.slug].get('count', 0)
                 latest = _categories[category.slug].get('latest')
                 if not latest or obj.date > latest:
