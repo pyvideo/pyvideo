@@ -11,9 +11,9 @@ if [[ "${TRAVIS_PULL_REQUEST}" == "false" ]]; then
     export GIT_SSH=../bin/ssh-git.sh
     # Set location of deploy key relative to inside output/
     export DEPLOY_KEY=../.ssh/travis
-    make content && make deploy
+    make deploy
 else
     echo "Building PR ${TRAVIS_PULL_REQUEST}";
-    make content && make html
+    make html
 fi
 
