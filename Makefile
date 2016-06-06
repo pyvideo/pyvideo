@@ -10,6 +10,7 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 GITHUB_PAGES_REPO=git@github.com:pytube/pytube.github.io.git
+PREVIEW_GITHUB_PAGES_REPO=git@github.com:pytube/preview.git
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -84,6 +85,15 @@ production_push:
 
 deploy: publish production_push
 
+preview_push:
+	cd $(OUTPUTDIR) && git init && git add .
+	cd $(OUTPUTDIR) && git commit -m "Initial commit"
+	cd $(OUTPUTDIR) && git remote add origin $(PREVIEW_GITHUB_PAGES_REPO)
+	cd $(OUTPUTDIR) && git push origin master --force
+	echo "Upload complete"
+
+deploy-preview: publish preview_push
+
 test:
 ifndef CHROMEDRIVER
 	$(error "Could not find chromedriver, download from https://sites.google.com/a/chromium.org/chromedriver/downloads and add it to a directory in your PATH")
@@ -91,5 +101,5 @@ endif
 	pip install -r requirements/tests.txt
 	cd $(BASEDIR) && SELENIUM_BROWSER=chrome py.test tests/test_a11y.py
 
-.PHONY: html help clean purge deploy production_push regenerate serve devserver publish github
+.PHONY: html help clean purge deploy production_push preview_push deploy-preview regenerate serve devserver publish github
 
