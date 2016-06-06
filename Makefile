@@ -4,7 +4,6 @@ PELICANOPTS=
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
-#INPUTDIR=$(BASEDIR)/pyvideo-data/data
 OUTPUTDIR=$(BASEDIR)/output
 DATADIR=$(BASEDIR)/pyvideo-data/data
 CONFFILE=$(BASEDIR)/pelicanconf.py
@@ -33,7 +32,6 @@ help:
 	@echo '   make regenerate                     regenerate files upon modification '
 	@echo '   make publish                        generate using production settings '
 	@echo '   make serve [PORT=8000]              serve site at http://localhost:8000'
-	@echo '   make serve-global [SERVER=0.0.0.0]  serve (as root) to $(SERVER):80    '
 	@echo '   make devserver [PORT=8000]          start/restart develop_server.sh    '
 	@echo '   make stopserver                     stop local server                  '
 	@echo '   make github                         upload the web site via gh-pages   '
@@ -62,14 +60,6 @@ ifdef PORT
 else
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server
 endif
-
-serve-global:
-ifdef SERVER
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server 80 $(SERVER)
-else
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server 80 0.0.0.0
-endif
-
 
 devserver: link-data
 ifdef PORT
@@ -101,5 +91,5 @@ endif
 	pip install -r requirements/tests.txt
 	cd $(BASEDIR) && SELENIUM_BROWSER=chrome py.test tests/test_a11y.py
 
-.PHONY: html help clean purge deploy production_push regenerate serve serve-global devserver publish github
+.PHONY: html help clean purge deploy production_push regenerate serve devserver publish github
 
