@@ -10,7 +10,7 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 GITHUB_PAGES_REPO=git@github.com:pytube/pytube.github.io.git
-PREVIEW_GITHUB_PAGES_REPO=git@github.com:pytube/preview.git
+PREVIEW_GITHUB_PAGES_REPO=git@github.com:pytube-preview/pytube-preview.github.io.git
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -86,7 +86,7 @@ production_push:
 deploy: publish production_push
 
 preview_push:
-	cd $(OUTPUTDIR) && rm CNAME
+	cd $(OUTPUTDIR) && echo "preview.pytube.org" > CNAME
 	cd $(OUTPUTDIR) && git init && git add .
 	cd $(OUTPUTDIR) && git commit -m "Initial commit"
 	cd $(OUTPUTDIR) && git remote add origin $(PREVIEW_GITHUB_PAGES_REPO)
