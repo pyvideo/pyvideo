@@ -44,7 +44,7 @@ Pytube is maintained by volunteers listed in the `CONTRIBUTORS`_ file.
 Questions or concerns regarding the site can be addressed to
 `pytube.org@gmail.com`_.
 
-.. _`CONTRIBUTORS`: https://github.com/pytube/pytube/blob/master/CONTRIBUTORS
+.. _`CONTRIBUTORS`: https://github.com/pytube/pytube/blob/master/CONTRIBUTORS.rst
 .. _`pytube.org@gmail.com`: mailto: pytube.org@gmail.com
 .. _`volunteering wiki page`: https://github.com/pytube/pytube/wiki/How-to-Volunteer
 .. _`Looking to contribute media?`: https://github.com/pytube/pytube/wiki/How-to-Contribute-Media
