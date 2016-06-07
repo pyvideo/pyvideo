@@ -49,6 +49,28 @@ link-data:
 html: link-data
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
+publish: link-data
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+
+production_push:
+	cd $(OUTPUTDIR) && git init && git add .
+	cd $(OUTPUTDIR) && git commit -m "Initial commit"
+	cd $(OUTPUTDIR) && git remote add origin $(GITHUB_PAGES_REPO)
+	cd $(OUTPUTDIR) && git push origin master --force
+	echo "Upload complete"
+
+deploy: publish production_push
+
+preview_push:
+	cd $(OUTPUTDIR) && echo "preview.pytube.org" > CNAME
+	cd $(OUTPUTDIR) && git init && git add .
+	cd $(OUTPUTDIR) && git commit -m "Initial commit"
+	cd $(OUTPUTDIR) && git remote add origin $(PREVIEW_GITHUB_PAGES_REPO)
+	cd $(OUTPUTDIR) && git push origin master --force
+	echo "Upload complete"
+
+deploy-preview: html preview_push
+
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
@@ -72,28 +94,6 @@ endif
 stopserver:
 	$(BASEDIR)/develop_server.sh stop
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
-
-publish: link-data
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-
-production_push:
-	cd $(OUTPUTDIR) && git init && git add .
-	cd $(OUTPUTDIR) && git commit -m "Initial commit"
-	cd $(OUTPUTDIR) && git remote add origin $(GITHUB_PAGES_REPO)
-	cd $(OUTPUTDIR) && git push origin master --force
-	echo "Upload complete"
-
-deploy: publish production_push
-
-preview_push:
-	cd $(OUTPUTDIR) && echo "preview.pytube.org" > CNAME
-	cd $(OUTPUTDIR) && git init && git add .
-	cd $(OUTPUTDIR) && git commit -m "Initial commit"
-	cd $(OUTPUTDIR) && git remote add origin $(PREVIEW_GITHUB_PAGES_REPO)
-	cd $(OUTPUTDIR) && git push origin master --force
-	echo "Upload complete"
-
-deploy-preview: publish preview_push
 
 test:
 ifndef CHROMEDRIVER
