@@ -4,13 +4,13 @@ pytube
 |travis|
 
 http://pytube.org is simply an index of Python-related media records. The raw
-data being used here comes out of the `pytube/pyvideo-data`_ repo.
+data being used here comes out of the `pytube/data`_ repo.
 
 
 .. |travis| image:: https://travis-ci.org/pytube/pytube.svg?branch=master
     :target: https://travis-ci.org/pytube/pytube
 
-.. _`pytube/pyvideo-data`: https://github.com/pytube/pyvideo-data
+.. _`pytube/data`: https://github.com/pytube/data
 
 Before opening a PR, please check out our `Development Philosophy`_.
 
@@ -81,7 +81,7 @@ We'd love the help! All feature ideas and bugs-to-be-fixed are listed in the
 `issues <https://github.com/pytube/pytube/issues>`_ associated with this repo. Please check there for ideas on
 how to contribute. Thanks!
 
-If you want to contribute new media, please check the `pytube/pyvideo-data`_ repo
+If you want to contribute new media, please check the `pytube/data`_ repo
 and its `contribution docs`_.
 
 
@@ -92,4 +92,4 @@ If you've found an issue with the site or something that could be done better,
 please open an issue_ on Github.
 
 .. _`issue`: https://github.com/pytube/pytube/issues
-.. _`contribution docs`: https://github.com/pytube/pyvideo-data/blob/master/CONTRIBUTING.rst
+.. _`contribution docs`: https://github.com/pytube/data/blob/master/CONTRIBUTING.rst

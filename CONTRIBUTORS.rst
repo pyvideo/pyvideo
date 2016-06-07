@@ -1,5 +1,5 @@
-MAINTAINERS
------------
+CONTRIBUTORS
+------------
 
 Many thanks to all the people who have volunteered their time to help keep
 PyTube.org going!
