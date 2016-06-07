@@ -65,6 +65,11 @@
 
 <body>
   {% include 'github.html' %}
+  {% if PR_NUMBER %}
+    <div class="header pr-notice clearfix">
+      Viewing PR <a href="https://github.com/pytube/pytube/pull/{{ PR_NUMBER }}">#{{ PR_NUMBER }}</a>
+    </div>
+  {% endif %}
   <header id="banner" class="header clearfix">
     <nav class="header__nav">
       <ul class="nav container">

@@ -257,6 +257,16 @@ h1 {
   overflow: hidden;
 }
 
+.header.pr-notice {
+  background-color: #FED343;
+  color: #000;
+  font-size: 16px;
+  padding: 7px;
+  position: relative;
+  margin: 0px;
+  text-align: center;
+}
+
 @media screen and (max-width: 767px) {
   .header__nav a {
     padding-left: 0 !important;
