@@ -7,7 +7,13 @@ AUTHOR = 'Unknown'
 SITENAME = 'PyTube.org'
 
 PATH = 'content'
-IGNORE_FILES = ['.#*', 'category.json']
+IGNORE_FILES = [
+    '.#*', 
+    'category.json',
+    'CONTRIBUTING.rst',
+    'CONTRIBUTORS.rst',
+    'COPYING.rst',
+]
 
 TIMEZONE = 'UTC'
 

@@ -1,3 +1,3 @@
-[submodule "pyvideo-data"]
-	path = pyvideo-data
-	url = https://github.com/pytube/pyvideo-data.git
+[submodule "data"]
+	path = data
+	url = https://github.com/pytube/data.git
