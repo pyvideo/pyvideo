@@ -33,14 +33,21 @@ def drop_no_publish(pelican):
 def get_no_publish_paths(pelican_path, no_publish_ids):
     search_pattern = os.path.join(pelican_path, '**/**/**/*.json')
 
-    no_publish_paths = []
+    paths = []
     for file_path in glob.iglob(search_pattern):
         with open(file_path) as fp:
             blob = json.load(fp)
             if isinstance(blob, dict):
                 file_id = blob.get('id')
                 if file_id in no_publish_ids:
-                    no_publish_paths.append(file_path)
+                    paths.append(file_path)
+
+    no_publish_paths = []
+    # strip paths so that all paths start with from inside of pelican PATH dir.
+    for path in paths:
+        path = path.replace(pelican_path, '')
+        path = path.lstrip('/')
+        no_publish_paths.append(path)
 
     return no_publish_paths
 
