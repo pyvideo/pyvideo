@@ -1,6 +1,10 @@
 pytube
 ######
 
+.. image:: https://badges.gitter.im/pytube/pytube.svg
+   :alt: Join the chat at https://gitter.im/pytube/pytube
+   :target: https://gitter.im/pytube/pytube?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 |travis|
 
 http://pytube.org is simply an index of Python-related media records. The raw
