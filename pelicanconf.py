@@ -1,18 +1,22 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import json
 import os
 
 AUTHOR = 'Unknown'
 SITENAME = 'PyTube.org'
 
 PATH = 'content'
+DATA_DIR = 'conferences'
+NO_PUBLISH_FILE = 'NO_PUBLISH.json'
 IGNORE_FILES = [
-    '.#*', 
+    '.#*',
     'category.json',
     'CONTRIBUTING.rst',
     'CONTRIBUTORS.rst',
-    'COPYING.rst',
+    NO_PUBLISH_FILE,
+    'README.rst',
 ]
 
 TIMEZONE = 'UTC'
@@ -80,8 +84,15 @@ EXTRA_PATH_METADATA = {
 }
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['json_reader', 'replace_underscore', 'extended_sitemap', 'aggregations',
-           'event_series', 'event_info']
+PLUGINS = [
+    'drop_no_publish',
+    'json_reader',
+    'replace_underscore',
+    'extended_sitemap',
+    'aggregations',
+    'event_series',
+    'event_info'
+]
 
 try:
     PR_NUMBER = int(os.environ.get('TRAVIS_PULL_REQUEST'))
