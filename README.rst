@@ -68,6 +68,19 @@ To view the site, run the following command::
 This will start development server on port 8000. Goto browser and open
 http://localhost:8000 to view your local version of pytube.org!
 
+Debugging
+=========
+
+If you're trying to debug unexpected build results, you can pass one of two
+variables to the make process to influence to logging level::
+
+  # Show Pelican warnings
+  $ make VERBOSE=1 html
+
+  # Show even more output
+  $ make DEBUG=1 html
+
+
 Accessibility tests
 ===================
 
