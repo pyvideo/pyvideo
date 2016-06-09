@@ -18,6 +18,8 @@ from pelican import signals
 # including the single `jacks-talk.json` string in IGNORE_FILES. By checking
 # the full path passed to `_include_path`, we can filter on a more granular
 # level.
+# Hopefully this patch can be removed by the merger of this PR:
+# https://github.com/getpelican/pelican/pull/1975
 class PyTubeArticlesGenerator(pelican.ArticlesGenerator):
     def _include_path(self, path, extensions=None):
         """Inclusion logic for .get_files(), returns True/False
@@ -34,7 +36,6 @@ class PyTubeArticlesGenerator(pelican.ArticlesGenerator):
         if any(fnmatch.fnmatch(path, ignore) for ignore in ignores):
             return False
 
-        ignores = self.settings['IGNORE_FILES']
         basename = os.path.basename(path)
         if any(fnmatch.fnmatch(basename, ignore) for ignore in ignores):
             return False
