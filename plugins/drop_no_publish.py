@@ -11,7 +11,7 @@ def drop_no_publish(pelican):
     that should be excluded based on their ID. The list of article
     IDs that should be dropped is located in NO_PUBLISH_FILE.
     """
-    excludes = pelican.settings.get('ARTICLE_EXCLUDES') or []
+    excludes = pelican.settings.get('ARTICLE_EXCLUDES', [])
     path = pelican.settings.get('PATH')
     data_dir = pelican.settings.get('DATA_DIR')
 
