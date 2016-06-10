@@ -17,6 +17,13 @@ ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
 endif
 
+VERBOSE ?= 0
+ifeq ($(VERBOSE), 0)
+ifeq ($(DEBUG), 0)
+	PELICANOPTS += -q
+endif
+endif
+
 RELATIVE ?= 0
 ifeq ($(RELATIVE), 1)
 	PELICANOPTS += --relative-urls
@@ -103,4 +110,3 @@ endif
 	cd $(BASEDIR) && SELENIUM_BROWSER=chrome py.test tests/test_a11y.py
 
 .PHONY: html help clean purge deploy production_push preview_push deploy-preview regenerate serve devserver publish github
-
