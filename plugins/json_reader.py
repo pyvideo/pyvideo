@@ -67,7 +67,7 @@ class JSONReader(BaseReader):
 
     def _get_publisher(self, source, source_file_path):
         # This is a slightly modified copy of `RstReader._get_publisher`
-        extra_params = {'initial_header_level': '2',
+        extra_params = {'initial_header_level': '4',
                         'syntax_highlight': 'short',
                         'input_encoding': 'utf-8',
                         'exit_status_level': 2,
@@ -140,9 +140,9 @@ class JSONReader(BaseReader):
 
         content = []
         for part in ['summary', 'description']:
-            content.append('<h1>{}</h1>'.format(part.title()))
             json_part = json_data.get(part)
             if json_part:
+                content.append('<h3>{}</h3>'.format(part.title()))
                 try:
                     publisher = self._get_publisher(json_part, filename)
                     content.append(publisher.writer.parts.get('body'))
