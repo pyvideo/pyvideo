@@ -2,7 +2,9 @@
 
 <ul class="nav nav-tabs" role="tablist">
 {% for video in article.videos %}
-    <li class="{{ classname }}" role="presentation"><a href="#{{ video.type }}" aria-controls="{{ video.type }}" role="tab" data-toggle="tab">{{ video.type|title }}</a></li>
+    <li class="{{ classname }}" role="presentation"><a href="#{{ video.type }}" aria-controls="{{ video.type }}" role="tab" data-toggle="tab">
+        <i class="fa fa-fw fa-{{ video.icon }}"></i> {{ video.label }}
+    </a></li>
     {% set classname = "" %}
 {% endfor %}
 </ul>
