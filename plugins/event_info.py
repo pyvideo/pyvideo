@@ -55,6 +55,9 @@ def _load_events():
     events = {}
     slugs = set()
     for metafile in path.glob('*/category.json'):
+        # skip the schema "category.json" file
+        if '.schema' in str(metafile):
+            continue
         with open(str(metafile), encoding='utf-8') as fp:
             data = json.load(fp)
             title = data['title']
