@@ -12,6 +12,22 @@ from pelican.readers import BaseReader, PelicanHTMLTranslator
 log = logging.getLogger(__name__)
 
 
+def _convert_to_label(type_):
+    labels = {
+        'youtube': 'YouTube',
+        'vimeo': 'Vimeo',
+    }
+    return labels.get(type_.lower(), type_.upper())
+
+
+def _convert_to_icon(type_):
+    icons = {
+        'youtube': 'youtube',
+        'vimeo': 'vimeo',
+    }
+    return icons.get(type_.lower(), 'file-video-o')
+
+
 def _get_and_check_none(target, key, default=None):
     value = target.get(key)
     if value is None:
@@ -99,6 +115,9 @@ class JSONReader(BaseReader):
             for v in json_data['videos']:
                 v_data = dict()
                 v_data["type"] = v["type"]
+                v_data['label'] = _convert_to_label(v['type'])
+                v_data['icon'] = _convert_to_icon(v['type'])
+                v_data["source_url"] = _get_and_check_none(v, 'url', '')
                 v_data["media_url"] = _get_media_url(v["url"], media_type=v["type"])
                 if v["type"] in iframe_types:
                     v_data["tag_type"] = "iframe"
@@ -109,7 +128,8 @@ class JSONReader(BaseReader):
         else:
             # Handle data which doesn't have the videos list
             v_data = dict()
-            v_data["media_url"] = _get_media_url(_get_and_check_none(json_data, 'source_url', ''))
+            v_data["source_url"] = _get_and_check_none(json_data, 'source_url', '')
+            v_data["media_url"] = _get_media_url(v_data['source_url'])
             if "youtube" in v_data["media_url"]:
                 v_data["type"] = "youtube"
                 v_data["tag_type"] = "iframe"
@@ -119,7 +139,8 @@ class JSONReader(BaseReader):
             elif v_data["media_url"].endswith(".mp4"):
                 v_data["type"] = "mp4"
                 v_data["tag_type"] = "html5"
-
+            v_data['label'] = _convert_to_label(v_data['type'])
+            v_data['icon'] = _convert_to_icon(v_data['type'])
             videos.append(v_data)
 
         metadata = {'title': _get_and_check_none(json_data, 'title', 'Title'),

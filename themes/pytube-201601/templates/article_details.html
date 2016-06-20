@@ -8,17 +8,19 @@
       {% if article.language %}
         <li>Language: {{ article.language }}</li>
       {% endif %}
-      {% if article.media_url %}
+      {% if article.videos %}
         <li>
-          Media URL: <a href="{{ article.media_url }}">{{ article.media_url }}</a>
+            Media URL: {% for video in article.videos -%}
+                {% if not loop.first %}, {% endif %}<a href="{{ video.source_url }}" rel="external">{{ video.label }}</a>
+            {%- endfor %}
         </li>
       {% endif %}
       {% if article.tags %}
         <li>
           Tags:
-          {% for tag in article.tags %}
-            <a href="/tag/{{ tag }}">{{ tag }}</a>
-          {% endfor %}
+          {% for tag in article.tags -%}
+            {% if not loop.first %}, {% endif %}<a href="/tag/{{ tag }}">{{ tag }}</a>
+          {%- endfor %}
         </li>
       {% endif %}
   </ul>
