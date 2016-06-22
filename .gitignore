@@ -65,6 +65,9 @@ output/
 # Vim
 *.swp
 
+# Mac
+.DS_Store
+
 # PyTube specifics
 *.pem
 env.sh
