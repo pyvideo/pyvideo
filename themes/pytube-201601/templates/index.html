@@ -48,7 +48,7 @@
         <section>
             <h3>Latest events</h3>
             <ul>
-            {% for category in latest_categories[:5] %}
+            {% for category in latest_categories %}
                 <li>
                     <a href="{{ SITEURL }}/{{ category.url }}">{{ category.name }}</a> <span class="badge">{{ category.count }}</span>
                 </li>

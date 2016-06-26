@@ -41,6 +41,7 @@ def _generate_html(data):
 def _collect_event_info(generator):
     events = _load_events()
     if isinstance(generator, generators.ArticlesGenerator):
+        event_by_name = {}
         for event in [x[0] for x in generator.categories]:
             meta = events.get(event.name)
             # Update the slug of the event with the one provided
@@ -48,6 +49,8 @@ def _collect_event_info(generator):
             if meta and 'slug' in meta:
                 event.slug = meta['slug']
             event.meta = meta
+            event_by_name[event.name] = event
+        generator.event_by_name = event_by_name
 
 
 def _load_events():
@@ -56,7 +59,7 @@ def _load_events():
     slugs = set()
     for metafile in path.glob('*/category.json'):
         # skip the schema "category.json" file
-        if '.schema' in str(metafile):
+        if metafile.parent and metafile.parent.name.startswith('.'):
             continue
         with open(str(metafile), encoding='utf-8') as fp:
             data = json.load(fp)
