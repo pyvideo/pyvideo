@@ -1,3 +1,9 @@
+"""
+This plugin provides the data for the "latest"-boxes on the frontpage. It has
+to come after the event_info plugin as this is prepares the event data which
+is used here.
+"""
+from pelican import generators
 from pelican import signals
 from pelican.contents import Article
 
@@ -6,7 +12,7 @@ from collections import defaultdict
 _categories = defaultdict(dict)
 _speakers = defaultdict(dict)
 
-SLUG_BLACKLIST = {'Undefined'}
+CATEGORY_BLACKLIST = {'Undefined'}
 SPEAKER_BLACKLIST = {'Unknown'}
 
 
@@ -16,7 +22,7 @@ def _handle_content_object_init(obj):
         category = getattr(obj, 'category')
         speaker = getattr(obj, 'author')
         if category and category.slug:
-            if category.slug not in SLUG_BLACKLIST:
+            if category.name not in CATEGORY_BLACKLIST:
                 count = _categories[category.slug].get('count', 0)
                 latest = _categories[category.slug].get('latest')
                 if not latest or obj.date > latest:
@@ -24,8 +30,6 @@ def _handle_content_object_init(obj):
                 _categories[category.slug]['count'] = count + 1
                 _categories[category.slug]['latest'] = latest
                 _categories[category.slug]['name'] = category.name
-                _categories[category.slug]['slug'] = category.slug
-                _categories[category.slug]['url'] = category.url
         if speaker:
             if speaker.name not in SPEAKER_BLACKLIST:
                 count = _speakers[speaker.slug].get('count', 0)
@@ -36,10 +40,16 @@ def _handle_content_object_init(obj):
 
 
 def _inject_aggregates(generator):
-    latest_categories = sorted(_categories.values(), key=lambda x: x.get('latest'), reverse=True)
-    active_speakers = sorted(_speakers.values(), key=lambda x: x.get('count'), reverse=True)
-    generator.context['latest_categories'] = latest_categories
-    generator.context['active_speakers'] = active_speakers
+    if isinstance(generator, generators.ArticlesGenerator):
+        latest_categories = sorted(_categories.values(), key=lambda x: x.get('latest'), reverse=True)[:5]
+        active_speakers = sorted(_speakers.values(), key=lambda x: x.get('count'), reverse=True)
+        # The actual category URL has to be fetched in the
+        # article_generator_finalized hook in order for the event_info plugin to
+        # have done its magic.
+        for category in latest_categories:
+            category['url'] = generator.event_by_name[category['name']].url
+        generator.context['latest_categories'] = latest_categories
+        generator.context['active_speakers'] = active_speakers
 
 
 def register():

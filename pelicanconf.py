@@ -89,13 +89,12 @@ PLUGINS = [
     'json_reader',
     'replace_underscore',
     'extended_sitemap',
-    'aggregations',
     'event_series',
-    'event_info'
+    'event_info',
+    'aggregations',
 ]
 
 try:
     PR_NUMBER = int(os.environ.get('TRAVIS_PULL_REQUEST'))
 except (TypeError, ValueError):
     PR_NUMBER = None
-
