@@ -110,3 +110,14 @@ please open an issue_ on Github.
 
 .. _`issue`: https://github.com/pytube/pytube/issues
 .. _`contribution docs`: https://github.com/pytube/data/blob/master/CONTRIBUTING.rst
+
+Want our Google Analytics info?
+===============================
+
+PyTube tries to be as open source as possible. 
+We share the data that we Google Analytics provides
+on request. Please feel free to send an email to pytube.org@gmail.com 
+with the header "Google Analytics Access Request" if you would like access
+to this data. Please note that it may take a few weeks to be granted this 
+access.
+
