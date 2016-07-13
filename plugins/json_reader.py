@@ -1,5 +1,6 @@
 import json
 import logging
+import os
 from urllib.parse import urlparse
 
 import docutils
@@ -10,6 +11,9 @@ from pelican.readers import BaseReader, PelicanHTMLTranslator
 
 
 log = logging.getLogger(__name__)
+
+
+CATEGORY_INFO_BY_FILENAME = {}
 
 
 def _convert_to_label(type_):
@@ -71,6 +75,24 @@ def _get_media_url(url, media_type=""):
         pass
 
     return source_url
+
+
+def _get_category_data(video_filename):
+    """
+    Get category info from category file.
+    """
+    category_dir = os.path.dirname(os.path.dirname(video_filename))
+    category_filename = os.path.join(category_dir, 'category.json')
+
+    if not os.path.exists(category_filename):
+        return {}
+
+    if category_filename not in CATEGORY_INFO_BY_FILENAME:
+        with open(category_filename, 'rt', encoding='UTF-8') as f:
+            json_data = json.loads(f.read())
+        CATEGORY_INFO_BY_FILENAME[category_filename] = json_data
+
+    return CATEGORY_INFO_BY_FILENAME[category_filename]
 
 
 class JSONReader(BaseReader):
@@ -143,9 +165,17 @@ class JSONReader(BaseReader):
             v_data['icon'] = _convert_to_icon(v_data['type'])
             videos.append(v_data)
 
+        category_data = _get_category_data(filename)
+        category = _get_and_check_none(category_data, 'title')
+        if not category:
+            category = _get_and_check_none(
+                json_data,
+                'category',
+                self.settings['DEFAULT_CATEGORY']
+            )
+
         metadata = {'title': _get_and_check_none(json_data, 'title', 'Title'),
-                    'category': _get_and_check_none(json_data, 'category',
-                                                    self.settings['DEFAULT_CATEGORY']),
+                    'category': category,
                     'tags': _get_and_check_none(json_data, 'tags', []),
                     'date': _get_and_check_none(json_data, 'recorded', '1990-01-01'),
                     'slug': _get_and_check_none(json_data, 'slug', 'Slug'),
