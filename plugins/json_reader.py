@@ -1,6 +1,7 @@
 import json
 import logging
 import os
+import pathlib
 from urllib.parse import urlparse
 
 import docutils
@@ -103,6 +104,10 @@ class JSONReader(BaseReader):
     # win (so the one you're defining here, most probably).
     file_extensions = ['json']
 
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self._absolute_data_path = (pathlib.Path(self.settings['PATH']) / self.settings['DATA_DIR']).resolve()
+
     def _get_publisher(self, source, source_file_path):
         # This is a slightly modified copy of `RstReader._get_publisher`
         extra_params = {'initial_header_level': '4',
@@ -130,6 +135,7 @@ class JSONReader(BaseReader):
         with open(filename, 'rt', encoding='UTF-8') as f:
             json_data = json.loads(f.read())
 
+        data_path = str(pathlib.Path(filename).resolve().relative_to(self._absolute_data_path))
         videos = list()
         iframe_types = ["youtube", "vimeo"]
         html5_types = ["ogv", "mp4"]
@@ -181,6 +187,7 @@ class JSONReader(BaseReader):
                     'slug': _get_and_check_none(json_data, 'slug', 'Slug'),
                     'authors': _get_and_check_none(json_data, 'speakers', []),
                     'videos': videos,
+                    'data_path': data_path,
                     'media_url': _get_media_url(_get_and_check_none(json_data, 'source_url', '')),
                     'thumbnail_url': _get_and_check_none(json_data, 'thumbnail_url', ''),
                     'language': _get_and_check_none(json_data, 'language', ''),
