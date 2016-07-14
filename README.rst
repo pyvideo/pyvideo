@@ -5,14 +5,14 @@ pytube
    :alt: Join the chat at https://gitter.im/pytube/pytube
    :target: https://gitter.im/pytube/pytube?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
-|travis|
+.. image:: https://travis-ci.org/pytube/pytube.svg?branch=master
+    :target: https://travis-ci.org/pytube/pytube
+
+.. image:: https://zenodo.org/badge/23288/pytube/pytube.svg
+   :target: https://zenodo.org/badge/latestdoi/23288/pytube/pytube
 
 http://pytube.org is simply an index of Python-related media records. The raw
 data being used here comes out of the `pytube/data`_ repo.
-
-
-.. |travis| image:: https://travis-ci.org/pytube/pytube.svg?branch=master
-    :target: https://travis-ci.org/pytube/pytube
 
 .. _`pytube/data`: https://github.com/pytube/data
 
