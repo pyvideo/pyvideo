@@ -86,9 +86,9 @@ regenerate: link-data
 
 serve:
 ifdef PORT
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
+	cd $(OUTPUTDIR) && echo "Use the link http://localhost:$(PORT)" && $(PY) -m pelican.server $(PORT)
 else
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server
+	cd $(OUTPUTDIR) && echo "Use the link http://localhost:8000" && $(PY) -m pelican.server
 endif
 
 devserver: link-data
