@@ -14,6 +14,7 @@ import logging
 from pelican.readers import PelicanHTMLTranslator
 from pelican import generators
 from pelican import signals
+from pelican.utils import slugify
 from pathlib import Path
 
 
@@ -64,7 +65,7 @@ def _load_events():
         with open(str(metafile), encoding='utf-8') as fp:
             data = json.load(fp)
             title = data['title']
-            slug = data['slug']
+            slug = slugify(title)
             if data['description']:
                 data['description'] = _generate_html(data['description'])
             if title in events:
