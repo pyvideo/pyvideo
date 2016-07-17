@@ -23,5 +23,17 @@
           {%- endfor %}
         </li>
       {% endif %}
+      {% if article.related_urls %}
+        <li>
+          Related URLs:
+          <ul class="related-urls">
+            {% for url in article.related_urls -%}
+              <li><a href="{{ url }}">{{ url|truncate(100) }}</a></li>
+            {%- endfor %}
+          </ul>
+        </li>
+      {% endif %}
+ 
   </ul>
 </div>
+
