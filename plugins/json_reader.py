@@ -180,17 +180,19 @@ class JSONReader(BaseReader):
                 self.settings['DEFAULT_CATEGORY']
             )
 
-        metadata = {'title': _get_and_check_none(json_data, 'title', 'Title'),
-                    'category': category,
-                    'tags': _get_and_check_none(json_data, 'tags', []),
-                    'date': _get_and_check_none(json_data, 'recorded', '1990-01-01'),
-                    'slug': _get_and_check_none(json_data, 'slug', 'Slug'),
-                    'authors': _get_and_check_none(json_data, 'speakers', []),
-                    'videos': videos,
-                    'data_path': data_path,
-                    'media_url': _get_media_url(_get_and_check_none(json_data, 'source_url', '')),
-                    'thumbnail_url': _get_and_check_none(json_data, 'thumbnail_url', ''),
-                    'language': _get_and_check_none(json_data, 'language', ''),
+        metadata = {
+            'title': _get_and_check_none(json_data, 'title', 'Title'),
+            'category': category,
+            'tags': _get_and_check_none(json_data, 'tags', []),
+            'date': _get_and_check_none(json_data, 'recorded', '1990-01-01'),
+            'slug': _get_and_check_none(json_data, 'slug', 'Slug'),
+            'authors': _get_and_check_none(json_data, 'speakers', []),
+            'videos': videos,
+            'data_path': data_path,
+            'media_url': _get_media_url(_get_and_check_none(json_data, 'source_url', '')),
+            'thumbnail_url': _get_and_check_none(json_data, 'thumbnail_url', ''),
+            'language': _get_and_check_none(json_data, 'language', ''),
+            'related_urls': _get_and_check_none(json_data, 'related_urls', []),
         }
 
         # Send metadata through pelican parser to check pelican required formats
@@ -221,3 +223,4 @@ def add_reader(readers):
 
 def register():
     signals.readers_init.connect(add_reader)
+

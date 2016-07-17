@@ -27,9 +27,10 @@ a {
 
 /* Custom page footer */
 .footer {
-  padding-top: 19px;
-  color: #767676;
   border-top: 1px solid #e5e5e5;
+  color: #767676;
+  margin-top: 10px;
+  padding-top: 19px;
 }
 
 /* Customize container */
@@ -64,6 +65,12 @@ div.container ul {
   padding-left: 0px;
   list-style-type: none;
   font-size: 1.05em;
+}
+
+div.container ul.related-urls {
+  font-size: 0.9em;
+  list-style-type: disc;
+  padding-left: 15px;
 }
 
 div.row ul li {
@@ -324,3 +331,4 @@ input.gsc-input,
 .event__description {
   margin-bottom: 20px;
 }
+
