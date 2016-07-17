@@ -25,7 +25,7 @@ Development setup
 
 Setting up a development environment is as simple as four easy steps.
 
-1. Clone repo
+1. Clone repo (recursively; it contains submodules)
 2. Install dependencies
 3. Build reST files from JSON files
 4. Build HTML files from reST files
