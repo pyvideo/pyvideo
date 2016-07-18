@@ -19,7 +19,7 @@
         <li>
           Tags:
           {% for tag in article.tags -%}
-            {% if not loop.first %}, {% endif %}<a href="/tag/{{ tag.url }}">{{ tag }}</a>
+            {% if not loop.first %}, {% endif %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
           {%- endfor %}
         </li>
       {% endif %}
