@@ -51,6 +51,10 @@ def _inject_aggregates(generator):
         generator.context['latest_categories'] = latest_categories
         generator.context['active_speakers'] = active_speakers
 
+    generator.context['tag_counts'] = sorted([(len(articles), tag)
+                                              for tag, articles in generator.context['tags']],
+                                             reverse=True)
+
 
 def register():
     signals.content_object_init.connect(_handle_content_object_init)
