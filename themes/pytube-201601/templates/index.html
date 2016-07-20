@@ -66,12 +66,13 @@
             <p><a href="{{ SITE_URL }}/speakers.html">See all speakers...</a></p>
         </section>
         <section>
-            <h3>Most used tags</h3>
+            <h3>Most active tags</h3>
             <ul>
-            {% for count, tag in tag_counts[:10] %}
-                <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}<span class="badge">{{ count }}</span></a></li>
+            {% for tag in active_tags[:10] %}
+                <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag.name }}</a> <span class="badge">{{ tag.count }}</span></li>
             {% endfor %}
             </ul>
+            <p><a href="{{ SITE_URL }}/tags.html">See all tags...</a></p>
         </section>
       </aside></div>
     </div>
