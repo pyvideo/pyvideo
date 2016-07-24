@@ -17,6 +17,8 @@ IGNORE_FILES = [
     'CONTRIBUTORS.rst',
     NO_PUBLISH_FILE,
     'README.rst',
+    '*.schemas/video.json',
+    '*posters/apsimregions-a-gridded-modeling-framework-for-th.json',
 ]
 
 TIMEZONE = 'UTC'
