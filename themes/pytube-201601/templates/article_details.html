@@ -6,7 +6,7 @@
         <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
       </li>
       {% if article.language %}
-        <li>Language: {{ article.language }}</li>
+        <li>Language: {{ article.language|language_name }}</li>
       {% endif %}
       {% if article.videos %}
         <li>
@@ -33,7 +33,6 @@
           </ul>
         </li>
       {% endif %}
- 
+
   </ul>
 </div>
-
