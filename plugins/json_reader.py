@@ -9,6 +9,7 @@ import docutils.io
 from docutils.core import publish_parts
 from pelican import signals
 from pelican.readers import BaseReader, PelicanHTMLTranslator
+from pelican.utils import slugify
 
 
 log = logging.getLogger(__name__)
@@ -180,12 +181,17 @@ class JSONReader(BaseReader):
                 self.settings['DEFAULT_CATEGORY']
             )
 
+        title = _get_and_check_none(json_data, 'title', 'Title')
+        slug = _get_and_check_none(json_data, 'slug')
+        if slug is None:
+            slug = slugify(title)
+
         metadata = {
-            'title': _get_and_check_none(json_data, 'title', 'Title'),
+            'title': title,
             'category': category,
             'tags': _get_and_check_none(json_data, 'tags', []),
             'date': _get_and_check_none(json_data, 'recorded', '1990-01-01'),
-            'slug': _get_and_check_none(json_data, 'slug', 'Slug'),
+            'slug': slug,
             'authors': _get_and_check_none(json_data, 'speakers', []),
             'videos': videos,
             'data_path': data_path,
