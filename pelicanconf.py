@@ -94,6 +94,25 @@ PLUGINS = [
     'aggregations',
 ]
 
+VIDEO_LANGUAGE_NAMES = {
+    'ita': 'Italian',
+    'zho': 'Chinese',
+    'por': 'Portuguese',
+    'ukr': 'Ukrainian',
+    'deu': 'German',
+    'eng': 'English',
+    'rus': 'Russian',
+    'fra': 'French',
+    'spa': 'Spanish',
+}
+
+def jinja_language_name(code):
+    return VIDEO_LANGUAGE_NAMES.get(code, code)
+
+JINJA_FILTERS = {
+    'language_name': jinja_language_name,
+}
+
 try:
     PR_NUMBER = int(os.environ.get('TRAVIS_PULL_REQUEST'))
 except (TypeError, ValueError):
