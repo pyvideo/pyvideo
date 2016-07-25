@@ -10,7 +10,8 @@
     <nav class="events">
         <div class="col-md-12">
             <div class="row">
-            {% for batch in event_series|batch(event_series|length / 2) %}
+            {% set batch_size=event_series|length / 2 %}
+            {% for batch in event_series|batch(batch_size|round(0, 'ceil')|int) %}
                 <div class="col-md-6 col-sm-12">
                     <ul class="events">
                         {% for event in batch %}
