@@ -61,8 +61,10 @@ def drop_no_publish(pelican_proj_obj):
         return
 
     no_publish_file_path = os.path.join(path, data_dir, no_publish_file)
-    with open(no_publish_file_path, encoding='utf-8') as fp:
-        no_publish_ids = set(json.load(fp))
+    no_publish_ids = None
+    if os.path.exists(no_publish_file_path):
+        with open(no_publish_file_path, encoding='utf-8') as fp:
+            no_publish_ids = set(json.load(fp))
 
     if not no_publish_ids:
         return
