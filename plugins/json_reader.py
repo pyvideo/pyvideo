@@ -22,6 +22,7 @@ def _convert_to_label(type_):
     labels = {
         'youtube': 'YouTube',
         'vimeo': 'Vimeo',
+        'wistia': 'Wistia',
     }
     return labels.get(type_.lower(), type_.upper())
 
@@ -138,7 +139,7 @@ class JSONReader(BaseReader):
 
         data_path = str(pathlib.Path(filename).resolve().relative_to(self._absolute_data_path))
         videos = list()
-        iframe_types = ["youtube", "vimeo"]
+        iframe_types = ["youtube", "vimeo", "wistia"]
         html5_types = ["ogv", "mp4"]
         if 'videos' in json_data and isinstance(json_data['videos'], list) and len(json_data['videos']) > 0:
             for v in json_data['videos']:
@@ -196,7 +197,7 @@ class JSONReader(BaseReader):
             'videos': videos,
             'data_path': data_path,
             'media_url': _get_media_url(_get_and_check_none(json_data, 'source_url', '')),
-            'thumbnail_url': _get_and_check_none(json_data, 'thumbnail_url', ''),
+            'thumbnail_url': _get_and_check_none(json_data, 'thumbnail_url', '/images/default_thumbnail_url.png'),
             'language': _get_and_check_none(json_data, 'language', ''),
             'related_urls': _get_and_check_none(json_data, 'related_urls', []),
         }
@@ -229,4 +230,3 @@ def add_reader(readers):
 
 def register():
     signals.readers_init.connect(add_reader)
-
