@@ -87,6 +87,7 @@ EXTRA_PATH_METADATA = {
 
 PLUGIN_PATHS = ['plugins']
 PLUGINS = [
+    'pelican_alias',
     'drop_no_publish',
     'json_reader',
     'replace_underscore',
