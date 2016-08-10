@@ -202,6 +202,12 @@ class JSONReader(BaseReader):
             'related_urls': _get_and_check_none(json_data, 'related_urls', []),
         }
 
+        alias = _get_and_check_none(json_data, 'alias')
+        if alias:
+            if not alias.endswith('/'):
+                alias += '/'
+            metadata['alias'] = alias
+
         # Send metadata through pelican parser to check pelican required formats
         metadata = {key: self.process_metadata(key, value) for key, value in metadata.items()}
 

@@ -70,6 +70,10 @@
       Viewing PR <a href="https://github.com/pytube/pytube/pull/{{ PR_NUMBER }}">#{{ PR_NUMBER }}</a>
     </div>
   {% endif %}
+  <div class="header notice clearfix">
+    Looking for <b>pyvideo.org</b>? It's moved to <b>pytube.org</b>!
+    <a href="/pages/domain-change.html">Read More</a>
+  </div>
   <header id="banner" class="header clearfix">
     <nav class="header__nav">
       <ul class="nav container">
@@ -90,7 +94,9 @@
         </li>
 
         {% for p in pages %}
-          <li role="presentation"{% if p == page %} class="active"{% endif %}>
+          <li role="presentation"
+              {% if p == page %} class="active"{% endif %}
+              {% if p.slug =="domain-change" %}style="display: none;"{% endif %}>
             <a href="{{ SITEURL }}/{{ p.url }}"><i class="fa fa-fw fa-info"></i> <span>{{ p.title }}</span></a>
           </li>
         {% endfor %}

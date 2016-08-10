@@ -24,6 +24,8 @@ events. PyVideo.org_, and now PyTube.org_, are **freely** available indexes of
 freely available resources that seek to provide everyone with the
 opportunity to learn about Python.
 
+Read more on `why the domain change occurred`_.
+
 Where?
 ------
 
@@ -44,6 +46,7 @@ Pytube is maintained by volunteers listed in the `CONTRIBUTORS`_ file.
 Questions or concerns regarding the site can be addressed to
 `pytube.org@gmail.com`_.
 
+.. _`why the domain change occurred`: /pages/domain-change.html
 .. _`CONTRIBUTORS`: https://github.com/pytube/pytube/blob/master/CONTRIBUTORS.rst
 .. _`pytube.org@gmail.com`: mailto: pytube.org@gmail.com
 .. _`volunteering wiki page`: https://github.com/pytube/pytube/wiki/How-to-Volunteer
