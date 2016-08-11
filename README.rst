@@ -121,3 +121,12 @@ with the header "Google Analytics Access Request" if you would like access
 to this data. Please note that it may take a few weeks to be granted this 
 access.
 
+PyTube or Pyvideo
+=================
+
+Due to some migration pains, this site has gone through a name change.
+Although the website is named pyvideo.org, this code base contains many
+references to the old website name pytube.org. This will be fixed in the
+future.
+
+
