@@ -124,7 +124,7 @@ access.
 PyTube or Pyvideo
 =================
 
-Do to some migration pains, this site has gone through a name change.
+Due to some migration pains, this site has gone through a name change.
 Although the website is named pyvideo.org, this code base contains many
 references to the old website name pytube.org. This will be fixed in the
 future.
