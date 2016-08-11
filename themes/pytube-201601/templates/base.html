@@ -71,8 +71,8 @@
     </div>
   {% endif %}
   <div class="header notice clearfix">
-    Looking for <b>pyvideo.org</b>? It's moved to <b>pytube.org</b>!
-    <a href="/pages/domain-change.html">Read More</a>
+    Looking for <b>pyvideo.org</b>? It's moved!
+    <a href="/pages/thanks-will-and-sheila.html">Read More</a>
   </div>
   <header id="banner" class="header clearfix">
     <nav class="header__nav">
@@ -96,7 +96,7 @@
         {% for p in pages %}
           <li role="presentation"
               {% if p == page %} class="active"{% endif %}
-              {% if p.slug =="domain-change" %}style="display: none;"{% endif %}>
+              {% if p.slug =="thanks-will-and-sheila" %}style="display: none;"{% endif %}>
             <a href="{{ SITEURL }}/{{ p.url }}"><i class="fa fa-fw fa-info"></i> <span>{{ p.title }}</span></a>
           </li>
         {% endfor %}
@@ -104,7 +104,7 @@
     </nav>
     <div class="container">
       <h3 class="text-muted header__title">
-      <a href="{{ SITEURL }}/"><img src="/theme/images/logo.png" alt="" style="height:50px"> <span><i>Py</i>Tube</span> <strong>{{ SITESUBTITLE }}</strong></a>
+      <a href="{{ SITEURL }}/"><img src="/theme/images/logo.png" alt="" style="height:50px"> <span><i>Py</i>Video</span> <strong>{{ SITESUBTITLE }}</strong></a>
       </h3>
       <div class="header__searchbox">
         <gcse:search></gcse:search>
@@ -119,7 +119,7 @@
     <footer class="footer">
       <p>
         &copy; 
-        <a href="https://github.com/pytube/pytube/blob/master/LICENSE">PyTube.org</a> | 
+        <a href="https://github.com/pytube/pytube/blob/master/LICENSE">PyVideo.org</a> |
         <a href="https://github.com/pytube/data/blob/master/LICENSE">pytube/data</a>
       </p>
     </footer>
