@@ -69,7 +69,7 @@ production_push:
 deploy: publish production_push
 
 preview_push:
-	cd $(OUTPUTDIR) && echo "preview.pytube.org" > CNAME
+	cd $(OUTPUTDIR) && echo "preview.pyvideo.org" > CNAME
 	cd $(OUTPUTDIR) && git init && git add .
 	cd $(OUTPUTDIR) && git commit -m "Initial commit"
 	cd $(OUTPUTDIR) && git remote add origin $(PREVIEW_GITHUB_PAGES_REPO)
