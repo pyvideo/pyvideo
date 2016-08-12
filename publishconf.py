@@ -10,10 +10,10 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://pytube.org'
+SITEURL = 'http://pyvideo.org'
 RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = True
 
-GOOGLE_ANALYTICS = 'UA-72949800-1'
+GOOGLE_ANALYTICS = 'UA-72949800-2'
 

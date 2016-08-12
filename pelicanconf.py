@@ -5,7 +5,7 @@ import json
 import os
 
 AUTHOR = 'Unknown'
-SITENAME = 'PyTube.org'
+SITENAME = 'PyVideo.org'
 
 PATH = 'content'
 DATA_DIR = 'conferences'
