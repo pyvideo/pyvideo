@@ -62,9 +62,12 @@ div.container h2 {
 }
 
 div.container ul {
+  font-size: 1.05em;
+}
+
+div.details-content ul {
   padding-left: 0px;
   list-style-type: none;
-  font-size: 1.05em;
 }
 
 div.container ul.related-urls {
@@ -91,6 +94,10 @@ article img {
 
 div.entry-content img {
   border-radius: 25px;
+}
+
+div.entry-content {
+  text-align: justify;
 }
 
 article.list_item div {
