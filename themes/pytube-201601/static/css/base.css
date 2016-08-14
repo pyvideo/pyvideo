@@ -93,6 +93,10 @@ div.entry-content img {
   border-radius: 25px;
 }
 
+div.entry-content {
+  text-align: justify;
+}
+
 article.list_item div {
   display: inline-block;
   max-width: 450px;
