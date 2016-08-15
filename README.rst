@@ -1,14 +1,22 @@
 pytube
 ######
 
-|travis|
+.. image:: https://badges.gitter.im/pyvideo/pyvideo.svg
+   :alt: Join the chat at https://gitter.im/pyvideo/pyvideo
+   :target: https://gitter.im/pyvideo/pyvideo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
+.. image:: https://badges.gitter.im/pytube/pytube.svg
+   :alt: Join the chat at https://gitter.im/pytube/pytube
+   :target: https://gitter.im/pytube/pytube?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
+.. image:: https://travis-ci.org/pytube/pytube.svg?branch=master
+    :target: https://travis-ci.org/pytube/pytube
+
+.. image:: https://zenodo.org/badge/23288/pytube/pytube.svg
+   :target: https://zenodo.org/badge/latestdoi/23288/pytube/pytube
 
 http://pytube.org is simply an index of Python-related media records. The raw
 data being used here comes out of the `pytube/data`_ repo.
-
-
-.. |travis| image:: https://travis-ci.org/pytube/pytube.svg?branch=master
-    :target: https://travis-ci.org/pytube/pytube
 
 .. _`pytube/data`: https://github.com/pytube/data
 
@@ -21,7 +29,7 @@ Development setup
 
 Setting up a development environment is as simple as four easy steps.
 
-1. Clone repo
+1. Clone repo (recursively; it contains submodules)
 2. Install dependencies
 3. Build reST files from JSON files
 4. Build HTML files from reST files
@@ -64,6 +72,19 @@ To view the site, run the following command::
 This will start development server on port 8000. Goto browser and open
 http://localhost:8000 to view your local version of pytube.org!
 
+Debugging
+=========
+
+If you're trying to debug unexpected build results, you can pass one of two
+variables to the make process to influence to logging level::
+
+  # Show Pelican warnings
+  $ make VERBOSE=1 html
+
+  # Show even more output
+  $ make DEBUG=1 html
+
+
 Accessibility tests
 ===================
 
@@ -93,3 +114,23 @@ please open an issue_ on Github.
 
 .. _`issue`: https://github.com/pytube/pytube/issues
 .. _`contribution docs`: https://github.com/pytube/data/blob/master/CONTRIBUTING.rst
+
+Want our Google Analytics info?
+===============================
+
+PyTube tries to be as open source as possible. 
+We share the data that Google Analytics collects on request. 
+Please feel free to send an email to pytube.org@gmail.com 
+with the header "Google Analytics Access Request" if you would like access
+to this data. Please note that it may take a few weeks to be granted this 
+access.
+
+PyTube or Pyvideo
+=================
+
+Due to some migration pains, this site has gone through a name change.
+Although the website is named pyvideo.org, this code base contains many
+references to the old website name pytube.org. This will be fixed in the
+future.
+
+
