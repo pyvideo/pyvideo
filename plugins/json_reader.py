@@ -199,7 +199,7 @@ class JSONReader(BaseReader):
             'media_url': _get_media_url(_get_and_check_none(json_data, 'source_url', '')),
             'thumbnail_url': _get_and_check_none(json_data, 'thumbnail_url', '/images/default_thumbnail_url.png'),
             'language': _get_and_check_none(json_data, 'language', ''),
-            'related_urls': _get_and_check_none(json_data, 'related_urls', []),
+            'related_urls': map_related_urls(_get_and_check_none(json_data, 'related_urls', [])),
         }
 
         alias = _get_and_check_none(json_data, 'alias')
@@ -228,6 +228,19 @@ class JSONReader(BaseReader):
                     content.append('<pre>{}</pre>'.format(json_part))
 
         return "".join(content), metadata
+
+
+def map_related_urls(urls):
+    result = []
+    for url in urls:
+        if isinstance(url, dict):
+            result.append(url)
+        else:
+            result.append({
+                'url': url,
+                'label': None,
+            })
+    return result
 
 
 def add_reader(readers):
