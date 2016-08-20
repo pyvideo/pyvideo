@@ -8,5 +8,5 @@ branches:
   - master
 before_install:
 - openssl aes-256-cbc -K $encrypted_03e7560a8253_key -iv $encrypted_03e7560a8253_iv
-  -in keys.tgz.enc -out .ssh/keys.tgz -d
+  -in .ssh/keys.tgz.enc -out .ssh/keys.tgz -d
 - tar xvzf .ssh/keys.tgz
