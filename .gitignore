@@ -80,3 +80,5 @@ content/*
 .ssh/preview
 .ssh/preview.pub
 .ssh/pytube
+.ssh/keys.tgz
+.ssh/keys/

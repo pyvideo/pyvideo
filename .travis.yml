@@ -7,9 +7,6 @@ branches:
   only:
   - master
 before_install:
-- uname -a
-- openssl version
 - openssl aes-256-cbc -K $encrypted_03e7560a8253_key -iv $encrypted_03e7560a8253_iv
-  -in .ssh/production.enc -out .ssh/production -d
-- openssl aes-256-cbc -K $encrypted_03e7560a8253_key -iv $encrypted_03e7560a8253_iv
-  -in .ssh/preview.enc -out .ssh/preview -d
+  -in keys.tgz.enc -out .ssh/keys.tgz -d
+- tar xvzf .ssh/keys.tgz
