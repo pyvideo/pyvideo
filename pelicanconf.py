@@ -66,11 +66,8 @@ DELETE_OUTPUT_DIRECTORY = True
 
 THEME = 'themes/pytube-201601/'
 
-GITHUB_URL = 'https://github.com/pytube/pytube'
-CONTRIBUTE_URL = 'https://github.com/pytube/pytube/wiki/How-to-Contribute-Media'
-
-PUBLISHER_URL = (os.environ.get('PUBLISHER_URL') or '').strip()
-PUBLISHER_URL = PUBLISHER_URL or 'https://publisher.pytube.org/publish'
+GITHUB_URL = 'https://github.com/pyvideo/pyvideo'
+CONTRIBUTE_URL = 'https://github.com/pyvideo/pyvideo/wiki/How-to-Contribute-Media'
 
 STATIC_PATHS = [
     'images',

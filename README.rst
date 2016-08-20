@@ -1,24 +1,21 @@
-pytube
+pyvideo
 ######
 
-.. image:: https://badges.gitter.im/pytube/pytube.svg
-   :alt: Join the chat at https://gitter.im/pytube/pytube
-   :target: https://gitter.im/pytube/pytube?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+.. image:: https://badges.gitter.im/pyvideo/pyvideo.svg
+   :alt: Join the chat at https://gitter.im/pyvideo/pyvideo
+   :target: https://gitter.im/pyvideo/pyvideo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
-.. image:: https://travis-ci.org/pytube/pytube.svg?branch=master
-    :target: https://travis-ci.org/pytube/pytube
+.. image:: https://travis-ci.org/pyvideo/pyvideo.svg?branch=master
+    :target: https://travis-ci.org/pyvideo/pyvideo
 
-.. image:: https://zenodo.org/badge/23288/pytube/pytube.svg
-   :target: https://zenodo.org/badge/latestdoi/23288/pytube/pytube
+http://pyvideo.org is simply an index of Python-related media records. The raw
+data being used here comes out of the `pyvideo/data`_ repo.
 
-http://pytube.org is simply an index of Python-related media records. The raw
-data being used here comes out of the `pytube/data`_ repo.
-
-.. _`pytube/data`: https://github.com/pytube/data
+.. _`pyvideo/data`: https://github.com/pyvideo/data
 
 Before opening a PR, please check out our `Development Philosophy`_.
 
-.. _`Development Philosophy`: https://github.com/pytube/pytube/wiki/Development-Philosophy
+.. _`Development Philosophy`: https://github.com/pyvideo/pyvideo/wiki/Development-Philosophy
 
 Development setup
 =================
@@ -34,11 +31,11 @@ All of these steps are explained in detail below.
 
 First, pull down this repo's code::
 
-  $ git clone --recursive https://github.com/pytube/pytube.git
+  $ git clone --recursive https://github.com/pyvideo/pyvideo.git
 
 Then, install the dependencies for building this site. It is recommended to
 install all the requirements inside virtualenv_, use virtualenvwrapper_ to
-manage virtualenvs. **Building pytube.org requires Python 3.5**
+manage virtualenvs. **Building pyvideo.org requires Python 3.5**
 
 .. _virtualenv: https://virtualenv.pypa.io/en/latest/
 .. _virtualenvwrapper: https://virtualenvwrapper.readthedocs.org/en/latest/
@@ -46,7 +43,7 @@ manage virtualenvs. **Building pytube.org requires Python 3.5**
 First of all, create a virtual environment to install all the dependencies
 into either using virtualenvwrapper::
 
-  $ mkvirtualenv -p python3 pytube
+  $ mkvirtualenv -p python3 pyvideo
 
 \... or using pyvenv::
 
@@ -66,7 +63,7 @@ To view the site, run the following command::
   $ make serve
 
 This will start development server on port 8000. Goto browser and open
-http://localhost:8000 to view your local version of pytube.org!
+http://localhost:8000 to view your local version of pyvideo.org!
 
 Debugging
 =========
@@ -95,10 +92,10 @@ Want to help?
 =============
 
 We'd love the help! All feature ideas and bugs-to-be-fixed are listed in the
-`issues <https://github.com/pytube/pytube/issues>`_ associated with this repo. Please check there for ideas on
+`issues <https://github.com/pyvideo/pyvideo/issues>`_ associated with this repo. Please check there for ideas on
 how to contribute. Thanks!
 
-If you want to contribute new media, please check the `pytube/data`_ repo
+If you want to contribute new media, please check the `pyvideo/data`_ repo
 and its `contribution docs`_.
 
 
@@ -108,8 +105,8 @@ Found an issue?
 If you've found an issue with the site or something that could be done better,
 please open an issue_ on Github.
 
-.. _`issue`: https://github.com/pytube/pytube/issues
-.. _`contribution docs`: https://github.com/pytube/data/blob/master/CONTRIBUTING.rst
+.. _`issue`: https://github.com/pyvideo/pyvideo/issues
+.. _`contribution docs`: https://github.com/pyvideo/data/blob/master/CONTRIBUTING.rst
 
 Want our Google Analytics info?
 ===============================
@@ -120,13 +117,4 @@ Please feel free to send an email to pytube.org@gmail.com
 with the header "Google Analytics Access Request" if you would like access
 to this data. Please note that it may take a few weeks to be granted this 
 access.
-
-PyTube or Pyvideo
-=================
-
-Due to some migration pains, this site has gone through a name change.
-Although the website is named pyvideo.org, this code base contains many
-references to the old website name pytube.org. This will be fixed in the
-future.
-
 

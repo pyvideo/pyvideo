@@ -9,8 +9,8 @@ DATADIR=$(BASEDIR)/data
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-GITHUB_PAGES_REPO=git@github.com:pytube/pytube.github.io.git
-PREVIEW_GITHUB_PAGES_REPO=git@github.com:pytube-preview/pytube-preview.github.io.git
+GITHUB_PAGES_REPO=git@github.com:pyvideo/pyvideo.github.io.git
+PREVIEW_GITHUB_PAGES_REPO=git@github.com:pyvideo-preview/pyvideo-preview.github.io.git
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)

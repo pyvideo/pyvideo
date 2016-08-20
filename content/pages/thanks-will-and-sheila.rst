@@ -22,8 +22,8 @@ What Now
 
 Will and Sheila's work will continue but at a slightly different repo.
 
-For now, work is continuing at https://github.com/pytube/pytube and
-https://github.com/pytube/data. The first repo contains the code that is used
+For now, work is continuing at https://github.com/pyvideo/pyvideo and
+https://github.com/pyvideo/data. The first repo contains the code that is used
 to build this static site. The second repo contains the all the data that
 is present on this site.
 
@@ -31,8 +31,8 @@ Both repos are completely volunteer driven and help is welcome. If you're
 interested in helping out and want to ask a few questions, feel free to join
 us on our two gitter.im channels.
 
-- https://gitter.im/pytube/pytube
-- https://gitter.im/pytube/data
+- https://gitter.im/pyvideo/pyvideo
+- https://gitter.im/pyvideo/data
 
 .. _`Will's blog`: http://bluesock.org/~willkg/blog/pyvideo/status_20160316.html
 
