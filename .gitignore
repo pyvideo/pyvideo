@@ -75,7 +75,8 @@ content/*
 !content/pages/
 !content/images/
 !content/extra/
-.ssh/travis
-.ssh/travis.pub
+.ssh/production
+.ssh/production.pub
 .ssh/preview
 .ssh/preview.pub
+.ssh/pytube
