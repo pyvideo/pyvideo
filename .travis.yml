@@ -8,7 +8,7 @@ branches:
   - master
 before_install:
 - openssl aes-256-cbc -K $encrypted_812dd97dd09b_key -iv $encrypted_812dd97dd09b_iv
-  -in production.enc -out production -d
+  -in .ssh/production.enc -out .ssh/production -d
 - openssl aes-256-cbc -K $encrypted_812dd97dd09b_key -iv $encrypted_812dd97dd09b_iv
-  -in preview.enc -out preview -d
+  -in .ssh/preview.enc -out .ssh/preview -d
 
