@@ -66,7 +66,7 @@ def _load_events():
             data = json.load(fp)
             title = data['title']
             slug = slugify(title)
-            if data['description']:
+            if data.get('description'):
                 data['description'] = _generate_html(data['description'])
             if title in events:
                 log.critical('{} is not a unique category title!'.format(title))
