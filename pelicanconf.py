@@ -52,6 +52,7 @@ USE_FOLDER_AS_CATEGORY = False
 # Feeds
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
+FEED_MAX_ITEMS = 30
 CATEGORY_FEED_ATOM = 'feeds/event_%s.atom.xml'
 CATEGORY_FEED_RSS = 'feeds/event_%s.rss.xml'
 AUTHOR_FEED_ATOM = 'feeds/speaker_%s.atom.xml'
