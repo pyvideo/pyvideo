@@ -106,6 +106,8 @@ VIDEO_LANGUAGE_NAMES = {
     'fra': 'French',
     'spa': 'Spanish',
     'eus': 'Basque',
+    'cat': 'Catalan',
+    'glg': 'Galician',
 }
 
 def jinja_language_name(code):
