@@ -108,6 +108,9 @@ VIDEO_LANGUAGE_NAMES = {
     'eus': 'Basque',
     'cat': 'Catalan',
     'glg': 'Galician',
+    'kor': 'Korean',
+    'lit': 'Lithuanian',
+    'jpn': 'Japanese',
 }
 
 def jinja_language_name(code):
