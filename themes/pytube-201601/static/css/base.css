@@ -52,6 +52,9 @@ a {
 }
 
 /* Customized Styles */
+ul.content-list {
+  padding-left: 0;
+}
 
 ul.content-list li {
   margin-bottom: 10px;
@@ -100,13 +103,19 @@ div.entry-content {
   text-align: justify;
 }
 
+article.list_item {
+  width: 100%;
+  overflow: hidden;
+}
+
 article.list_item div {
   display: inline-block;
-  max-width: 450px;
+  max-width: 490px;
 }
 
 article.list_item .thumb {
-  vertical-align: top;
+  max-width: 210px;
+  float: left;
 }
 
 .index-content article {
@@ -348,4 +357,3 @@ input.gsc-input,
 .event__description {
   margin-bottom: 20px;
 }
-
