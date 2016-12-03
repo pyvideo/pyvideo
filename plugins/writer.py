@@ -22,8 +22,11 @@ class PyVideoWriter(Writer):
     def key_func(self, element):
         path = element.data_path  # eg. pydata-dc-2016/videos/closing-session.json
         event_dir = path.split('/')[0]
-        cmp_key = self.sorted_events.index(event_dir)
-        return cmp_key
+        if event_dir not in self.sorted_events:
+            return len(self.sorted_events)
+        else:
+            cmp_key = self.sorted_events.index(event_dir)
+            return cmp_key
 
     @property
     def sorted_events(self):
