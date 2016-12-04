@@ -35,7 +35,7 @@ class PyVideoWriter(Writer):
             old_wd = os.getcwd()
             os.chdir('data')
             for path in glob.iglob('**/category.json'):
-                directory = os.path.split(path)[0]
+                directory = os.path.dirname(path)
                 command = "git log --diff-filter=A --follow --format=%ai -1 --".split()
                 command.append(path)
                 output = subprocess.check_output(
