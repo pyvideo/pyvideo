@@ -14,7 +14,7 @@ IGNORE_FILES = [
     '.#*',
     'category.json',
     'CONTRIBUTING.rst',
-    'CONTRIBUTORS.rst',
+    'CONTRIBUTORS_WITHOUT_COMMITS.rst',
     NO_PUBLISH_FILE,
     'README.rst',
     '*.schemas/video.json',
@@ -50,9 +50,9 @@ AUTHORS_SAVE_AS = 'speakers.html'
 USE_FOLDER_AS_CATEGORY = False
 
 # Feeds
+FEED_MAX_ITEMS = 100
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
-FEED_MAX_ITEMS = 30
 CATEGORY_FEED_ATOM = 'feeds/event_%s.atom.xml'
 CATEGORY_FEED_RSS = 'feeds/event_%s.rss.xml'
 AUTHOR_FEED_ATOM = 'feeds/speaker_%s.atom.xml'
@@ -93,6 +93,7 @@ PLUGINS = [
     'event_series',
     'event_info',
     'aggregations',
+    'writer',
 ]
 
 VIDEO_LANGUAGE_NAMES = {
