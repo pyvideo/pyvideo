@@ -1,3 +1,7 @@
+import datetime
+import glob
+import operator
+import os
 import subprocess
 
 from pelican import signals
@@ -18,14 +22,31 @@ class PyVideoWriter(Writer):
     def key_func(self, element):
         path = element.data_path  # eg. pydata-dc-2016/videos/closing-session.json
         event_dir = path.split('/')[0]
-        cmp_key = self.sorted_events.index(event_dir)
-        return cmp_key
+        if event_dir not in self.sorted_events:
+            return len(self.sorted_events)
+        else:
+            cmp_key = self.sorted_events.index(event_dir)
+            return cmp_key
 
     @property
     def sorted_events(self):
         if not hasattr(self, '_sorted_events'):
-            output = subprocess.run(["./sort_events.sh"], stdout=subprocess.PIPE)
-            self._sorted_events = output.stdout.decode().strip().split('\n')
+            events = []
+            old_wd = os.getcwd()
+            os.chdir('data')
+            for path in glob.iglob('**/category.json'):
+                directory = os.path.dirname(path)
+                command = "git log --diff-filter=A --follow --format=%ai -1 --".split()
+                command.append(path)
+                output = subprocess.check_output(
+                    command, universal_newlines=True)
+                dt = datetime.datetime.strptime(
+                    output.strip(), "%Y-%m-%d %H:%M:%S %z")
+                events.append((dt, directory))
+            os.chdir(old_wd)
+            events.sort(key=operator.itemgetter(1))
+            events.sort(key=operator.itemgetter(0), reverse=True)
+            self._sorted_events = [event[1] for event in events]
         return self._sorted_events
 
 
@@ -35,4 +56,3 @@ def get_writer(pelican_object):
 
 def register():
     signals.get_writer.connect(get_writer)
-
