@@ -1,83 +1,85 @@
 #!/usr/bin/env python3
 """
-Check pyvideo.org for broken links.
+Check a site and report broken links.
 """
-import argparse
+from argparse import ArgumentParser
 import sys
+from queue import Queue
 from urllib.parse import urlparse, urljoin
 
 from bs4 import BeautifulSoup
 import requests
 
+def extract_links(address):
+    """extracts links from a web page"""
+    try:
+        r = requests.get(address)
+        soup = BeautifulSoup(r.text, "html.parser")
+        for link in soup.find_all('a'):
+            extracted_link = link.get("href")
+            yield extracted_link
+    except requests.exceptions.RequestException:
+        pass
+
 def collect_links(url):
+    """gathers links, returns sets of internal and external links"""
     site = urlparse(url).netloc.split(".")[1]
-    to_visit = set()
-    found_links = set()
+    to_visit = Queue()
     visited_links = set()
-    internal_urls = set()
-    external_urls = set() 
+    external_urls = set()
     malformed_urls = set()
-
-    found_links.add(url)
-    to_visit.add(url)
+    seen = set()
+    to_visit.put(url)
     
-    while to_visit:
+    while not to_visit.empty():
 
-        seen = visited_links.union(external_urls, malformed_urls)
-        to_visit = set()
-        for el in found_links:
-            if site in urlparse(el).netloc and el not in seen:
-                to_visit.add(el)
+        address = to_visit.get() 
+        extracted = extract_links(address)
+        visited_links.add(address)
 
-        for address in to_visit: 
-
-            try:
-                r = requests.get(address)
-                soup = BeautifulSoup(r.text, "html.parser")
-                
-                for link in soup.find_all('a'):
-                    extracted_link = link.get("href")
-                    parsed_link = urlparse(extracted_link)
-                    if extracted_link not in seen:
-                        found_links.add(str(extracted_link)) 
-                    if parsed_link.netloc == "":
-                        joined = urljoin(address, extracted_link)
-                        if urlparse(joined).scheme and urlparse(joined).netloc:
-                            found_links.add(str(joined))
-           
-            except requests.exceptions.RequestException:
-                pass
-            for el in found_links:
-                if urlparse(el).scheme and site in urlparse(el).netloc:
-                    internal_urls.add(el)
-                elif urlparse(el).scheme and site not in urlparse(el).netloc:
-                    external_urls.add(el)
-                else:
-                    malformed_urls.add(el)
-
-            visited_links.add(address)          
+        for ext_link in extracted:
+            parsed_link = urlparse(ext_link)
+            if parsed_link.netloc == "":
+                ext_link = urljoin(address, ext_link)
+            netloc = str(urlparse(ext_link).netloc)
+            scheme = str(urlparse(ext_link).scheme)
+            if site in netloc and ext_link not in seen:
+                to_visit.put(ext_link)
+                seen.add(ext_link)
+            if "http" in scheme and site not in netloc and ext_link not in seen:
+                external_urls.add(ext_link)
+                seen.add(ext_link)
+            if "http" not in scheme:
+                malformed_urls.add(ext_link)
+                seen.add(ext_link)
+                    
     return visited_links, external_urls, malformed_urls
   
 def main(start_url):
     visited_links, external_urls, malformed_urls = collect_links(args.url)
-    gathered_links = visited_links.union(external_urls)
+    if args.external:
+        gathered_links = external_urls
+    else:
+        gathered_links = visited_links.union(external_urls)
     
     errors = {}
-    for a in gathered_links: 
+    for a in gathered_links:
         try:
             requests.get(a).status_code
         except requests.exceptions.RequestException as e:
             errors[a] = e
+
     if errors:
-        for i in errors: 
-            print(i,":", errors[i])
+        for i in errors:
+            print(i, ":", errors[i])
         sys.exit("Exit 1")
     else:
-        sys.exit() 
+        sys.exit()
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
+    parser = ArgumentParser()
     parser.add_argument('url', type=str, help="Enter a url in the form http://www.pyvideo.org")
+    parser.add_argument("--external", action="store_true", help="Check only links to external sites")
     args = parser.parse_args()
 
     main(args.url)
