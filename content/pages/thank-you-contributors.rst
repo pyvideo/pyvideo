@@ -4,23 +4,23 @@
 :status: published
 :title: Thank You
 
-A little over six months ago, serious work on a new PyVideo began.
-The goal of this PyVideo was to carry the torch that was at risk of
-burning out (see `Welcome to the new PyVideo`_).
-Prior to PyCon 2016, the new site was a humble skeleton of what it is
-now and the data (although a tremendous archive with over 3000 videos
-catalogued) was one half of what is now. As PyCon 2016 hit, a team of 20+
-developers sprinted together to ensure this work was not lost.
+A little over six months ago, serious work began on a new PyVideo.
+The goal was to carry a torch that was at risk of going out 
+(see `Welcome to the new PyVideo`_). Before PyCon 2016, the new site was a
+humble skeleton of what it is now. The data -- although a tremendous archive,
+with over 3,000 videos catalogued -- was half of what is now. As PyCon 2016
+hit, a team of 20-plus developers sprinted together to ensure this
+work was not lost.
 
 .. _`Welcome to the new PyVideo`: /pages/thanks-will-and-sheila.html
 
-Now, half a year later, we have a stellar statically generated site and
-6276 videos catalogued (and counting). In the past month alone,
-PyVideo.org has serviced almost 15,000 users, 50,000 page views,
-and 149 countries. That's over 75% of all counties on the face of the planet.
-If you count from the beginning of when we started to collect stats, we've
-served pages to over 93% of the countries on the planet. Just check out this 
-Google analytics map:
+
+Now, half a year later, we have a statically generated site with 6,276
+videos and counting. In the past month alone, PyVideo.org has serviced
+almost 15,000 users in 149 countries and generated 50,000 page views.
+That's more than three-quarters of all countries on earth, and from when
+we started collecting stats, we've served pages to 93% of the countries
+on the planet. Just check out this Google analytics map:
 
 .. image:: /images/world_wide_usage.png
   :width: 700px
@@ -75,14 +75,13 @@ have chipped in their time:
 - ivan-bilan
 - joshmorel
 
-These developers are hard working, kind, and supportive.
-I'm very fortunate to work with such a wonderful team.
+These developers are hardworking, kind and supportive.
+I'm fortunate to work with such a wonderful team.
 
-So, finally, Thanks.
+So, finally, thank you.
 
-Thanks for helping grow one of those Python resources that
-I believe helps Python developers at all levels push their envelope
-of skills and reach towards the developers they want to be.
+Together we've created a resource that helps Python developers at all
+levels hone their skills and move toward the developers they want to be.
 
 -- Paul
 
