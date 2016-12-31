@@ -71,8 +71,8 @@
     </div>
   {% endif %}
   <div class="header notice clearfix">
-    Welcome to the new pyvideo.org!
-    <a href="/pages/thanks-will-and-sheila.html">Read More</a>
+    A thank you to everyone who has made this possible:
+    <a href="/pages/thank-you-contributors.html">Read More</a>
   </div>
   <header id="banner" class="header clearfix">
     <nav class="header__nav">
@@ -96,7 +96,7 @@
         {% for p in pages %}
           <li role="presentation"
               {% if p == page %} class="active"{% endif %}
-              {% if p.slug =="thanks-will-and-sheila" %}style="display: none;"{% endif %}>
+              {% if p.slug in ("thanks-will-and-sheila", "thank-you-contributors") %}style="display: none;"{% endif %}>
             <a href="{{ SITEURL }}/{{ p.url }}"><i class="fa fa-fw fa-info"></i> <span>{{ p.title }}</span></a>
           </li>
         {% endfor %}
