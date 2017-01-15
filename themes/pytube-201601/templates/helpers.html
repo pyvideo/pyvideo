@@ -40,7 +40,7 @@
   <div class="content-list">
     {% for article in articles %}
     {% if loop.index0 % 4 == 0 %}<div class="row">{% endif %}
-    {{ video(article, class="col-lg-3 col-md-4", show_speaker=show_speakers, show_event=show_events) }}
+    {{ video(article, class="col-lg-3 col-md-4 col-sm-6", show_speaker=show_speakers, show_event=show_events) }}
     {% if loop.last or loop.index0 % 4 == 3 %}</div>{% endif %}
     {% endfor %}
   </div>

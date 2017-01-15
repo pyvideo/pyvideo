@@ -4,7 +4,7 @@
 {% block content %}
   <div class="index-content">
     <div class="row">
-      <div class="col-lg-8 col-md-8">
+      <div class="col-lg-8 col-md-8 col-sm-7">
         <h3>Latest talks</h3>
         {% for article in articles_page.object_list[:6] %}
           {% if loop.index0 % 2 == 0 %}<div class="row">{% endif %}
@@ -13,7 +13,7 @@
         {% endfor %}
       </div>
 
-      <div class="col-lg-4 col-md-4"><aside>
+      <div class="col-lg-4 col-md-4 col-sm-5"><aside>
         <p class="info info--stats">Want to find Python related videos? So far
         we have indexed <strong>{{ articles|length }}</strong> of
         those from <strong>{{ categories|length }} events</strong> all over the
