@@ -75,8 +75,8 @@
     <a href="/pages/thank-you-contributors.html">Read More</a>
   </div>
   <header id="banner" class="header clearfix">
-    <nav class="header__nav">
-      <ul class="nav container">
+    <nav class="header__nav"><div class="container">
+      <ul class="nav">
         <li role="presentation"{% if output_file == "index.html" %} class="active"{% endif %}>
           <a href="{{ SITEURL }}/index.html"><i class="fa fa-fw fa-home"></i> <span>Start</span></a>
         </li>
@@ -101,7 +101,7 @@
           </li>
         {% endfor %}
       </ul>
-    </nav>
+    </div></nav>
     <div class="container">
       <h3 class="text-muted header__title">
       <a href="{{ SITEURL }}/"><img src="/theme/images/logo.png" alt="" style="height:50px"> <span><i>Py</i>Video</span> <strong>{{ SITESUBTITLE }}</strong></a>
@@ -118,7 +118,7 @@
 
     <footer class="footer">
       <p>
-        &copy; 
+        &copy;
         <a href="https://github.com/pyvideo/pyvideo/blob/master/LICENSE">PyVideo.org</a> |
         <a href="https://github.com/pyvideo/data/blob/master/LICENSE">pyvideo/data</a>
       </p>

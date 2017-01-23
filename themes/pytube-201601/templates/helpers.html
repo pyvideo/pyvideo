@@ -1,0 +1,47 @@
+{% macro video(article, class="", show_speaker=True, show_event=True) -%}
+  <article class="{{ class }}">
+    <a href="{{ SITEURL }}/{{ article.url }}">
+      <img src="{{ article.thumbnail_url }}" alt="Image from {{ article.title|striptags }}" />
+    </a>
+
+    <section class="details">
+      <h4 class="entry-title">
+        <a href="{{ SITEURL }}/{{ article.url }}"
+           rel="bookmark"
+           title="Permalink to {{ article.title|striptags }}">
+           {{ article.title }}
+        </a>
+      </h4>
+
+      <footer class="post-info">
+        <time class="published"
+              datetime="{{ article.date.isoformat() }}">
+          <i class="fa fa-calendar"></i> {{ article.locale_date }}
+        </time>
+        {% if show_event %}
+        <nav class="conference">
+            From <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+        </nav>
+        {% endif %}
+        {% if show_speaker %}
+        <address class="vcard author">
+          By
+          {% for author in article.authors %}
+            <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+          {% endfor %}
+        </address>
+        {% endif %}
+      </footer>
+    </section>
+  </article>
+{%- endmacro %}
+
+{% macro video_list(articles, show_speakers=True, show_events=True) %}
+  <div class="content-list">
+    {% for article in articles %}
+    {% if loop.index0 % 4 == 0 %}<div class="row">{% endif %}
+    {{ video(article, class="col-lg-3 col-md-4 col-sm-6", show_speaker=show_speakers, show_event=show_events) }}
+    {% if loop.last or loop.index0 % 4 == 3 %}</div>{% endif %}
+    {% endfor %}
+  </div>
+{% endmacro %}

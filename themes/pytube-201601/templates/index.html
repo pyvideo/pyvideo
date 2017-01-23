@@ -1,46 +1,19 @@
 {% extends "base.html" %}
+{% from "helpers.html" import video %}
 
 {% block content %}
   <div class="index-content">
     <div class="row">
-      <div class="col-lg-6">
+      <div class="col-lg-8 col-md-8 col-sm-7">
         <h3>Latest talks</h3>
-        {% for article in articles_page.object_list[:3] %}
-          <article>
-            <a href="{{ SITEURL }}/{{ article.url }}">
-              <img src="{{ article.thumbnail_url }}" alt="Image from {{ article.title|striptags }}" />
-            </a>
-
-            <section class="details">
-              <h4 class="entry-title">
-                <a href="{{ SITEURL }}/{{ article.url }}"
-                   rel="bookmark"
-                   title="Permalink to {{ article.title|striptags }}">
-                   {{ article.title }}
-                </a>
-              </h4>
-
-              <footer class="post-info">
-                <time class="published"
-                      datetime="{{ article.date.isoformat() }}">
-                  <i class="fa fa-calendar"></i> {{ article.locale_date }}
-                </time>
-                <nav class="conference">
-                    From <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
-                </nav>
-                <address class="vcard author">
-                  By
-                  {% for author in article.authors %}
-                    <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
-                  {% endfor %}
-                </address>
-              </footer>
-            </section>
-          </article>
+        {% for article in articles_page.object_list[:6] %}
+          {% if loop.index0 % 2 == 0 %}<div class="row">{% endif %}
+            {{ video(article, class="col-lg-6 col-md-6") }}
+          {% if loop.last or loop.index0 % 2 == 1 %}</div>{% endif %}
         {% endfor %}
       </div>
 
-      <div class="col-lg-6"><aside>
+      <div class="col-lg-4 col-md-4 col-sm-5"><aside>
         <p class="info info--stats">Want to find Python related videos? So far
         we have indexed <strong>{{ articles|length }}</strong> of
         those from <strong>{{ categories|length }} events</strong> all over the
