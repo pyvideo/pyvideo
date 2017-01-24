@@ -51,6 +51,14 @@ ul.content-list {
   padding-left: 0;
 }
 
+.content-list .col-md-4 {
+  height: 360px;
+}
+
+.content-list .col-sm-6 {
+  height: 390px;
+}
+
 ul.content-list li {
   margin-bottom: 10px;
 }
