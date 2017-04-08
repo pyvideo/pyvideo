@@ -96,6 +96,8 @@ PLUGINS = [
     'writer',
 ]
 
+# https://en.wikipedia.org/wiki/ISO_639-3
+# https://en.wikipedia.org/wiki/List_of_ISO_639-3_codes
 VIDEO_LANGUAGE_NAMES = {
     'ita': 'Italian',
     'zho': 'Chinese',
@@ -112,6 +114,7 @@ VIDEO_LANGUAGE_NAMES = {
     'kor': 'Korean',
     'lit': 'Lithuanian',
     'jpn': 'Japanese',
+    'slk': 'Slovak',
 }
 
 def jinja_language_name(code):
