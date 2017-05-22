@@ -54,7 +54,7 @@ into either using virtualenvwrapper::
 
 From the root of the repo, run the following command::
 
-  $ pip install -r requirements/dev.txt
+  $ pip install -r requirements/dev.in
 
 Finally, you'll be able to generate the HTML site. From the root of the repo,
 run the following command::
