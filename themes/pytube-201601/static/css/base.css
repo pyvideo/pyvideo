@@ -38,6 +38,14 @@ a {
   margin: 30px 0;
 }
 
+input[type="search"] {
+  margin-top: 10px;
+  line-height: 2em;
+  padding: 0 1em;
+  border: 1px solid #767676;
+  width: 80%;
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
   /* Space out the masthead */
