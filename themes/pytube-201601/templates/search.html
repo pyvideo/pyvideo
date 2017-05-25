@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1>Searching for <span id="searchTerm">...</span></h1>
+  <div id="searchResultContainer"></div>
+{% endblock %}
+
+{% block extrajs %}
+    <script type="text/javascript">
+      var q = new URL(window.location.href).searchParams.get('q');
+      if (!q) {
+          jQuery('#searchResultContainer').append(jQuery('<p>Please use the search box in the upper right corner to search for something.</p>'));
+      } else {
+        jQuery('#searchTerm').text(q);
+        jQuery('.header__searchbox input').val(q); 
+        jQuery.get('{{ API_URL }}/v1/search' + window.location.search).then(function(data) {
+          var list = jQuery('<div class="content-list">');
+          var row = null;
+          data.hits.forEach(function(hit, idx) {
+            var speakers = hit.fields['speakers.name'] || [];
+            var speakerSlugs = hit.fields['speakers.slug'] || [];
+            if (!jQuery.isArray(speakers)) {
+              speakers = [speakers];
+            }
+            if (!jQuery.isArray(speakerSlugs)) {
+              speakerSlugs = [speakerSlugs];
+            }
+            
+            if (idx % 4 === 0) {
+              if (row) {
+                list.append(row);
+              }
+              row = jQuery('<div class="row">');
+            }
+            row.append(jQuery('<article class="col-lg-3 col-md-4 col-sm-6">')
+              .append(jQuery('<a>').attr('href', hit.fields.url)
+                .append(jQuery('<img>').attr('src', hit.fields.thumbnail_url)))
+              .append(jQuery('<section>')
+                .append(jQuery('<h4>').attr('class', 'entry-detail').append(jQuery('<a>').attr('href', hit.fields.url).text(hit.fields.title)))
+                .append(jQuery('<footer class="post-info">')
+                  .append(hit.fields.recorded ? jQuery('<time class="published">').attr('datetime', hit.fields.recorded)
+                    .append(jQuery('<i class="fa fa-fw fa-calendar">'))
+                    .append(document.createTextNode(' ' + hit.fields.recorded_formatted))
+                    : null)
+                  .append(jQuery('<nav class="conference">').text('From ')
+                    .append(jQuery('<a>').attr('href', hit.fields.collection_url).text(hit.fields.collection_title))
+                  )
+                  .append(speakers.length ? jQuery('<address class="vcard author">').text('By ')
+                    .append(speakers.map(function(speaker, idx) {
+                      var res = jQuery('<a>').attr('href', '/speaker/' + speakerSlugs[idx] + '.html').text(speaker);
+                      if (idx < speakers.length - 1) {
+                        res.append(document.createTextNode(', '));
+                      }
+                      return res;
+                    }))
+                    : null
+                  )
+                )
+              )
+            );
+          });
+          list.append(row);
+          jQuery('#searchResultContainer').empty().append(list);
+        });
+      }
+    </script>
+{% endblock extrajs %}

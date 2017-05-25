@@ -69,6 +69,7 @@ THEME = 'themes/pytube-201601/'
 
 GITHUB_URL = 'https://github.com/pyvideo/pyvideo'
 CONTRIBUTE_URL = 'https://github.com/pyvideo/pyvideo/wiki/How-to-Contribute-Media'
+API_URL = 'https://api.pyvideo.org'
 
 STATIC_PATHS = [
     'images',
