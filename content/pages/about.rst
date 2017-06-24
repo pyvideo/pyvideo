@@ -2,7 +2,7 @@ About
 #####
 
 :date: 2016-01-27 23:00
-:modified: 2016-06-02 00:00
+:modified: 2017-05-25 00:00
 :slug: about
 :authors: Paul Logston
 :status: published
@@ -40,10 +40,10 @@ Who?
 
 PyVideo is maintained by volunteers listed in the `CONTRIBUTORS`_ file.
 Questions or concerns regarding the site can be addressed to
-`pytube.org@gmail.com`_.
+`https://gitter.im/pyvideo/pyvideo`_.
 
 .. _`CONTRIBUTORS`: https://github.com/pyvideo/pyvideo/blob/master/CONTRIBUTORS.rst
-.. _`pytube.org@gmail.com`: mailto: pytube.org@gmail.com
+.. _`https://gitter.im/pyvideo/pyvideo`: https://gitter.im/pyvideo/pyvideo
 .. _`volunteering wiki page`: https://github.com/pyvideo/pyvideo/wiki/How-to-Volunteer
 .. _`Looking to contribute media?`: https://github.com/pyvideo/pyvideo/wiki/How-to-Contribute-Media
 .. _`PyVideo.org`: http://pyvideo.org
