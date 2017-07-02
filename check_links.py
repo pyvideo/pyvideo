@@ -2,28 +2,43 @@
 """
 Check a site and report broken links.
 """
-from argparse import ArgumentParser
-import sys
-from queue import Queue
-from urllib.parse import urlparse, urljoin
-
+import asyncio 
+import aiohttp 
 from bs4 import BeautifulSoup
-import requests
+from urllib.parse import urlparse, urljoin, urlunparse
+from queue import Queue
+from sys import exit 
+from argparse import ArgumentParser
 
-def extract_links(address):
-    """extracts links from a web page"""
+async def get_page(url):
     try:
-        r = requests.get(address)
-        soup = BeautifulSoup(r.text, "html.parser")
-        for link in soup.find_all('a'):
-            extracted_link = link.get("href")
-            yield extracted_link
-    except requests.exceptions.RequestException:
+        conn = aiohttp.TCPConnector(verify_ssl=False)
+        async with aiohttp.ClientSession(loop=loop, connector=conn) as session:
+            async with session.get(url, timeout=60) as response:
+                return await response.text() 
+    except:
         pass
 
-def collect_links(url):
+async def extract_links(url):
+    urls = set() 
+    with await asyncio.Semaphore(10): 
+        html = await get_page(url)
+        soup = BeautifulSoup(html, "html.parser")
+        for link in soup.find_all('a'):
+            extracted_link = link.get("href")
+            parsed_link = urlparse(extracted_link)
+            if parsed_link.scheme == "https":
+                extracted_link = urlunparse(("http",) + parsed_link[1:])
+            urls.add(extracted_link)
+    return urls
+
+async def collect_links(url):
     """gathers links, returns sets of internal and external links"""
     site = urlparse(url).netloc.split(".")[1]
+    #move this to Argparse? 
+    if site == "com" or site =="org":
+        exit("exit 1 {}.com or {}.org is not a valid url.".format(site, site))
+    
     to_visit = Queue()
     visited_links = set()
     external_urls = set()
@@ -32,9 +47,8 @@ def collect_links(url):
     to_visit.put(url)
     
     while not to_visit.empty():
-
         address = to_visit.get() 
-        extracted = extract_links(address)
+        extracted = await extract_links(address)
         visited_links.add(address)
 
         for ext_link in extracted:
@@ -54,27 +68,37 @@ def collect_links(url):
                 seen.add(ext_link)
                     
     return visited_links, external_urls, malformed_urls
-  
-def main(start_url):
-    visited_links, external_urls, malformed_urls = collect_links(args.url)
+
+async def check_links(url): 
+    errors = {}
+    try:
+        with await asyncio.Semaphore(10): 
+            conn = aiohttp.TCPConnector(verify_ssl=False)
+            async with aiohttp.ClientSession(loop=loop, connector=conn) as session:
+                async with session.get(url, timeout=60) as resp:
+                    if not resp.status == 200:
+                        errors[url] = resp.status
+               
+    except Exception as e:
+        errors[url] = e
+    return errors 
+
+async def main(start_url, loop):
+    visited_links, external_urls, malformed_urls = await collect_links(args.url)
     if args.external:
         gathered_links = external_urls
     else:
         gathered_links = visited_links.union(external_urls)
     
-    errors = {}
-    for a in gathered_links:
-        try:
-            requests.get(a).status_code
-        except requests.exceptions.RequestException as e:
-            errors[a] = e
+    for url in gathered_links:
+        errors = await check_links(url)
 
     if errors:
         for i in errors:
             print(i, ":", errors[i])
-        sys.exit("Exit 1")
+        exit("Exit 1")
     else:
-        sys.exit()
+        exit()
 
 if __name__ == '__main__':
     parser = ArgumentParser()
@@ -82,4 +106,5 @@ if __name__ == '__main__':
     parser.add_argument("--external", action="store_true", help="Check only links to external sites")
     args = parser.parse_args()
 
-    main(args.url)
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(main(args.url, loop))
