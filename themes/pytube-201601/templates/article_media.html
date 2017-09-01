@@ -1,18 +1,14 @@
-{% set classname = "active" %}
-
 <ul class="nav nav-tabs" role="tablist">
 {% for video in article.videos %}
-    <li class="{{ classname }}" role="presentation"><a href="#{{ video.type }}" aria-controls="{{ video.type }}" role="tab" data-toggle="tab">
+    <li class="{% if loop.first %}active{% endif %}" role="presentation"><a href="#{{ video.type }}" aria-controls="{{ video.type }}" role="tab" data-toggle="tab">
         <i class="fa fa-fw fa-{{ video.icon }}"></i> {{ video.label }}
     </a></li>
-    {% set classname = "" %}
 {% endfor %}
 </ul>
 
-{% set classname = "active" %}
 <div class="tab-content">
 {% for video in article.videos %}
-    <div role="tabpanel" class="tab-pane {{ classname }}" id="{{ video.type }}">
+    <div role="tabpanel" class="tab-pane {% if loop.first %}active{% endif %}" id="{{ video.type }}">
         {% if video.tag_type == 'iframe' %}
         <div class="embed-responsive embed-responsive-16by9 videocontainer">
             <iframe class="embed-responsive-item" src="{{ video.media_url }}" title="Video for {{ video.title }}" frameborder="0" allowfullscreen></iframe>
@@ -31,6 +27,5 @@
         </a>
         {% endif %}
     </div>
-    {% set classname = "" %}
 {% endfor %}
 </div>
