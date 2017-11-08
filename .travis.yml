@@ -1,12 +1,16 @@
 language: python
 python:
-- '3.5'
+    - '3.6'
 install: pip install -r requirements.in
 script: ./.travis.sh
 branches:
-  only:
-  - master
+    only:
+      - master
 before_install:
-- openssl aes-256-cbc -K $encrypted_03e7560a8253_key -iv $encrypted_03e7560a8253_iv
-  -in .ssh/keys.tgz.enc -out .ssh/keys.tgz -d
-- tar xvzf .ssh/keys.tgz
+    - openssl aes-256-cbc -K $encrypted_03e7560a8253_key -iv $encrypted_03e7560a8253_iv
+      -in .ssh/keys.tgz.enc -out .ssh/keys.tgz -d
+    - tar xvzf .ssh/keys.tgz
+addons:
+    ssh_known_hosts:
+        - gitlab.com
+
