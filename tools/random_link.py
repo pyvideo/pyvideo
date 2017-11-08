@@ -1,3 +1,4 @@
+import datetime
 import random
 import re
 
@@ -6,14 +7,23 @@ import requests
 
 
 SITEMAP_URL = 'http://pyvideo.org/sitemap.xml'
-PATTERN = re.compile(r'http://pyvideo.org/(?!speaker)(?!tag)(?!events)(?!pages).*/.+')
+PATTERN = re.compile(r'^http://pyvideo.org/(?!speaker)(?!tag)(?!events)(?!pages).*/.+$')
 
 
 def get_video_links():
     response = requests.get(SITEMAP_URL)
     soup = bs4.BeautifulSoup(response.content, 'lxml')
-    links = soup.find_all(string=PATTERN)
-    return set(links)
+
+    one_year_ago = (datetime.datetime.now() - datetime.timedelta(days=365)).date()
+    links = set()
+    for url in soup.find_all('url'):
+        loc = url.find('loc').string
+        if PATTERN.match(loc):
+            mod_string = url.find('lastmod').string
+            if datetime.datetime.strptime(mod_string, '%Y-%m-%d').date() > one_year_ago:
+                links.add(loc)
+
+    return links
 
 
 def get_used_links(used_links_file):
