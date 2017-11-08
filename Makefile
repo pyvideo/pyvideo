@@ -10,6 +10,7 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 GITHUB_PAGES_REPO=git@github.com:pyvideo/pyvideo.github.io.git
+GITLAB_PAGES_REPO=git@gitlab.com:pyvideo/pyvideo.gitlab.io.git
 PREVIEW_GITHUB_PAGES_REPO=git@github.com:pyvideo-preview/pyvideo-preview.github.io.git
 
 DEBUG ?= 0
@@ -64,6 +65,8 @@ production_push:
 	cd $(OUTPUTDIR) && git commit -m "Initial commit"
 	cd $(OUTPUTDIR) && git remote add origin $(GITHUB_PAGES_REPO)
 	cd $(OUTPUTDIR) && git push origin master --force
+	cd $(OUTPUTDIR) && git remote add gitlab $(GITLAB_PAGES_REPO)
+	cd $(OUTPUTDIR) && git push gitlab master --force
 	echo "Upload complete"
 
 deploy: publish production_push
