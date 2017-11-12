@@ -116,6 +116,7 @@ VIDEO_LANGUAGE_NAMES = {
     'lit': 'Lithuanian',
     'jpn': 'Japanese',
     'slk': 'Slovak',
+    'pol': 'Polish',
 }
 
 def jinja_language_name(code):
