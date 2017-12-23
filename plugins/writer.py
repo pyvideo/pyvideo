@@ -38,6 +38,11 @@ class PyVideoWriter(Writer):
                 directory = os.path.dirname(path)
                 command = "git log --diff-filter=A --follow --format=%ai -1 --".split()
                 command.append(path)
+                if not output:
+                    raise RuntimeError(
+                        "Could not find git commit timestamp for '/data/"
+                        "{directory}'. Note: Folder must be committed before "
+                        "html generation.".format(directory=directory))
                 output = subprocess.check_output(
                     command, universal_newlines=True)
                 dt = datetime.datetime.strptime(
