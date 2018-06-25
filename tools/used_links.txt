@@ -97,3 +97,6 @@
 /pybay-2017/intellectual-property-for-engineers.html
 /pycon-fr-2017/le-python-dans-le-film-danimation.html
 /pydata-new-york-city-2017/diving-into-the-deep-end-of-clothing-styles.html
+/pydata-new-york-city-2017/workflow-systems-simple-complex.html
+/djangocon-us-2017/taking-django-distributed.html
+/kiwi-pycon-2017/spatial-circumstances-python-use-in-government-to-extend-gis-functionality.html
