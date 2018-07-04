@@ -100,3 +100,6 @@
 /pydata-new-york-city-2017/workflow-systems-simple-complex.html
 /djangocon-us-2017/taking-django-distributed.html
 /kiwi-pycon-2017/spatial-circumstances-python-use-in-government-to-extend-gis-functionality.html
+/pygotham-2017/edward-probabilistic-modeling-made-easy.html
+/europython-2017/write-more-decorators-and-fewer-classes.html
+/python-sul-2017/lightning-talks-2017-09-08.html
