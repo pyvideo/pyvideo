@@ -106,3 +106,6 @@
 /pycon-au-2017/time-is-an-illusion.html
 /pyohio-2017/using-machine-learning-to-play-chess.html
 /pydata-new-york-city-2017/enabling-real-time-analysis-decision-making.html
+/pybay-2017/taking-the-__magic__-out-of-python-classes.html
+/euroscipy-2017/pandas.html
+/swiss-python-summit-2018/12-factor-apps-for-data-science-with-python.html
