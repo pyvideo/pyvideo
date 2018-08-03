@@ -117,6 +117,7 @@ VIDEO_LANGUAGE_NAMES = {
     'jpn': 'Japanese',
     'slk': 'Slovak',
     'pol': 'Polish',
+    'heb': 'Hebrew',
 }
 
 
