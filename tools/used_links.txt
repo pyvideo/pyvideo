@@ -109,3 +109,6 @@
 /pybay-2017/taking-the-__magic__-out-of-python-classes.html
 /euroscipy-2017/pandas.html
 /swiss-python-summit-2018/12-factor-apps-for-data-science-with-python.html
+/pydata-new-york-city-2017/pydata-nyc-2017-pop-quiz.html
+/pycon-za-2017/growing-pains-scaling-a-django-project-and-team.html
+/pycon-za-2017/zimbopy-empowering-zimbabwean-girls-as-change-makers.html
