@@ -112,3 +112,6 @@
 /pydata-new-york-city-2017/pydata-nyc-2017-pop-quiz.html
 /pycon-za-2017/growing-pains-scaling-a-django-project-and-team.html
 /pycon-za-2017/zimbopy-empowering-zimbabwean-girls-as-change-makers.html
+/euroscipy-2017/python-22.html
+/pycon-us-2018/systemd-why-you-should-care-as-a-python-developer.html
+/pytexas-2017/fostering-technical-growth.html
