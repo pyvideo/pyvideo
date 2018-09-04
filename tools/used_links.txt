@@ -118,3 +118,6 @@
 /pydata-amsterdam-2018/tricks-tips-and-topics-in-text-analysis.html
 /pycon-uk-2017/pythonic-molecular-evolution.html
 /pycon-uk-2017/code-with-mu.html
+/pycon-us-2018/fighting-the-good-fight-python-3-in-your-organization.html
+/pycon-de-2017/really-deep-neural-networks-with-pytorch.html
+/pycon-ireland-2017/data-anonymization.html
