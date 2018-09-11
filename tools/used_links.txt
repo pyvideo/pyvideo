@@ -121,3 +121,6 @@
 /pycon-us-2018/fighting-the-good-fight-python-3-in-your-organization.html
 /pycon-de-2017/really-deep-neural-networks-with-pytorch.html
 /pycon-ireland-2017/data-anonymization.html
+/pycon-au-2018/task-queues-a-celery-story.html
+/pycon-ireland-2017/when-bugs-bite-why-neglecting-your-edge-cases-can-kill.html
+/pygotham-2017/valuing-job-offers-finance-101-with-python.html
