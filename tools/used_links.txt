@@ -124,3 +124,6 @@
 /pycon-au-2018/task-queues-a-celery-story.html
 /pycon-ireland-2017/when-bugs-bite-why-neglecting-your-edge-cases-can-kill.html
 /pygotham-2017/valuing-job-offers-finance-101-with-python.html
+/pycon-uk-2017/what-python-can-teach-us-about-beer.html
+/kiwi-pycon-2017/see-new-things-and-act.html
+/pycon-de-2017/pyconde-2017-lightning-talks-thursday.html
