@@ -127,3 +127,6 @@
 /pycon-uk-2017/what-python-can-teach-us-about-beer.html
 /kiwi-pycon-2017/see-new-things-and-act.html
 /pycon-de-2017/pyconde-2017-lightning-talks-thursday.html
+/pycon-de-2017/data-science-best-practices-from-proof-of-concepts-to-production.html
+/pycon-uk-2017/single-malt-wsgi.html
+/pycon-us-2018/pipenv-the-future-of-python-dependency-management.html
