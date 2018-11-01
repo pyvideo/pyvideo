@@ -24,7 +24,7 @@ pygments==2.1.3           # via pelican
 pytest==2.9.2
 python-dateutil==2.5.3    # via pelican
 pytz==2016.4              # via feedgenerator, pelican
-requests==2.10.0          # via browsermob-proxy
+requests==2.20.0          # via browsermob-proxy
 selenium==2.53.2          # via needle
 six==1.10.0               # via feedgenerator, pelican, python-dateutil
 unidecode==0.4.19         # via pelican
