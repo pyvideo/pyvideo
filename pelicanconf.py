@@ -118,6 +118,7 @@ VIDEO_LANGUAGE_NAMES = {
     'slk': 'Slovak',
     'pol': 'Polish',
     'heb': 'Hebrew',
+    'tha': 'Thai',
 }
 
 
