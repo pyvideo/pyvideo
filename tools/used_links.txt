@@ -130,3 +130,6 @@
 /pycon-de-2017/data-science-best-practices-from-proof-of-concepts-to-production.html
 /pycon-uk-2017/single-malt-wsgi.html
 /pycon-us-2018/pipenv-the-future-of-python-dependency-management.html
+/pycon-uk-2018/a-rising-tide-lifts-all-ships.html
+/pytexas-2017/the-fastest-fizzbuzz-in-the-west.html
+/pycon-ca-2017/introduction-a-chatops-en-python-avec-errbot.html
