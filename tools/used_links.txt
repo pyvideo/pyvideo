@@ -133,3 +133,6 @@
 /pycon-uk-2018/a-rising-tide-lifts-all-ships.html
 /pytexas-2017/the-fastest-fizzbuzz-in-the-west.html
 /pycon-ca-2017/introduction-a-chatops-en-python-avec-errbot.html
+/fosdem-2018/load-testing-web-services-at-mozilla-with-molotov.html
+/pycon-uk-2018/python-at-ordnance-survey.html
+/pygotham-2018/how-etsy-handles-peeking-in-ab-testing.html
