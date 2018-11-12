@@ -136,3 +136,6 @@
 /fosdem-2018/load-testing-web-services-at-mozilla-with-molotov.html
 /pycon-uk-2018/python-at-ordnance-survey.html
 /pygotham-2018/how-etsy-handles-peeking-in-ab-testing.html
+/pycon-israel-2018/value-driven-threat-modeling-security-by-design.html
+/scipy-2018/yaksh-facilitating-learning-by-doing.html
+/pydata-london-2018/catboost-the-new-generation-of-gradient-boosting.html
