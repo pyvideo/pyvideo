@@ -139,3 +139,6 @@
 /pycon-israel-2018/value-driven-threat-modeling-security-by-design.html
 /scipy-2018/yaksh-facilitating-learning-by-doing.html
 /pydata-london-2018/catboost-the-new-generation-of-gradient-boosting.html
+/pydata-london-2018/keynote-making-the-big-data-ecosystem-work-together-with-python-apache-arrow-spark-beam-and-dask.html
+/pycon-fr-2018/la-revolution-dans-le-monde-des-tests.html
+/djangocon-us-2018/djangocon-us-2018-its-about-time-by-russell-keith-magee.html
