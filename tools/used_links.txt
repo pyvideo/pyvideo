@@ -142,3 +142,6 @@
 /pydata-london-2018/keynote-making-the-big-data-ecosystem-work-together-with-python-apache-arrow-spark-beam-and-dask.html
 /pycon-fr-2018/la-revolution-dans-le-monde-des-tests.html
 /djangocon-us-2018/djangocon-us-2018-its-about-time-by-russell-keith-magee.html
+/pygotham-2018/the-automatic-computer-and-you-a-meditation-upon-the-history-and-future-of-software-development.html
+/pycon-korea-2018/hagseubhaneun-jojiggwa-paisseon-baengkeusaelreodeu-saryereul-jungsimeuro-hwangseonghyeonhwangsunghyun.html
+/pycon-fr-2018/debuter-en-programmation-web-avec-asyncio-et-aiohttp.html
