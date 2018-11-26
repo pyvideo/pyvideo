@@ -145,3 +145,6 @@
 /pygotham-2018/the-automatic-computer-and-you-a-meditation-upon-the-history-and-future-of-software-development.html
 /pycon-korea-2018/hagseubhaneun-jojiggwa-paisseon-baengkeusaelreodeu-saryereul-jungsimeuro-hwangseonghyeonhwangsunghyun.html
 /pycon-fr-2018/debuter-en-programmation-web-avec-asyncio-et-aiohttp.html
+/pyohio-2018/penetration-testing-the-dev-interview-attacks-to-ace-interviews-and-defenses-to-build-better-teams.html
+/pycon-korea-2018/sw-yimugyoyug-sidaeeseo-salanamgi-hagsaengi-baraboneun-gyoyugja-bagseongu.html
+/djangocon-europe-2018/organizing-conferences-for-learners-how-we-did-it-in-namibia.html
