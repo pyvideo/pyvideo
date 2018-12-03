@@ -151,3 +151,6 @@
 /pycon-za-2018/building-rest-api-with-django-rest-framework.html
 /kiwi-pycon-2017/serverless-apis-with-python-aws-lambda-api-gateway.html
 /scipy-2018/umap-uniform-manifold-approximation-and-projection-for-dimension-reduction.html
+/pycon-de-2018/concurrency-in-python-concepts-frameworks-and-best-practices.html
+/pycascades-2018/gradual-typing-of-production-applications.html
+/pycon-za-2018/elementary-my-dear-python.html
