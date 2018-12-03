@@ -14,7 +14,7 @@ _speakers = defaultdict(dict)
 _tags = defaultdict(dict)
 
 CATEGORY_BLACKLIST = {'Undefined'}
-SPEAKER_BLACKLIST = {'Unknown'}
+SPEAKER_BLACKLIST = {'Unknown', 'Various speakers'}
 TAGS_BLACKLIST = {'pycon'}
 
 
@@ -31,13 +31,13 @@ def _handle_content_object_init(obj):
                 _categories[category.slug]['latest'] = latest
                 _categories[category.slug]['name'] = category.name
 
-        speaker = getattr(obj, 'author')
-        if speaker.name not in SPEAKER_BLACKLIST:
-            count = _speakers[speaker.slug].get('count', 0)
-            _speakers[speaker.slug]['name'] = speaker.name
-            _speakers[speaker.slug]['slug'] = speaker.slug
-            _speakers[speaker.slug]['url'] = speaker.url
-            _speakers[speaker.slug]['count'] = count + 1
+        for speaker in getattr(obj, 'authors'):
+            if speaker.name not in SPEAKER_BLACKLIST:
+                count = _speakers[speaker.slug].get('count', 0)
+                _speakers[speaker.slug]['name'] = speaker.name
+                _speakers[speaker.slug]['slug'] = speaker.slug
+                _speakers[speaker.slug]['url'] = speaker.url
+                _speakers[speaker.slug]['count'] = count + 1
 
         tags = getattr(obj, 'tags', ())
         if tags:
