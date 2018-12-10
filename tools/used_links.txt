@@ -154,3 +154,6 @@
 /pycon-de-2018/concurrency-in-python-concepts-frameworks-and-best-practices.html
 /pycascades-2018/gradual-typing-of-production-applications.html
 /pycon-za-2018/elementary-my-dear-python.html
+/pycon-hk-2018/demystifying-speech-recognition-with-project-deepspeech.html
+/pydata-la-2018/keynote-1-building-a-player-focused-data-team-at-riot-games.html
+/pycon-israel-2018/python-tools-to-manage-large-scale.html
