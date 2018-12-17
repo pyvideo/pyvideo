@@ -163,3 +163,6 @@
 /pycon-italia-2018/image-generation-with-tensorflow-gans.html
 /djangocon-us-2018/whats-in-a-name-your-guide-to-the-wacky-world-of-dns.html
 /pycon-de-2018/keynote-digital-cultural-techniques.html
+/pycon-thailand-2018/coderdojo-a-free-programming-club-for-kids.html
+/scipy-2018/an-introduction-to-julia-beginner-level.html
+/write-the-docs-australia-2018/the-subtle-art-of-interrogation.html
