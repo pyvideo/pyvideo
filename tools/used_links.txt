@@ -169,3 +169,6 @@
 /pycon-de-2018/python-is-for-everybody.html
 /pybay-2018/building-conversational-ai-w-rasa-stack-alan-nichol-pybay2018.html
 /jupytercon-2018/open-source-software-and-the-allocation-of-capital-matt-greenwood-two-sigma-investments.html
+/pygotham-2018/python-oddities-explained.html
+/pycon-taiwan-2018/pycon-taiwan-2018-ji-lu-pian.html
+/pycon-thailand-2018/modern-open-source-challenges-and-opportunities.html
