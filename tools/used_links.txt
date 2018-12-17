@@ -157,3 +157,6 @@
 /pycon-hk-2018/demystifying-speech-recognition-with-project-deepspeech.html
 /pydata-la-2018/keynote-1-building-a-player-focused-data-team-at-riot-games.html
 /pycon-israel-2018/python-tools-to-manage-large-scale.html
+/euroscipy-2018/euroscipy-2017-lightning-talks.html
+/pylondinium-2018/deep-learning-with-keras.html
+/pygotham-2018/a-practical-guide-to-adopting-python-types.html
