@@ -166,3 +166,6 @@
 /pycon-thailand-2018/coderdojo-a-free-programming-club-for-kids.html
 /scipy-2018/an-introduction-to-julia-beginner-level.html
 /write-the-docs-australia-2018/the-subtle-art-of-interrogation.html
+/pycon-de-2018/python-is-for-everybody.html
+/pybay-2018/building-conversational-ai-w-rasa-stack-alan-nichol-pybay2018.html
+/jupytercon-2018/open-source-software-and-the-allocation-of-capital-matt-greenwood-two-sigma-investments.html
