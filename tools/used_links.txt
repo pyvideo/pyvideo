@@ -172,3 +172,6 @@
 /pygotham-2018/python-oddities-explained.html
 /pycon-taiwan-2018/pycon-taiwan-2018-ji-lu-pian.html
 /pycon-thailand-2018/modern-open-source-challenges-and-opportunities.html
+/pycon-philippines-2018/pycon-ph-2018-howard-lince-iii-processing-the-social-web.html
+/pycon-uk-2018/introduction-to-neural-networks.html
+/pydata-london-2018/anomaly-detection.html
