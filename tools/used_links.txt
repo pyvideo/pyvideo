@@ -175,3 +175,6 @@
 /pycon-philippines-2018/pycon-ph-2018-howard-lince-iii-processing-the-social-web.html
 /pycon-uk-2018/introduction-to-neural-networks.html
 /pydata-london-2018/anomaly-detection.html
+/pycon-au-2018/asyncio-in-micropython.html
+/pycon-italia-2018/insegnare-la-matematica-con-python-percorsi-suggeriti-per-le-scuole-superiori.html
+/jupytercon-2018/jupyterlab-ian-rose-uc-berkeley-chris-colbert-project-jupyter.html
