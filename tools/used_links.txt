@@ -178,3 +178,6 @@
 /pycon-au-2018/asyncio-in-micropython.html
 /pycon-italia-2018/insegnare-la-matematica-con-python-percorsi-suggeriti-per-le-scuole-superiori.html
 /jupytercon-2018/jupyterlab-ian-rose-uc-berkeley-chris-colbert-project-jupyter.html
+/pycon-fr-2018/la-gestion-de-version-en-2018-present-et-future.html
+/pycon-italia-2018/my-story-with-python-and-open-source.html
+/pycon-de-2018/active-learning-building-semi-supervised-classifiers-when-labeled-data-is-not-available.html
