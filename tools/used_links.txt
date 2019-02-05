@@ -181,3 +181,6 @@
 /pycon-fr-2018/la-gestion-de-version-en-2018-present-et-future.html
 /pycon-italia-2018/my-story-with-python-and-open-source.html
 /pycon-de-2018/active-learning-building-semi-supervised-classifiers-when-labeled-data-is-not-available.html
+/pycon-thailand-2018/pycons-in-apac.html
+/euroscipy-2018/euroscipy-2017-handshakes-citizen-science-and-evolution.html
+/pycon-italia-2018/serverless-sql-queries-from-python-with-aws-athenaor-power-to-data-scientists.html
