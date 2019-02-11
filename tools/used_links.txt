@@ -184,3 +184,6 @@
 /pycon-thailand-2018/pycons-in-apac.html
 /euroscipy-2018/euroscipy-2017-handshakes-citizen-science-and-evolution.html
 /pycon-italia-2018/serverless-sql-queries-from-python-with-aws-athenaor-power-to-data-scientists.html
+/jupytercon-2018/jupyter-for-every-high-schooler-rob-newton-trinity-school.html
+/europython-2018/programming-paradigms-for-physical-computing-and-iot.html
+/pycon-japan-2018/03-102_django-rest-framework-niokeruapishi-zhuang-purakuteisuzhi-tian-jiang.html
