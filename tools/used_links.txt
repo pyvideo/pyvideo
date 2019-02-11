@@ -187,3 +187,6 @@
 /jupytercon-2018/jupyter-for-every-high-schooler-rob-newton-trinity-school.html
 /europython-2018/programming-paradigms-for-physical-computing-and-iot.html
 /pycon-japan-2018/03-102_django-rest-framework-niokeruapishi-zhuang-purakuteisuzhi-tian-jiang.html
+/djangocon-europe-2018/creating-solid-apis.html
+/pycon-us-2018/love-your-bugs.html
+/pyohio-2018/an-only-one-step-ahead-guide-for-machine-learning-projects.html
