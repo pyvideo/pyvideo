@@ -190,3 +190,6 @@
 /djangocon-europe-2018/creating-solid-apis.html
 /pycon-us-2018/love-your-bugs.html
 /pyohio-2018/an-only-one-step-ahead-guide-for-machine-learning-projects.html
+/pycon-us-2018/build-a-github-bot-workshop.html
+/pydata-amsterdam-2018/improve-classification-accuracy-for-customer-contact-transcriptions.html
+/pycon-au-2018/reflections-on-the-creative-process-illustrated-with-watercolour-painting.html
