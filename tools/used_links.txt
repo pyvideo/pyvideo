@@ -196,3 +196,6 @@
 /pycon-fr-2018/python-je-taime.html
 /pycon-taiwan-2018/xiao-ya-cheng-duckietownyi-ge-ji-yu-raspberry-pi-he-ros-de-kai-yuan-wu-ren-xiao-che-zhuan-an-jie-shao-sosorry-pycon-taiwan-2018.html
 /pydata-warsaw-2018/how-i-learnt-computer-vision-by-playing-pool-lukasz-kopec.html
+/scipy-2018/ray-a-distributed-execution-framework-for-ai.html
+/pybay-2018/how-to-make-a-multi-tenant-microservice-navin-kumar-pybay2018.html
+/europython-2018/exploring-the-python-ast-ecosystem.html
