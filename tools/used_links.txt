@@ -193,3 +193,6 @@
 /pycon-us-2018/build-a-github-bot-workshop.html
 /pydata-amsterdam-2018/improve-classification-accuracy-for-customer-contact-transcriptions.html
 /pycon-au-2018/reflections-on-the-creative-process-illustrated-with-watercolour-painting.html
+/pycon-fr-2018/python-je-taime.html
+/pycon-taiwan-2018/xiao-ya-cheng-duckietownyi-ge-ji-yu-raspberry-pi-he-ros-de-kai-yuan-wu-ren-xiao-che-zhuan-an-jie-shao-sosorry-pycon-taiwan-2018.html
+/pydata-warsaw-2018/how-i-learnt-computer-vision-by-playing-pool-lukasz-kopec.html
