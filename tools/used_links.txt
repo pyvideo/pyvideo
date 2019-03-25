@@ -199,3 +199,6 @@
 /scipy-2018/ray-a-distributed-execution-framework-for-ai.html
 /pybay-2018/how-to-make-a-multi-tenant-microservice-navin-kumar-pybay2018.html
 /europython-2018/exploring-the-python-ast-ecosystem.html
+/europython-2018/leadership-of-technical-teams.html
+/pydata-la-2018/time-interrupted-measuring-intervention-effects-with-interrupted-time-series-analysis.html
+/pydata-la-2018/serverless-for-data-scientists.html
