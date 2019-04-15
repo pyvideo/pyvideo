@@ -202,3 +202,6 @@
 /europython-2018/leadership-of-technical-teams.html
 /pydata-la-2018/time-interrupted-measuring-intervention-effects-with-interrupted-time-series-analysis.html
 /pydata-la-2018/serverless-for-data-scientists.html
+/pycon-korea-2018/ingongjineung-syupeomarioyi-geoyi-modeungeos-jeongweonseog.html
+/caipyra-2018/caipyra-2018-exceptions-e-porque-nao-sao-so-para-erros-danilo-roberto-shiga.html
+/pydata-dc-2018/five-kinds-of-python-functions-steven-lott.html
