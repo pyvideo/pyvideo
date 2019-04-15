@@ -205,3 +205,6 @@
 /pycon-korea-2018/ingongjineung-syupeomarioyi-geoyi-modeungeos-jeongweonseog.html
 /caipyra-2018/caipyra-2018-exceptions-e-porque-nao-sao-so-para-erros-danilo-roberto-shiga.html
 /pydata-dc-2018/five-kinds-of-python-functions-steven-lott.html
+/pycon-philippines-2019/pycon-apac-2019-tom-dyson-here-come-the-robots-python-and-machine-learning.html
+/pydata-warsaw-2018/conference-opening-notes.html
+/pygotham-2018/the-stories-of-the-most-infamous-bugs.html
