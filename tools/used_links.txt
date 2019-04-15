@@ -208,3 +208,6 @@
 /pycon-philippines-2019/pycon-apac-2019-tom-dyson-here-come-the-robots-python-and-machine-learning.html
 /pydata-warsaw-2018/conference-opening-notes.html
 /pygotham-2018/the-stories-of-the-most-infamous-bugs.html
+/euroscipy-2018/friday-31-august-track-1-morning.html
+/pycon-thailand-2018/enabling-blockchain-energy-trading-among-smart-buildings-through-the-use-of-multi-agent-systems-and-internet-of-things-devices.html
+/pydata-tokyo-2018/pydatatokyo-one-day-conference-2018-session2.html
