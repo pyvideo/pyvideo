@@ -211,3 +211,6 @@
 /euroscipy-2018/friday-31-august-track-1-morning.html
 /pycon-thailand-2018/enabling-blockchain-energy-trading-among-smart-buildings-through-the-use-of-multi-agent-systems-and-internet-of-things-devices.html
 /pydata-tokyo-2018/pydatatokyo-one-day-conference-2018-session2.html
+/jupytercon-2018/the-future-of-data-driven-discovery-in-the-cloud-ryan-abernathey-columbia-university.html
+/euroscipy-2018/friday-31-august-track-1-afternoon-part-2.html
+/pycon-japan-2018/07-203_notebook-as-web-api-turn-your-notebook-into-web-apiheng-shi-he-gui.html
