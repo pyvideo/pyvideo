@@ -214,3 +214,6 @@
 /jupytercon-2018/the-future-of-data-driven-discovery-in-the-cloud-ryan-abernathey-columbia-university.html
 /euroscipy-2018/friday-31-august-track-1-afternoon-part-2.html
 /pycon-japan-2018/07-203_notebook-as-web-api-turn-your-notebook-into-web-apiheng-shi-he-gui.html
+/euroscipy-2018/euroscipy-2017-simphony-remote-accessing-containerized-desktop-and-web-apps-with-a-browser.html
+/pydata-amsterdam-2018/scaling-machine-learning-jobs-with-kubernetes.html
+/scipy-2018/parallelizing-scientific-python-with-dask.html
