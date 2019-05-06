@@ -220,3 +220,6 @@
 /pycon-korea-2018/pythoneuro-namanyi-iot-gucughagi-bagsangu.html
 /djangocon-europe-2018/graphql-in-python-and-django.html
 /pycon-us-2019/meg-ray-keynote-pycon-2019.html
+/pycon-za-2018/machine-learning-in-real-life.html
+/pydata-berlin-2018/production-ready-data-science-with-python-and-luigi.html
+/scipy-2018/scikit-learn-and-tabular-data-closing-the-gap.html
