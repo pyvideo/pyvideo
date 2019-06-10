@@ -229,3 +229,6 @@
 /pycon-au-2018/dont-be-a-fail-whale-secure-your-containers.html
 /pycon-us-2019/how-to-build-a-clinical-diagnostic-model-in-python.html
 /pycon-de-2018/a-day-has-only-24-1-hours-import-pytz.html
+/pycon-au-2018/saturday-lightning-talks-2018-08-25.html
+/pycon-korea-2018/raiteuning-tokeu-pycon-us-2018-hugi-joseongsuseongsoo-cho.html
+/europython-2018/from-zero-to-azure-with-python-docker-containers-and-visual-studio-code.html
