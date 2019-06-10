@@ -232,3 +232,6 @@
 /pycon-au-2018/saturday-lightning-talks-2018-08-25.html
 /pycon-korea-2018/raiteuning-tokeu-pycon-us-2018-hugi-joseongsuseongsoo-cho.html
 /europython-2018/from-zero-to-azure-with-python-docker-containers-and-visual-studio-code.html
+/python-brasil-2018/pybr14-go-e-python-lado-a-lado-luciano-ramalho.html
+/euroscipy-2018/euroscipy-advanced-session-parallel-data-analysis-with-dask.html
+/pycon-thailand-2018/concurrent-python.html
