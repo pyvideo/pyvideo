@@ -2,3 +2,4 @@
 -r ../requirements.in
 -e git://github.com/edx/bok-choy.git@53b1136d2f1819516afd76c3f62867c30310ede7#egg=bok-choy
 pytest
+Pillow==3.3.2
