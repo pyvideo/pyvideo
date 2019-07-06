@@ -1,3 +1,3 @@
-pelican==3.6.3
+pelican==4.0.1
 pelican-alias==1.1
-pelican-extended-sitemap==1.0.2
+pelican-extended-sitemap==1.2.2
