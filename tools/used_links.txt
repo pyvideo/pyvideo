@@ -235,3 +235,6 @@
 /python-brasil-2018/pybr14-go-e-python-lado-a-lado-luciano-ramalho.html
 /euroscipy-2018/euroscipy-advanced-session-parallel-data-analysis-with-dask.html
 /pycon-thailand-2018/concurrent-python.html
+/scipy-2018/simupy-a-python-framework-for-modeling-and-simulating-dynamical-systems.html
+/pycon-fr-2018/conference-pleniere-1-science-and-open-source-what-do-we-learn-from-each-other.html
+/pycon-us-2019/getting-started-testing-in-data-science.html
