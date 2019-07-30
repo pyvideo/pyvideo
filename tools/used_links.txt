@@ -244,3 +244,6 @@
 /pycon-india-2018/fossasia-community-talk-by-mario-behling.html
 /pycon-us-2019/shipping-your-first-python-package-and-automating-future-publishing.html
 /europython-2019/mongodb-europython-basel-thursday-11th-2019.html
+/python-brasil-2018/pybr14-medindo-o-preconceito-no-aprendizado-de-maquinas-gustavo-soares.html
+/north-bay-python-2018/all-in-the-timing-how-side-channel-attacks-work.html
+/pycon-us-2019/to-trust-or-to-test-automated-testing-of-scientific-projects-with-pytest.html
