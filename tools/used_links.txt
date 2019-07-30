@@ -241,3 +241,6 @@
 /pycon-india-2018/lightning-talk-by-dbs.html
 /pycon-de-2018/esa-summer-of-code-in-space-open-source-cubesat-workshop.html
 /pycon-fr-2018/convolution-network-in-vanilla-python.html
+/pycon-india-2018/fossasia-community-talk-by-mario-behling.html
+/pycon-us-2019/shipping-your-first-python-package-and-automating-future-publishing.html
+/europython-2019/mongodb-europython-basel-thursday-11th-2019.html
