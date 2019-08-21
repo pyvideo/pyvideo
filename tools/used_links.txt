@@ -247,3 +247,6 @@
 /python-brasil-2018/pybr14-medindo-o-preconceito-no-aprendizado-de-maquinas-gustavo-soares.html
 /north-bay-python-2018/all-in-the-timing-how-side-channel-attacks-work.html
 /pycon-us-2019/to-trust-or-to-test-automated-testing-of-scientific-projects-with-pytest.html
+/pycon-de-2018/case-study-in-travel-business-understanding-agent-connections-using-networkx.html
+/pygotham-2018/ive-been-awaiting-for-an-url-like-you.html
+/pycon-india-2018/lightning-talk-eeg-controlled-rover-a-brain-computer-interface-by-prajwal-and-venkatesh.html
