@@ -253,3 +253,6 @@
 /pycon-us-2019/planea-el-proximo-eclipse-con-jupyter-y-geopandas.html
 /pycon-au-2019/its-pythons-all-the-way-down-python-types-metaclasses-made-simple.html
 /scipy-japan-2019/evolution-of-the-enthought-platform.html
+/pydata-miami-2019/how-we-lie-to-ourselves-with-charts.html
+/piterpy-2018/eng-anton-shalimov-aviasales-a-look-under-the-hood-tornado-based-search-engine-piterpy.html
+/pygotham-2018/serverless-machine-learning-in-production-manage-models-not-servers.html
