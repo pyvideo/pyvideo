@@ -250,3 +250,6 @@
 /pycon-de-2018/case-study-in-travel-business-understanding-agent-connections-using-networkx.html
 /pygotham-2018/ive-been-awaiting-for-an-url-like-you.html
 /pycon-india-2018/lightning-talk-eeg-controlled-rover-a-brain-computer-interface-by-prajwal-and-venkatesh.html
+/pycon-us-2019/planea-el-proximo-eclipse-con-jupyter-y-geopandas.html
+/pycon-au-2019/its-pythons-all-the-way-down-python-types-metaclasses-made-simple.html
+/scipy-japan-2019/evolution-of-the-enthought-platform.html
