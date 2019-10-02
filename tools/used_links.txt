@@ -256,3 +256,6 @@
 /pydata-miami-2019/how-we-lie-to-ourselves-with-charts.html
 /piterpy-2018/eng-anton-shalimov-aviasales-a-look-under-the-hood-tornado-based-search-engine-piterpy.html
 /pygotham-2018/serverless-machine-learning-in-production-manage-models-not-servers.html
+/pydata-miami-2019/introduction-to-pytorch.html
+/python-brasil-2018/pybr14-configuracoes-de-aplicacoes-distribuidas-com-etcd-wilson-junior.html
+/pydata-warsaw-2018/can-you-enhance-that-single-image-super-resolution-katarzyna-kanska.html
