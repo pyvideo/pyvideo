@@ -259,3 +259,6 @@
 /pydata-miami-2019/introduction-to-pytorch.html
 /python-brasil-2018/pybr14-configuracoes-de-aplicacoes-distribuidas-com-etcd-wilson-junior.html
 /pydata-warsaw-2018/can-you-enhance-that-single-image-super-resolution-katarzyna-kanska.html
+/djangocon-us-2018/lightning-talks-day-3.html
+/pydata-warsaw-2018/application-of-recurrent-neural-networks-to-innovative-drug-design-rafal-a-bachorz.html
+/moscow-python-conf-2018/videootchet-o-moscow-python-conf-2018.html
