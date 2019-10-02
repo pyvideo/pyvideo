@@ -262,3 +262,6 @@
 /djangocon-us-2018/lightning-talks-day-3.html
 /pydata-warsaw-2018/application-of-recurrent-neural-networks-to-innovative-drug-design-rafal-a-bachorz.html
 /moscow-python-conf-2018/videootchet-o-moscow-python-conf-2018.html
+/pylondinium-2019/clean-architectures-in-python.html
+/pydata-amsterdam-2019/remember-what-you-learn-spaced-repetition-model.html
+/write-the-docs-australia-2018/responsive-content-presenting-your-information-on-any-device.html
