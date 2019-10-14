@@ -114,7 +114,7 @@ please open an issue_ on Github.
 Want our Google Analytics info?
 ===============================
 
-PyTube tries to be as open source as possible. 
+PyVideo tries to be as open source as possible. 
 We share the data that Google Analytics collects on request. 
 Please feel free to send an email to pytube.org@gmail.com 
 with the header "Google Analytics Access Request" if you would like access
