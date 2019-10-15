@@ -265,3 +265,6 @@
 /pylondinium-2019/clean-architectures-in-python.html
 /pydata-amsterdam-2019/remember-what-you-learn-spaced-repetition-model.html
 /write-the-docs-australia-2018/responsive-content-presenting-your-information-on-any-device.html
+/pycon-us-2019/does-remote-work-really-work.html
+/pydata-la-2018/learning-to-scale-data-science-machine-learning-and-pandas-with-ray-and-modin.html
+/pycon-ar-2018/conectando-partes-con-zmq.html
