@@ -271,3 +271,6 @@
 /pycon-israel-2019/standardizing-clinical-data-with-python-jacob-barhak-pycon-israel-2019.html
 /djangocon-europe-2019/making-your-life-hapier-with-django.html
 /pycon-us-2019/going-from-2-to-3-on-windows-macos-and-linux.html
+/pyohio-2019/your-own-personal-bootcamp-how-to-efficiently-learn-your-next-technology.html
+/pycascades-2019/a-taxonomy-of-decorators-a-e.html
+/scipy-japan-2019/cupy.html
