@@ -268,3 +268,6 @@
 /pycon-us-2019/does-remote-work-really-work.html
 /pydata-la-2018/learning-to-scale-data-science-machine-learning-and-pandas-with-ray-and-modin.html
 /pycon-ar-2018/conectando-partes-con-zmq.html
+/pycon-israel-2019/standardizing-clinical-data-with-python-jacob-barhak-pycon-israel-2019.html
+/djangocon-europe-2019/making-your-life-hapier-with-django.html
+/pycon-us-2019/going-from-2-to-3-on-windows-macos-and-linux.html
