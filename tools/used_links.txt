@@ -274,3 +274,6 @@
 /pyohio-2019/your-own-personal-bootcamp-how-to-efficiently-learn-your-next-technology.html
 /pycascades-2019/a-taxonomy-of-decorators-a-e.html
 /scipy-japan-2019/cupy.html
+/pycon-colombia-2019/alvaro-justen-brasilio-liberation-of-public-data-with-python-pycon-colombia-2019.html
+/europython-2019/patrick-arminio-graphql-in-python.html
+/pycon-odessa-2019/anton-caceres-the-epic-zoo-of-microservices-ua.html
