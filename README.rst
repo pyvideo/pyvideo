@@ -11,7 +11,7 @@ pyvideo
 .. image:: https://zenodo.org/badge/23288/pyvideo/pyvideo.svg
    :target: https://zenodo.org/badge/latestdoi/23288/pyvideo/pyvideo
 
-http://pyvideo.org is simply an index of Python-related media records. The raw
+https://pyvideo.org is simply an index of Python-related media records. The raw
 data being used here comes out of the `pyvideo/data`_ repo.
 
 .. _`pyvideo/data`: https://github.com/pyvideo/data
