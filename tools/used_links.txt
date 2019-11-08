@@ -277,3 +277,6 @@
 /pycon-colombia-2019/alvaro-justen-brasilio-liberation-of-public-data-with-python-pycon-colombia-2019.html
 /europython-2019/patrick-arminio-graphql-in-python.html
 /pycon-odessa-2019/anton-caceres-the-epic-zoo-of-microservices-ua.html
+/pycon-us-2019/hands-on-intro-to-aiohttp.html
+/pycon-uk-2019/is-django-too-complicated.html
+/pycon-jp-2019/chimumeitonotamenidocstringwoshu-kou.html
