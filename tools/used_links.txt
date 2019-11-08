@@ -280,3 +280,6 @@
 /pycon-us-2019/hands-on-intro-to-aiohttp.html
 /pycon-uk-2019/is-django-too-complicated.html
 /pycon-jp-2019/chimumeitonotamenidocstringwoshu-kou.html
+/pycon-colombia-2019/juan-manuel-alvarez-truth-is-always-strange-fuzzy-logic-in-python-pycon-colombia-2019.html
+/kiwi-pycon-2019/the-packaging-lifecycle-with-poetry-clinton-roy-kiwi-pycon-x.html
+/pycon-au-2019/cudf-rapids-gpu-accelerated-dataframe-library.html
