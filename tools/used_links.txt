@@ -283,3 +283,6 @@
 /pycon-colombia-2019/juan-manuel-alvarez-truth-is-always-strange-fuzzy-logic-in-python-pycon-colombia-2019.html
 /kiwi-pycon-2019/the-packaging-lifecycle-with-poetry-clinton-roy-kiwi-pycon-x.html
 /pycon-au-2019/cudf-rapids-gpu-accelerated-dataframe-library.html
+/pybay-2019/beyond-paradigms.html
+/pydata-miami-2019/putting-tensor-flow-models-into-production.html
+/pydata-london-2019/quantifying-uncertainty-in-machine-learning-predictions.html
