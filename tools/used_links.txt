@@ -286,3 +286,6 @@
 /pybay-2019/beyond-paradigms.html
 /pydata-miami-2019/putting-tensor-flow-models-into-production.html
 /pydata-london-2019/quantifying-uncertainty-in-machine-learning-predictions.html
+/pycon-italia-2019/ravioli-vs-pelmeni-software-architecture-microservices-vs-services.html
+/scipy-2019/better-and-faster-hyper-parameter-optimization-with-dask.html
+/pydata-miami-2019/visual-diagnostics-for-more-effective-machine-learning.html
