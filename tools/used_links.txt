@@ -289,3 +289,6 @@
 /pycon-italia-2019/ravioli-vs-pelmeni-software-architecture-microservices-vs-services.html
 /scipy-2019/better-and-faster-hyper-parameter-optimization-with-dask.html
 /pydata-miami-2019/visual-diagnostics-for-more-effective-machine-learning.html
+/pycon-colombia-2019/jose-giraldo-deep-learning-music-pycon-colombia-2019.html
+/scipy-2019/dask-imagea-library-for-distributed-image-processing.html
+/scipy-2019/echopype-enhancing-the-interoperability-and-scalability-of-ocean-sonar-data-processing-for-biological-information.html
