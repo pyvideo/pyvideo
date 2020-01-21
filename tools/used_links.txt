@@ -295,3 +295,6 @@
 /pycon-uk-2019/how-to-use-python-to-expose-politicians.html
 /pydata-london-2019/training-intelligent-game-agents-using-deep-reinforcement-learning.html
 /djangocon-europe-2019/nothingness-and-identity-in-python-and-django.html
+/scipy-2019/real-world-numba-creating-a-skeleton-analysis-library.html
+/djangocon-europe-2019/djangoconclose.html
+/pycon-us-2019/russell-keith-magee-keynote-pycon-2019.html
