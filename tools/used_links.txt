@@ -304,3 +304,6 @@
 /pycon-belarus-2019/taming-the-beast-tests-legacy-and-you.html
 /pycon-taiwan-2019/automate-the-boring-stuff-with-slackbot.html
 /scipy-2019/day-2-lightning-talks.html
+/pydata-amsterdam-2019/open-source-city.html
+/pycon-colombia-2019/kian-katanforoosh-keynote-speaker-conference-pycon-colombia-2019.html
+/europython-2019/the-agile-comedy-from-hell-to-paradise.html
