@@ -298,3 +298,6 @@
 /scipy-2019/real-world-numba-creating-a-skeleton-analysis-library.html
 /djangocon-europe-2019/djangoconclose.html
 /pycon-us-2019/russell-keith-magee-keynote-pycon-2019.html
+/pygotham-2019/beyond-cprofile-performance-optimization-with-sampling-profilers-and-logging.html
+/scipy-latin-america-2019/high-performance-pandas-part-2-time-based-analysis-using-pandas.html
+/kiwi-pycon-2019/build-and-hack-your-own-iot-with-mqtt-agnetha-korevaar-kiwi-pycon-x.html
