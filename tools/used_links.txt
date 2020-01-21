@@ -292,3 +292,6 @@
 /pycon-colombia-2019/jose-giraldo-deep-learning-music-pycon-colombia-2019.html
 /scipy-2019/dask-imagea-library-for-distributed-image-processing.html
 /scipy-2019/echopype-enhancing-the-interoperability-and-scalability-of-ocean-sonar-data-processing-for-biological-information.html
+/pycon-uk-2019/how-to-use-python-to-expose-politicians.html
+/pydata-london-2019/training-intelligent-game-agents-using-deep-reinforcement-learning.html
+/djangocon-europe-2019/nothingness-and-identity-in-python-and-django.html
