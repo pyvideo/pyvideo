@@ -301,3 +301,6 @@
 /pygotham-2019/beyond-cprofile-performance-optimization-with-sampling-profilers-and-logging.html
 /scipy-latin-america-2019/high-performance-pandas-part-2-time-based-analysis-using-pandas.html
 /kiwi-pycon-2019/build-and-hack-your-own-iot-with-mqtt-agnetha-korevaar-kiwi-pycon-x.html
+/pycon-belarus-2019/taming-the-beast-tests-legacy-and-you.html
+/pycon-taiwan-2019/automate-the-boring-stuff-with-slackbot.html
+/scipy-2019/day-2-lightning-talks.html
