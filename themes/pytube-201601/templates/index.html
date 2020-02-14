@@ -47,6 +47,15 @@
             </ul>
             <p><a href="{{ SITE_URL }}/tags.html">See all tags...</a></p>
         </section>
+        <section>
+            <h3>Most popular languages</h3>
+            <ul>
+            {% for count, name, lang in active_languages[:10] %}
+                <li><a href="{{ SITEURL }}/languages.html#{{ lang }}">{{ name }}</a> <span class="badge">{{ count }}</span></li>
+            {% endfor %}
+            </ul>
+            <p><a href="{{ SITE_URL }}/languages.html">See all languages...</a></p>
+        </section>
       </aside></div>
     </div>
   </div>

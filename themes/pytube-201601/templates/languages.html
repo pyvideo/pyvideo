@@ -1,0 +1,33 @@
+{% extends "list_filterable.html" %}
+{% from "helpers.html" import video_list %}
+
+{% block subtitle %} &middot; Languages{% endblock %}
+
+{% block content %}
+
+<h2>All Languages</h2>
+
+<div class="row">
+    <ul id="element-list">
+      {%- for name, lang, article_count, articles in languages %}
+        <li class="col-md-3 col-sm-4 col-xs-6">
+           <a href="#{{ lang }}">{{ name }}</a> <span class="badge">{{ article_count }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+</div>
+
+{%- for name, lang, article_count, articles in languages %}
+<div id="{{ lang }}" class="language">
+<h2>{{ name }}</h2>
+    <div class="row">
+      <div class="col-lg-12">
+        {{ video_list(articles, show_thumbnails=False) }}
+      </div>
+    </div>
+</div>
+{% endfor %}
+
+
+{% endblock %}
+

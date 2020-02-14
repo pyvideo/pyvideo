@@ -6,6 +6,9 @@ import os
 
 AUTHOR = 'Unknown'
 SITENAME = 'PyVideo.org'
+TEMPLATE_PAGES = {
+    'languages.html': 'languages.html',
+}
 
 PATH = 'content'
 DATA_DIR = 'conferences'

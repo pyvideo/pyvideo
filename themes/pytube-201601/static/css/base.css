@@ -67,6 +67,14 @@ ul.content-list {
   height: 390px;
 }
 
+.language .content-list .col-md-4 {
+  height: 160px;
+}
+
+.language .content-list .col-sm-6 {
+  height: 160px;
+}
+
 ul.content-list li {
   margin-bottom: 10px;
 }
@@ -376,4 +384,8 @@ input.gsc-input,
 
 .event__description {
   margin-bottom: 20px;
+}
+
+.language {
+  display: none;
 }

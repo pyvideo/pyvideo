@@ -1,8 +1,10 @@
-{% macro video(article, class="", show_speaker=True, show_event=True) -%}
+{% macro video(article, class="", show_speaker=True, show_event=True, show_thumbnail=True) -%}
   <article class="{{ class }}">
-    <a href="{{ SITEURL }}/{{ article.url }}">
-      <img src="{{ article.thumbnail_url }}" alt="Image from {{ article.title|striptags }}" />
-    </a>
+    {% if show_thumbnail %}
+        <a href="{{ SITEURL }}/{{ article.url }}">
+          <img src="{{ article.thumbnail_url }}" alt="Image from {{ article.title|striptags }}" />
+        </a>
+    {% endif %}
 
     <section class="details">
       <h4 class="entry-title">
@@ -36,11 +38,11 @@
   </article>
 {%- endmacro %}
 
-{% macro video_list(articles, show_speakers=True, show_events=True) %}
+{% macro video_list(articles, show_speakers=True, show_events=True, show_thumbnails=True) %}
   <div class="content-list">
     <div class="row">
     {% for article in articles %}
-    {{ video(article, class="col-lg-3 col-md-4 col-sm-6", show_speaker=show_speakers, show_event=show_events) }}
+    {{ video(article, class="col-lg-3 col-md-4 col-sm-6", show_speaker=show_speakers, show_event=show_events, show_thumbnail=show_thumbnails) }}
     {% endfor %}
     </div>
   </div>
