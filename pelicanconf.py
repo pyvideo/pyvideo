@@ -127,6 +127,7 @@ def jinja_language_name(code):
 
 JINJA_FILTERS = {
     'language_name': jinja_language_name,
+    'commafy': lambda v: "{:,}".format(v)
 }
 
 try:

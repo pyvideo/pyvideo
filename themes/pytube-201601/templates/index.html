@@ -15,8 +15,8 @@
 
       <div class="col-lg-4 col-md-4 col-sm-5"><aside>
         <p class="info info--stats">Want to find Python related videos? So far
-        we have indexed <strong>{{ articles|length }}</strong> of
-        those from <strong>{{ categories|length }} events</strong> all over the
+        we have indexed <strong>{{ articles|length|commafy }}</strong> of
+        those from <strong>{{ categories|length|commafy }} events</strong> all over the
         world!</p>
         <section>
             <h3>Latest events</h3>
