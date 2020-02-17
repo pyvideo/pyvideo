@@ -307,3 +307,6 @@
 /pydata-amsterdam-2019/open-source-city.html
 /pycon-colombia-2019/kian-katanforoosh-keynote-speaker-conference-pycon-colombia-2019.html
 /europython-2019/the-agile-comedy-from-hell-to-paradise.html
+/pydata-austin-2019/bugra-akyildiz-putting-tensorflow-models-into-production-pydata-austin-2019.html
+/pyjamas-conf-2019/micro-servico-em-7-linhas.html
+/pybay-2019/robotic-motion-with-django-ii.html
