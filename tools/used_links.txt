@@ -316,3 +316,6 @@
 /scipy-2019/xonsh-bringing-python-data-science-to-your-shell.html
 /pycon-jp-2019/ansiblewotong-zitebekideng-xing-woli-jie-shitemiyou.html
 /pycon-sk-2019/pycon-sk-2019-aula-magna-sobota.html
+/pycon-us-2019/ace-your-technical-interview-using-python.html
+/pycon-latam-2019/analizando-la-calidad-del-aire-con-python.html
+/pydata-cordoba-2019/marc-garcia-a-better-pydata-ecosystem-one-commit-at-a-time-pydata-cordoba.html
