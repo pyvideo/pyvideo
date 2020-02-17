@@ -319,3 +319,6 @@
 /pycon-us-2019/ace-your-technical-interview-using-python.html
 /pycon-latam-2019/analizando-la-calidad-del-aire-con-python.html
 /pydata-cordoba-2019/marc-garcia-a-better-pydata-ecosystem-one-commit-at-a-time-pydata-cordoba.html
+/pycon-philippines-2019/pycon-apac-2019-lightning-talks-part-2.html
+/pycolorado-2019/pandas-may-be-slow-but-pandas-doesnt-have-to-be.html
+/google-cloud-platform/python-with-dustin-ingram-gcppodcast-165.html
