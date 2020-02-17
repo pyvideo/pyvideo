@@ -313,3 +313,6 @@
 /pydata-new-york-city-2019/discover-your-latent-food-graph-with-this-1-weird-trick.html
 /europython-2019/useflask-or-how-to-use-a-react-frontend-for-your-flask-app.html
 /scipy-2019/chainer-a-deep-learning-framework-for-fast-research-applications.html
+/scipy-2019/xonsh-bringing-python-data-science-to-your-shell.html
+/pycon-jp-2019/ansiblewotong-zitebekideng-xing-woli-jie-shitemiyou.html
+/pycon-sk-2019/pycon-sk-2019-aula-magna-sobota.html
