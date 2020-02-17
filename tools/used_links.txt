@@ -310,3 +310,6 @@
 /pydata-austin-2019/bugra-akyildiz-putting-tensorflow-models-into-production-pydata-austin-2019.html
 /pyjamas-conf-2019/micro-servico-em-7-linhas.html
 /pybay-2019/robotic-motion-with-django-ii.html
+/pydata-new-york-city-2019/discover-your-latent-food-graph-with-this-1-weird-trick.html
+/europython-2019/useflask-or-how-to-use-a-react-frontend-for-your-flask-app.html
+/scipy-2019/chainer-a-deep-learning-framework-for-fast-research-applications.html
