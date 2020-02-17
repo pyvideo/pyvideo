@@ -322,3 +322,6 @@
 /pycon-philippines-2019/pycon-apac-2019-lightning-talks-part-2.html
 /pycolorado-2019/pandas-may-be-slow-but-pandas-doesnt-have-to-be.html
 /google-cloud-platform/python-with-dustin-ingram-gcppodcast-165.html
+/pycon-se-2019/big-data-pipeline-design-and-tuning-in-pyspark-by-rockie-yang.html
+/pydata-new-york-city-2019/generating-realistic-differentially-private-data-sets-using-gans.html
+/pycon-se-2019/lightning-talk-03.html
