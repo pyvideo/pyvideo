@@ -80,7 +80,11 @@ def get_no_publish_paths(pelican_path, no_publish_ids):
     paths = []
     for file_path in glob.iglob(search_pattern):
         with open(file_path) as fp:
-            blob = json.load(fp)
+            try:
+                blob = json.load(fp)
+            except json.decoder.JSONDecodeError:
+                print(f'Could not decode {file_path}', flush=True)
+                continue
             if isinstance(blob, dict):
                 file_id = blob.get('id')
                 if file_id in no_publish_ids:
