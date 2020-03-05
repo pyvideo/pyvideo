@@ -325,3 +325,6 @@
 /pycon-se-2019/big-data-pipeline-design-and-tuning-in-pyspark-by-rockie-yang.html
 /pydata-new-york-city-2019/generating-realistic-differentially-private-data-sets-using-gans.html
 /pycon-se-2019/lightning-talk-03.html
+/pycon-uk-2019/pycon-uk-2019-friday-introduction.html
+/pycon-uk-2019/one-weird-trick-for-improving-your-communication.html
+/pycon-jp-2019/anacondahuan-jing-yun-yong-tips-anacondanohuan-jing-gou-zhu-nitsuitezhi-ruzhi-wen-nida-erareruyouninaru.html
