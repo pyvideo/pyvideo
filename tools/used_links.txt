@@ -337,3 +337,6 @@
 /pycon-taiwan-2019/build-and-host-real-world-machine-learning-services-from-scratch.html
 /pycon-india-2019/lightning-talk-mohamed-javed-jetbrains.html
 /pycon-uk-2019/what-do-travel-food-health-websites-have-in-common-auditing-websites-apps-for-privacy-leaks.html
+/pycon-de-2019/event-sourced-story.html
+/pycon-sk-2019/whats-new-in-python-37.html
+/pycon-au-2019/sunday-lightning-talks.html
