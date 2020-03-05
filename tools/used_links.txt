@@ -340,3 +340,6 @@
 /pycon-de-2019/event-sourced-story.html
 /pycon-sk-2019/whats-new-in-python-37.html
 /pycon-au-2019/sunday-lightning-talks.html
+/pycon-us-2019/introduction-to-data-science-with-python.html
+/pycon-us-2019/sunday-lightning-talks-pycon-2019.html
+/pydata-austin-2019/evaluation-of-cloud-hosting-frameworks-for-machine-learning-based-equipment-monitoring.html
