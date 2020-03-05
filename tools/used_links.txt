@@ -328,3 +328,6 @@
 /pycon-uk-2019/pycon-uk-2019-friday-introduction.html
 /pycon-uk-2019/one-weird-trick-for-improving-your-communication.html
 /pycon-jp-2019/anacondahuan-jing-yun-yong-tips-anacondanohuan-jing-gou-zhu-nitsuitezhi-ruzhi-wen-nida-erareruyouninaru.html
+/pydata-london-2019/adv-software-testing-for-data-scientists.html
+/europython-2019/optimizing-docker-builds-for-python-applications.html
+/pybay-2019/building-contextual-ai-assistants-with-oss-tools.html
