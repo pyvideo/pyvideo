@@ -331,3 +331,6 @@
 /pydata-london-2019/adv-software-testing-for-data-scientists.html
 /europython-2019/optimizing-docker-builds-for-python-applications.html
 /pybay-2019/building-contextual-ai-assistants-with-oss-tools.html
+/pycon-taiwan-2019/xie-ge-neng-gan-de-zhong-wen-duan-ci-xi-tong.html
+/pylondinium-2019/data-science-with-python.html
+/pydata-new-york-city-2019/spark-backend-for-ibis-seamless-transition-between-pandas-and-spark.html
