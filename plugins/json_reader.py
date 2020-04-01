@@ -2,7 +2,7 @@ import json
 import logging
 import os
 import pathlib
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urlunparse
 
 import docutils
 import docutils.io
@@ -23,6 +23,7 @@ def _convert_to_label(type_):
         'youtube': 'YouTube',
         'vimeo': 'Vimeo',
         'wistia': 'Wistia',
+        'peertube': 'PeerTube',
     }
     return labels.get(type_.lower(), type_.upper())
 
@@ -63,6 +64,13 @@ def _get_vimeo_url(url):
     return 'https://player.vimeo.com/video/{}'.format(video_id)
 
 
+def _get_peertube_url(url):
+    url_parsed = urlparse(url)
+    embed_url = list(url_parsed)
+    embed_url[2] = embed_url[2].replace('/videos/watch/', '/videos/embed/')
+    return urlunparse(embed_url)
+
+
 def _get_media_url(url, media_type=""):
     source_url = url
 
@@ -72,6 +80,8 @@ def _get_media_url(url, media_type=""):
         source_url = _get_youtube_url(source_url)
     elif media_type == "vimeo" or "vimeo" in source_url:
         source_url = _get_vimeo_url(source_url)
+    elif media_type == "peertube":
+        source_url = _get_peertube_url(source_url)
     elif media_type == "mp4":
         pass
     elif media_type == "ogv":
@@ -139,7 +149,7 @@ class JSONReader(BaseReader):
 
         data_path = str(pathlib.Path(filename).resolve().relative_to(self._absolute_data_path))
         videos = list()
-        iframe_types = ["youtube", "vimeo", "wistia"]
+        iframe_types = ["youtube", "vimeo", "wistia", "peertube"]
         html5_types = ["ogv", "mp4"]
         if 'videos' in json_data and isinstance(json_data['videos'], list) and len(json_data['videos']) > 0:
             for v in json_data['videos']:
@@ -169,6 +179,10 @@ class JSONReader(BaseReader):
             elif v_data["media_url"].endswith(".mp4"):
                 v_data["type"] = "mp4"
                 v_data["tag_type"] = "html5"
+            elif re.search('/videos/watch/{hex}{{8}}-({hex}{{4}}-){{3}}{hex}{{12}}$'.format(hex='[0-9A-Fa-f]'),
+                           v_data["media_url"]):
+                v_data["type"] = "peertube"
+                v_data["tag_type"] = "iframe"
             v_data['label'] = _convert_to_label(v_data['type'])
             v_data['icon'] = _convert_to_icon(v_data['type'])
             videos.append(v_data)
