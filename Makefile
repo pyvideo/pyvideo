@@ -46,6 +46,7 @@ help:
 	@echo '   make github                         upload the web site via gh-pages   '
 	@echo '   make deploy                         upload the web site to production  '
 	@echo '   make test                           run the accessibility tests        '
+	@echo '   make unittest                       run other tests                    '
 	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
@@ -111,5 +112,9 @@ ifndef CHROMEDRIVER
 endif
 	pip install -r requirements/tests.txt
 	cd $(BASEDIR) && SELENIUM_BROWSER=chrome py.test tests/test_a11y.py
+
+unittest:
+	pip install -r requirements.txt
+	cd $(BASEDIR) && PYTHONPATH=. python tests/test_peertube.py
 
 .PHONY: html help clean purge deploy production_push preview_push deploy-preview regenerate serve devserver publish github
