@@ -358,3 +358,6 @@
 /pyohio-2019/todo-add-comments-5-tips-for-_winning_-at-code-comments.html
 /pycon-us-2020/hands-on-web-app-test-automation.html
 /pydata-warsaw-2019/anyone-can-build-great-deep-learning-applications-deep-numpy.html
+/europython-2019/tools-of-the-trade-the-making-of-a-code-editor.html
+/pybay-2019/identifying-influencers-via-slack-messages-in-python-using-network-analysis-and-nlp.html
+/pydata-new-york-city-2019/a-few-good-public-servants-how-great-analysis-inspires-action.html
