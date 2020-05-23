@@ -343,3 +343,6 @@
 /pycon-us-2019/introduction-to-data-science-with-python.html
 /pycon-us-2019/sunday-lightning-talks-pycon-2019.html
 /pydata-austin-2019/evaluation-of-cloud-hosting-frameworks-for-machine-learning-based-equipment-monitoring.html
+/pycon-israel-2019/scope-of-variables-in-python-a-full-scoop-of-python-scopes-yoav-glazner-pycon-israel-2019.html
+/pycon-de-2019/parallel-programming-for-python-developers-lets-golang.html
+/pydata-new-york-city-2019/time-series-for-scikit-learn-people.html

@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pyvideo"
+version = "0.1.0"
+description = ""
+authors = ["Paul Logston <paul.logston@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+beautifulsoup4 = "^4.8.2"
+requests = "^2.23.0"
+lxml = "^4.5.0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
