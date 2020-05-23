@@ -367,3 +367,6 @@
 /pydata-new-york-city-2019/a-crash-course-in-applied-linear-algebra.html
 /pycon-korea-2019/matlab-sayongjaeseo-python-sayongjaro-geodeubnagi-jointae-pyconkr-2019.html
 /pycon-uk-2019/python-in-medicine-a-toolkit-for-exploring-neonatal-ventilator-data.html
+/pycon-taiwan-2019/the-strbytes-nightmare-before-the-python-2-eol.html
+/pygotham-2019/spatial-thinking-with-python.html
+/scipy-latin-america-2019/visualizing-genomic-data-with-python.html
