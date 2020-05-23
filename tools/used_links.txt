@@ -352,3 +352,6 @@
 /pyjamas-conf-2019/teste-de-hipoteses-com-python.html
 /pydata-indy-2019/felix-wyss-jupyter-notebooks-in-visual-studio-code-pydata-indy-2019.html
 /pybay-2019/project-jupyter-tools-for-interactive-reproducible-data-science.html
+/pybay-2019/understanding-concurrency-in-python.html
+/pybay-2019/talking-to-data-as-you-would-with-built-in-types.html
+/pycon-ar-2019/visor-ambiental-herramienta-para-integrar-datos-cientificos-en-intervencion-territorial-sostenible.html
