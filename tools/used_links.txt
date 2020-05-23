@@ -349,3 +349,6 @@
 /euroscipy-2019/euroscipy-2019-bilbao-welcome-talk.html
 /pycon-china-2019/5-jing-tai-lei-xing-de-python.html
 /pyninsula-2019/moshe-zadka-boring-object-orientation-pyninsula-21.html
+/pyjamas-conf-2019/teste-de-hipoteses-com-python.html
+/pydata-indy-2019/felix-wyss-jupyter-notebooks-in-visual-studio-code-pydata-indy-2019.html
+/pybay-2019/project-jupyter-tools-for-interactive-reproducible-data-science.html
