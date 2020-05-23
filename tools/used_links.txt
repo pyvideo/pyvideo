@@ -370,3 +370,6 @@
 /pycon-taiwan-2019/the-strbytes-nightmare-before-the-python-2-eol.html
 /pygotham-2019/spatial-thinking-with-python.html
 /scipy-latin-america-2019/visualizing-genomic-data-with-python.html
+/pydata-berlin-2019/equivariance-in-cnns-how-generalising-the-weight-sharing.html
+/pydata-la-2019/ibm-code-and-response-open-sourcing-natural-disaster-preparedness-and-relief.html
+/pycon-taiwan-2019/the-art-of-inference-practicing-bayesian-reasoning-in-computer-vision-problems.html
