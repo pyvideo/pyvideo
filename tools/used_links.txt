@@ -364,3 +364,6 @@
 /pycolorado-2019/cuda-in-your-python-effective-parallel-programming-on-the-gpu.html
 /pycon-au-2019/wasm-matter.html
 /pydata-new-york-city-2019/bringing-mental-health-data-to-doctors.html
+/pydata-new-york-city-2019/a-crash-course-in-applied-linear-algebra.html
+/pycon-korea-2019/matlab-sayongjaeseo-python-sayongjaro-geodeubnagi-jointae-pyconkr-2019.html
+/pycon-uk-2019/python-in-medicine-a-toolkit-for-exploring-neonatal-ventilator-data.html
