@@ -361,3 +361,6 @@
 /europython-2019/tools-of-the-trade-the-making-of-a-code-editor.html
 /pybay-2019/identifying-influencers-via-slack-messages-in-python-using-network-analysis-and-nlp.html
 /pydata-new-york-city-2019/a-few-good-public-servants-how-great-analysis-inspires-action.html
+/pycolorado-2019/cuda-in-your-python-effective-parallel-programming-on-the-gpu.html
+/pycon-au-2019/wasm-matter.html
+/pydata-new-york-city-2019/bringing-mental-health-data-to-doctors.html
