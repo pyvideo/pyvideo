@@ -376,3 +376,6 @@
 /pycon-taiwan-2019/keynote-the-different-paths-we-take-as-programmers.html
 /pycon-ireland-2019/pycon-ireland-2019-dynamically-generating-schemas-from-arbitrary-objects-jan-van-der-vegt.html
 /pygotham-2019/building-docs-like-code-continuous-integration-for-documentation.html
+/pycon-ar-2019/linuxchix-open-source-minds-por-gessica-paniagua.html
+/europython-2019/game-development-with-circuitpython.html
+/pydata-london-2019/an-introduction-to-markov-chain-monte-carlo-using-pymc3.html
