@@ -382,3 +382,6 @@
 /pydata-new-york-city-2019/data-science-at-the-new-york-times-a-mission-driven-approach-to-personalizing-the-customer-journey.html
 /pycon-de-2019/what-we-learned-from-scraping-1-billion-webpages-every-month.html
 /pycon-korea-2019/from-banksalad-import-python-hwangseonghyeon-pyconkr-2019.html
+/pygotham-2019/learning-with-limited-labeled-data.html
+/pydata-new-york-city-2019/building-software-and-communities-with-peer-review.html
+/europython-2019/why-you-should-pursue-public-speaking-and-how-to-get-there.html
