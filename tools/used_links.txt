@@ -385,3 +385,6 @@
 /pygotham-2019/learning-with-limited-labeled-data.html
 /pydata-new-york-city-2019/building-software-and-communities-with-peer-review.html
 /europython-2019/why-you-should-pursue-public-speaking-and-how-to-get-there.html
+/pygotham-2019/using-nlp-to-reduce-wealth-flowing-into-local-human-trafficking-economies.html
+/pycon-de-2019/dr-schmoods-notebook-of-python-calisthenics-and-orthodontia.html
+/pygotham-2019/because-equity-python-ftw.html
