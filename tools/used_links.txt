@@ -379,3 +379,6 @@
 /pycon-ar-2019/linuxchix-open-source-minds-por-gessica-paniagua.html
 /europython-2019/game-development-with-circuitpython.html
 /pydata-london-2019/an-introduction-to-markov-chain-monte-carlo-using-pymc3.html
+/pydata-new-york-city-2019/data-science-at-the-new-york-times-a-mission-driven-approach-to-personalizing-the-customer-journey.html
+/pycon-de-2019/what-we-learned-from-scraping-1-billion-webpages-every-month.html
+/pycon-korea-2019/from-banksalad-import-python-hwangseonghyeon-pyconkr-2019.html
