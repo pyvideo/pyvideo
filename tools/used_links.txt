@@ -373,3 +373,6 @@
 /pydata-berlin-2019/equivariance-in-cnns-how-generalising-the-weight-sharing.html
 /pydata-la-2019/ibm-code-and-response-open-sourcing-natural-disaster-preparedness-and-relief.html
 /pycon-taiwan-2019/the-art-of-inference-practicing-bayesian-reasoning-in-computer-vision-problems.html
+/pycon-taiwan-2019/keynote-the-different-paths-we-take-as-programmers.html
+/pycon-ireland-2019/pycon-ireland-2019-dynamically-generating-schemas-from-arbitrary-objects-jan-van-der-vegt.html
+/pygotham-2019/building-docs-like-code-continuous-integration-for-documentation.html
