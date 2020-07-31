@@ -397,3 +397,6 @@
 /pycon-singapore-2019/python-on-aws-lambda-pycon-sg-2019.html
 /pycon-uk-2019/awesome-live-api-docs-for-under-resourced-teams.html
 /pycon-ireland-2019/pycon-ireland-2019-object-oriented-data-science-for-production-bethany-kok.html
+/djangocon-us-2019/understanding-django-authentication.html
+/pydata-warsaw-2019/visual-search-allegropl.html
+/pybay-2019/python-steering-council-panel.html
