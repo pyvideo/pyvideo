@@ -391,3 +391,6 @@
 /pycon-india-2019/indicnlp-adam-shamsudeen-kamal-raj-selva-kumar.html
 /pycon-china-2019/6-yun-zhong-qi-wu-python-de-ren-gong-zhi-neng-kai-fa-zai-wei-ruan-yun-zhong-de-ying-yong.html
 /pydata-austin-2019/what-the-data-science-questions-asked-and-answered.html
+/pycon-se-2019/lightning-talk-08-the-worlds-cheapest-simplest-pen-plotter.html
+/pydata-new-york-city-2019/the-echo-chamber-of-your-social-media-feed.html
+/pycon-au-2019/environment-variables-how-software-impacts-climate-change.html
