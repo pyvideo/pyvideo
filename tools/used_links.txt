@@ -400,3 +400,6 @@
 /djangocon-us-2019/understanding-django-authentication.html
 /pydata-warsaw-2019/visual-search-allegropl.html
 /pybay-2019/python-steering-council-panel.html
+/euroscipy-2019/matrix-calculus-with-sympy.html
+/pycon-fr-2019/marshmallow-de-la-serialisation-a-la-construction-dune-api-rest.html
+/pycon-jp-2019/pythonkai-fa-woyuan-hua-nijin-merutamenotsurushe-ding.html
