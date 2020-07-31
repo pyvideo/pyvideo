@@ -388,3 +388,6 @@
 /pygotham-2019/using-nlp-to-reduce-wealth-flowing-into-local-human-trafficking-economies.html
 /pycon-de-2019/dr-schmoods-notebook-of-python-calisthenics-and-orthodontia.html
 /pygotham-2019/because-equity-python-ftw.html
+/pycon-india-2019/indicnlp-adam-shamsudeen-kamal-raj-selva-kumar.html
+/pycon-china-2019/6-yun-zhong-qi-wu-python-de-ren-gong-zhi-neng-kai-fa-zai-wei-ruan-yun-zhong-de-ying-yong.html
+/pydata-austin-2019/what-the-data-science-questions-asked-and-answered.html
