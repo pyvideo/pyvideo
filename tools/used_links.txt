@@ -403,3 +403,6 @@
 /euroscipy-2019/matrix-calculus-with-sympy.html
 /pycon-fr-2019/marshmallow-de-la-serialisation-a-la-construction-dune-api-rest.html
 /pycon-jp-2019/pythonkai-fa-woyuan-hua-nijin-merutamenotsurushe-ding.html
+/pyjamas-conf-2019/pyjamas-analisando-queries-do-django.html
+/pycon-jp-2019/simulation-model-for-3d-printed-drug-development.html
+/pydata-austin-2019/saving-animals-with-data-3-case-studies-in-applying-advanced-technology-in-animal-shelters.html
