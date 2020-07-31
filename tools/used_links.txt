@@ -394,3 +394,6 @@
 /pycon-se-2019/lightning-talk-08-the-worlds-cheapest-simplest-pen-plotter.html
 /pydata-new-york-city-2019/the-echo-chamber-of-your-social-media-feed.html
 /pycon-au-2019/environment-variables-how-software-impacts-climate-change.html
+/pycon-singapore-2019/python-on-aws-lambda-pycon-sg-2019.html
+/pycon-uk-2019/awesome-live-api-docs-for-under-resourced-teams.html
+/pycon-ireland-2019/pycon-ireland-2019-object-oriented-data-science-for-production-bethany-kok.html
