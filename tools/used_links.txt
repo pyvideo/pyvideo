@@ -412,3 +412,6 @@
 /pydata-warsaw-2019/automation-build-a-training-pipeline.html
 /pydata-new-york-city-2019/to-comment-or-not.html
 /pycon-ar-2019/el-bug-invisible-por-yonatan-romero.html
+/pycon-fr-2019/un-cms-concu-pour-la-performance-ecologique.html
+/pycon-us-2020/optimize-python-django-apps-with-postgres-superpowers.html
+/pycon-latam-2019/supercomputadoras-para-ayuda-humanitaria.html
