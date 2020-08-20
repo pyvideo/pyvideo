@@ -418,3 +418,6 @@
 /pycon-latam-2019/high-perfomance-pandas.html
 /pycon-us-2020/the-hidden-power-of-the-python-runtime.html
 /pycon-ireland-2019/pycon-ireland-2019-python-iterators-as-a-tool-for-analysing-a-social-network-yoni-lavi.html
+/pycon-fr-2019/pleniere-ndeg2-keynote-2-au-bonheur-des-likes.html
+/pycon-india-2019/keynote-devi-a-s-l.html
+/pycon-india-2019/lightning-talk-eshan-singh.html
