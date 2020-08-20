@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Set global configs for author of repo
-git config --global user.email "code@logston.me"
+git config --global user.email "paul.logston@gmail.com"
 git config --global user.name "Paul Logston"
 # Set location of GIT_SSH key relative to inside output/
 export GIT_SSH=../.ssh/ssh-git.sh

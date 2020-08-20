@@ -62,7 +62,7 @@ publish: link-data
 
 production_push:
 	cd $(OUTPUTDIR) && git init && git add .
-	cd $(OUTPUTDIR) && git commit -m "Initial commit"
+	cd $(OUTPUTDIR) && git commit --quiet -m "Initial commit"
 	cd $(OUTPUTDIR) && git remote add origin $(GITHUB_PAGES_REPO)
 	cd $(OUTPUTDIR) && git push origin master --force
 	cd $(OUTPUTDIR) && git remote add gitlab $(GITLAB_PAGES_REPO)
