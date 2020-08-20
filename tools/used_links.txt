@@ -406,3 +406,6 @@
 /pyjamas-conf-2019/pyjamas-analisando-queries-do-django.html
 /pycon-jp-2019/simulation-model-for-3d-printed-drug-development.html
 /pydata-austin-2019/saving-animals-with-data-3-case-studies-in-applying-advanced-technology-in-animal-shelters.html
+/pycon-india-2019/maps-delimitation-and-gerrymandering-with-python-anand-s.html
+/pycon-india-2019/solving-industrial-problem-with-machine-learning-and-image-processing-sonam-pankaj.html
+/djangocon-us-2019/using-django-as-a-micro-framework-hacking-on-the-http-handlers.html
