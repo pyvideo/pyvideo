@@ -415,3 +415,6 @@
 /pycon-fr-2019/un-cms-concu-pour-la-performance-ecologique.html
 /pycon-us-2020/optimize-python-django-apps-with-postgres-superpowers.html
 /pycon-latam-2019/supercomputadoras-para-ayuda-humanitaria.html
+/pycon-latam-2019/high-perfomance-pandas.html
+/pycon-us-2020/the-hidden-power-of-the-python-runtime.html
+/pycon-ireland-2019/pycon-ireland-2019-python-iterators-as-a-tool-for-analysing-a-social-network-yoni-lavi.html
