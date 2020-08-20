@@ -409,3 +409,6 @@
 /pycon-india-2019/maps-delimitation-and-gerrymandering-with-python-anand-s.html
 /pycon-india-2019/solving-industrial-problem-with-machine-learning-and-image-processing-sonam-pankaj.html
 /djangocon-us-2019/using-django-as-a-micro-framework-hacking-on-the-http-handlers.html
+/pydata-warsaw-2019/automation-build-a-training-pipeline.html
+/pydata-new-york-city-2019/to-comment-or-not.html
+/pycon-ar-2019/el-bug-invisible-por-yonatan-romero.html
