@@ -23,6 +23,8 @@ LANGUAGE_BLACKLIST = {}
 def _handle_content_object_init(obj):
     if isinstance(obj, Article):
         language = getattr(obj, 'language')
+        if not language:
+            language = 'missing'
         if language:
             if language not in LANGUAGE_BLACKLIST:
                 count = _languages[language].get('count', 0)
