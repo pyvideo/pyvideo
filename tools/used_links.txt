@@ -433,3 +433,6 @@
 /pycon-us-2020/big-o-no-django-orm-runtime-complexity-and-how-to-avoid-it-using-lateral-joins.html
 /pydata-la-2019/accelerate-your-numpy-data-science-workloads-and-deep-learning-applications.html
 /pycon-singapore-2019/faster-python-apps-with-open-source-apm-pycon-sg-2019.html
+/pygotham-2019/what-physics-can-teach-us-about-learning.html
+/scipy-2020/cusignal-gpu-accelerating-scipy-signal-with-numba-and-cupy.html
+/pycon-india-2019/lightning-talk-subin-siby-selfie-a-day-project.html
