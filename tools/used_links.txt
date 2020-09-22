@@ -421,3 +421,6 @@
 /pycon-fr-2019/pleniere-ndeg2-keynote-2-au-bonheur-des-likes.html
 /pycon-india-2019/keynote-devi-a-s-l.html
 /pycon-india-2019/lightning-talk-eshan-singh.html
+/pydata-la-2019/simplicity-for-scale-analyzing-15-million-dna-samples-with-python.html
+/north-bay-python-2019/lets-build-a-video-game-train-a-bot-to-play-it-and-deploy-it-on-a-smartphone-in-30-minutes.html
+/pycon-de-2019/tutorial-kubernetes-101-for-python-developers.html
