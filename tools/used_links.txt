@@ -424,3 +424,6 @@
 /pydata-la-2019/simplicity-for-scale-analyzing-15-million-dna-samples-with-python.html
 /north-bay-python-2019/lets-build-a-video-game-train-a-bot-to-play-it-and-deploy-it-on-a-smartphone-in-30-minutes.html
 /pycon-de-2019/tutorial-kubernetes-101-for-python-developers.html
+/pycon-us-2020/saved-by-in-memory-nosql-a-hitchhiker-guided-to-black-box-debugging-of-python-production-code.html
+/djangocon-us-2019/wasm-matter.html
+/pydata-austin-2019/enhancing-common-natural-language-processing-with-cognitive-linguistics.html
