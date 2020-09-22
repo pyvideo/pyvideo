@@ -427,3 +427,6 @@
 /pycon-us-2020/saved-by-in-memory-nosql-a-hitchhiker-guided-to-black-box-debugging-of-python-production-code.html
 /djangocon-us-2019/wasm-matter.html
 /pydata-austin-2019/enhancing-common-natural-language-processing-with-cognitive-linguistics.html
+/djangocon-us-2019/lightning-talks-day-1.html
+/pycon-de-2019/refactoring-in-python-design-patterns-and-approaches.html
+/pycon-fr-2019/automl-40-heures-que-je-fais-du-machine-learning-sans-que-jen-susse-rien.html
