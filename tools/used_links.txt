@@ -439,3 +439,6 @@
 /pydata-la-2019/sameer-singh-keynote-pydata-la-2019.html
 /scipy-2020/analyzing-the-performance-of-python-applications-using-multiple-levels-of-parallelism.html
 /pycon-fr-2019/le-processus-de-lisibilite-de-code-a-google.html
+/pydata-la-2019/web-scraping-w-beautifulsoup-yelps-api.html
+/scipy-2020/making-sense-of-clinical-data.html
+/pyjamas-conf-2019/meu-primeiro-pacote-python-completo-e-profissional.html
