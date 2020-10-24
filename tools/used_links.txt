@@ -448,3 +448,6 @@
 /pycon-us-2020/developing-with-doctests-using-xdoctest-as-a-backend.html
 /pydata-la-2019/open-source-is-better-together-gpu-python-libraries-unite.html
 /pydata-new-york-city-2019/small-big-data-using-numpy-and-pandas-when-your-data-doesnt-fit-in-memory.html
+/pydata-new-york-city-2019/geo-experiments-and-causal-impact-in-incrementality-testing.html
+/scipy-2020/machine-learning-with-impact-classifying-core-images-from-the-chicxulub-crater.html
+/pycon-se-2019/making-sense-of-ml-black-box-interpreting-ml-models-using-shap.html
