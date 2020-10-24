@@ -445,3 +445,6 @@
 /pydata-austin-2019/machine-learning-crash-course.html
 /pyjamas-conf-2019/transicao-profissional.html
 /pycon-se-2019/equip-your-performance-toolbox-cython-vs-pybind11.html
+/pycon-us-2020/developing-with-doctests-using-xdoctest-as-a-backend.html
+/pydata-la-2019/open-source-is-better-together-gpu-python-libraries-unite.html
+/pydata-new-york-city-2019/small-big-data-using-numpy-and-pandas-when-your-data-doesnt-fit-in-memory.html
