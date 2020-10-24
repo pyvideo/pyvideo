@@ -436,3 +436,6 @@
 /pygotham-2019/what-physics-can-teach-us-about-learning.html
 /scipy-2020/cusignal-gpu-accelerating-scipy-signal-with-numba-and-cupy.html
 /pycon-india-2019/lightning-talk-subin-siby-selfie-a-day-project.html
+/pydata-la-2019/sameer-singh-keynote-pydata-la-2019.html
+/scipy-2020/analyzing-the-performance-of-python-applications-using-multiple-levels-of-parallelism.html
+/pycon-fr-2019/le-processus-de-lisibilite-de-code-a-google.html
