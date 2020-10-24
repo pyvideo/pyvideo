@@ -442,3 +442,6 @@
 /pydata-la-2019/web-scraping-w-beautifulsoup-yelps-api.html
 /scipy-2020/making-sense-of-clinical-data.html
 /pyjamas-conf-2019/meu-primeiro-pacote-python-completo-e-profissional.html
+/pydata-austin-2019/machine-learning-crash-course.html
+/pyjamas-conf-2019/transicao-profissional.html
+/pycon-se-2019/equip-your-performance-toolbox-cython-vs-pybind11.html
