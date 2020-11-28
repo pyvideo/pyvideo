@@ -122,6 +122,7 @@ VIDEO_LANGUAGE_NAMES = {
     'pol': 'Polish',
     'heb': 'Hebrew',
     'tha': 'Thai',
+    'ces': 'Czech',
 }
 
 
