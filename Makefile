@@ -10,7 +10,6 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 GITHUB_PAGES_REPO=git@github.com:pyvideo/pyvideo.github.io.git
-GITLAB_PAGES_REPO=git@gitlab.com:pyvideo/pyvideo.gitlab.io.git
 PREVIEW_GITHUB_PAGES_REPO=git@github.com:pyvideo-preview/pyvideo-preview.github.io.git
 
 DEBUG ?= 0
@@ -37,14 +36,15 @@ help:
 	@echo '                                                                          '
 	@echo 'Usage:                                                                    '
 	@echo '   make html                           (re)generate the web site          '
+	@echo '   make html-prod                      generate using production settings '
+	@echo '   make deploy                         upload the web site to production  '
+	@echo '   make deploy-preview                 upload the web site to preview     '
 	@echo '   make clean                          remove the generated files         '
 	@echo '   make regenerate                     regenerate files upon modification '
-	@echo '   make publish                        generate using production settings '
 	@echo '   make serve [PORT=8000]              serve site at http://localhost:8000'
 	@echo '   make devserver [PORT=8000]          start/restart develop_server.sh    '
 	@echo '   make stopserver                     stop local server                  '
 	@echo '   make github                         upload the web site via gh-pages   '
-	@echo '   make deploy                         upload the web site to production  '
 	@echo '   make test                           run the accessibility tests        '
 	@echo '   make unittest                       run other tests                    '
 	@echo '                                                                          '
@@ -58,7 +58,7 @@ link-data:
 html: link-data
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
-publish: link-data
+html-prod: link-data
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 production_push:
@@ -66,11 +66,9 @@ production_push:
 	cd $(OUTPUTDIR) && git commit --quiet -m "Initial commit"
 	cd $(OUTPUTDIR) && git remote add origin $(GITHUB_PAGES_REPO)
 	cd $(OUTPUTDIR) && git push origin master --force
-	cd $(OUTPUTDIR) && git remote add gitlab $(GITLAB_PAGES_REPO)
-	cd $(OUTPUTDIR) && git push gitlab master --force
 	echo "Upload complete"
 
-deploy: publish production_push
+deploy: html-prod production_push
 
 preview_push:
 	cd $(OUTPUTDIR) && echo "preview.pyvideo.org" > CNAME
@@ -117,4 +115,4 @@ unittest:
 	pip install -r requirements.txt
 	cd $(BASEDIR) && PYTHONPATH=. python tests/test_peertube.py
 
-.PHONY: html help clean purge deploy production_push preview_push deploy-preview regenerate serve devserver publish github
+.PHONY: html html-prod help clean purge deploy production_push preview_push deploy-preview regenerate serve devserver github

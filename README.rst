@@ -5,9 +5,9 @@ pyvideo
    :alt: Join the chat at https://gitter.im/pyvideo/pyvideo
    :target: https://gitter.im/pyvideo/pyvideo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
-.. image:: https://travis-ci.org/pyvideo/pyvideo.svg?branch=master
-    :target: https://travis-ci.org/pyvideo/pyvideo
-    
+.. image:: https://github.com/pyvideo/pyvideo/actions/workflows/deploy-production.yml/badge.svg
+    :target: https://github.com/pyvideo/pyvideo/actions/
+
 .. image:: https://zenodo.org/badge/23288/pyvideo/pyvideo.svg
    :target: https://zenodo.org/badge/latestdoi/23288/pyvideo/pyvideo
 
