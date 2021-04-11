@@ -1,0 +1,26 @@
+name: Deploy To Preview
+on: [pull_request]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # Setup VM
+      - run: mkdir ~/.ssh
+      - run: echo "${{ secrets.DEPLOY_KEY_PREVIEW }}" > ~/.ssh/id_ed25519
+      - run: chmod 0600 ~/.ssh/id_ed25519
+      - run: ls -la ~/.ssh/
+      - run: git config --global user.email "deploybot@pyvideo.org"
+      - run: git config --global user.name "DeployBot"
+
+      # Build and deploy
+      - uses: actions/checkout@v2
+        with:
+          submodules: 'recursive'
+      - run: pip install -r requirements.in
+      - run: make deploy-preview
+      - uses: mshick/add-pr-comment@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          message: |
+            Please view your PR at http://preview.pyvideo.org/
