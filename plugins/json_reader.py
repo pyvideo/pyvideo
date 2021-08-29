@@ -53,7 +53,7 @@ def _get_youtube_url(url):
     elif '/v/' in url:
         video_id = url_parsed.path.replace('/v/', '')
     elif 'youtu.be/' in url:
-        video_id = url_parsed.path
+        video_id = url_parsed.path.lstrip("/")
 
     return 'https://www.youtube.com/embed/{}'.format(video_id)
 
