@@ -16,7 +16,11 @@ jobs:
       - uses: actions/checkout@v2
         with:
           submodules: 'recursive'
-      - run: pip install -r requirements.in
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+      - run: pip install -r requirements.txt
       - run: make deploy-preview
       - uses: mshick/add-pr-comment@v1
         env:
