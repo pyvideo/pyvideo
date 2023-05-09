@@ -2,7 +2,7 @@ name: Deploy To Production
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   deploy:
     runs-on: ubuntu-latest
