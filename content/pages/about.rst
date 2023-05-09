@@ -42,10 +42,9 @@ PyVideo is maintained by volunteers listed in the `CONTRIBUTORS`_ file.
 Questions or concerns regarding the site can be addressed to
 `https://gitter.im/pyvideo/pyvideo`_.
 
-.. _`CONTRIBUTORS`: https://github.com/pyvideo/pyvideo/blob/master/CONTRIBUTORS.rst
+.. _`CONTRIBUTORS`: https://github.com/pyvideo/pyvideo/blob/main/CONTRIBUTORS.rst
 .. _`https://gitter.im/pyvideo/pyvideo`: https://gitter.im/pyvideo/pyvideo
 .. _`volunteering wiki page`: https://github.com/pyvideo/pyvideo/wiki/How-to-Volunteer
 .. _`Looking to contribute media?`: https://github.com/pyvideo/pyvideo/wiki/How-to-Contribute-Media
 .. _`PyVideo.org`: http://pyvideo.org
 .. _`GitHub.com`: https://github.com/pyvideo/pyvideo
-

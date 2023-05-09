@@ -62,20 +62,20 @@ html-prod: link-data
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 production_push:
-	cd $(OUTPUTDIR) && git init && git add .
+	cd $(OUTPUTDIR) && git init --initial-branch main && git add .
 	cd $(OUTPUTDIR) && git commit --quiet -m "Initial commit"
 	cd $(OUTPUTDIR) && git remote add origin $(GITHUB_PAGES_REPO)
-	cd $(OUTPUTDIR) && git push origin master --force
+	cd $(OUTPUTDIR) && git push origin main --force
 	echo "Upload complete"
 
 deploy: html-prod production_push
 
 preview_push:
 	cd $(OUTPUTDIR) && echo "preview.pyvideo.org" > CNAME
-	cd $(OUTPUTDIR) && git init && git add .
+	cd $(OUTPUTDIR) && git init --initial-branch main && git add .
 	cd $(OUTPUTDIR) && git commit -m "Initial commit"
 	cd $(OUTPUTDIR) && git remote add origin $(PREVIEW_GITHUB_PAGES_REPO)
-	cd $(OUTPUTDIR) && git push origin master --force
+	cd $(OUTPUTDIR) && git push origin main --force
 	echo "Upload complete"
 
 deploy-preview: html preview_push
