@@ -109,7 +109,7 @@ If you've found an issue with the site or something that could be done better,
 please open an issue_ on Github.
 
 .. _`issue`: https://github.com/pyvideo/pyvideo/issues
-.. _`contribution docs`: https://github.com/pyvideo/data/blob/master/CONTRIBUTING.rst
+.. _`contribution docs`: https://github.com/pyvideo/data/blob/main/CONTRIBUTING.rst
 
 Want our Google Analytics info?
 ===============================
