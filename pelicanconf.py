@@ -53,6 +53,7 @@ AUTHORS_SAVE_AS = 'speakers.html'
 USE_FOLDER_AS_CATEGORY = False
 
 # Feeds
+RSS_FEED_SUMMARY_ONLY = False
 FEED_MAX_ITEMS = 100
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
