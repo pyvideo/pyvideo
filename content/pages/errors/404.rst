@@ -35,8 +35,8 @@ Bug reporting
 ------------------
 
 If this was an error on our end, please file an issue on our github page 
-GitHub.com_ or email `pytube.org@gmail.com`_.
+GitHub.com_ or email `hello@pyvideo.org`_.
 
-.. _`pytube.org@gmail.com`: mailto: pytube.org@gmail.com
+.. _`hello@pyvideo.org`: mailto: hello@pyvideo.org
 .. _`GitHub.com`: https://github.com/pyvideo/pyvideo
 

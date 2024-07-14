@@ -68,7 +68,7 @@ RELATIVE_URLS = True
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THEME = 'themes/pytube-201601/'
+THEME = 'themes/pyvideo-201601/'
 
 GITHUB_URL = 'https://github.com/pyvideo/pyvideo'
 CONTRIBUTE_URL = 'https://github.com/pyvideo/pyvideo/wiki/How-to-Contribute-Media'

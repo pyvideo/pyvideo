@@ -116,7 +116,7 @@ Want our Google Analytics info?
 
 PyVideo tries to be as open source as possible. 
 We share the data that Google Analytics collects on request. 
-Please feel free to send an email to pytube.org@gmail.com 
+Please feel free to send an email to hello@pyvideo.org 
 with the header "Google Analytics Access Request" if you would like access
 to this data. Please note that it may take a few weeks to be granted this 
 access.
