@@ -5,7 +5,7 @@ from bok_choy.page_object import PageObject
 from selenium.webdriver.common.keys import Keys
 
 PORT = 8081
-TITLE_TEMPLATE = 'PyTube.org \u00B7 {}'
+TITLE_TEMPLATE = 'PyVideo.org \u00B7 {}'
 
 
 class AboutPage(PageObject):
@@ -45,7 +45,7 @@ class IndexPage(PageObject):
     url = 'http://localhost:{}/index.html'.format(PORT)
 
     def is_browser_on_page(self):
-        return self.browser.title == 'PyTube.org'
+        return self.browser.title == 'PyVideo.org'
 
     def search(self, phrase):
         """

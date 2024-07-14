@@ -20,7 +20,7 @@ from pelican import signals
 # level.
 # Hopefully this patch can be removed by the merger of this PR:
 # https://github.com/getpelican/pelican/pull/1975
-class PyTubeArticlesGenerator(pelican.ArticlesGenerator):
+class PyVideoArticlesGenerator(pelican.ArticlesGenerator):
     def _include_path(self, path, extensions=None):
         """Inclusion logic for .get_files(), returns True/False
 
@@ -43,7 +43,7 @@ class PyTubeArticlesGenerator(pelican.ArticlesGenerator):
         if extensions is False or basename.endswith(extensions):
             return True
         return False
-pelican.ArticlesGenerator = PyTubeArticlesGenerator
+pelican.ArticlesGenerator = PyVideoArticlesGenerator
 
 
 def drop_no_publish(pelican_proj_obj):
