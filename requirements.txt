@@ -13,7 +13,7 @@ pelican==3.6.3            # via -r requirements.in, pelican-alias
 pelican-alias==1.1        # via -r requirements.in
 pelican-extended-sitemap==1.0.2  # via -r requirements.in
 pygments==2.1             # via pelican
-python-dateutil==2.4.2    # via pelican
+python-dateutil==2.9.0.post0  # via pelican
 pytz==2024.1              # via feedgenerator, pelican
 six==1.16.0               # via feedgenerator, pelican, python-dateutil
 unidecode==0.4.19         # via pelican
