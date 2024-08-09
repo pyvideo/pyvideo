@@ -16,4 +16,4 @@ pygments==2.19.2          # via pelican
 python-dateutil==2.9.0.post0  # via pelican
 pytz==2025.2              # via feedgenerator, pelican
 six==1.16.0               # via feedgenerator, pelican, python-dateutil
-unidecode==1.3.6          # via pelican
+unidecode==1.4.0          # via pelican
