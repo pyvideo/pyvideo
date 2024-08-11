@@ -98,6 +98,7 @@ PLUGINS = [
     'event_info',
     'aggregations',
     'writer',
+    'redirect',
 ]
 
 # https://en.wikipedia.org/wiki/ISO_639-3
