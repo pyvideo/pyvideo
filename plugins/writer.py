@@ -40,8 +40,11 @@ class PyVideoWriter(Writer):
                 command.append(path)
                 output = subprocess.check_output(
                     command, universal_newlines=True)
-                dt = datetime.datetime.strptime(
-                    output.strip(), "%Y-%m-%d %H:%M:%S %z")
+                if output:
+                    dt = datetime.datetime.strptime(
+                        output.strip(), "%Y-%m-%d %H:%M:%S %z")
+                else:
+                    dt = datetime.datetime.now(tz=datetime.timezone.utc)
                 events.append((dt, directory))
             os.chdir(old_wd)
             events.sort(key=operator.itemgetter(1))
