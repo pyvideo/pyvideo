@@ -6,6 +6,7 @@ import os
 
 AUTHOR = 'Unknown'
 SITENAME = 'PyVideo.org'
+SITEURL = 'https://pyvideo.org'
 TEMPLATE_PAGES = {
     'languages.html': 'languages.html',
 }
@@ -62,6 +63,11 @@ AUTHOR_FEED_ATOM = 'feeds/speaker_%s.atom.xml'
 AUTHOR_FEED_RSS = 'feeds/speaker_%s.rss.xml'
 TAG_FEED_ATOM = 'feeds/tag_%s.atom.xml'
 TAG_FEED_RSS = 'feeds/tag_%s.rss.xml'
+
+# Preserve RSS summary behavior prior to 3.7.0
+# This setting may be temporary and exists to minimize the diffs
+# created when upgrading dependencies.
+RSS_FEED_SUMMARY_ONLY = False
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
