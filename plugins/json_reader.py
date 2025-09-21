@@ -8,6 +8,7 @@ import docutils
 import docutils.io
 from docutils.core import publish_parts
 from pelican import signals
+from pelican.settings import DEFAULT_CONFIG
 from pelican.readers import BaseReader, PelicanHTMLTranslator
 from pelican.utils import slugify
 
@@ -199,7 +200,7 @@ class JSONReader(BaseReader):
         title = _get_and_check_none(json_data, 'title', 'Title')
         slug = _get_and_check_none(json_data, 'slug')
         if slug is None:
-            slug = slugify(title)
+            slug = slugify(title, regex_subs=DEFAULT_CONFIG['SLUG_REGEX_SUBSTITUTIONS'])
 
         metadata = {
             'title': title,

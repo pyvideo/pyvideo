@@ -9,7 +9,7 @@ docutils==0.12            # via pelican
 feedgenerator==1.9.2      # via pelican
 jinja2==2.11.3            # via -r requirements.in, pelican
 markupsafe==1.1.1         # via jinja2
-pelican==3.7.1            # via -r requirements.in, pelican-alias
+pelican==4.0.1            # via -r requirements.in, pelican-alias
 pelican-alias==1.1        # via -r requirements.in
 pelican-extended-sitemap==1.2.3  # via -r requirements.in
 pygments==2.1             # via pelican
