@@ -38,7 +38,7 @@ First, pull down this repo's code::
 
 Then, install the dependencies for building this site. It is recommended to
 install all the requirements inside virtualenv_, use virtualenvwrapper_ to
-manage virtualenvs. **Building pyvideo.org requires Python 3.9**
+manage virtualenvs. **Building pyvideo.org requires Python 3.10**
 
 .. _virtualenv: https://virtualenv.pypa.io/en/latest/
 .. _virtualenvwrapper: https://virtualenvwrapper.readthedocs.org/en/latest/
@@ -46,7 +46,7 @@ manage virtualenvs. **Building pyvideo.org requires Python 3.9**
 First of all, create a virtual environment to install all the dependencies
 into either using virtualenvwrapper::
 
-  $ mkvirtualenv -p python3.9 pyvideo
+  $ mkvirtualenv -p python3.10 pyvideo
 
 \... or using pyvenv::
 
