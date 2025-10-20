@@ -93,6 +93,13 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'}
 }
 
+DOCUTILS_SETTINGS = {
+    # Temporarily revert the auto_id_prefix behavior to the pre-0.18.0 behavior
+    # to reduce the diff in output between versions for easier version upgrades.
+    # This setting can be removed to re-enable the newer default behavior.
+    "auto_id_prefix": "id",
+}
+
 PLUGIN_PATHS = ['plugins']
 PLUGINS = [
     'pelican_alias',
