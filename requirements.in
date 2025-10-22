@@ -1,4 +1,4 @@
-pelican==4.2.0
+pelican
 pelican-alias==1.1
 pelican-extended-sitemap
 Jinja2
